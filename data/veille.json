@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "status": "pending",
+  "checked_at": null,
+  "last_success": null,
+  "topics_checked": 0,
+  "successful_topics": 0,
+  "new_items": 0,
+  "errors": [],
+  "articles": []
+}
