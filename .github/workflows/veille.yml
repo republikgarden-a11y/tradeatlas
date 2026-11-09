@@ -49,7 +49,23 @@ jobs:
           git add data/veille.json
           if ! git diff --cached --quiet; then
             git commit -m 'Veille quotidienne : actualisation des sources publiques'
-            git push
+            # Des modifications manuelles peuvent survenir après le démarrage
+            # du job. Rebaser sans écraser le travail déjà publié.
+            pushed=false
+            for attempt in 1 2 3; do
+              git fetch origin main
+              git rebase origin/main
+              if git push origin HEAD:main; then
+                pushed=true
+                break
+              fi
+              echo "Nouvel envoi entre temps ; nouvelle tentative $attempt/3"
+              sleep 4
+            done
+            if [ "$pushed" != true ]; then
+              echo "::error::Impossible de synchroniser data/veille.json après trois tentatives"
+              exit 1
+            fi
           fi
       - name: Préparer GitHub Pages
         uses: actions/configure-pages@v5
