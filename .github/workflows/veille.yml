@@ -1,0 +1,63 @@
+name: TRADE ATLAS - Veille gratuite quotidienne
+on:
+  schedule:
+    - cron: '23 9 * * *'
+      timezone: 'Europe/Paris'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - 'scripts/**'
+      - '.github/workflows/**'
+      - 'data/**'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: tradeatlas-veille
+  cancel-in-progress: false
+
+jobs:
+  veille-et-deploiement:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Récupérer le projet
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Collecter les nouvelles mentions publiques
+        id: refresh
+        continue-on-error: true
+        run: python scripts/refresh.py
+      - name: Enregistrer les données contrôlées dans Git
+        run: |
+          git config user.name 'tradeatlas-bot'
+          git config user.email 'tradeatlas-bot@users.noreply.github.com'
+          git add data/veille.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Veille quotidienne : actualisation des sources publiques'
+            git push
+          fi
+      - name: Préparer GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Publier les fichiers du site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: '.'
+      - name: Déployer GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Signaler si toutes les sources ont échoué
+        if: steps.refresh.outcome == 'failure'
+        run: "echo 'Attention : toutes les requêtes sources ont échoué. Voir data/veille.json.'"
