@@ -1,11 +1,19 @@
 {
   "schema": 1,
-  "status": "pending",
-  "checked_at": null,
+  "status": "error",
+  "checked_at": "2026-11-09T13:45:15Z",
   "last_success": null,
-  "topics_checked": 0,
+  "topics_checked": 7,
   "successful_topics": 0,
   "new_items": 0,
-  "errors": [],
+  "errors": [
+    "Papiers et cônes: HTTPError HTTP Error 429: Too Many Requests",
+    "Vaporisateurs et accessoires: HTTPError HTTP Error 429: Too Many Requests",
+    "Packaging et chanvre: HTTPError HTTP Error 429: Too Many Requests",
+    "Fabricants suivis · papier: HTTPError HTTP Error 429: Too Many Requests",
+    "Fabricants suivis · vapoteuses: HTTPError HTTP Error 429: Too Many Requests",
+    "Fabricants suivis · emballage: HTTPError HTTP Error 429: Too Many Requests",
+    "Marques et distributeurs: HTTPError HTTP Error 429: Too Many Requests"
+  ],
   "articles": []
 }
