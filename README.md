@@ -4,7 +4,7 @@ Répertoire d'entreprises, de fournisseurs, d'importateurs et de relations comme
 
 ## Veille gratuite
 
-Le script `scripts/refresh.py` interroge quotidiennement l'API publique GDELT afin de découvrir des **mentions de presse** relatives aux fabricants, au packaging et aux accessoires. Les résultats sont stockés dans `data/veille.json` et consultables dans l'onglet **Veille quotidienne**.
+Le script `scripts/refresh.py` interroge quotidiennement quatre flux de recherche **Google News RSS**, avec un seul appel **GDELT** en secours lorsque tous les flux RSS sont indisponibles, afin de découvrir des **mentions de presse** relatives aux fabricants, au packaging et aux accessoires. Les flux gratuits peuvent être temporairement limités ; le système signale honnêtement les échecs et ne prétend pas avoir actualisé les expéditions douanières. Les résultats sont stockés dans `data/veille.json` et consultables dans l'onglet **Veille quotidienne**.
 
 **Attention :** ces articles ne sont pas des preuves douanières. Les 70 fiches et 49 relations ImportYeti historiques restent figées à leur date d'archive. Aucun accès automatique aux bases privées ImportYeti/Volza n'est inclus.
 
