@@ -10,7 +10,7 @@ on:
       - 'index.html'
       - 'scripts/**'
       - '.github/workflows/**'
-      - 'data/**'
+      # Les données générées ne relancent pas une nouvelle collecte.
 
 permissions:
   contents: write
