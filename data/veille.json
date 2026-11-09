@@ -1,19 +1,108 @@
 {
   "schema": 1,
-  "status": "error",
-  "checked_at": "2026-11-09T13:45:15Z",
-  "last_success": null,
-  "topics_checked": 7,
-  "successful_topics": 0,
-  "new_items": 0,
-  "errors": [
-    "Papiers et cônes: HTTPError HTTP Error 429: Too Many Requests",
-    "Vaporisateurs et accessoires: HTTPError HTTP Error 429: Too Many Requests",
-    "Packaging et chanvre: HTTPError HTTP Error 429: Too Many Requests",
-    "Fabricants suivis · papier: HTTPError HTTP Error 429: Too Many Requests",
-    "Fabricants suivis · vapoteuses: HTTPError HTTP Error 429: Too Many Requests",
-    "Fabricants suivis · emballage: HTTPError HTTP Error 429: Too Many Requests",
-    "Marques et distributeurs: HTTPError HTTP Error 429: Too Many Requests"
-  ],
-  "articles": []
+  "status": "ok",
+  "checked_at": "2026-11-09T13:53:22Z",
+  "last_success": "2026-11-09T13:53:22Z",
+  "topics_checked": 4,
+  "successful_topics": 4,
+  "new_items": 12,
+  "errors": [],
+  "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb250cmN4anpIbzVMVjJnYTBwcUFyRkRfcUhycUFvS2NDd2FUa3o4TjNFMk1MUjUxWDQ5cE1hMi1ZT1AxMHJCOXF4UEl2cERUeUM3a3VTeHp6Y3JXS3pHVFZBZ3FWQTNZdHBaLUdRbFFjYjFZNkFJYVRvSjNWLWl6aURoNm9BanRrSEJoQ2g1eE1yRUtsRXpSeg?oc=5",
+      "title": "Smoore Repurchases HK$24 Million of Shares - TipRanks",
+      "topic": "Fabricants & marques suivis",
+      "domain": "TipRanks",
+      "published_at": "2026-11-09T12:38:56Z",
+      "first_seen": "2026-11-09T13:53:22Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3ktY1VucC1Fam5EZXh0S09kTzhSUWsyR3dzUUxZMWRYWi1YOVltclhTbFJIUDNOdGRNNnVzby1mSjJvZjVpdnlMVmdkMkdkZHN0VWx3RE5JOXhUVDlOSnZydTVVb3NlZzVaUl84SE02clE1bXF4ekxjT1RoRHczX0Q2T0RUWl9ITkhUaGtwb0RsNU1kd0xj?oc=5",
+      "title": "Cannabis Packaging Design in New York: Why the Jar Matters - stupidDOPE",
+      "topic": "Packaging & chanvre",
+      "domain": "stupidDOPE",
+      "published_at": "2026-11-07T08:00:00Z",
+      "first_seen": "2026-11-09T13:53:22Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83a1NkOFlMYXpNV3h4Wm41TDl6azJONEtlWTY3XzRYUlFMNFFOXzJnbUx6RDF3MHJSNVMtZlFwd2pSSjctMmJHb29JZTBFQlVVeDBhbFRB0gFWQVVfeXFMTzdrU2Q4WUxhek1XeHhabjVMOXprMk40S2VZNjdfNFhSUUw0UU5fMmdtTHpEMXcwclI1Uy1mUXB3alJKNy0yYkdvb0llMEVCVVV4MGFsVEE?oc=5",
+      "title": "LA Judge Won't Toss $1.7M Freight Suit Against Vape Biz - Law360",
+      "topic": "Vape & accessoires",
+      "domain": "Law360",
+      "published_at": "2026-11-07T02:56:00Z",
+      "first_seen": "2026-11-09T13:53:22Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdUs4WFhNbjlWb3hUeFV2U1RLNWt5Z3NoZGF0LThBV2xCSHFEeEkxeGhKQ0J4Ti1zWnZjR1lJd09ncDlneHVPR2Zpdkx2SkJ5V2pvVjk3WldtRXI4bVI0aTM5cU1jRlRCSXA2emg0bThSWC1QZ2pFUTEwNWsxZXdvbnV1VGM1eFZlSkt5VDh2bUVJREprQ0VOcEV6WWN5RDg0ckhibVI5UW1PZVJ6SDh2S25VckZkaURiRGNtbTFRUmhBQ3Z5cjdSVktDcXNiZzJnQ1BSTjhLNzJTeXhqMFUtU3plempmWEtiY3h2YWMwYlo?oc=5",
+      "title": "Federal Judge Allows Lawsuit Against Hemp Vape Manufacturer to Proceed Following $4.8 Million Seizure and Felony Arrests - The Marijuana Herald",
+      "topic": "Vape & accessoires",
+      "domain": "The Marijuana Herald",
+      "published_at": "2026-11-06T23:17:50Z",
+      "first_seen": "2026-11-09T13:53:22Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHlfZWY2Y0NYSHB6WXpWU0hFRmY0M0FzbzYtTFZZRGtMU1lxcHNmNmROOHJFZFc2MnJyMnpKZ0cwd2psM3VuN1FBcEpyQXZuVWl4dHhsUTVpYmJ6cm93LVhWWnBTSWFLNk11cXFBbzZEeG93a0dsYngwWUJTcGhsRmVpQUtmOEhjREVtNVln?oc=5",
+      "title": "The Ultimate Guide to Choosing Cannabis Vape Hardware - Programming Insider",
+      "topic": "Vape & accessoires",
+      "domain": "Programming Insider",
+      "published_at": "2026-11-06T12:46:18Z",
+      "first_seen": "2026-11-09T13:53:22Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTU56cFJiTTBaUkdMZ0pBaUNmTGtmSElKa3A3emN4bUNqTHNKZFlDTDJoSGpPQzJRbnVGLXBuek04ZUFxYkpNb2t6bHdRMDQ1Ny1YQjBrZmdvWUtYUDc2YnRuNE15UDBPZlFvajA1alJvUmtNRDN3V25XejJlVWpOT2p0bWRUQUVsdDlicVVuNWlQdw?oc=5",
+      "title": "Modern Vape Devices: What Users Expect Beyond Performance - Programming Insider",
+      "topic": "Vape & accessoires",
+      "domain": "Programming Insider",
+      "published_at": "2026-11-06T12:44:47Z",
+      "first_seen": "2026-11-09T13:53:22Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUnFobFJSeHllYWtYOGM0QlJjQjlPcEdZTWxWMTYxTkJTZkVYV1N4UFBkQm1KNk1WSXQ0S3A4TlNacTRfQ25pY0x2Qi1vb3dIRWFuTkpYak4wR180dmhKTFNWS3hYbGRSOGxHb19CRmN3LTVxRTZmQzN3ZEtzcnN0cnpndmZKRDJlejNVWmtiUnhHN1RqRmFDU1FiMXRQb0ltMW9TM282VQ?oc=5",
+      "title": "The Feed: Family-Owned Antica Italia Opens In Cicero - Indianapolis Monthly",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Indianapolis Monthly",
+      "published_at": "2026-11-06T02:10:19Z",
+      "first_seen": "2026-11-09T13:53:22Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mV3hTT1RqV0NCV2h3R2NsMEtGZkwzT19nc0NvZ2dwV3RNa1NOekZHbjFQVWdWYmlQak55MWRuXzVZcGExZUh4YURaQWMxTzlaZWwtb3RROS15bVUxUHowN0dtTlhGUQ?oc=5",
+      "title": "Republic Technologies Inc. (DOCT.CN) Seasonal returns chart - Yahoo Finance UK",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Yahoo Finance UK",
+      "published_at": "2026-11-05T19:57:15Z",
+      "first_seen": "2026-11-09T13:53:22Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOVjJOSG02RV9xZHJ5VDBia1lqeGt5MjhUVXBEWXlJc1lRT1FnWmctcGFzX0FGeGNTU3RKam1sV0hkYmdYbUx0M0xUdlF1cVlFT3ZUdGVWVG9XVTlMSjlIMmZlTFVLYUplQ1ZxWDFmWXBmUVpFTmI3UTVWcVBWMkdrVkJDMVc2YWVXTk9kYmNsZnpSSXFmZnJxdWxhdEF3NExqNEVDYVRzTEhHSjB5b0xvMDh3QzJ0ek91bXB1Yi1CcFA0S2kxeFdCQjhKUGZkdEhvV3gxQks0Q3ZHMjJjOWpUVmQxSm5IVUxrSks2dHBYem9fcER3aW9remxHWTRwaHNBaFAtTFBkSmhJTUk5enFCV3VVZTlhRUd0a3dVbHRVdWZHR3p3OFIwalAxc20wLWhVNVdBdThIcw?oc=5",
+      "title": "Special report｜Indonesia's Vape Industry Has 200 Manufacturers and $1.7 Billion in Investment. Could a Regulatory Divide Derail Its Rise as the World's No. 2 Manufacturing Hub After Shenzhen? - 2Firsts",
+      "topic": "Fabricants & marques suivis",
+      "domain": "2Firsts",
+      "published_at": "2026-11-05T07:28:46Z",
+      "first_seen": "2026-11-09T13:53:22Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jYldBOVNrUmJaN2E3M0pJMGY2alUtOXR0WVdlNjVSTWJodHYtNlBhZlUxN1pZVjhkaHZTYm13QzM2Mlg1MVZPZEV0YVNWRXpEckFWM3JoV1F1cWlaNVdB?oc=5",
+      "title": "Smoore International Holdings Limited (58K.F) Analyst Ratings, Estimates & Forecasts - Yahoo Finance - Yahoo! Finance Canada",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Yahoo! Finance Canada",
+      "published_at": "2026-11-04T16:27:05Z",
+      "first_seen": "2026-11-09T13:53:22Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZzJKT0ZtcjZsNUFwM0xkWlNRWXJ3NkNpRjlDUDlqTXB6QVh5YjBDaXM3c2VDcURrUXgwaXNLZTJYZnlzNnJMV3l0UWZYek9mWGMwTjlzLWp4RHlHTVVMSXQwLUVQNjFoaHA3U1YxUUtlUmlMMFB4Mi1nYzBsVjJQaGxrQ0pnX01LZnhoRi1FcTYwWnZaUk9OV21ldk9BeEczN2ViOFdPN3FSTlBzUU9aVlZZdjl4Vl9UemFtNHpqamdac3BpNzhXYWFVY3d1dW5PR29TVDI4bmFVMmpfbmFrUlZScVhfTE8yU2tfctIB8gFBVV95cUxQNjROZFhOSkpGMFA1clJTWjk4N2ZzeTV2dXlqeFJZUERkclNqbW9rR01fSWxpQU5sWDNQYlg4NHRpa1RXSVdEODZOS1ZvMFZTWmNFMEVoQVJYUm9QeU5lVGhiS2hFek41aFRCdEFGRXZOeFYtNU54SFphY1VyMnJzZ1ZMQmVmLWtJYjFIYnV5c1NHVEptdlkzdTFtdURBaTY4NTFpb3lwWWNCVnVzWjNtdUVHcm1BdVRJeDJFNTB6bTJHanRUS1NLbjlhRGNhblI3ZHJWR1V3SlNPSk16RGJCV0oyOFV3N0lXa3FkbFpCdnIwZw?oc=5",
+      "title": "What Smoore International Bears Saw Before The Fall - Simply Wall St",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Simply Wall St",
+      "published_at": "2026-11-04T03:41:02Z",
+      "first_seen": "2026-11-09T13:53:22Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRl94a0c2QktwQWtqbVJSNFJsMU4wVjFZUHRIckpzOHI3cDZTeW55NUJwT21aRTg3dzRndTFncnYtQi1OWFVfcURLZmhCMUVqQU1GTHFjWm1lWi1FakduZ2xnSnE4cTViQTdhQzh1SVBLUHlFd3l4YkVVTzR4NmQydWpXSXVzelpvNm5PVXpaUEs2amV0T2lGaXZpTFZnVnRZWi1yWWNiS3ItQ1Zo?oc=5",
+      "title": "Turning Point Brands Declares Common Stock Dividend - Business Wire",
+      "topic": "Vape & accessoires",
+      "domain": "Business Wire",
+      "published_at": "2026-11-02T21:30:00Z",
+      "first_seen": "2026-11-09T13:53:22Z"
+    }
+  ]
 }
