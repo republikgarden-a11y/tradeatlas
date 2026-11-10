@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-09T14:10:52Z",
-  "last_success": "2026-11-09T14:10:52Z",
+  "checked_at": "2026-11-10T09:12:57Z",
+  "last_success": "2026-11-10T09:12:57Z",
   "topics_checked": 4,
   "successful_topics": 4,
-  "new_items": 0,
+  "new_items": 3,
   "errors": [],
   "articles": [
     {
@@ -17,12 +17,36 @@
       "first_seen": "2026-11-09T13:53:22Z"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqQmlyYlpaYklHMUpiTjNZMHFpUV9fN0l5ZVQtTTBGNmV4TnV2eS1EUDV6S0gxa2dMX2NqMGR1dzdkYkNlU0NwY0Jwelhwd05NckVjOQ?oc=5",
+      "title": "Price performance - Yahoo Finance Australia",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Yahoo Finance Australia",
+      "published_at": "2026-11-09T11:42:15Z",
+      "first_seen": "2026-11-10T09:12:57Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fdDhYRGtWbUVDU05LZ0N1LVNHSl9OMHhjd2FPVWQ3eGJ6MlNJNVl3bFpRaGdYUDFjTEl4SnZqYmxZUVNTVmdISzV6SW9nRHNyem5pemFaMEtuZHMtWDJyN3NSd0lkVk5PTnc?oc=5",
+      "title": "Smoore International Holdings Limited (58K.F) Analyst Insights, Price Targets & Recommendations - Yahoo Finance - Yahoo! Finance Canada",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Yahoo! Finance Canada",
+      "published_at": "2026-11-09T10:12:38Z",
+      "first_seen": "2026-11-10T09:12:57Z"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3ktY1VucC1Fam5EZXh0S09kTzhSUWsyR3dzUUxZMWRYWi1YOVltclhTbFJIUDNOdGRNNnVzby1mSjJvZjVpdnlMVmdkMkdkZHN0VWx3RE5JOXhUVDlOSnZydTVVb3NlZzVaUl84SE02clE1bXF4ekxjT1RoRHczX0Q2T0RUWl9ITkhUaGtwb0RsNU1kd0xj?oc=5",
       "title": "Cannabis Packaging Design in New York: Why the Jar Matters - stupidDOPE",
       "topic": "Packaging & chanvre",
       "domain": "stupidDOPE",
       "published_at": "2026-11-07T08:00:00Z",
       "first_seen": "2026-11-09T13:53:22Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHNZSGpXRnlYbFBidHlOZzE0M0FNaldIMmFaZ1QyTEd6ZXVoRU1yeEFEOGxJZ2wyc3FiZ0FueDhLYjV6VE95U2QzeDV6QllVVzVjVWRCdllzOHFrRGFnMHBxT1FXVWJqLU9EWUFzR0RWSzFwTjJYa0s3S2p0akRpRzlCeERHcktKLTJyd085OVdCelZiVWFHcUM4U3JkV2Q3VzBVSl9fNmzSAVZBVV95cUxPN2tTZDhZTGF6TVd4eFpuNUw5emsyTjRLZVk2N180WFJRTDRRTl8yZ21MekQxdzByUjVTLWZRcHdqUko3LTJiR29vSWUwRUJVVXgwYWxUQQ?oc=5",
+      "title": "LA Judge Won't Toss $1.7M Freight Suit Against Vape Biz - Law360",
+      "topic": "Vape & accessoires",
+      "domain": "Law360",
+      "published_at": "2026-11-07T02:56:55Z",
+      "first_seen": "2026-11-10T09:12:57Z"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83a1NkOFlMYXpNV3h4Wm41TDl6azJONEtlWTY3XzRYUlFMNFFOXzJnbUx6RDF3MHJSNVMtZlFwd2pSSjctMmJHb29JZTBFQlVVeDBhbFRB0gFWQVVfeXFMTzdrU2Q4WUxhek1XeHhabjVMOXprMk40S2VZNjdfNFhSUUw0UU5fMmdtTHpEMXcwclI1Uy1mUXB3alJKNy0yYkdvb0llMEVCVVV4MGFsVEE?oc=5",
