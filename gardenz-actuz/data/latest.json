@@ -1,8 +1,8 @@
 {
   "version": 2,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-11T13:54:36.601762+00:00",
-  "lastSuccess": "2026-11-11T13:54:36.601762+00:00",
+  "attemptedAt": "2026-11-11T14:20:49.857617+00:00",
+  "lastSuccess": "2026-11-11T14:20:49.857617+00:00",
   "status": "ok",
   "sources": [
     {
@@ -10,35 +10,35 @@
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-11T13:54:36.601762+00:00"
+      "checkedAt": "2026-11-11T14:20:49.857617+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-11T13:54:36.601762+00:00"
+      "checkedAt": "2026-11-11T14:20:49.857617+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-11T13:54:36.601762+00:00"
+      "checkedAt": "2026-11-11T14:20:49.857617+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-11T13:54:36.601762+00:00"
+      "checkedAt": "2026-11-11T14:20:49.857617+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-11T13:54:36.601762+00:00"
+      "checkedAt": "2026-11-11T14:20:49.857617+00:00"
     }
   ],
   "items": [
@@ -49,7 +49,7 @@
       "source": "Le Cannabiste",
       "sourceFeed": "https://lecannabiste.com/feed/",
       "language": "fr",
-      "region": "France",
+      "region": "Francophone",
       "publishedAt": "2026-11-11T13:12:00+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
       "excerpt": "Snoop Dogg ouvre son club de cannabis à Barcelone Snoop Dogg ouvre Tha Dogg House, son club de cannabis, à Barcelone : troisième adresse européenne, dans la zon",
@@ -65,7 +65,7 @@
       "source": "Marijuana Moment",
       "sourceFeed": "https://www.marijuanamoment.net/feed/",
       "language": "en",
-      "region": "Monde",
+      "region": "International",
       "publishedAt": "2026-11-11T13:11:24+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
       "excerpt": "A key Senate committee is directing federal agencies to consider medical marijuana as an opioid alternative as well as the therapeutic benefits of psychedelics—",
@@ -81,7 +81,7 @@
       "source": "Marijuana Moment",
       "sourceFeed": "https://www.marijuanamoment.net/feed/",
       "language": "en",
-      "region": "Monde",
+      "region": "International",
       "publishedAt": "2026-11-11T12:29:02+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
       "excerpt": "“This Veterans Day, let’s measure our support in more than ceremonies and dispensary discounts.” By Narith Panh, Dragonfly Wellness Every Veterans Day, communit",
@@ -97,7 +97,7 @@
       "source": "Marijuana Moment",
       "sourceFeed": "https://www.marijuanamoment.net/feed/",
       "language": "en",
-      "region": "Monde",
+      "region": "International",
       "publishedAt": "2026-11-11T11:12:27+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
       "excerpt": "NC House speaker on marijuana as a priority; TX legalization bills filed; NH cannabis prospects in 2027; Marijuana tax op-ed; Industry & GOP op-ed Subscribe to ",
@@ -113,7 +113,7 @@
       "source": "Le Cannabiste",
       "sourceFeed": "https://lecannabiste.com/feed/",
       "language": "fr",
-      "region": "France",
+      "region": "Francophone",
       "publishedAt": "2026-11-11T10:24:00+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
       "excerpt": "Chanvre au THC : l’interdiction américaine entre en vigueur en deux temps La nouvelle définition fédérale du chanvre interdit le THC de synthèse le 12 novembre ",
@@ -129,13 +129,14 @@
       "source": "Hanf Magazin",
       "sourceFeed": "https://www.hanf-magazin.com/feed/",
       "language": "de",
-      "region": "Europe",
+      "region": "International",
       "publishedAt": "2026-11-11T07:00:00+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
       "excerpt": "Ob Cannabis das Risiko für Blutgerinnsel erhöht, war bislang unklar. Eine neue Auswertung über zehn Jahre findet keinen Zusammenhang. Bemerkenswert ist das auch",
       "status": "Extrait du flux · à vérifier",
-      "image": "",
-      "credit": ""
+      "image": "assets/live-7a8163a77bbf30743bc1.jpg",
+      "credit": "Hanf Magazin · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-makroaufnahme-eines-trichoms-auf-einem-c-featured-83405.jpg"
     },
     {
       "id": "fd99db29cc42da3420cf",
@@ -144,7 +145,7 @@
       "source": "Marijuana Moment",
       "sourceFeed": "https://www.marijuanamoment.net/feed/",
       "language": "en",
-      "region": "Monde",
+      "region": "International",
       "publishedAt": "2026-11-10T20:40:14+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
       "excerpt": "“The commission remains focused on advancing this work in a deliberate and responsible manner, with the goal of establishing a functional, compliant medical can",
@@ -160,13 +161,14 @@
       "source": "Hanf Magazin",
       "sourceFeed": "https://www.hanf-magazin.com/feed/",
       "language": "de",
-      "region": "Europe",
+      "region": "International",
       "publishedAt": "2026-11-10T15:00:00+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
       "excerpt": "Eine neue US-Studie in BMJ Open verbindet den legalen Cannabisverkauf mit einem schnelleren Anstieg von Krankenhausaufnahmen wegen Herzinsuffizienz, Herzinfarkt",
       "status": "Extrait du flux · à vérifier",
-      "image": "",
-      "credit": ""
+      "image": "assets/live-1a28961b4ad0ee73b165.jpg",
+      "credit": "Hanf Magazin · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-makroaufnahme-einer-cannabisbluete-mit-tr-featured-83811.jpg"
     }
   ],
   "windowHours": 24,
