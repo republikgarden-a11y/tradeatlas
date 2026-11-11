@@ -25,7 +25,7 @@ function showEdition(date,{push=true,article='',focus=false}={}){
   $('next').disabled=index===0;
   $('latest').disabled=index===0;
   $('edition').hidden=false;$('results').hidden=true;
-  document.title=`Gardenz Actuz — ${dateLabel(current.date)}`;
+  if(!document.getElementById('live-panel')||document.getElementById('live-panel').hidden) document.title=`Gardenz Actuz — ${dateLabel(current.date)}`;
   if(push)writeURL(true,article);
   if(article)requestAnimationFrame(()=>{const target=document.getElementById(article);if(target){target.setAttribute('tabindex','-1');target.focus({preventScroll:true});target.scrollIntoView({behavior:'instant',block:'start'})}});
   else if(focus){$('content').focus({preventScroll:true});$('content').scrollIntoView({behavior:'instant',block:'start'})}

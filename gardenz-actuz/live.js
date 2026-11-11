@@ -5,7 +5,7 @@ let news=null,saved=new Set(readStore('actuz-saved',[])),onlySaved=false,active=
 const dateLabel=d=>new Date(d).toLocaleString('fr-FR',{timeZone:'Europe/Paris',day:'numeric',month:'long',hour:'2-digit',minute:'2-digit'});
 function node(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n}
 function safeURL(s){try{const u=new URL(s,location.href);return ['https:','http:'].includes(u.protocol)?u.href:''}catch{return ''}}
-function setView(view){active=view;const live=view==='live';el('live-panel').hidden=!live;el('archive-panel').hidden=live;document.querySelectorAll('[data-view]').forEach(b=>b.setAttribute('aria-selected',String(b.dataset.view===view)));if(!live)el('edition-select').focus();}
+function setView(view){active=view;const live=view==='live';if(live){const u=new URL(location.href);u.search='';u.hash='';history.replaceState({},'',u);document.title='Gardenz Actuz — À la une';}else{document.title='Gardenz Actuz — Bulletins vérifiés';}el('live-panel').hidden=!live;el('archive-panel').hidden=live;document.querySelectorAll('[data-view]').forEach(b=>b.setAttribute('aria-selected',String(b.dataset.view===view)));if(!live)el('edition-select').focus();}
 document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.view)));
 function render(){
  if(!news)return;
@@ -31,7 +31,7 @@ function render(){
  const list=el('sources-health');list.replaceChildren();for(const s of news.sources){list.append(node('li',s.name+' — '+(s.ok?'accessible, '+s.count+' publication(s) dans les dernières 24 h':'indisponible lors du dernier contrôle')))}
 }
 async function refresh(){if(busy)return;busy=true;el('refresh-news').disabled=true;try{
- const r=await fetch('data/latest.json?t='+Date.now(),{cache:'no-store',signal:AbortSignal.timeout(12000)});if(!r.ok)throw Error('HTTP');const data=await r.json();if(!Array.isArray(data.items)||!Array.isArray(data.sources))throw Error('Format');news=data;try{localStorage.setItem('actuz-news-cache',JSON.stringify(data))}catch{}render();
+ const r=await fetch('data/latest.json?t='+Date.now(),{cache:'no-store',signal:AbortSignal.timeout(12000)});if(!r.ok)throw Error('HTTP');const data=await r.json();if(!Array.isArray(data.items)||!Array.isArray(data.sources))throw Error('Format');news=data;const offline=r.headers.get('X-Gardenz-Cache')==='offline';try{localStorage.setItem('actuz-news-cache',JSON.stringify(data))}catch{}render();if(offline)el('news-status').textContent='Hors connexion — dernière collecte conservée';
 }catch{if(!news)news=readStore('actuz-news-cache',null);if(news)render();el('news-status').textContent='Réseau indisponible — contenu conservé';el('news-checked').textContent=news?.lastSuccess?'Dernière collecte réussie : '+dateLabel(news.lastSuccess):'Réessaie quand la connexion est disponible.';}finally{busy=false;el('refresh-news').disabled=false}}
 el('refresh-news').addEventListener('click',refresh);el('live-query').addEventListener('input',render);el('live-language').addEventListener('change',render);el('saved-toggle').addEventListener('click',()=>{onlySaved=!onlySaved;el('saved-toggle').setAttribute('aria-pressed',String(onlySaved));render()});
 addEventListener('online',refresh);document.addEventListener('visibilitychange',()=>{if(!document.hidden)refresh()});setInterval(refresh,300000);
