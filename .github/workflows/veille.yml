@@ -18,7 +18,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: tradeatlas-veille
+  group: tradeatlas-pages
   cancel-in-progress: false
 
 jobs:

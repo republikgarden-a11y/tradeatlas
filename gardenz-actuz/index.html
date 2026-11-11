@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <meta name="theme-color" content="#382719">
-  <meta name="description" content="Le kiosque Gardenz Actuz : cannabis, CBD et chanvre. Parcours les éditions et retrouve un article dans les archives.">
+  <meta name="theme-color" content="#30271c">
+  <meta name="description" content="L’actualité cannabis, CBD et chanvre : revue de presse quotidienne, sources, recherche, archives et articles à garder. Gratuit et sans compte.">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <title>Gardenz Actuz — À la une</title>
@@ -17,20 +17,48 @@
   <link rel="stylesheet" href="live.css"><script src="app.js" defer></script><script src="live.js" defer></script>
 </head>
 <body>
-  <a class="skip" href="#content">Aller au journal</a>
-  <header class="appbar">
-    <a class="app-brand" href="./" aria-label="Gardenz Actuz, dernière édition">Gardenz Actuz</a>
+  <a class="skip" href="#live-panel">Aller au journal</a>
+  <header class="appbar" id="top">
+    <a class="app-brand" href="./" aria-label="Gardenz Actuz, accueil">Gardenz Actuz</a>
+    <span class="app-tagline">La culture de l’info.</span>
     <div class="app-actions">
       <button id="colors" aria-pressed="false" type="button">Images en couleurs</button>
       <button id="install" class="dark" type="button">Installer l’app</button>
     </div>
   </header>
-<nav class="view-tabs" aria-label="Choisir la lecture"><button type="button" data-view="live" aria-selected="true">À la une</button><button type="button" data-view="archives" aria-selected="false">Bulletins vérifiés</button></nav>
-<section id="live-panel" class="live-wrap" aria-label="Fil automatique des sources"><header class="news-heading"><div><h1>La plante, au jour le jour.</h1><p>Cannabis · CBD · Chanvre</p></div><p class="date-label">Le fil des sources.<br>Les faits avant le bruit.</p></header>
-<div class="live-status"><p><b id="news-status" role="status">Connexion aux sources…</b><small id="news-checked">Vérification de la dernière collecte.</small></p><button type="button" id="refresh-news" class="refresh-news">Actualiser</button></div>
-<form class="live-tools" onsubmit="return false"><label for="live-query">Retrouver un sujet<input id="live-query" type="search" placeholder="CBD, médical, chanvre…"></label><label for="live-language">Langue des sources<select id="live-language"><option value="">Toutes les langues</option><option value="fr">Français</option><option value="en">Anglais</option><option value="de">Allemand</option></select></label><button type="button" id="saved-toggle" aria-pressed="false">Mes articles gardés</button></form>
-<p class="live-help">Des publications collectées automatiquement, avec leurs titres et courts extraits d’origine. Pour les synthèses en français et leurs vérifications, ouvre <b>Bulletins vérifiés</b>.</p><p id="live-count" class="live-count"></p><div id="news-list" aria-live="polite"></div><details class="source-health"><summary>État des sources et méthode</summary><ul id="sources-health"></ul><p>Collecte quotidienne de flux RSS publics. Les dates affichées sont celles déclarées par les médias. Les doublons d’URL sont regroupés ; des couvertures différentes d’un même événement peuvent subsister. Aucun titre ne vaut validation d’une loi, d’un résultat médical ou d’une annonce commerciale. Les extraits restent dans la langue de leur source.</p><p>Une source inaccessible est signalée. La dernière collecte réussie reste visible ; une panne ne crée pas de faux bulletin du jour.</p></details><p class="daily-note">Gratuit · aucun compte lecteur · aucune publicité ajoutée · pas d’API payante. Tes articles gardés restent sur cet appareil.</p></section>
-<div id="archive-panel" hidden><div class="archive-context"><p>Les éditions préparées et sourcées de Gardenz Actuz. Leur date est celle de la recherche, pas celle de la collecte automatique.</p></div>
+  <nav class="view-tabs" aria-label="Choisir la lecture">
+    <button type="button" data-view="live" aria-pressed="true">Dernières actus</button>
+    <button type="button" data-view="daily" aria-pressed="false">Éditions quotidiennes</button>
+    <button type="button" data-view="saved" aria-pressed="false">Mes articles <span id="saved-count">0</span></button>
+    <button type="button" data-view="archives" aria-pressed="false">Anciennes éditions</button>
+  </nav>
+  <main id="live-panel" class="live-wrap" aria-label="Actualités cannabis, CBD et chanvre" tabindex="-1">
+    <header class="news-heading">
+      <h1>Gardenz Actuz</h1>
+      <div class="mastline"><p>Le journal du cannabis · CBD · Chanvre</p><p id="today-label">L’actualité, chaque jour.</p></div>
+    </header>
+    <div class="live-status"><div><b id="news-status" role="status">Chargement du journal…</b><span id="news-checked">Les dernières publications arrivent.</span></div><button type="button" id="refresh-news"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M20 7v5h-5M4 17v-5h5M5 8a8 8 0 0 1 13-3l2 3M4 16l2 3a8 8 0 0 0 13-3"/></svg>Actualiser</button></div>
+    <p id="refresh-note" class="refresh-note">Collecte automatique chaque jour. Les horaires peuvent varier de quelques minutes.</p>
+    <div id="daily-controls" class="daily-controls" hidden><label for="daily-edition">Lire une édition quotidienne<select id="daily-edition"><option value="">Chargement des dates…</option></select></label><p id="daily-description">Chaque journée conserve sa revue de presse.</p></div>
+    <div id="frontpage" class="frontpage"><div id="lead-story"><p class="loading-copy">Préparation de la une…</p></div><aside class="briefing" aria-labelledby="briefing-title"><h2 id="briefing-title">À lire ce jour</h2><p class="briefing-note">Un aperçu des titres publiés au cours des dernières 24 heures.</p><ol id="briefing-list"></ol><a class="text-link" href="#all-news">Parcourir le journal <span aria-hidden="true">↓</span></a></aside></div>
+    <section id="all-news" class="all-news" aria-labelledby="all-news-title"><div class="section-heading"><h2 id="all-news-title">Le fil de l’actualité</h2><p id="live-count" role="status" aria-live="polite"></p></div>
+      <nav id="topic-filters" class="topic-filters" aria-label="Filtrer par rubrique">
+        <button type="button" data-topic="" aria-pressed="true">Tout</button><button type="button" data-topic="Lois & société" aria-pressed="false">Lois & société</button><button type="button" data-topic="Santé & recherche" aria-pressed="false">Santé & recherche</button><button type="button" data-topic="CBD & molécules" aria-pressed="false">CBD & molécules</button><button type="button" data-topic="Chanvre" aria-pressed="false">Chanvre</button><button type="button" data-topic="Économie" aria-pressed="false">Économie</button><button type="button" data-topic="Culture" aria-pressed="false">Culture</button>
+      </nav>
+      <form id="live-form" class="live-tools" role="search">
+        <label class="live-search" for="live-query">Rechercher dans le journal<input id="live-query" type="search" placeholder="Un sujet, un média, un mot-clé…" autocomplete="off"></label>
+        <label for="live-period">Période<select id="live-period"><option value="24">Dernières 24 heures</option><option value="168">7 derniers jours</option><option value="720">30 derniers jours</option></select></label>
+        <label for="live-language">Langue<select id="live-language"><option value="">Toutes les langues</option><option value="fr">Français</option><option value="en">Anglais</option><option value="de">Allemand</option></select></label>
+        <label for="live-source">Source<select id="live-source"><option value="">Tous les médias</option></select></label>
+      </form>
+      <div class="filter-summary"><p id="filter-context">Les sources francophones apparaissent en premier, puis les plus récentes.</p><button id="reset-filters" type="button">Effacer les filtres</button></div>
+      <div id="news-list"></div><button id="load-more" type="button" hidden>Afficher plus d’articles</button>
+    </section>
+    <details class="source-health"><summary>Nos sources & la méthode</summary><p>Cette revue de presse rassemble automatiquement les titres, de courts extraits et les images des articles accessibles. Les liens ouvrent le média d’origine. Les textes restent dans leur langue de publication. Les rubriques facilitent la navigation ; elles sont attribuées automatiquement.</p><ul id="sources-health"></ul><p>NORML est une organisation militante. Les opinions et les communiqués sont signalés lorsqu’ils sont identifiés dans le flux. Une revue de presse ne vaut pas confirmation indépendante d’une annonce, d’une loi ou d’un résultat médical. Les crédits détaillés des images figurent chez leurs éditeurs.</p><p id="coverage-note">Une panne de source est signalée ; elle conserve les articles déjà disponibles. Les éditions ne sont créées qu’après une collecte réussie au moins en partie.</p></details>
+    <div class="journal-close"><p>Les nouvelles poussent.<br><em>Ta curiosité aussi.</em></p><div>Lecture gratuite · sans compte<br>Les articles gardés restent sur cet appareil.</div></div>
+    <noscript><p>Active JavaScript pour lire les nouvelles et rechercher dans les éditions.</p></noscript>
+  </main>
+<div id="archive-panel" hidden><div class="archive-context"><p>Les anciennes éditions rédigées sont conservées ici. Pour la revue de presse actualisée automatiquement, ouvre « Dernières actus » ou « Éditions quotidiennes ».</p></div>
   <section class="kiosk" aria-labelledby="kiosk-title">
     <div class="kiosk-heading"><div><p class="kicker">Le journal & ses archives</p><h2 id="kiosk-title">À chaque date, son édition.</h2></div><p id="archive-count" class="quiet">Chargement des archives…</p></div>
     <nav class="edition-nav" aria-label="Choisir une édition">
@@ -58,7 +86,7 @@
     <noscript><p class="notice">Active JavaScript pour parcourir les éditions et utiliser la recherche.</p></noscript>
   </main>
 </div>
-  <footer class="app-footer"><button id="print" type="button">Imprimer / PDF</button><button id="help" type="button">Installer & utiliser</button><a href="#kiosk-title">Retour au kiosque ↑</a></footer>
+  <footer class="app-footer"><button id="print" type="button">Imprimer / PDF</button><button id="help" type="button">Installer & utiliser</button><a href="#top">Retour en haut ↑</a></footer>
   <aside id="install-dock" class="install-dock" aria-label="Ajouter Gardenz Actuz à ton téléphone" hidden>
     <span class="dock-monogram" aria-hidden="true">GA</span><div class="dock-copy"><b>Ton journal en une icône</b><span>Sur ton écran d’accueil</span></div>
     <button id="install-mobile" class="dark" type="button">Ajouter l’app</button>

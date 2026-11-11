@@ -11,6 +11,7 @@ $('colors').addEventListener('click',()=>{document.body.classList.toggle('origin
 function writeURL(push=true, article=''){
   const url=new URL(location.href);url.search='';url.hash=article;
   if(current)url.searchParams.set('date',current.date);
+  url.searchParams.set('view','archives');
   if($('query').value.trim())url.searchParams.set('q',$('query').value.trim());
   if($('date-filter').value)url.searchParams.set('jour',$('date-filter').value);
   history[push?'pushState':'replaceState']({},'',url);
@@ -63,7 +64,9 @@ function runSearch({push=true,focus=false}={}){
   if(focus){$('content').focus({preventScroll:true});$('content').scrollIntoView({behavior:'instant',block:'start'})}
 }
 function route(){
-  const url=new URL(location.href);clearSearch();
+  const url=new URL(location.href);
+  if(!url.searchParams.has('date')&&url.searchParams.get('view')!=='archives'&&editions.length&&current)return;
+  clearSearch();
   showEdition(url.searchParams.get('date'),{push:false});
   $('query').value=url.searchParams.get('q')||'';
   const filter=url.searchParams.get('jour')||'';

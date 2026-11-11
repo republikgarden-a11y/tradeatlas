@@ -1,20 +1,19 @@
-"""À lancer après toute mise à jour des éditions ou fichiers de l’application."""
+"""Version the small application shell; images and daily archives are cached on read."""
 from pathlib import Path
 import hashlib
 import json
 import re
-
 root = Path(__file__).resolve().parent
-files = ['./'] + sorted(
-    p.relative_to(root).as_posix() for p in root.rglob('*')
-    if p.is_file() and p.name != 'sw.js'
-    and p.suffix in {'.html','.css','.js','.json','.webmanifest','.png','.jpg','.jpeg','.webp','.ttf','.woff2'}
-    and not any(part.startswith('.') or part=='__pycache__' for part in p.relative_to(root).parts)
-)
-version = hashlib.sha256(b''.join((root / p).read_bytes() for p in files if p != './')).hexdigest()[:12]
+files = ['./', 'index.html', 'app.css', 'app.js', 'journal.css', 'install.css', 'live.css',
+         'live.js', 'manifest.webmanifest', 'assets/fraktur.ttf', 'assets/icon-192.png',
+         'assets/icon-512.png', 'editions.json', 'data/latest.json', 'data/index.json']
 worker = root / 'sw.js'
-text = worker.read_text()
-text = re.sub(r"const CACHE='gardenz-actuz-[^']+';", f"const CACHE='gardenz-actuz-{version}';", text)
-text = re.sub(r'const FILES=\[.*?\];', 'const FILES=' + json.dumps(files) + ';', text)
-worker.write_text(text)
-print(f'Cache actualisé : {version} · {len(files)} ressources')
+source = worker.read_text()
+# The SW implementation itself is part of its version; generated fields are stable placeholders.
+stable = re.sub(r"const CACHE='gardenz-actuz-[^']+';", "const CACHE='gardenz-actuz-version';", source)
+stable = re.sub(r'const FILES=\[.*?\];', 'const FILES=[];', stable)
+version = hashlib.sha256(stable.encode() + b''.join((root / p).read_bytes() for p in files if p != './' and not p.endswith('.json'))).hexdigest()[:12]
+source = re.sub(r"const CACHE='gardenz-actuz-[^']+';", f"const CACHE='gardenz-actuz-v3-{version}';", source)
+source = re.sub(r'const FILES=\[.*?\];', 'const FILES=' + json.dumps(files) + ';', source)
+worker.write_text(source)
+print(f'Cache : {version} · {len(files)} ressources essentielles')
