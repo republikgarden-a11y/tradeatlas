@@ -1,0 +1,37 @@
+GARDENZ ACTUZ — CORRECTION DU KIOSQUE DU 8 NOVEMBRE 2026
+
+CAUSE DU RETARD
+Le précédent déploiement contenait uniquement les éditions du 2 et du 3 novembre.
+La tâche ChatGPT enregistrait chaque nouveau bulletin HTML séparément sans publier le corpus du kiosque.
+
+CORRECTIONS
+Sept éditions du 2 au 8 novembre, avec les textes, dates, liens et visuels originaux conservés.
+Vérification des éditions à l’ouverture, au retour dans l’application, au retour du réseau et toutes les cinq minutes de lecture.
+Bouton « Vérifier les nouveautés », date de la dernière édition et état de connexion.
+Une nouvelle édition ne remplace pas silencieusement celle en cours de lecture : un bouton permet de la lire.
+Cache actualisé, mode hors connexion conservé, lecture verticale et recherche dans les archives.
+
+MISE EN LIGNE
+Déployer ce dossier complet sur le site EXISTANT https://gardenzactuz.netlify.app/.
+Conserver cette même adresse, le manifeste et le périmètre pour l’application déjà installée.
+Aucune compilation. index.html doit être à la racine du site déployé.
+Après la publication, fermer puis rouvrir l’application ; si le bandeau de mise à jour apparaît, appuyer sur Actualiser.
+
+PUBLICATION DES PROCHAINES ÉDITIONS
+Le rafraîchissement ne remplace pas la publication côté hébergement.
+Pour chaque bulletin créé dans ChatGPT, importer son HTML dans CE corpus, conserver toutes les anciennes dates,
+puis déployer l’ensemble sur le même site. La tâche de veille doit donc inclure cette étape de publication.
+Une session Netlify autorisée est nécessaire pour y publier. Un HTML enregistré dans ChatGPT ne rejoint pas Netlify tout seul.
+
+IMPORT
+python3 importer-editions.py /chemin/Gardenz-Actuz-AAAA-MM-JJ.html
+python3 preparer-cache.py
+Dépendance de l’importeur : lxml ; aucune dépendance du site servi.
+L’import est idempotent par date et conserve les éditions des autres dates.
+Les photos intégrées sont extraites sans transformation des bytes dans assets/.
+Les anciens bulletins restent disponibles séparément ; ce ZIP n’efface aucun d’eux.
+
+VÉRIFICATION APRÈS PUBLICATION
+Vérifier la date la plus récente et le nombre d’éditions sur l’adresse publique.
+Ouvrir une ancienne édition, rechercher un article récent et tester le bouton de vérification.
+Ne pas annoncer une publication réussie sur la seule base d’une sauvegarde du ZIP.

@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#382719">
+  <meta name="description" content="Le kiosque Gardenz Actuz : cannabis, CBD et chanvre. Parcours les éditions et retrouve un article dans les archives.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <title>Gardenz Actuz — Le kiosque</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" href="assets/icon-192.png">
+  <link rel="apple-touch-icon" href="assets/icon-180.png">
+  <link rel="stylesheet" href="journal.css">
+  <link rel="stylesheet" href="app.css">
+  <link rel="stylesheet" href="install.css">
+  <link rel="stylesheet" href="live.css"><script src="app.js" defer></script><script src="live.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#content">Aller au journal</a>
+  <header class="appbar">
+    <a class="app-brand" href="./" aria-label="Gardenz Actuz, dernière édition">Gardenz Actuz</a>
+    <div class="app-actions">
+      <button id="colors" aria-pressed="false" type="button">Images en couleurs</button>
+      <button id="install" class="dark" type="button">Installer l’app</button>
+    </div>
+  </header>
+<nav class="view-tabs" aria-label="Choisir la lecture"><button type="button" data-view="live" aria-selected="true">À la une</button><button type="button" data-view="archives" aria-selected="false">Bulletins vérifiés</button></nav>
+<section id="live-panel" class="live-wrap" aria-label="Fil automatique des sources"><header class="news-heading"><div><h1>La plante, au jour le jour.</h1><p>Cannabis · CBD · Chanvre</p></div><p class="date-label">Le fil des sources.<br>Les faits avant le bruit.</p></header>
+<div class="live-status"><p><b id="news-status" role="status">Connexion aux sources…</b><small id="news-checked">Vérification de la dernière collecte.</small></p><button type="button" id="refresh-news" class="refresh-news">Actualiser</button></div>
+<form class="live-tools" onsubmit="return false"><label for="live-query">Retrouver un sujet<input id="live-query" type="search" placeholder="CBD, médical, chanvre…"></label><label for="live-language">Langue des sources<select id="live-language"><option value="">Toutes les langues</option><option value="fr">Français</option><option value="en">Anglais</option><option value="de">Allemand</option></select></label><button type="button" id="saved-toggle" aria-pressed="false">Mes articles gardés</button></form>
+<p class="live-help">Des publications collectées automatiquement, avec leurs titres et courts extraits d’origine. Pour les synthèses en français et leurs vérifications, ouvre <b>Bulletins vérifiés</b>.</p><p id="live-count" class="live-count"></p><div id="news-list" aria-live="polite"></div><details class="source-health"><summary>État des sources et méthode</summary><ul id="sources-health"></ul><p>Collecte quotidienne de flux RSS publics. Les dates affichées sont celles déclarées par les médias. Les doublons d’URL sont regroupés ; des couvertures différentes d’un même événement peuvent subsister. Aucun titre ne vaut validation d’une loi, d’un résultat médical ou d’une annonce commerciale. Les extraits restent dans la langue de leur source.</p><p>Une source inaccessible est signalée. La dernière collecte réussie reste visible ; une panne ne crée pas de faux bulletin du jour.</p></details><p class="daily-note">Gratuit · aucun compte lecteur · aucune publicité ajoutée · pas d’API payante. Tes articles gardés restent sur cet appareil.</p></section>
+<div id="archive-panel" hidden><div class="archive-context"><p>Les éditions préparées et sourcées de Gardenz Actuz. Leur date est celle de la recherche, pas celle de la collecte automatique.</p></div>
+  <section class="kiosk" aria-labelledby="kiosk-title">
+    <div class="kiosk-heading"><div><p class="kicker">Le journal & ses archives</p><h2 id="kiosk-title">À chaque date, son édition.</h2></div><p id="archive-count" class="quiet">Chargement des archives…</p></div>
+    <nav class="edition-nav" aria-label="Choisir une édition">
+      <button id="previous" type="button" disabled aria-label="Édition précédente">← <span>Précédente</span></button>
+      <label class="edition-choice" for="edition-select"><span>Édition à lire</span><select id="edition-select" disabled><option>Chargement…</option></select></label>
+      <button id="next" type="button" disabled aria-label="Édition suivante"><span>Suivante</span> →</button>
+      <button id="latest" type="button" disabled>La dernière</button>
+    </nav>
+    <form id="search-form" role="search" class="search-form">
+      <label class="search-field" for="query"><span>Rechercher dans toutes les éditions</span><input id="query" name="q" type="search" placeholder="CBD, Allemagne, 02/11/2026…" autocomplete="off"></label>
+      <label class="date-field" for="date-filter"><span>Limiter à une date d’édition</span><input id="date-filter" name="jour" type="date"></label>
+      <button type="submit" class="dark">Rechercher</button>
+    </form>
+    <div class="kiosk-foot"><p>Par mot-clé ou date, dans les articles et les brèves archivés.</p><span id="connection" role="status" aria-live="polite">Connexion en cours</span></div>
+    <div class="sync-row"><p id="sync-status" role="status" aria-live="polite">Vérification des éditions…</p><button id="refresh-editions" type="button">Vérifier les nouveautés</button></div>
+  </section>
+  <aside id="update" class="notice" hidden>Une nouvelle version est disponible. <button id="reload" type="button">Actualiser</button></aside>
+  <aside id="new-edition" class="notice" hidden><span id="new-edition-label"></span> <button id="read-new-edition" type="button">Lire la dernière édition</button></aside>
+  <main id="content" tabindex="-1">
+    <section id="results" class="paper" aria-labelledby="results-title" hidden>
+      <div class="results-heading"><div><p class="kicker">Dans les archives</p><h1 id="results-title">Résultats</h1><p id="results-count" role="status" aria-live="polite"></p></div><button id="reset-search" type="button">Revenir au journal</button></div>
+      <div id="result-list"></div>
+    </section>
+    <section id="edition" class="paper" aria-label="Journal sélectionné"><p class="summary">Le journal arrive…</p></section>
+    <noscript><p class="notice">Active JavaScript pour parcourir les éditions et utiliser la recherche.</p></noscript>
+  </main>
+</div>
+  <footer class="app-footer"><button id="print" type="button">Imprimer / PDF</button><button id="help" type="button">Installer & utiliser</button><a href="#kiosk-title">Retour au kiosque ↑</a></footer>
+  <aside id="install-dock" class="install-dock" aria-label="Ajouter Gardenz Actuz à ton téléphone" hidden>
+    <span class="dock-monogram" aria-hidden="true">GA</span><div class="dock-copy"><b>Ton journal en une icône</b><span>Sur ton écran d’accueil</span></div>
+    <button id="install-mobile" class="dark" type="button">Ajouter l’app</button>
+  </aside>
+  <dialog id="install-dialog" aria-labelledby="install-title">
+    <div class="dialog-top"><p class="kicker">Gardenz Actuz · Ton application</p><button id="close-dialog" type="button" aria-label="Fermer l’aide">Fermer ×</button></div>
+    <h2 id="install-title">Ton journal sur l’écran d’accueil.</h2>
+    <p id="install-intro">Retrouve Gardenz Actuz parmi tes applications.</p>
+    <p id="installed-message" class="installation-ok" hidden>Tu utilises déjà l’application installée. Bonne lecture !</p>
+    <section id="install-native" class="install-guide" hidden>
+      <p>Appuie sur le bouton, puis confirme dans la fenêtre de ton navigateur.</p>
+      <button id="install-now" class="dark install-wide" type="button">Installer maintenant</button>
+    </section>
+    <section id="install-ios" class="install-guide" hidden>
+      <ol class="install-steps">
+        <li><span class="step-number">1</span><div><b>Appuie sur Partager</b><p>Le carré avec une flèche vers le haut.</p></div><svg class="step-icon" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="M14 16H8v20h24V16h-6M20 26V3m-7 7 7-7 7 7"/></svg></li>
+        <li><span class="step-number">2</span><div><b>Choisis « Sur l’écran d’accueil »</b><p>Dans la liste des actions.</p></div><svg class="step-icon" viewBox="0 0 40 40" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><rect x="6" y="6" width="28" height="28" rx="3"/><path d="M20 12v16M12 20h16"/></svg></li>
+        <li><span class="step-number">3</span><div><b>Confirme avec « Ajouter »</b><p>Active « Ouvrir comme app web » si cette option est proposée.</p></div></li>
+      </ol>
+      <p class="installation-note">Si Partager est masqué, ouvre le menu « … » du navigateur.</p>
+    </section>
+    <section id="install-android" class="install-guide" hidden>
+      <ol class="install-steps">
+        <li><span class="step-number">1</span><div><b>Ouvre le menu ⋮ de Chrome</b><p>Il se trouve dans la barre du navigateur.</p></div></li>
+        <li><span class="step-number">2</span><div><b>Choisis « Installer l’application »</b><p>Selon ton navigateur, l’option peut s’appeler « Ajouter à l’écran d’accueil ». Confirme ensuite l’ajout.</p></div></li>
+      </ol>
+      <p class="installation-note">Quand le navigateur propose l’installation directe, le bouton du site ouvre la confirmation automatiquement.</p>
+    </section>
+    <section id="install-desktop" class="install-guide" hidden>
+      <p><b>Chrome / Edge :</b> utilise l’icône d’installation dans la barre d’adresse, ou le menu du navigateur → Installer Gardenz Actuz.</p>
+      <p><b>Safari sur Mac :</b> Fichier → Ajouter au Dock.</p>
+    </section>
+    <section id="install-embedded" class="install-guide" hidden>
+      <p>Ce navigateur intégré ne permet pas toujours l’installation. Ouvre le menu de cette fenêtre et choisis <b>Ouvrir dans Safari</b> ou <b>Ouvrir dans Chrome</b>.</p>
+      <p>Tu peux aussi copier l’adresse ci-dessous et l’ouvrir dans ton navigateur habituel.</p>
+      <label class="copy-label" for="site-address">Adresse de ton journal</label><input id="site-address" type="url" readonly>
+      <button id="copy-address" type="button">Copier le lien</button><p id="copy-feedback" class="quiet" role="status" aria-live="polite"></p>
+    </section>
+    <p id="install-no-settings" class="installation-reassurance">Tout se passe depuis le site et ton navigateur. Aucun réglage du téléphone à modifier.</p>
+    <details class="install-more"><summary>Archives et lecture hors connexion</summary><p>Après le premier chargement complet, les éditions incluses sont consultables hors connexion. Les liens vers les médias demandent une connexion.</p><p class="quiet">L’application vérifie les éditions publiées à l’ouverture, au retour dans l’application et toutes les cinq minutes pendant sa lecture. Sans réseau, elle conserve les archives déjà téléchargées et l’indique.</p></details>
+  </dialog>
+</body>
+</html>
