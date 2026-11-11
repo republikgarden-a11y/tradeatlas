@@ -24,6 +24,10 @@ class CollectorTests(unittest.TestCase):
         self.assertNotIn('bad()', items[0]['excerpt'])
         self.assertEqual(items[0]['title'], 'CBD')
 
+    def test_excerpt_removes_source_boilerplate(self):
+        text = 'Une actualité utile. La version originale de ce contenu provient du média.'
+        self.assertEqual(refresh.short_excerpt(text, 'Titre'), 'Une actualité utile.')
+
     def test_no_arbitrary_four_article_limit(self):
         data = rss([(f'Article {n}', f'https://example.org/{n}', 'Wed, 11 Nov 2026 08:00:00 GMT', '') for n in range(12)])
         self.assertEqual(len(refresh.parse(data, SOURCE, NOW)), 12)

@@ -71,7 +71,7 @@ def short_excerpt(value, title):
     text = clean(value)
     if text.casefold().startswith(title.casefold()):
         text = text[len(title):].lstrip(' .:–—-')
-    text = re.split(r'\b(?:The post|Cet article|L’article .* est apparu)\b', text)[0].strip()
+    text = re.split(r'\b(?:The post|Cet article|La version originale de ce contenu|L’article .* est apparu)\b', text)[0].strip()
     if len(text) > 220:
         text = text[:220].rsplit(' ', 1)[0].rstrip(' ,;:') + '…'
     return text
@@ -183,6 +183,7 @@ def publish(results, now, previous):
             item.update({key: value for key, value in stored[ident].items() if key in ('image', 'imageSource', 'credit', 'collectedAt')})
         stored[ident] = item
     for item in stored.values():
+        item['excerpt'] = short_excerpt(item.get('excerpt', ''), item['title'])
         item.setdefault('topics', classify(item['title'], item.get('excerpt', '')))
         item.setdefault('kind', 'Article')
     candidates = sorted((item for item in fresh.values() if not item.get('image')),
@@ -205,6 +206,8 @@ def publish(results, now, previous):
         snapshot_path = history / (day + '.json')
         old_day = read_json(snapshot_path, {})
         daily = {item['id']: item for item in old_day.get('items', [])}
+        for item in daily.values():
+            item['excerpt'] = short_excerpt(item.get('excerpt', ''), item['title'])
         daily.update({item['id']: item for item in stored.values() if date(item['publishedAt']) >= now - dt.timedelta(hours=24)})
         snapshot = {**data, 'date': day, 'items': sorted(daily.values(), key=lambda item: date(item['publishedAt']), reverse=True)}
         write_json(snapshot_path, snapshot)

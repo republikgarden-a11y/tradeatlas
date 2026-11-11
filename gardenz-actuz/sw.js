@@ -1,5 +1,5 @@
 // The shell is refreshed from the network; read articles/images remain available offline.
-const CACHE='gardenz-actuz-v3-a1a386885af9';
+const CACHE='gardenz-actuz-v3-3f8f850ff47e';
 const FILES=["./", "index.html", "app.css", "app.js", "journal.css", "install.css", "live.css", "live.js", "manifest.webmanifest", "assets/fraktur.ttf", "assets/icon-192.png", "assets/icon-512.png", "editions.json", "data/latest.json", "data/index.json"];
 const scopeURL=new URL(self.registration.scope);
 const keyFor=url=>new Request(url.origin+url.pathname);
@@ -46,13 +46,13 @@ self.addEventListener('fetch',event=>{
   if(/\/assets\/.*\.(?:jpg|jpeg|png|webp|ttf|woff2)$/.test(url.pathname)){
     event.respondWith((async()=>{
       const cached=await caches.match(key);if(cached)return cached;
-      const response=await fetch(request);if(response.ok)await cachePut(key,response);return response;
+      const response=await fetch(request);if(response.ok){try{await cachePut(key,response)}catch{}}return response;
     })());return;
   }
   event.respondWith((async()=>{
     try{
       const response=await fetch(request,{cache:'no-store'});if(!response.ok)throw new Error('HTTP '+response.status);
-      await cachePut(key,response);return response;
+      try{await cachePut(key,response)}catch{}return response;
     }catch(error){const cached=await caches.match(key);if(cached)return offlineResponse(cached);throw error;}
   })());
 });
