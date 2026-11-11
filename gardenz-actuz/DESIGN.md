@@ -82,6 +82,11 @@ components:
   masthead:
     textColor: "{colors.ink}"
     typography: "{typography.display}"
+  translation-toggle:
+    backgroundColor: "#edf0e4"
+    textColor: "{colors.green}"
+    rounded: "{rounded.control}"
+    padding: "9px 12px"
 ---
 
 # Design System: Gardenz Actuz
@@ -165,6 +170,12 @@ Les vues sont des onglets plats. L’onglet actif associe graisse renforcée, te
 ### Chips
 
 Les rubriques sont des pastilles à filet beige. La rubrique sélectionnée utilise un fond vert et un texte blanc ; `aria-pressed` porte son état. Elles restent sur une ligne défilante sur mobile.
+
+### Translation switch
+
+La barre de langue reste sur le papier clair, séparée par un filet beige. Son interrupteur utilise la typographie sans sérif (600, 14px), les angles des contrôles (3px) et un espacement interne de (9px 12px). Le français est activé par défaut et le choix est mémorisé. Le bouton natif porte `role="switch"` et `aria-checked` ; il reste utilisable au clavier, avec le focus vert commun.
+
+L’état actif associe texte vert, fond vert très pâle, piste verte et déplacement du curseur. Le libellé explicite et le statut annoncé accompagnent cet état. Le lecteur conserve les liens vers l’article et sa version originale ; ils se répartissent sur plusieurs lignes si nécessaire. À (760px) et moins, la barre se replie, le statut occupe une ligne complète et le bouton passe à (13px). La barre est masquée à l’impression.
 
 ### Cards / Containers
 

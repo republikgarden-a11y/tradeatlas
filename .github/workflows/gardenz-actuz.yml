@@ -38,12 +38,13 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.cache/huggingface/hub
-          key: actuz-qwen3-translation-model-v1
+          key: actuz-translation-models-v2
       - name: Installer le moteur de traduction local
         id: moteur
         timeout-minutes: 5
         continue-on-error: true
         run: |
+          python -m pip install --quiet --index-url https://download.pytorch.org/whl/cpu torch==2.8.0
           python -m pip install --quiet --only-binary=llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu -r gardenz-actuz/scripts/translation-requirements.txt
       - name: Contrôler le collecteur
         run: |

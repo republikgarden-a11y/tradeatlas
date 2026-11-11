@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-11T15:05:19Z",
+  "generatedAt": "2026-11-11T16:00:41Z",
   "title": "Design System: Gardenz Actuz",
   "extensions": {
     "colorMeta": {
@@ -230,6 +230,14 @@
       "description": "Signature Fraktur et doubles filets du journal.",
       "html": "<header class=\"ds-masthead\"><h1>Gardenz Actuz</h1><p>Le journal du cannabis · CBD · Chanvre</p></header>",
       "css": ".ds-masthead{color:var(--ink,#30271c)}.ds-masthead h1{font:clamp(58px,8.5vw,96px)/1.12 Fraktur,serif;text-align:center;margin:5px 0 16px;letter-spacing:-.015em}.ds-masthead p{border-top:1px solid currentColor;border-bottom:4px double currentColor;padding:9px 0;font:14px/1.6 system-ui,sans-serif;text-transform:uppercase;letter-spacing:.07em;margin:0}@media(max-width:760px){.ds-masthead h1{font-size:clamp(48px,11.8vw,76px);white-space:nowrap}.ds-masthead p{font-size:11px;text-align:center}}"
+    },
+    {
+      "name": "Français activé",
+      "kind": "custom",
+      "refersTo": "translation-toggle",
+      "description": "Interrupteur de langue activé par défaut, choix mémorisé, commande clavier et aria-checked ; statut et accès à l’original restent explicites.",
+      "html": "<section class=\"ds-translation-bar\" aria-label=\"Traduction des actualités\"><button class=\"ds-translation-toggle\" role=\"switch\" aria-checked=\"true\" aria-label=\"Traduire les articles en français\" type=\"button\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.7\" aria-hidden=\"true\"><path d=\"M3 5h12M9 2v3M6 5c0 5 4 9 8 10M12 5c0 5-4 9-8 11M14 21l4-10 4 10M15.5 17h5\"/></svg><span>Français : activé</span><span class=\"ds-toggle-track\" aria-hidden=\"true\"><span></span></span></button><p class=\"ds-translation-status\" role=\"status\" aria-live=\"polite\">Titres et extraits en français. Un clic pour retrouver l’original.</p></section><div class=\"ds-source-links\"><a class=\"ds-read-source\" href=\"#article\">Lire l’article ↗</a><a class=\"ds-original-source\" href=\"#original\">Lire l’original ↗</a></div>",
+      "css": ".ds-translation-bar{max-width:1280px;margin:auto;background:var(--paper,#f7f2e6);border-bottom:1px solid var(--line,#c5b9a3);padding:11px 34px;display:flex;gap:18px;align-items:center}.ds-translation-toggle{display:flex;align-items:center;gap:9px;font:600 14px/1.4 system-ui,sans-serif;padding:9px 12px;white-space:nowrap;flex:none;min-height:44px;border:1px solid var(--line,#c5b9a3);border-radius:3px;background:transparent;color:var(--ink,#30271c);cursor:pointer}.ds-translation-toggle svg{width:20px;height:20px;flex:none}.ds-translation-toggle[aria-checked=true]{color:var(--green,#35543c);border-color:#90a18a;background:#edf0e4}.ds-toggle-track{display:inline-flex;align-items:center;width:30px;height:18px;border-radius:15px;padding:3px;background:#b8b1a4}.ds-toggle-track>span{width:12px;height:12px;border-radius:50%;background:white}.ds-translation-toggle[aria-checked=true] .ds-toggle-track{background:var(--green,#35543c)}.ds-translation-toggle[aria-checked=true] .ds-toggle-track>span{transform:translateX(12px)}.ds-translation-toggle:focus-visible,.ds-source-links a:focus-visible{outline:3px solid var(--green,#35543c);outline-offset:4px}.ds-translation-status{font:13px/1.5 system-ui,sans-serif;color:var(--muted,#6b5b45);margin:0}.ds-source-links{display:flex;gap:10px 18px;flex-wrap:wrap;align-items:center}.ds-source-links a{text-underline-offset:4px}.ds-read-source{font:600 14px/1.4 system-ui,sans-serif;color:var(--green,#35543c)}.ds-original-source{font:12px/1.5 system-ui,sans-serif;color:var(--muted,#6b5b45)}@media(max-width:760px){.ds-translation-bar{padding:10px 20px;gap:8px;flex-wrap:wrap}.ds-translation-toggle{font-size:13px;padding:8px 10px}.ds-translation-status{font-size:12px;flex-basis:100%}.ds-source-links{gap:8px 14px}}@media print{.ds-translation-bar{display:none}}"
     }
   ],
   "narrative": {

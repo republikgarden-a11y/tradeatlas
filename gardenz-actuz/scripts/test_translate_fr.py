@@ -1,6 +1,6 @@
 import copy
 import unittest
-from translate_fr import prepare_documents, source_hash, valid_translation
+from translate_fr import prepare_documents, source_hash, valid_translation, clean_french, english_input
 
 class TranslationTests(unittest.TestCase):
     def item(self, language='en'):
@@ -8,6 +8,23 @@ class TranslationTests(unittest.TestCase):
 
     def translator(self, language, texts):
         return ['Recherche sur le cannabis médical' if text == 'Medical cannabis research' else 'L’étude suit 100 patients.' for text in texts]
+
+    def test_political_sense_does_not_change_literal_floating(self):
+        self.assertIn('Committee suggests', english_input('Senate Committee Floats Marijuana As Alternative'))
+        self.assertEqual(english_input('A leaf floats on the water'), 'A leaf floats on the water')
+        self.assertIn('draft law', english_input('cannabis banking bill'))
+
+    def test_observed_spelling_and_count_formatting(self):
+        self.assertEqual(clean_french('Substances psihédéliques et article de opinion'), 'Substances psychédéliques et article d’opinion')
+        self.assertEqual(clean_french('3.744 patients', 'de'), '3 744 patients')
+        self.assertEqual(clean_french('0.003 mg', 'de'), '0.003 mg')
+        self.assertEqual(clean_french('médicaments à base de cannabinoïdes', 'en', 'Cannabinoid medicine'), 'médecine des cannabinoïdes')
+
+    def test_preserves_currency_and_pending_legal_status(self):
+        self.assertEqual(clean_french('12 millions d’euros', 'en', '£12m recapitalisation'), '12 millions de livres sterling')
+        self.assertEqual(clean_french('12 millions d’euros', 'en', '£12m and €12m'), '12 millions d’euros')
+        self.assertEqual(clean_french('Plusieurs lois sur la légalisation', 'en', 'Several legalization bills'), 'Plusieurs projets de loi visant la légalisation')
+        self.assertEqual(english_input('£12m'), '12 million British pounds')
 
     def test_preserves_originals_and_reuses_daily_duplicate(self):
         item=self.item(); french=dict(id='fr',language='fr',title='Titre français',excerpt='Extrait',url='https://example.org/fr')

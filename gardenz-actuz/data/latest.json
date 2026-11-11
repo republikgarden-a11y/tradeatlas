@@ -95,12 +95,12 @@
         "sourceHash": "4b0525f56ad5fd3956d83fa2f238d58c6b6594bcf35e8e3ce410438d69209a76",
         "sourceTitle": "Multiple Adult-Use Cannabis Legalization Bills Pre-Filed In Texas",
         "sourceExcerpt": "Texas Democrats pre-filed three adult-use cannabis legalization proposals this week, NewsRadio 1080 KRLD reports. State Reps. John Bucy III of Austin and Joe Moody of El Paso filed HB 362 and HB 369, respectively, both…",
-        "title": "Plusieurs projets de légalisation de l'usage adulte du cannabis sont déposés en Texas",
-        "excerpt": "Les démocrates du Texas ont déposé trois propositions de légalisation de l'usage adulte du cannabis cette semaine, rapporte NewsRadio 1080 KRLD. Les députés John Bucy III d'Austin et Joe Moody d'El Paso ont présenté respectivement les projets HB 362 et HB 369, tous deux…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Plusieurs projets de loi visant la légalisation du cannabis à usage adulte pré-déposées au Texas",
+        "excerpt": "Les démocrates du Texas ont déposé trois propositions de légalisation du cannabis pour adultes cette semaine, rapporte NewsRadio 1080 KRLD. Les représentants de l'État John Bucy III d'Austin et Joe Moody d'El Paso ont déposé HB 362 et HB 369, respectivement, tous deux...",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:09:19.969632+00:00"
       }
     },
     {
@@ -127,12 +127,12 @@
         "sourceHash": "e3af1429388d92fd03c0f6cd2b065ffb35d61be4bc5d46bca7eea1f7d8d22b2a",
         "sourceTitle": "New Hampshire Could Finally Legalize Adult-Use Cannabis After Democrats’ Big Win",
         "sourceExcerpt": "New Hampshire state Rep. Jared Sullivan (D) of Bethlehem said that the state is closer than ever to legalizing adult-use cannabis after Democrats won control of both the state House and Senate last week, Valley News…",
-        "title": "New Hampshire pourrait enfin légaliser l'usage adulte du cannabis après la grande victoire des démocrates",
-        "excerpt": "Le député Jared Sullivan (D) de Bethlehem a déclaré que l'État s'approche de plus en plus de la légalisation de l'usage adulte du cannabis après que les démocrates aient pris le contrôle de la chambre des représentants et du sénat la semaine dernière, rapporte Valley News…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Le New Hampshire pourrait enfin légaliser le cannabis pour adultes après la grande victoire des démocrates",
+        "excerpt": "Le représentant de l'État du New Hampshire, Jared Sullivan (D), de Bethléem, a déclaré que l'État était plus proche que jamais de la légalisation du cannabis à usage adulte après que les démocrates aient pris le contrôle de la Chambre et du Sénat de l'État la semaine dernière.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:09:19.969632+00:00"
       }
     },
     {
@@ -160,8 +160,8 @@
         "sourceHash": "b1fd4ba7f55a26ba992e5ace92644a8246f3733ac0ed5a6cca1079e4c79b1ca3",
         "sourceTitle": "3.744 Schmerzpatienten, 5 Verlaufstypen: Was das britische Cannabis-Register zeigt",
         "sourceExcerpt": "Eine neue Auswertung des britischen Medizinalcannabis-Registers verfolgt 3.744 Schmerzpatienten über bis zu zwei Jahre. Im Mittel verbessern sich Schmerzen, Schlaf, Angst und Lebensqualität. Interessanter als der…",
-        "title": "3.744 patients souffrant de douleurs, 5 types d'évolution : ce que montre le registre britannique du cannabis médical",
-        "excerpt": "Une nouvelle analyse du registre britannique du cannabis médical suit 3.744 patients en souffrant de douleurs pendant jusqu'à deux ans. En moyenne, les douleurs, le sommeil, l'anxiété et la qualité de vie s'améliorent. Ce qui est particulièrement intéressant, c'est que…",
+        "title": "3 744 patients souffrant de douleurs, 5 types d'évolution : ce que montre le registre britannique du cannabis médical",
+        "excerpt": "Une nouvelle analyse du registre britannique du cannabis médical suit 3 744 patients souffrant de douleurs pendant jusqu'à deux ans. En moyenne, les douleurs, le sommeil, l'anxiété et la qualité de vie s'améliorent. Ce qui est particulièrement intéressant, c'est que…",
         "engine": "Qwen3 · traduction contextuelle locale",
         "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
         "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
@@ -192,12 +192,12 @@
         "sourceHash": "a5ff15381817113b92d5a0cadd1d4ba61d5117e126f8a75e126c6c2f425eadf2",
         "sourceTitle": "Iowa’s Incoming Governor Says Legalizing Marijuana Can Generate ‘Hundreds Of Millions Of Dollars’ For The State",
         "sourceExcerpt": "Rob Sand, the Democrat who won Iowa’s gubernatorial election last week, says he plans to move forward with a proposal to legalize marijuana in the state—arguing that it could generate “hundreds of millions of dollars”…",
-        "title": "Le nouveau gouverneur de l'Iowa affirme que la légalisation du cannabis pourrait générer « des centaines de millions de dollars » pour l'État",
-        "excerpt": "Rob Sand, démocrate ayant remporté l'élection du gouverneur de l'Iowa la semaine dernière, affirme qu'il prévoit de poursuivre une proposition visant à légaliser le cannabis dans l'État—en argumentant qu'il pourrait générer « des centaines de millions de dollars »…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Le nouveau gouverneur de l’Iowa affirme que la légalisation de la marijuana peut générer «des centaines de millions de dollars» pour l’État",
+        "excerpt": "Rob Sand, le démocrate qui a remporté les élections au poste de gouverneur de l’Iowa la semaine dernière, a déclaré qu’il prévoyait d’aller de l’avant avec une proposition de légalisation de la marijuana dans l’État, affirmant que cela pourrait générer «des centaines de millions de dollars» ...",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -245,12 +245,12 @@
         "sourceHash": "806fc5ccd222dc66063f68c3de5e24fa119aa38712606f190282e0dcc192ba57",
         "sourceTitle": "Senate Committee Floats Marijuana As Opioid Alternative, Encourages Psychedelic Research And Raises Concerns Over Cannabis-Infused Foods",
         "sourceExcerpt": "A key Senate committee is directing federal agencies to consider medical marijuana as an opioid alternative as well as the therapeutic benefits of psychedelics—while also encouraging hemp cultivar and germplasm…",
-        "title": "Le comité sénatorial propose le cannabis comme alternative aux opioïdes, encourage la recherche sur les substances psihédéliques et souligne des préoccupations concernant les aliments contenant du cannabis",
-        "excerpt": "Un comité sénatorial dirige les agences fédérales à envisager le cannabis médical comme alternative aux opioïdes ainsi que les bénéfices thérapeutiques des substances psihédéliques—tout en encourageant la culture de variétés de chanvre et de matériel génétique…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Le Comité sénatorial suggère la marijuana comme alternative aux opioïdes, encourage la recherche psychédélique et soulève des inquiétudes au sujet des aliments infusés au cannabis",
+        "excerpt": "Un comité clé du Sénat ordonne aux organismes fédéraux de considérer la marijuana médicale comme une alternative aux opioïdes ainsi que les avantages thérapeutiques des psychédéliques, tout en encourageant le cultivar de chanvre et le germoplasme.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -278,12 +278,12 @@
         "sourceHash": "e2ac15a91622e320f9c6748771487573520254776e2f9709b406263fffd9225d",
         "sourceTitle": "Evidence, Access and the Future of Cannabinoid Medicine: Key Takeaways from Cannabis Health Symposium Frankfurt — Part 2",
         "sourceExcerpt": "Last week, Cannabis Health Symposium hosted its first event in Frankfurt, bringing together healthcare professionals, researchers, policymakers and industry operators.",
-        "title": "Des preuves, l'accès et l'avenir des médicaments à base de cannabinoïdes : les points clés du symposium sur la santé du cannabis à Francfort — Partie 2",
-        "excerpt": "La semaine dernière, le symposium sur la santé du cannabis a organisé son premier événement à Francfort, rassemblant des professionnels de la santé, des chercheurs, des décideurs politiques et des opérateurs de l'industrie.",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Preuves, accès et avenir de la médecine des cannabinoïdes: principaux enseignements du symposium sur la santé du cannabis de Francfort – Partie 2",
+        "excerpt": "La semaine dernière, le Cannabis Health Symposium a organisé son premier événement à Francfort, réunissant des professionnels de la santé, des chercheurs, des décideurs et des opérateurs de l’industrie.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -310,12 +310,12 @@
         "sourceHash": "f0e9a2234f65c728692e330c9eb9710b784985202efdfabc371b07106140a16e",
         "sourceTitle": "We Say We Support Veterans, But Why Is Accessing Medical Cannabis Still So Difficult? (Op-Ed)",
         "sourceExcerpt": "“This Veterans Day, let’s measure our support in more than ceremonies and dispensary discounts.” By Narith Panh, Dragonfly Wellness Every Veterans Day, communities across the country thank the men and women who served.…",
-        "title": "Nous disons que nous soutenons les vétérans, mais pourquoi l'accès au cannabis médical reste-t-il encore si difficile ? (Article de opinion)",
-        "excerpt": "« Ce jour des vétérans, mettons nos engagements en œuvre au-delà des cérémonies et des réductions dans les dispensaires. » Par Narith Panh, Dragonfly Wellness Chaque jour des vétérans, des communautés dans tout le pays remercient les hommes et les femmes qui ont servi…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Nous disons que nous soutenons les anciens combattants, mais pourquoi l’accès au cannabis médical est-il encore si difficile?",
+        "excerpt": "« En cette Journée des anciens combattants, mesurons notre soutien dans plus que des cérémonies et des rabais sur les dispensaires. » Par Narith Panh, Dragonfly Wellness Chaque Journée des anciens combattants, les communautés de tout le pays remercient les hommes et les femmes qui ont servi....",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -343,12 +343,12 @@
         "sourceHash": "c54412966b71f2bdb9d8acf8c66683acac54152239f75194e5608f85eabbd4ed",
         "sourceTitle": "Governors press Congress for cannabis banking bill (Newsletter: November 11, 2026)",
         "sourceExcerpt": "NC House speaker on marijuana as a priority; TX legalization bills filed; NH cannabis prospects in 2027; Marijuana tax op-ed; Industry & GOP op-ed Subscribe to receive Marijuana Moment’s newsletter in your inbox every…",
-        "title": "Les gouverneurs pressent le Congrès pour une loi sur les banques du cannabis (Newsletter : 11 novembre 2026)",
-        "excerpt": "Le président de la Chambre des représentants du NC souligne le cannabis comme priorité ; des projets de loi de légalisation du cannabis déposés en Texas ; les perspectives du cannabis en Nou-Hampshire en 2027 ; article d'opinion sur l'impôt sur le cannabis ; article d'opinion sur l'industrie et le Parti républicain. Abonnez-vous pour recevoir la newsletter Marijuana Moment dans votre boîte de réception chaque…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Les gouverneurs pressent le Congrès pour un projet de loi sur les services bancaires pour l'industrie du cannabis (Newsletter: 11 novembre 2026)",
+        "excerpt": "Caroline du Nord président de la Chambre sur la marijuana comme une priorité; Texas projets de loi de légalisation déposée; New Hampshire perspectives de cannabis en 2027; article d'opinion de la marijuana sur la fiscalité; Industrie et GOP op-ed",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -398,12 +398,12 @@
         "sourceHash": "6100c61e7a816c1a416427785b7b719fedf6c7cb871a85629fa794fd911c8398",
         "sourceTitle": "Grow Group Completes £12m Recapitalisation and Restructuring, Appoints Co-CEOs and Completes Transition to Full Operations at its UK Manufacturing Facility",
         "sourceExcerpt": "Grow Group has announced the completion of a recapitalisation, has appointed Co-CEOs, and now expects to generate healthy EBITDA in 2027.",
-        "title": "Grow Group finalise une recapitalisation de 12 millions de livres et une restructuration, nomme deux co-Présidents exécutifs et termine la transition vers des opérations pleinement fonctionnelles à son site de fabrication britannique",
-        "excerpt": "Grow Group a annoncé la finalisation d'une recapitalisation, a nommé deux co-Présidents exécutifs et attend désormais de générer un EBITDA solide en 2027.",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Grow Group achève la recapitalisation et la restructuration de 12 millions de livres sterling, nomme des codirecteurs généraux et achève la transition vers des opérations complètes dans son usine de fabrication au Royaume-Uni",
+        "excerpt": "Grow Group a annoncé la finalisation d’une recapitalisation, a nommé des codirecteurs généraux et prévoit désormais de générer un EBITDA sain en 2027.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -463,12 +463,12 @@
         "sourceHash": "8dc4700738d2b4c3b3c1620c08f4505b7ffe8b6aa37c04509aa26e184d69ce97",
         "sourceTitle": "Nebraska Medical Marijuana Officials Clarify That They Haven’t Set A Timeline For Product Testing",
         "sourceExcerpt": "“The commission remains focused on advancing this work in a deliberate and responsible manner, with the goal of establishing a functional, compliant medical cannabis program.” By Zach Wendling, Nebraska Examiner The…",
-        "title": "Les autorités du cannabis médical du Nebraska précise qu'elles n'ont pas fixé un calendrier pour le contrôle des produits",
-        "excerpt": "« La commission reste concentrée sur le développement de ce travail de manière délibérée et responsable, avec pour objectif d'établir un programme de cannabis médical fonctionnel et conforme. » Par Zach Wendling, Nebraska Examiner The…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Les responsables de la marijuana médicale du Nebraska clarifient qu'ils n'ont pas fixé de calendrier pour les tests de produits",
+        "excerpt": "\"La commission reste concentrée sur l'avancement de ce travail de manière délibérée et responsable, dans le but d'établir un programme de cannabis médical fonctionnel et conforme.\" Par Zach Wendling, Nebraska Examiner",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -495,12 +495,12 @@
         "sourceHash": "abca4c87cb391bf107d53d9b2439d15cb824f417d62f00f52c7fc7a4522e3c9b",
         "sourceTitle": "We Should Tax Marijuana By Its THC Potency, Not Its Price (Op-Ed)",
         "sourceExcerpt": "“THC taxes, aiming squarely at cannabis’s main intoxicating molecule, are stable; they keep nudging against intoxication and rising potency, even as pre-tax prices fall.” By Pat Oglesby, Center for New Revenue When…",
-        "title": "Nous devrions imposer une taxe sur le cannabis en fonction de sa teneur en THC, et non de son prix (article de opinion)",
-        "excerpt": "« Les taxes sur le THC, ciblant directement la molécule principale responsable de l'effet psychoactif du cannabis, sont stables ; elles exercent une pression constante contre l'intoxication et l'augmentation de la puissance, même lorsque les prix pré-taxe baissent. » Par Pat Oglesby, Center for New Revenue When…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Nous devrions taxer la marijuana par sa puissance THC, pas son prix (Tribune)",
+        "excerpt": "« Les taxes sur le THC, qui visent carrément la principale molécule enivrante du cannabis, sont stables ; elles continuent de lutter contre l’intoxication et l’augmentation de la puissance, alors même que les prix avant impôts baissent. »",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -527,12 +527,12 @@
         "sourceHash": "7a3ab9fb993a0e9daef81b8ee1d4fc0e208b624b21d21e026013bd3d3282e169",
         "sourceTitle": "Decriminalizing Marijuana In North Carolina Is ‘On Top Of Everybody’s Minds,’ Incoming House Speaker Says",
         "sourceExcerpt": "North Carolina is poised to substantially reform its marijuana laws following last week’s midterm elections in which Democrats won control of at least the House of Representatives, a top lawmaker says.…",
-        "title": "Désamnistifier le cannabis en Caroline du Nord est « au cœur des esprits », selon le nouveau président de la Chambre des représentants, qui l’a déclaré.",
-        "excerpt": "La Caroline du Nord est en position de réformer de manière importante ses lois sur le cannabis après les élections de mi-mandat passées, où les démocrates ont obtenu le contrôle du moins de la Chambre des représentants, selon un haut fonctionnaire.",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "La décriminalisation de la marijuana en Caroline du Nord est «une priorité pour tous», déclare le président entrant de la Chambre",
+        "excerpt": "La Caroline du Nord est sur le point de réformer substantiellement ses lois sur la marijuana après les élections de mi-mandat de la semaine dernière au cours desquelles les démocrates ont pris le contrôle d’au moins la Chambre des représentants, a déclaré un législateur de premier plan.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -559,12 +559,12 @@
         "sourceHash": "faf9c95d7dd7690570017ce576ad5c5dc1d3c5f34aba3acb9bfab881ee0d8c3f",
         "sourceTitle": "The Cannabis Industry Bet on False Prophets, And Election Night Exposed the Cost (Op-Ed)",
         "sourceExcerpt": "“The industry’s pursuit of Republican gatekeepers has come at the expense of priorities such as patient protections, home cultivation and social equity, treating them as bargaining chips rather than principles worth…",
-        "title": "L'industrie du cannabis a misé sur des prophètes fausses, et la nuit des élections a révélé le coût (article de opinion)",
-        "excerpt": "L'industrie du cannabis a poursuivi les gardiens républicains au détriment de priorités telles que la protection des patients, la culture à domicile et l'équité sociale, les traitant comme des négociations plutôt que comme des principes dignes de…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "L’industrie du cannabis parie sur les faux prophètes, et la nuit des élections a révélé le coût (Tribune)",
+        "excerpt": "La poursuite par l’industrie des gardiens républicains s’est faite au détriment des priorités telles que la protection des patients, la culture à domicile et l’équité sociale, les traitant comme des moyens de négociation plutôt que comme des principes valant la peine.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -626,12 +626,12 @@
         "sourceHash": "7c67b4cf46ae50ea460d4a0252d8364f04e910d417450f3ba77564f23414a4d9",
         "sourceTitle": "What Does the Democratic Sweep Mean for US Cannabis?",
         "sourceExcerpt": "Last week’s US midterm elections have transformed the political map of the country, handing both the House and the Senate over to the Democrats. Now that the dust has settled, the implications of what this historic…",
-        "title": "Qu'est-ce que le succès démocratique signifie pour le cannabis aux États-Unis ?",
-        "excerpt": "Les élections fédérales de la semaine dernière ont transformé la carte politique du pays, remettant les chambres du Sénat et de la Chambre des représentants entre les mains des démocrates. Maintenant que la poussière est retombée, les conséquences de ce changement historique…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Qu'est-ce que la large victoire électorale des démocrates signifie pour le cannabis américain?",
+        "excerpt": "Les élections américaines de mi-mandat de la semaine dernière ont transformé la carte politique du pays, remettant à la fois la Chambre et le Sénat aux démocrates. Maintenant que la poussière est retombée, les implications de ce...",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -659,12 +659,12 @@
         "sourceHash": "037d2990ee99685c35559c09c2e08f2b5e88638387d6b9b5477108cc5427338c",
         "sourceTitle": "16 Governors From Across The U.S. Push Congress To Pass Marijuana Banking Bill",
         "sourceExcerpt": "A coalition of 16 governors from across the U.S. is calling on Congress to pass legislation to increase marijuana businesses’ access to banks, saying it will “protect public safety, increase revenues, and improve…",
-        "title": "16 gouverneurs des États-Unis demandent à Congress de passer une loi sur le crédit bancaire pour le cannabis",
-        "excerpt": "Un groupe de 16 gouverneurs des États-Unis demande à Congress de passer une législation visant à améliorer l'accès des entreprises de cannabis aux banques, affirmant qu'elle « protégera la sécurité publique, augmentera les recettes et améliorera…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "16 gouverneurs de partout aux États-Unis poussent le Congrès à adopter le projet de loi bancaire sur la marijuana",
+        "excerpt": "Une coalition de 16 gouverneurs de partout aux États-Unis demande au Congrès d’adopter une loi pour accroître l’accès des entreprises de marijuana aux banques, affirmant qu’elle «protégera la sécurité publique, augmentera les revenus et améliorera la santé publique».",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -691,12 +691,12 @@
         "sourceHash": "4e696dd5fc83a3c4cddb66a9038ca56ee582b09a7ab02f56e43b23db0988a6a7",
         "sourceTitle": "Marijuana Would Be Legalized Statewide In Texas Under New Bills Filed For 2027 Session",
         "sourceExcerpt": "Just one week after the midterm elections put Texas Democrats in control of statewide offices and gave the party a majority in the House of Representatives, lawmakers have begun prefiling bills for the 2027 session to…",
-        "title": "Le cannabis serait légalisé à l'échelle étatique au Texas grâce à de nouvelles propositions de loi déposées pour la session 2027",
-        "excerpt": "Un seul week-end après les élections mi-terme qui ont mis les démocrates en contrôle des offices étatiques au Texas et leur ont donné une majorité dans la Chambre des représentants, les députés ont commencé à préparer des projets de loi pour la session 2027 afin de…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "La marijuana serait légalisée dans tout l'État du Texas en vertu de nouveaux projets de loi déposés pour 2027 session",
+        "excerpt": "Une semaine à peine après les élections de mi-mandat qui ont mis les démocrates du Texas au contrôle des bureaux à l’échelle de l’État et donné au parti une majorité à la Chambre des représentants, les législateurs ont commencé à déposer des projets de loi pour la session de 2027.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -743,12 +743,12 @@
         "sourceHash": "e8ecb571d82f5a88a1963117203001638a1987eca85e67f3c1b213aa1789b30d",
         "sourceTitle": "Wisconsin: Lawmakers Announce Intentions to Advance Adult-Use Legalization",
         "sourceExcerpt": "\"Wisconsin is among the nation’s leaders in marijuana possession arrests and it is remains one of the few states lacking significant medical cannabis access or legal protections. It’s time for the Badger State to shed…",
-        "title": "Wisconsin : les parlementaires annoncent leurs intentions de promouvoir la légalisation de l'usage adulte",
-        "excerpt": "\"Wisconsin est parmi les États leaders en termes d'arrestations pour possession de cannabis et reste l'un des seuls États sans accès significatif au cannabis médical ni protections légales. Il est temps que l'État des Badgers s'engage à…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Wisconsin: Les législateurs annoncent leur intention de faire progresser la légalisation de l’usage adulte du cannabis",
+        "excerpt": "« Le Wisconsin est l’un des chefs de file du pays en matière d’arrestations pour possession de marijuana et reste l’un des rares États à ne pas disposer d’un accès significatif au cannabis médical ni de protections juridiques.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -828,12 +828,12 @@
         "sourceHash": "99ffe613cc25f67f8575a04ca59ff8099a2b8ad47071551363a8a46f1334842f",
         "sourceTitle": "Notes from a Scaling Healthcare Business: Governance First",
         "sourceExcerpt": "In the first of a new three-part series, Graham Woodward, Chief Medical Officer at Releaf, sat down with Business of Cannabis to discuss what it takes to scale a medical cannabis clinic from three patients to tens of…",
-        "title": "Des notes d'une entreprise de santé en croissance : la gouvernance en premier",
-        "excerpt": "Première édition d'une nouvelle série de trois articles, Graham Woodward, chef de la médecine à Releaf, a rencontré Business of Cannabis pour parler des conditions nécessaires à l'extension d'un cabinet de cannabis médical de trois patients à des dizaines de…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Notes d'une entreprise de soins de santé à grande échelle: la gouvernance d'abord",
+        "excerpt": "Dans le premier d’une nouvelle série en trois parties, Graham Woodward, médecin en chef chez Releaf, s’est entretenu avec Business of Cannabis pour discuter de ce qu’il faut pour faire passer une clinique de cannabis médical de trois patients à des dizaines de patients.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -881,12 +881,12 @@
         "sourceHash": "0895a54c5556076a962635dd4341a3b8d9df2d41cdb89678250c1d163f355b88",
         "sourceTitle": "French hemp industry seeks political support to double acreage and expand markets",
         "sourceExcerpt": "France’s industrial hemp industry is seeking commitments from candidates in the country’s 2027 presidential election to support a doubling of cultivation area, protect agricultural subsidies and expand markets for hemp…",
-        "title": "L'industrie du chanvre français cherche du soutien politique pour doubler sa surface de culture et étendre ses marchés",
-        "excerpt": "L'industrie du chanvre en France cherche des engagements des candidats aux élections présidentielles de 2027 afin de doubler la surface de culture, de protéger les aides agricoles et d'élargir les marchés du chanvre…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "L’industrie française du chanvre cherche un soutien politique pour doubler la superficie et élargir les marchés",
+        "excerpt": "L’industrie française du chanvre industriel cherche des engagements de la part des candidats à l’élection présidentielle de 2027 pour soutenir un doublement de la superficie cultivée, protéger les subventions agricoles et élargir les marchés du chanvre.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -916,12 +916,12 @@
         "sourceHash": "9101af14eafffee0f7ebbb4ec6caf0c6e190469d8873672e57faee19a215bcdd",
         "sourceTitle": "New Missouri Hemp and Cannabis Industry Rules Take Effect This Week",
         "sourceExcerpt": "Beginning Thursday, hemp-derived THC products, including delta-8 and THCA products, will be classified as “marijuana” in Missouri and only allowed to be sold at retailers with state-issued marijuana facility licenses…",
-        "title": "Nouvelles règles de l'industrie du chanvre et du cannabis au Missouri entrant en vigueur cette semaine",
-        "excerpt": "À partir de jeudi, les produits dérivés du chanvre contenant du THC, y compris les produits à base de delta-8 et de THCA, seront classés comme « cannabis » au Missouri et ne pourront être vendus que dans des établissements autorisés par le state avec une licence d'exploitation de cannabis…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Les nouvelles règles de l'industrie du chanvre et du cannabis du Missouri entrent en vigueur cette semaine",
+        "excerpt": "À partir de jeudi, les produits à base de THC dérivés du chanvre, y compris les produits delta-8 et THCA, seront classés comme «marijuana» dans le Missouri et ne pourront être vendus que chez les détaillants titulaires d'une licence d'établissement de marijuana délivrée par l'État.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -949,12 +949,12 @@
         "sourceHash": "03838b01f38a99d4f1b391545490c1e598976cd542681d9642a66b520f921e86",
         "sourceTitle": "Four Michigan Communities Vote to Expand or Allow Cannabis Industry Operations During Election Day",
         "sourceExcerpt": "Six Michigan communities voted on Election Day on local cannabis business operations, MLive reports. Four of the communities voted to expand or allow industry operations, while one voted to reduce licenses and another…",
-        "title": "Quatre communes du Michigan votent pour étendre ou autoriser les activités de l'industrie du cannabis le jour des élections",
-        "excerpt": "Six communes du Michigan ont voté le jour des élections sur les activités d'entreprise de cannabis local, rapporte MLive. Quatre des communes ont décidé d'élargir ou d'autoriser les opérations industrielles, tandis qu'une a voté pour réduire les licences et une autre…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Quatre communautés du Michigan votent pour étendre ou permettre les opérations de l'industrie du cannabis pendant le jour du scrutin",
+        "excerpt": "Six communautés du Michigan ont voté le jour de l'élection sur les opérations commerciales locales de cannabis, rapporte MLive. Quatre des communautés ont voté pour étendre ou autoriser les opérations de l'industrie, tandis que l'une a voté pour réduire les licences et une autre a voté pour réduire le nombre de permis.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -981,12 +981,12 @@
         "sourceHash": "fbfd4c7b4006651bf73cae0cbe508966d149ca870cd39ab3d32b19b28da88db8",
         "sourceTitle": "Workers at Zen Leaf Dispensary in Highland Park, IL End Relationship with Union",
         "sourceExcerpt": "Workers at Zen Leaf Dispensary in Highland Park, Illinois, last week received final approval to decertify their membership in the United Food and Commercial Workers (UFCW) Local 881. The workers voted 10-1 in October to…",
-        "title": "Les employés du dispensaire Zen Leaf à Highland Park, IL rompent leur relation avec l'union",
-        "excerpt": "Les employés du dispensaire Zen Leaf à Highland Park, Illinois, ont reçu la dernière approbation, la semaine dernière, de décertifier leur adhésion à l'Union des aliments et des commerçants (UFCW), local 881. Les travailleurs ont voté 10 contre 1 en octobre pour…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Les travailleurs du dispensaire Zen Leaf à Highland Park, IL mettent fin à leur relation avec le syndicat",
+        "excerpt": "Les travailleurs du dispensaire Zen Leaf à Highland Park, dans l'Illinois, ont reçu la semaine dernière l'approbation finale pour décertifier leur adhésion à la section locale 881 des Travailleurs unis de l'alimentation et du commerce (TUAC).",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -1049,7 +1049,7 @@
         "sourceHash": "6dcfb275d24d44dc09ff873a4e192cea7eb8062e61b3eef268b0a3dafcafae4a",
         "sourceTitle": "BioBloom fresh teeth: Innovative Zahnpflege mit Hydroxylapatit, Probiotika und CBD",
         "sourceExcerpt": "Anzeige / entgeltliche Einschaltung · Dieser Beitrag entsteht in bezahlter Kooperation mit BioBloom. Auswahl, Recherche und Bewertung der Inhalte liegen beim Hanf Magazin. Zahnpulver erlebt seit einigen Jahren ein…",
-        "title": "BioBloom dentaire fraîche : une soin buccal innovant avec de l'hydroxyapatite, des probiotiques et du CBD",
+        "title": "BioBloom dentaire fraîche : un soin buccal innovant avec de l'hydroxyapatite, des probiotiques et du CBD",
         "excerpt": "Publicité / participation rémunérée · Cet article est produit dans une collaboration payée avec BioBloom. La sélection, la recherche et l'évaluation des contenus relèvent du Hanf Magazin. Le poudre de dentifrice connaît depuis plusieurs années un…",
         "engine": "Qwen3 · traduction contextuelle locale",
         "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
@@ -1141,12 +1141,12 @@
         "sourceHash": "2974c9c6607be4471a89943e193e3afe615d28b8225580d26ff9136d38f2c533",
         "sourceTitle": "Pennsylvania: Senate Flip Provides Pathway for Adult-Use Legalization",
         "sourceExcerpt": "\"For far too long, Pennsylvania has existed as an island of cannabis prohibition. It is high time for lawmakers to regulate the adult-use market and put an end to the failed policy of marijuana prohibition in the…",
-        "title": "Pennsylvanie : le renversement de la majorité sénatoriale ouvre la voie à la légalisation de l'usage adulte du cannabis",
-        "excerpt": "\"Trop longtemps, la Pennsylvanie a existé comme une île de prohibition du cannabis. Il est temps pour les législateurs de réguler le marché de l'usage adulte et de mettre fin à la politique échouée de prohibition du marijuana dans le…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Pennsylvanie: le changement de majorité au Sénat ouvre la voie à la légalisation de l’usage adulte du cannabis",
+        "excerpt": "\"Pendant trop longtemps, la Pennsylvanie a existé en tant qu'île de la prohibition du cannabis. Il est grand temps pour les législateurs de réglementer le marché de l’usage adulte du cannabis et de mettre fin à la politique ratée de la prohibition de la marijuana dans le monde.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -1209,12 +1209,12 @@
         "sourceHash": "16a51497c084d270bea649bea97f1c228a13fa71629b73efdd5623e97b84f275",
         "sourceTitle": "Missouri AG Suing Four Retailers for Illegal Cannabis Sales",
         "sourceExcerpt": "Missouri Attorney General Catherine Hanaway announced last week that her office is suing four retailers for allegedly selling illegal THC products that were falsely marketed as hemp. Hanaway’s office also said that the…",
-        "title": "Missouri, l'agence fédérale poursuit quatre commerçants pour des ventes illégales de produits à base de THC",
-        "excerpt": "L'agence fédérale de Missouri, sous la direction de Catherine Hanaway, a annoncé la semaine dernière qu'elle poursuit quatre commerçants pour des produits à base de THC vendus illégalement et présentés comme du chanvre. L'agence a également déclaré que…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Le procureur général du Missouri poursuit quatre détaillants pour vente illégale de cannabis",
+        "excerpt": "La procureure générale du Missouri, Catherine Hanaway, a annoncé la semaine dernière que son bureau poursuivait quatre détaillants pour avoir prétendument vendu des produits illégaux à base de THC qui étaient faussement commercialisés sous le nom de chanvre.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     },
     {
@@ -1241,12 +1241,12 @@
         "sourceHash": "501af3d1dc17370f6780d37bcd12a482cd9b919ff9d6362574f4d7c4f66c723a",
         "sourceTitle": "Kentucky Medical Cannabis Program Surpasses 30,000 Patients",
         "sourceExcerpt": "More than 30,000 patients have registered for the Kentucky medical cannabis program, WNKY reports. Lt. Gov. Jacqueline Coleman (D) announced the milestone last Thursday during the weekly Team Kentucky update. Officials…",
-        "title": "Le programme de cannabis médical du Kentucky dépasse 30 000 patients",
-        "excerpt": "Plus de 30 000 patients ont s'inscrit au programme de cannabis médical du Kentucky, rapporte WNKY. La vice-présidente de la législature, Jacqueline Coleman (D), a annoncé ce milestone jeudi lors de la mise à jour hebdomadaire du Team Kentucky. Les autorités…",
-        "engine": "Qwen3 · traduction contextuelle locale",
-        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
-        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+        "title": "Le programme de cannabis médical du Kentucky dépasse les 30 000 patients",
+        "excerpt": "Plus de 30 000 patients se sont inscrits au programme de cannabis médical du Kentucky, rapporte WNKY. Le lieutenant-gouverneur Jacqueline Coleman (D) a annoncé cette étape jeudi dernier lors de la mise à jour hebdomadaire de l'équipe du Kentucky.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
       }
     }
   ],
@@ -1254,11 +1254,11 @@
   "schedule": "09h17, 13h17 et 18h17 · Paris",
   "notice": "Revue de presse automatique. Titres et courts extraits dans la langue des sources ; articles à lire chez leurs éditeurs. Les rubriques sont un classement automatique, pas une validation des informations.",
   "translationStatus": {
-    "engine": "Qwen3 · traduction contextuelle locale",
+    "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
     "available": 31,
     "eligible": 31,
     "status": "ok",
-    "updatedAt": "2026-11-11T15:57:29.579643+00:00"
+    "updatedAt": "2026-11-11T16:13:29.604020+00:00"
   }
 }
