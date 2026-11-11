@@ -1,13 +1,21 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-10T09:12:57Z",
-  "last_success": "2026-11-10T09:12:57Z",
+  "checked_at": "2026-11-11T09:16:45Z",
+  "last_success": "2026-11-11T09:16:45Z",
   "topics_checked": 4,
   "successful_topics": 4,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNYmFXRFJfbGRpa1VFU0NVNTJFT0FHaFJjZnd4ZEg2a2Z1YkFRRXhXalRWZTZkbnpXU3lpbUpSX2NVLUNKM01wNDNoeTU5YW9qNldpQU5lZ1J0ek41ZGdvaG0xblhEOUVqc29oS0xDSUl0Q3VpS0xQaU9WWm5XaXRDaXVjS0VCZTl4WU5VeTlVTlFOSXhBYTMxNWIyV1pFNjhMWmhEN2lZdzhJb2NqeVVRc0FuUDNCNDgyU0VUcW03dXJMRWR3SDF3ZlluOU0yTEI2dkFuOFJqSE1PeVpmUjVjbHR3YjZWSGdGZHEzZ0p2QmVKcThadU5BZWpsZlRuMm5i?oc=5",
+      "title": "Vape Manufacturer Ispire Expands Malaysia Operations, Negotiates Southeast Asia OEM Deal as Nicotine Pouch and US Age-Gating Businesses Develop - 2Firsts",
+      "topic": "Vape & accessoires",
+      "domain": "2Firsts",
+      "published_at": "2026-11-11T06:23:48Z",
+      "first_seen": "2026-11-11T09:16:45Z"
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb250cmN4anpIbzVMVjJnYTBwcUFyRkRfcUhycUFvS2NDd2FUa3o4TjNFMk1MUjUxWDQ5cE1hMi1ZT1AxMHJCOXF4UEl2cERUeUM3a3VTeHp6Y3JXS3pHVFZBZ3FWQTNZdHBaLUdRbFFjYjFZNkFJYVRvSjNWLWl6aURoNm9BanRrSEJoQ2g1eE1yRUtsRXpSeg?oc=5",
       "title": "Smoore Repurchases HK$24 Million of Shares - TipRanks",
@@ -15,6 +23,14 @@
       "domain": "TipRanks",
       "published_at": "2026-11-09T12:38:56Z",
       "first_seen": "2026-11-09T13:53:22Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY25iN3JySU5hN01PN0FHdm9XWE5HTEFwTW1tOHh1Q09qZkJTNlFQNl9KQmk0NkkyRzJOMS1TaXl4QktrN29lcmdZNTdFajkxZEsxUlNhODQ1eXFud21tWVJVWXZYUUY5NTBidlJweVhUQ1hleE1fZWJYQnZHcHpIRHUwc1RybVFRSzJxR1c2ODlsQWxVdURILWtuS3d2WDlsZXZVYVdhbFQ4aUpEWVZGRXFqZ3Y?oc=5",
+      "title": "Turning Point Brands Announces Third Quarter 2026 Results - Business Wire",
+      "topic": "Vape & accessoires",
+      "domain": "Business Wire",
+      "published_at": "2026-11-09T12:30:33Z",
+      "first_seen": "2026-11-11T09:16:45Z"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqQmlyYlpaYklHMUpiTjNZMHFpUV9fN0l5ZVQtTTBGNmV4TnV2eS1EUDV6S0gxa2dMX2NqMGR1dzdkYkNlU0NwY0Jwelhwd05NckVjOQ?oc=5",
