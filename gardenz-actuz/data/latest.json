@@ -1,72 +1,72 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-11T16:17:31.107430+00:00",
-  "lastSuccess": "2026-11-11T16:17:31.107430+00:00",
+  "attemptedAt": "2026-11-11T17:59:39.998932+00:00",
+  "lastSuccess": "2026-11-11T17:59:39.998932+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-11T17:59:39.998932+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-11T17:59:39.998932+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
+      "checkedAt": "2026-11-11T17:59:39.998932+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-11T17:59:39.998932+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 6,
-      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
+      "checkedAt": "2026-11-11T17:59:39.998932+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
+      "checkedAt": "2026-11-11T17:59:39.998932+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
+      "checkedAt": "2026-11-11T17:59:39.998932+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
+      "checkedAt": "2026-11-11T17:59:39.998932+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
+      "checkedAt": "2026-11-11T17:59:39.998932+00:00"
     }
   ],
   "items": [
@@ -1290,6 +1290,6 @@
     "available": 32,
     "eligible": 32,
     "status": "ok",
-    "updatedAt": "2026-11-11T16:17:33.157613+00:00"
+    "updatedAt": "2026-11-11T17:59:42.656909+00:00"
   }
 }
