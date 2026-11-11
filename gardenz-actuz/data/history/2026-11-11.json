@@ -1,8 +1,8 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-11T14:53:41.710153+00:00",
-  "lastSuccess": "2026-11-11T14:53:41.710153+00:00",
+  "attemptedAt": "2026-11-11T15:01:04.060865+00:00",
+  "lastSuccess": "2026-11-11T15:01:04.060865+00:00",
   "status": "ok",
   "sources": [
     {
@@ -10,66 +10,86 @@
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-11T14:53:41.710153+00:00"
+      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-11T14:53:41.710153+00:00"
+      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-11T14:53:41.710153+00:00"
+      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-11T14:53:41.710153+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 6,
-      "checkedAt": "2026-11-11T14:53:41.710153+00:00"
+      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-11T14:53:41.710153+00:00"
+      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-11T14:53:41.710153+00:00"
+      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-11T14:53:41.710153+00:00"
+      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-11T14:53:41.710153+00:00"
+      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
     }
   ],
   "items": [
+    {
+      "id": "3e3cc6ff760ba5dd66aa",
+      "title": "3.744 Schmerzpatienten, 5 Verlaufstypen: Was das britische Cannabis-Register zeigt",
+      "url": "https://www.hanf-magazin.com/wissenschaft/studien/chronische-schmerzen-britisches-register-findet-fuenf-verlaufstypen-unter/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-11T15:00:00+00:00",
+      "collectedAt": "2026-11-11T15:01:04.060865+00:00",
+      "excerpt": "Eine neue Auswertung des britischen Medizinalcannabis-Registers verfolgt 3.744 Schmerzpatienten über bis zu zwei Jahre. Im Mittel verbessern sich Schmerzen, Schlaf, Angst und Lebensqualität. Interessanter als der…",
+      "topics": [
+        "Santé & recherche",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-a713059154b661a40059.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-makroaufnahme-einer-cannabisbluete-mit-tr-featured-83429.jpg"
+    },
     {
       "id": "d50e82fbaf0517c10f45",
       "title": "Iowa’s Incoming Governor Says Legalizing Marijuana Can Generate ‘Hundreds Of Millions Of Dollars’ For The State",
@@ -99,7 +119,7 @@
       "region": "France",
       "publishedAt": "2026-11-11T13:12:00+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
-      "excerpt": "Snoop Dogg ouvre Tha Dogg House, son club de cannabis, à Barcelone : troisième adresse européenne, dans la zone grise des clubs sociaux espagnols. La version originale de ce contenu provient de Le Cannabiste et a été…",
+      "excerpt": "Snoop Dogg ouvre Tha Dogg House, son club de cannabis, à Barcelone : troisième adresse européenne, dans la zone grise des clubs sociaux espagnols.",
       "topics": [
         "Culture"
       ],
@@ -198,7 +218,7 @@
       "region": "France",
       "publishedAt": "2026-11-11T10:24:00+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
-      "excerpt": "La nouvelle définition fédérale du chanvre interdit le THC de synthèse le 12 novembre 2026, puis plafonne l'ensemble des produits au THC le 11 décembre. La version originale de ce contenu provient de Le Cannabiste et a…",
+      "excerpt": "La nouvelle définition fédérale du chanvre interdit le THC de synthèse le 12 novembre 2026, puis plafonne l'ensemble des produits au THC le 11 décembre.",
       "topics": [
         "Lois & société",
         "CBD & molécules",
