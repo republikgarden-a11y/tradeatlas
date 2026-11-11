@@ -1,75 +1,140 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-11T15:01:04.060865+00:00",
-  "lastSuccess": "2026-11-11T15:01:04.060865+00:00",
-  "status": "ok",
+  "attemptedAt": "2026-11-11T15:57:27.791167+00:00",
+  "lastSuccess": "2026-11-11T15:57:27.791167+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
-      "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-11T15:57:27.791167+00:00",
+      "error": "HTTP 415"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
+      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 6,
-      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
+      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
+      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
+      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
+      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-11T15:01:04.060865+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
     }
   ],
   "items": [
+    {
+      "id": "884761d8bbac3f0f94b9",
+      "title": "Multiple Adult-Use Cannabis Legalization Bills Pre-Filed In Texas",
+      "url": "https://ganjapreneur.com/multiple-adult-use-cannabis-legalization-bills-pre-filed-in-texas/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-11T15:03:08+00:00",
+      "collectedAt": "2026-11-11T15:57:27.791167+00:00",
+      "excerpt": "Texas Democrats pre-filed three adult-use cannabis legalization proposals this week, NewsRadio 1080 KRLD reports. State Reps. John Bucy III of Austin and Joe Moody of El Paso filed HB 362 and HB 369, respectively, both…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-b85ed171aeab55058c0c.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/10/texas-hemp-2.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "4b0525f56ad5fd3956d83fa2f238d58c6b6594bcf35e8e3ce410438d69209a76",
+        "sourceTitle": "Multiple Adult-Use Cannabis Legalization Bills Pre-Filed In Texas",
+        "sourceExcerpt": "Texas Democrats pre-filed three adult-use cannabis legalization proposals this week, NewsRadio 1080 KRLD reports. State Reps. John Bucy III of Austin and Joe Moody of El Paso filed HB 362 and HB 369, respectively, both…",
+        "title": "Plusieurs projets de légalisation de l'usage adulte du cannabis sont déposés en Texas",
+        "excerpt": "Les démocrates du Texas ont déposé trois propositions de légalisation de l'usage adulte du cannabis cette semaine, rapporte NewsRadio 1080 KRLD. Les députés John Bucy III d'Austin et Joe Moody d'El Paso ont présenté respectivement les projets HB 362 et HB 369, tous deux…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
+    },
+    {
+      "id": "50ea3e082557ebc3669b",
+      "title": "New Hampshire Could Finally Legalize Adult-Use Cannabis After Democrats’ Big Win",
+      "url": "https://ganjapreneur.com/new-hampshire-could-finally-legalize-adult-use-cannabis-after-democrats-big-win/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-11T15:03:01+00:00",
+      "collectedAt": "2026-11-11T15:57:27.791167+00:00",
+      "excerpt": "New Hampshire state Rep. Jared Sullivan (D) of Bethlehem said that the state is closer than ever to legalizing adult-use cannabis after Democrats won control of both the state House and Senate last week, Valley News…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-26f76d8236e59b26abc2.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/new-hamp-bill-kill.jpeg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "e3af1429388d92fd03c0f6cd2b065ffb35d61be4bc5d46bca7eea1f7d8d22b2a",
+        "sourceTitle": "New Hampshire Could Finally Legalize Adult-Use Cannabis After Democrats’ Big Win",
+        "sourceExcerpt": "New Hampshire state Rep. Jared Sullivan (D) of Bethlehem said that the state is closer than ever to legalizing adult-use cannabis after Democrats won control of both the state House and Senate last week, Valley News…",
+        "title": "New Hampshire pourrait enfin légaliser l'usage adulte du cannabis après la grande victoire des démocrates",
+        "excerpt": "Le député Jared Sullivan (D) de Bethlehem a déclaré que l'État s'approche de plus en plus de la légalisation de l'usage adulte du cannabis après que les démocrates aient pris le contrôle de la chambre des représentants et du sénat la semaine dernière, rapporte Valley News…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
+    },
     {
       "id": "3e3cc6ff760ba5dd66aa",
       "title": "3.744 Schmerzpatienten, 5 Verlaufstypen: Was das britische Cannabis-Register zeigt",
@@ -120,7 +185,20 @@
       "kind": "Article",
       "image": "assets/live-cf8fcffb34f18e7448fa.jpg",
       "credit": "Marijuana Moment · image de l’article",
-      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-hand-leaf-scaled.jpg"
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-hand-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "a5ff15381817113b92d5a0cadd1d4ba61d5117e126f8a75e126c6c2f425eadf2",
+        "sourceTitle": "Iowa’s Incoming Governor Says Legalizing Marijuana Can Generate ‘Hundreds Of Millions Of Dollars’ For The State",
+        "sourceExcerpt": "Rob Sand, the Democrat who won Iowa’s gubernatorial election last week, says he plans to move forward with a proposal to legalize marijuana in the state—arguing that it could generate “hundreds of millions of dollars”…",
+        "title": "Le nouveau gouverneur de l'Iowa affirme que la légalisation du cannabis pourrait générer « des centaines de millions de dollars » pour l'État",
+        "excerpt": "Rob Sand, démocrate ayant remporté l'élection du gouverneur de l'Iowa la semaine dernière, affirme qu'il prévoit de poursuivre une proposition visant à légaliser le cannabis dans l'État—en argumentant qu'il pourrait générer « des centaines de millions de dollars »…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "ee20aa78db13bf968c7b",
@@ -160,7 +238,20 @@
       "kind": "Article",
       "image": "assets/live-42095fcae4b380b97e27.webp",
       "credit": "Marijuana Moment · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
-      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2021/09/psilocybin-mushroom-marijuana-leaf.webp"
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2021/09/psilocybin-mushroom-marijuana-leaf.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "806fc5ccd222dc66063f68c3de5e24fa119aa38712606f190282e0dcc192ba57",
+        "sourceTitle": "Senate Committee Floats Marijuana As Opioid Alternative, Encourages Psychedelic Research And Raises Concerns Over Cannabis-Infused Foods",
+        "sourceExcerpt": "A key Senate committee is directing federal agencies to consider medical marijuana as an opioid alternative as well as the therapeutic benefits of psychedelics—while also encouraging hemp cultivar and germplasm…",
+        "title": "Le comité sénatorial propose le cannabis comme alternative aux opioïdes, encourage la recherche sur les substances psihédéliques et souligne des préoccupations concernant les aliments contenant du cannabis",
+        "excerpt": "Un comité sénatorial dirige les agences fédérales à envisager le cannabis médical comme alternative aux opioïdes ainsi que les bénéfices thérapeutiques des substances psihédéliques—tout en encourageant la culture de variétés de chanvre et de matériel génétique…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "deacea456e24631d7bda",
@@ -180,7 +271,20 @@
       ],
       "kind": "Article",
       "image": "",
-      "credit": ""
+      "credit": "",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "e2ac15a91622e320f9c6748771487573520254776e2f9709b406263fffd9225d",
+        "sourceTitle": "Evidence, Access and the Future of Cannabinoid Medicine: Key Takeaways from Cannabis Health Symposium Frankfurt — Part 2",
+        "sourceExcerpt": "Last week, Cannabis Health Symposium hosted its first event in Frankfurt, bringing together healthcare professionals, researchers, policymakers and industry operators.",
+        "title": "Des preuves, l'accès et l'avenir des médicaments à base de cannabinoïdes : les points clés du symposium sur la santé du cannabis à Francfort — Partie 2",
+        "excerpt": "La semaine dernière, le symposium sur la santé du cannabis a organisé son premier événement à Francfort, rassemblant des professionnels de la santé, des chercheurs, des décideurs politiques et des opérateurs de l'industrie.",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "0e252e754197c38bda6a",
@@ -199,7 +303,20 @@
       "kind": "Opinion",
       "image": "assets/live-a7825e91d82c5ae69c85.webp",
       "credit": "Marijuana Moment · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
-      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/03/army-soldier-military-marijuana-cannabis.webp"
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/03/army-soldier-military-marijuana-cannabis.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "f0e9a2234f65c728692e330c9eb9710b784985202efdfabc371b07106140a16e",
+        "sourceTitle": "We Say We Support Veterans, But Why Is Accessing Medical Cannabis Still So Difficult? (Op-Ed)",
+        "sourceExcerpt": "“This Veterans Day, let’s measure our support in more than ceremonies and dispensary discounts.” By Narith Panh, Dragonfly Wellness Every Veterans Day, communities across the country thank the men and women who served.…",
+        "title": "Nous disons que nous soutenons les vétérans, mais pourquoi l'accès au cannabis médical reste-t-il encore si difficile ? (Article de opinion)",
+        "excerpt": "« Ce jour des vétérans, mettons nos engagements en œuvre au-delà des cérémonies et des réductions dans les dispensaires. » Par Narith Panh, Dragonfly Wellness Chaque jour des vétérans, des communautés dans tout le pays remercient les hommes et les femmes qui ont servi…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "200cda5e25ec8f8e2417",
@@ -219,7 +336,20 @@
       "kind": "Article",
       "image": "assets/live-9cd057629423b66cd1a6.webp",
       "credit": "Marijuana Moment · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
-      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-28-at-10.58.02-AM-e1611860353683.webp"
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-28-at-10.58.02-AM-e1611860353683.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "c54412966b71f2bdb9d8acf8c66683acac54152239f75194e5608f85eabbd4ed",
+        "sourceTitle": "Governors press Congress for cannabis banking bill (Newsletter: November 11, 2026)",
+        "sourceExcerpt": "NC House speaker on marijuana as a priority; TX legalization bills filed; NH cannabis prospects in 2027; Marijuana tax op-ed; Industry & GOP op-ed Subscribe to receive Marijuana Moment’s newsletter in your inbox every…",
+        "title": "Les gouverneurs pressent le Congrès pour une loi sur les banques du cannabis (Newsletter : 11 novembre 2026)",
+        "excerpt": "Le président de la Chambre des représentants du NC souligne le cannabis comme priorité ; des projets de loi de légalisation du cannabis déposés en Texas ; les perspectives du cannabis en Nou-Hampshire en 2027 ; article d'opinion sur l'impôt sur le cannabis ; article d'opinion sur l'industrie et le Parti républicain. Abonnez-vous pour recevoir la newsletter Marijuana Moment dans votre boîte de réception chaque…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "accef496c197b63a9972",
@@ -261,7 +391,20 @@
       "kind": "Communiqué",
       "image": "assets/live-6fb23b048908cbfe30b8.webp",
       "credit": "Business of Cannabis · image de l’article",
-      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/a7iii.01_51_43_13.Still007-scaled.webp"
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/a7iii.01_51_43_13.Still007-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "6100c61e7a816c1a416427785b7b719fedf6c7cb871a85629fa794fd911c8398",
+        "sourceTitle": "Grow Group Completes £12m Recapitalisation and Restructuring, Appoints Co-CEOs and Completes Transition to Full Operations at its UK Manufacturing Facility",
+        "sourceExcerpt": "Grow Group has announced the completion of a recapitalisation, has appointed Co-CEOs, and now expects to generate healthy EBITDA in 2027.",
+        "title": "Grow Group finalise une recapitalisation de 12 millions de livres et une restructuration, nomme deux co-Présidents exécutifs et termine la transition vers des opérations pleinement fonctionnelles à son site de fabrication britannique",
+        "excerpt": "Grow Group a annoncé la finalisation d'une recapitalisation, a nommé deux co-Présidents exécutifs et attend désormais de générer un EBITDA solide en 2027.",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "dc91f4b14a55db703813",
@@ -313,7 +456,20 @@
       "kind": "Article",
       "image": "assets/live-be8b258ef8f5ec2a3f1b.webp",
       "credit": "Marijuana Moment · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
-      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/11/Stock-8.webp"
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/11/Stock-8.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "8dc4700738d2b4c3b3c1620c08f4505b7ffe8b6aa37c04509aa26e184d69ce97",
+        "sourceTitle": "Nebraska Medical Marijuana Officials Clarify That They Haven’t Set A Timeline For Product Testing",
+        "sourceExcerpt": "“The commission remains focused on advancing this work in a deliberate and responsible manner, with the goal of establishing a functional, compliant medical cannabis program.” By Zach Wendling, Nebraska Examiner The…",
+        "title": "Les autorités du cannabis médical du Nebraska précise qu'elles n'ont pas fixé un calendrier pour le contrôle des produits",
+        "excerpt": "« La commission reste concentrée sur le développement de ce travail de manière délibérée et responsable, avec pour objectif d'établir un programme de cannabis médical fonctionnel et conforme. » Par Zach Wendling, Nebraska Examiner The…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "515b227865b379b75426",
@@ -332,7 +488,20 @@
       "kind": "Opinion",
       "image": "assets/live-381804486a9d4b24b772.jpg",
       "credit": "Marijuana Moment · image de l’article",
-      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-money-leaf-scaled.jpg"
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-money-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "abca4c87cb391bf107d53d9b2439d15cb824f417d62f00f52c7fc7a4522e3c9b",
+        "sourceTitle": "We Should Tax Marijuana By Its THC Potency, Not Its Price (Op-Ed)",
+        "sourceExcerpt": "“THC taxes, aiming squarely at cannabis’s main intoxicating molecule, are stable; they keep nudging against intoxication and rising potency, even as pre-tax prices fall.” By Pat Oglesby, Center for New Revenue When…",
+        "title": "Nous devrions imposer une taxe sur le cannabis en fonction de sa teneur en THC, et non de son prix (article de opinion)",
+        "excerpt": "« Les taxes sur le THC, ciblant directement la molécule principale responsable de l'effet psychoactif du cannabis, sont stables ; elles exercent une pression constante contre l'intoxication et l'augmentation de la puissance, même lorsque les prix pré-taxe baissent. » Par Pat Oglesby, Center for New Revenue When…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "15f4ba4d43928540542e",
@@ -351,7 +520,20 @@
       "kind": "Article",
       "image": "assets/live-27e2bed8d0ff9aa6533f.jpg",
       "credit": "Marijuana Moment · image de l’article",
-      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-leaf-scaled.jpg"
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "7a3ab9fb993a0e9daef81b8ee1d4fc0e208b624b21d21e026013bd3d3282e169",
+        "sourceTitle": "Decriminalizing Marijuana In North Carolina Is ‘On Top Of Everybody’s Minds,’ Incoming House Speaker Says",
+        "sourceExcerpt": "North Carolina is poised to substantially reform its marijuana laws following last week’s midterm elections in which Democrats won control of at least the House of Representatives, a top lawmaker says.…",
+        "title": "Désamnistifier le cannabis en Caroline du Nord est « au cœur des esprits », selon le nouveau président de la Chambre des représentants, qui l’a déclaré.",
+        "excerpt": "La Caroline du Nord est en position de réformer de manière importante ses lois sur le cannabis après les élections de mi-mandat passées, où les démocrates ont obtenu le contrôle du moins de la Chambre des représentants, selon un haut fonctionnaire.",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "06f87f4d74d1db7b9619",
@@ -370,7 +552,20 @@
       "kind": "Opinion",
       "image": "assets/live-c148b11cb6db0cdfdc17.webp",
       "credit": "Marijuana Moment · image de l’article",
-      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/07/hemp-plant-3661210_1920.webp"
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/07/hemp-plant-3661210_1920.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "faf9c95d7dd7690570017ce576ad5c5dc1d3c5f34aba3acb9bfab881ee0d8c3f",
+        "sourceTitle": "The Cannabis Industry Bet on False Prophets, And Election Night Exposed the Cost (Op-Ed)",
+        "sourceExcerpt": "“The industry’s pursuit of Republican gatekeepers has come at the expense of priorities such as patient protections, home cultivation and social equity, treating them as bargaining chips rather than principles worth…",
+        "title": "L'industrie du cannabis a misé sur des prophètes fausses, et la nuit des élections a révélé le coût (article de opinion)",
+        "excerpt": "L'industrie du cannabis a poursuivi les gardiens républicains au détriment de priorités telles que la protection des patients, la culture à domicile et l'équité sociale, les traitant comme des négociations plutôt que comme des principes dignes de…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "95ee7593bd5aecf0100c",
@@ -424,7 +619,20 @@
       "kind": "Article",
       "image": "assets/live-16711787674d9c2bb9f6.webp",
       "credit": "Business of Cannabis · image de l’article",
-      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-48.webp"
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-48.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "7c67b4cf46ae50ea460d4a0252d8364f04e910d417450f3ba77564f23414a4d9",
+        "sourceTitle": "What Does the Democratic Sweep Mean for US Cannabis?",
+        "sourceExcerpt": "Last week’s US midterm elections have transformed the political map of the country, handing both the House and the Senate over to the Democrats. Now that the dust has settled, the implications of what this historic…",
+        "title": "Qu'est-ce que le succès démocratique signifie pour le cannabis aux États-Unis ?",
+        "excerpt": "Les élections fédérales de la semaine dernière ont transformé la carte politique du pays, remettant les chambres du Sénat et de la Chambre des représentants entre les mains des démocrates. Maintenant que la poussière est retombée, les conséquences de ce changement historique…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "01de79caeac8d4134675",
@@ -444,7 +652,20 @@
       "kind": "Article",
       "image": "assets/live-96c03ff90d4097e4f183.webp",
       "credit": "Marijuana Moment · image de l’article",
-      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/07/roberto-valdivia-HrRm_V-V0sM-unsplash-scaled.webp"
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/07/roberto-valdivia-HrRm_V-V0sM-unsplash-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "037d2990ee99685c35559c09c2e08f2b5e88638387d6b9b5477108cc5427338c",
+        "sourceTitle": "16 Governors From Across The U.S. Push Congress To Pass Marijuana Banking Bill",
+        "sourceExcerpt": "A coalition of 16 governors from across the U.S. is calling on Congress to pass legislation to increase marijuana businesses’ access to banks, saying it will “protect public safety, increase revenues, and improve…",
+        "title": "16 gouverneurs des États-Unis demandent à Congress de passer une loi sur le crédit bancaire pour le cannabis",
+        "excerpt": "Un groupe de 16 gouverneurs des États-Unis demande à Congress de passer une législation visant à améliorer l'accès des entreprises de cannabis aux banques, affirmant qu'elle « protégera la sécurité publique, augmentera les recettes et améliorera…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "ceec36bd6dad7b017fbf",
@@ -463,7 +684,20 @@
       "kind": "Article",
       "image": "assets/live-66c90e04d0ea822322a9.jpg",
       "credit": "Marijuana Moment · image de l’article",
-      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cananbis-leaf-hand-scaled.jpg"
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cananbis-leaf-hand-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "4e696dd5fc83a3c4cddb66a9038ca56ee582b09a7ab02f56e43b23db0988a6a7",
+        "sourceTitle": "Marijuana Would Be Legalized Statewide In Texas Under New Bills Filed For 2027 Session",
+        "sourceExcerpt": "Just one week after the midterm elections put Texas Democrats in control of statewide offices and gave the party a majority in the House of Representatives, lawmakers have begun prefiling bills for the 2027 session to…",
+        "title": "Le cannabis serait légalisé à l'échelle étatique au Texas grâce à de nouvelles propositions de loi déposées pour la session 2027",
+        "excerpt": "Un seul week-end après les élections mi-terme qui ont mis les démocrates en contrôle des offices étatiques au Texas et leur ont donné une majorité dans la Chambre des représentants, les députés ont commencé à préparer des projets de loi pour la session 2027 afin de…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "0a94089538208e89ba8b",
@@ -502,7 +736,20 @@
       "kind": "Article",
       "image": "assets/live-9edeafe587c4fdd756b6.jpg",
       "credit": "NORML · image de l’article",
-      "imageSource": "https://norml.org/wp-content/uploads/2022/11/green-light-legalization-1.jpg"
+      "imageSource": "https://norml.org/wp-content/uploads/2022/11/green-light-legalization-1.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "e8ecb571d82f5a88a1963117203001638a1987eca85e67f3c1b213aa1789b30d",
+        "sourceTitle": "Wisconsin: Lawmakers Announce Intentions to Advance Adult-Use Legalization",
+        "sourceExcerpt": "\"Wisconsin is among the nation’s leaders in marijuana possession arrests and it is remains one of the few states lacking significant medical cannabis access or legal protections. It’s time for the Badger State to shed…",
+        "title": "Wisconsin : les parlementaires annoncent leurs intentions de promouvoir la légalisation de l'usage adulte",
+        "excerpt": "\"Wisconsin est parmi les États leaders en termes d'arrestations pour possession de cannabis et reste l'un des seuls États sans accès significatif au cannabis médical ni protections légales. Il est temps que l'État des Badgers s'engage à…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "094377b4b01dfdf16c75",
@@ -574,7 +821,20 @@
       "kind": "Article",
       "image": "assets/live-af7401df2e223617988c.webp",
       "credit": "Business of Cannabis · image de l’article",
-      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-43.webp"
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-43.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "99ffe613cc25f67f8575a04ca59ff8099a2b8ad47071551363a8a46f1334842f",
+        "sourceTitle": "Notes from a Scaling Healthcare Business: Governance First",
+        "sourceExcerpt": "In the first of a new three-part series, Graham Woodward, Chief Medical Officer at Releaf, sat down with Business of Cannabis to discuss what it takes to scale a medical cannabis clinic from three patients to tens of…",
+        "title": "Des notes d'une entreprise de santé en croissance : la gouvernance en premier",
+        "excerpt": "Première édition d'une nouvelle série de trois articles, Graham Woodward, chef de la médecine à Releaf, a rencontré Business of Cannabis pour parler des conditions nécessaires à l'extension d'un cabinet de cannabis médical de trois patients à des dizaines de…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "4e357162281874a5d1c0",
@@ -614,7 +874,20 @@
       "kind": "Article",
       "image": "assets/live-a111dd264e253d6c8ee1.jpg",
       "credit": "HempToday · image de l’article",
-      "imageSource": "https://hemptoday.net/wp-content/uploads/2026/11/cavac-biofib-1000x635-1.jpg"
+      "imageSource": "https://hemptoday.net/wp-content/uploads/2026/11/cavac-biofib-1000x635-1.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "0895a54c5556076a962635dd4341a3b8d9df2d41cdb89678250c1d163f355b88",
+        "sourceTitle": "French hemp industry seeks political support to double acreage and expand markets",
+        "sourceExcerpt": "France’s industrial hemp industry is seeking commitments from candidates in the country’s 2027 presidential election to support a doubling of cultivation area, protect agricultural subsidies and expand markets for hemp…",
+        "title": "L'industrie du chanvre français cherche du soutien politique pour doubler sa surface de culture et étendre ses marchés",
+        "excerpt": "L'industrie du chanvre en France cherche des engagements des candidats aux élections présidentielles de 2027 afin de doubler la surface de culture, de protéger les aides agricoles et d'élargir les marchés du chanvre…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "20834b63b6d1298c7801",
@@ -636,7 +909,20 @@
       "kind": "Article",
       "image": "assets/live-6072e42016f5bd4264b0.jpg",
       "credit": "Ganjapreneur · image de l’article",
-      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/07/edible-products.jpg"
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/07/edible-products.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "9101af14eafffee0f7ebbb4ec6caf0c6e190469d8873672e57faee19a215bcdd",
+        "sourceTitle": "New Missouri Hemp and Cannabis Industry Rules Take Effect This Week",
+        "sourceExcerpt": "Beginning Thursday, hemp-derived THC products, including delta-8 and THCA products, will be classified as “marijuana” in Missouri and only allowed to be sold at retailers with state-issued marijuana facility licenses…",
+        "title": "Nouvelles règles de l'industrie du chanvre et du cannabis au Missouri entrant en vigueur cette semaine",
+        "excerpt": "À partir de jeudi, les produits dérivés du chanvre contenant du THC, y compris les produits à base de delta-8 et de THCA, seront classés comme « cannabis » au Missouri et ne pourront être vendus que dans des établissements autorisés par le state avec une licence d'exploitation de cannabis…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "f59f310bf67f269691f0",
@@ -656,7 +942,20 @@
       "kind": "Article",
       "image": "assets/live-2a6ce604d4538dbd6932.jpg",
       "credit": "Ganjapreneur · image de l’article",
-      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/mass-psych-initiative.jpeg"
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/mass-psych-initiative.jpeg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "03838b01f38a99d4f1b391545490c1e598976cd542681d9642a66b520f921e86",
+        "sourceTitle": "Four Michigan Communities Vote to Expand or Allow Cannabis Industry Operations During Election Day",
+        "sourceExcerpt": "Six Michigan communities voted on Election Day on local cannabis business operations, MLive reports. Four of the communities voted to expand or allow industry operations, while one voted to reduce licenses and another…",
+        "title": "Quatre communes du Michigan votent pour étendre ou autoriser les activités de l'industrie du cannabis le jour des élections",
+        "excerpt": "Six communes du Michigan ont voté le jour des élections sur les activités d'entreprise de cannabis local, rapporte MLive. Quatre des communes ont décidé d'élargir ou d'autoriser les opérations industrielles, tandis qu'une a voté pour réduire les licences et une autre…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "794eac891c8353d36e12",
@@ -675,7 +974,20 @@
       "kind": "Article",
       "image": "assets/live-c00cb9e1f4b881617597.jpg",
       "credit": "Ganjapreneur · image de l’article",
-      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2026/02/signatures.jpg"
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2026/02/signatures.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "fbfd4c7b4006651bf73cae0cbe508966d149ca870cd39ab3d32b19b28da88db8",
+        "sourceTitle": "Workers at Zen Leaf Dispensary in Highland Park, IL End Relationship with Union",
+        "sourceExcerpt": "Workers at Zen Leaf Dispensary in Highland Park, Illinois, last week received final approval to decertify their membership in the United Food and Commercial Workers (UFCW) Local 881. The workers voted 10-1 in October to…",
+        "title": "Les employés du dispensaire Zen Leaf à Highland Park, IL rompent leur relation avec l'union",
+        "excerpt": "Les employés du dispensaire Zen Leaf à Highland Park, Illinois, ont reçu la dernière approbation, la semaine dernière, de décertifier leur adhésion à l'Union des aliments et des commerçants (UFCW), local 881. Les travailleurs ont voté 10 contre 1 en octobre pour…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "ebd7b96cd3199aa3c953",
@@ -822,7 +1134,20 @@
       "kind": "Article",
       "image": "assets/live-650b87821ff89086024e.png",
       "credit": "NORML · image de l’article",
-      "imageSource": "https://norml.org/wp-content/uploads/2026/11/pennsylvania-marijuana-sign.png"
+      "imageSource": "https://norml.org/wp-content/uploads/2026/11/pennsylvania-marijuana-sign.png",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "2974c9c6607be4471a89943e193e3afe615d28b8225580d26ff9136d38f2c533",
+        "sourceTitle": "Pennsylvania: Senate Flip Provides Pathway for Adult-Use Legalization",
+        "sourceExcerpt": "\"For far too long, Pennsylvania has existed as an island of cannabis prohibition. It is high time for lawmakers to regulate the adult-use market and put an end to the failed policy of marijuana prohibition in the…",
+        "title": "Pennsylvanie : le renversement de la majorité sénatoriale ouvre la voie à la légalisation de l'usage adulte du cannabis",
+        "excerpt": "\"Trop longtemps, la Pennsylvanie a existé comme une île de prohibition du cannabis. Il est temps pour les législateurs de réguler le marché de l'usage adulte et de mettre fin à la politique échouée de prohibition du marijuana dans le…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "44fe420fcf133728476c",
@@ -877,7 +1202,20 @@
       "kind": "Article",
       "image": "assets/live-dd5fa17d1e26cbe84ffd.jpg",
       "credit": "Ganjapreneur · image de l’article",
-      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/06/lawsuit-rejected.jpg"
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/06/lawsuit-rejected.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "16a51497c084d270bea649bea97f1c228a13fa71629b73efdd5623e97b84f275",
+        "sourceTitle": "Missouri AG Suing Four Retailers for Illegal Cannabis Sales",
+        "sourceExcerpt": "Missouri Attorney General Catherine Hanaway announced last week that her office is suing four retailers for allegedly selling illegal THC products that were falsely marketed as hemp. Hanaway’s office also said that the…",
+        "title": "Missouri, l'agence fédérale poursuit quatre commerçants pour des ventes illégales de produits à base de THC",
+        "excerpt": "L'agence fédérale de Missouri, sous la direction de Catherine Hanaway, a annoncé la semaine dernière qu'elle poursuit quatre commerçants pour des produits à base de THC vendus illégalement et présentés comme du chanvre. L'agence a également déclaré que…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     },
     {
       "id": "1a782b5e7cbe7e9ab399",
@@ -896,7 +1234,20 @@
       "kind": "Article",
       "image": "assets/live-4db309a90d846a98ba5d.jpg",
       "credit": "Ganjapreneur · image de l’article",
-      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/09/medical-cannabis.jpeg"
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/09/medical-cannabis.jpeg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "501af3d1dc17370f6780d37bcd12a482cd9b919ff9d6362574f4d7c4f66c723a",
+        "sourceTitle": "Kentucky Medical Cannabis Program Surpasses 30,000 Patients",
+        "sourceExcerpt": "More than 30,000 patients have registered for the Kentucky medical cannabis program, WNKY reports. Lt. Gov. Jacqueline Coleman (D) announced the milestone last Thursday during the weekly Team Kentucky update. Officials…",
+        "title": "Le programme de cannabis médical du Kentucky dépasse 30 000 patients",
+        "excerpt": "Plus de 30 000 patients ont s'inscrit au programme de cannabis médical du Kentucky, rapporte WNKY. La vice-présidente de la législature, Jacqueline Coleman (D), a annoncé ce milestone jeudi lors de la mise à jour hebdomadaire du Team Kentucky. Les autorités…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:57:29.579643+00:00"
+      }
     }
   ],
   "windowHours": 24,
@@ -905,9 +1256,9 @@
   "translationStatus": {
     "engine": "Qwen3 · traduction contextuelle locale",
     "targetLanguage": "fr",
-    "available": 7,
-    "eligible": 29,
-    "status": "partial",
-    "updatedAt": "2026-11-11T15:53:08.535535+00:00"
+    "available": 31,
+    "eligible": 31,
+    "status": "ok",
+    "updatedAt": "2026-11-11T15:57:29.579643+00:00"
   }
 }
