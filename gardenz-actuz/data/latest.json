@@ -1,76 +1,107 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-11T15:57:27.791167+00:00",
-  "lastSuccess": "2026-11-11T15:57:27.791167+00:00",
-  "status": "partial",
+  "attemptedAt": "2026-11-11T16:17:31.107430+00:00",
+  "lastSuccess": "2026-11-11T16:17:31.107430+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 0,
-      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
-      "ok": false,
-      "count": 0,
-      "checkedAt": "2026-11-11T15:57:27.791167+00:00",
-      "error": "HTTP 415"
+      "ok": true,
+      "count": 4,
+      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
+      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 6,
-      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
+      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
+      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
+      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
+      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-11T15:57:27.791167+00:00"
+      "checkedAt": "2026-11-11T16:17:31.107430+00:00"
     }
   ],
   "items": [
+    {
+      "id": "e2b5ad0cccb6c04baf96",
+      "title": "Newly Elected Senate And House GOP Leaders Oppose Marijuana Reform As Trump Moves Ahead With Rescheduling",
+      "url": "https://www.marijuanamoment.net/newly-elected-senate-and-house-gop-leaders-oppose-marijuana-reform-as-trump-moves-ahead-with-rescheduling/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-11T16:00:36+00:00",
+      "collectedAt": "2026-11-11T16:17:31.107430+00:00",
+      "excerpt": "Republicans in the U.S. House of Representatives and Senate elected leaders for their respective conferences on Tuesday as they prepare to take on minority status in the 120th Congress that starts early next year. GOP…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-b6c7663aab2f19dc3317.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2023/09/capitol-congress-marijuana.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "5fbb30e8b541266dcd632fc5bc5bf5a775f13eb9f385ac19f6e3244ecb51f11d",
+        "sourceTitle": "Newly Elected Senate And House GOP Leaders Oppose Marijuana Reform As Trump Moves Ahead With Rescheduling",
+        "sourceExcerpt": "Republicans in the U.S. House of Representatives and Senate elected leaders for their respective conferences on Tuesday as they prepare to take on minority status in the 120th Congress that starts early next year. GOP…",
+        "title": "Les dirigeants nouvellement élus du Sénat et de la Chambre des représentants s'opposent à la réforme de la marijuana alors que Trump avance avec un rééchelonnement",
+        "excerpt": "Les républicains de la Chambre des représentants des États-Unis et le Sénat ont élu des dirigeants pour leurs conférences respectives mardi alors qu'ils se préparent à prendre le statut de minorité au 120e Congrès qui commence au début de l'année prochaine.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:17:33.157613+00:00"
+      }
+    },
     {
       "id": "884761d8bbac3f0f94b9",
       "title": "Multiple Adult-Use Cannabis Legalization Bills Pre-Filed In Texas",
@@ -1256,9 +1287,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 31,
-    "eligible": 31,
+    "available": 32,
+    "eligible": 32,
     "status": "ok",
-    "updatedAt": "2026-11-11T16:13:29.604020+00:00"
+    "updatedAt": "2026-11-11T16:17:33.157613+00:00"
   }
 }
