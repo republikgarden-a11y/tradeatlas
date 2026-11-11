@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "editions": [
+    {
+      "date": "2026-11-11",
+      "path": "data/history/2026-11-11.json",
+      "count": 14,
+      "lastSuccess": "2026-11-11T14:48:56.642634+00:00"
+    }
+  ]
+}

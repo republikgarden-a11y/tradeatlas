@@ -1,47 +1,94 @@
 {
-  "version": 2,
+  "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-11T14:23:30.856610+00:00",
-  "lastSuccess": "2026-11-11T14:23:30.856610+00:00",
+  "attemptedAt": "2026-11-11T14:48:56.642634+00:00",
+  "lastSuccess": "2026-11-11T14:48:56.642634+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 0,
-      "checkedAt": "2026-11-11T14:23:30.856610+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-11T14:48:56.642634+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-11T14:23:30.856610+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-11T14:48:56.642634+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-11T14:23:30.856610+00:00"
+      "count": 10,
+      "checkedAt": "2026-11-11T14:48:56.642634+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 0,
-      "checkedAt": "2026-11-11T14:23:30.856610+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-11T14:48:56.642634+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
+      "count": 6,
+      "checkedAt": "2026-11-11T14:48:56.642634+00:00"
+    },
+    {
+      "name": "Business of Cannabis",
+      "url": "https://businessofcannabis.com/feed/",
+      "ok": true,
+      "count": 3,
+      "checkedAt": "2026-11-11T14:48:56.642634+00:00"
+    },
+    {
+      "name": "HempToday",
+      "url": "https://hemptoday.net/feed/",
+      "ok": true,
+      "count": 1,
+      "checkedAt": "2026-11-11T14:48:56.642634+00:00"
+    },
+    {
+      "name": "Cannabis Health",
+      "url": "https://cannabishealthnews.co.uk/feed/",
+      "ok": true,
+      "count": 1,
+      "checkedAt": "2026-11-11T14:48:56.642634+00:00"
+    },
+    {
+      "name": "NORML",
+      "url": "https://norml.org/feed/",
+      "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-11T14:23:30.856610+00:00"
+      "checkedAt": "2026-11-11T14:48:56.642634+00:00"
     }
   ],
   "items": [
+    {
+      "id": "d50e82fbaf0517c10f45",
+      "title": "Iowa’s Incoming Governor Says Legalizing Marijuana Can Generate ‘Hundreds Of Millions Of Dollars’ For The State",
+      "url": "https://www.marijuanamoment.net/iowas-incoming-governor-says-legalizing-marijuana-can-generate-hundreds-of-millions-of-dollars-for-the-state/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-11T14:33:09+00:00",
+      "collectedAt": "2026-11-11T14:48:56.642634+00:00",
+      "excerpt": "Rob Sand, the Democrat who won Iowa’s gubernatorial election last week, says he plans to move forward with a proposal to legalize marijuana in the state—arguing that it could generate “hundreds of millions of dollars”…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-cf8fcffb34f18e7448fa.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-hand-leaf-scaled.jpg"
+    },
     {
       "id": "ee20aa78db13bf968c7b",
       "title": "Snoop Dogg ouvre son club de cannabis à Barcelone",
@@ -49,30 +96,17 @@
       "source": "Le Cannabiste",
       "sourceFeed": "https://lecannabiste.com/feed/",
       "language": "fr",
-      "region": "Francophone",
+      "region": "France",
       "publishedAt": "2026-11-11T13:12:00+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
-      "excerpt": "Snoop Dogg ouvre son club de cannabis à Barcelone Snoop Dogg ouvre Tha Dogg House, son club de cannabis, à Barcelone : troisième adresse européenne, dans la zon",
-      "status": "Extrait du flux · à vérifier",
+      "excerpt": "Snoop Dogg ouvre Tha Dogg House, son club de cannabis, à Barcelone : troisième adresse européenne, dans la zone grise des clubs sociaux espagnols. La version originale de ce contenu provient de Le Cannabiste et a été…",
+      "topics": [
+        "Culture"
+      ],
+      "kind": "Article",
       "image": "assets/live-d0d93b7c94120b464166.webp",
       "credit": "Le Cannabiste · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
       "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/club-cannabis-barcelone.webp"
-    },
-    {
-      "id": "accef496c197b63a9972",
-      "title": "Chanvre au THC : l’interdiction américaine entre en vigueur en deux temps",
-      "url": "https://lecannabiste.com/chanvre-au-thc-linterdiction-americaine-entre-en-vigueur-en-deux-temps/",
-      "source": "Le Cannabiste",
-      "sourceFeed": "https://lecannabiste.com/feed/",
-      "language": "fr",
-      "region": "Francophone",
-      "publishedAt": "2026-11-11T10:24:00+00:00",
-      "collectedAt": "2026-11-11T13:54:36.601762+00:00",
-      "excerpt": "Chanvre au THC : l’interdiction américaine entre en vigueur en deux temps La nouvelle définition fédérale du chanvre interdit le THC de synthèse le 12 novembre ",
-      "status": "Extrait du flux · à vérifier",
-      "image": "assets/live-e30b3b9bf4cf7848ad6d.webp",
-      "credit": "Le Cannabiste · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
-      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/interdiction-chanvre-thc-usa.webp"
     },
     {
       "id": "591b1645d2a710df3bc6",
@@ -81,14 +115,39 @@
       "source": "Marijuana Moment",
       "sourceFeed": "https://www.marijuanamoment.net/feed/",
       "language": "en",
-      "region": "International",
+      "region": "Monde",
       "publishedAt": "2026-11-11T13:11:24+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
-      "excerpt": "A key Senate committee is directing federal agencies to consider medical marijuana as an opioid alternative as well as the therapeutic benefits of psychedelics—",
-      "status": "Extrait du flux · à vérifier",
+      "excerpt": "A key Senate committee is directing federal agencies to consider medical marijuana as an opioid alternative as well as the therapeutic benefits of psychedelics—while also encouraging hemp cultivar and germplasm…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Chanvre"
+      ],
+      "kind": "Article",
       "image": "assets/live-42095fcae4b380b97e27.webp",
       "credit": "Marijuana Moment · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
       "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2021/09/psilocybin-mushroom-marijuana-leaf.webp"
+    },
+    {
+      "id": "deacea456e24631d7bda",
+      "title": "Evidence, Access and the Future of Cannabinoid Medicine: Key Takeaways from Cannabis Health Symposium Frankfurt — Part 2",
+      "url": "https://cannabishealthnews.co.uk/2026/11/11/key-takeaways-from-cannabis-health-symposium-frankfurt-part-2/",
+      "source": "Cannabis Health",
+      "sourceFeed": "https://cannabishealthnews.co.uk/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-11T13:00:43+00:00",
+      "collectedAt": "2026-11-11T14:48:56.642634+00:00",
+      "excerpt": "Last week, Cannabis Health Symposium hosted its first event in Frankfurt, bringing together healthcare professionals, researchers, policymakers and industry operators.",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "CBD & molécules"
+      ],
+      "kind": "Article",
+      "image": "",
+      "credit": ""
     },
     {
       "id": "0e252e754197c38bda6a",
@@ -97,11 +156,14 @@
       "source": "Marijuana Moment",
       "sourceFeed": "https://www.marijuanamoment.net/feed/",
       "language": "en",
-      "region": "International",
+      "region": "Monde",
       "publishedAt": "2026-11-11T12:29:02+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
-      "excerpt": "“This Veterans Day, let’s measure our support in more than ceremonies and dispensary discounts.” By Narith Panh, Dragonfly Wellness Every Veterans Day, communit",
-      "status": "Extrait du flux · à vérifier",
+      "excerpt": "“This Veterans Day, let’s measure our support in more than ceremonies and dispensary discounts.” By Narith Panh, Dragonfly Wellness Every Veterans Day, communities across the country thank the men and women who served.…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Opinion",
       "image": "assets/live-a7825e91d82c5ae69c85.webp",
       "credit": "Marijuana Moment · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
       "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/03/army-soldier-military-marijuana-cannabis.webp"
@@ -113,30 +175,60 @@
       "source": "Marijuana Moment",
       "sourceFeed": "https://www.marijuanamoment.net/feed/",
       "language": "en",
-      "region": "International",
+      "region": "Monde",
       "publishedAt": "2026-11-11T11:12:27+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
-      "excerpt": "NC House speaker on marijuana as a priority; TX legalization bills filed; NH cannabis prospects in 2027; Marijuana tax op-ed; Industry & GOP op-ed Subscribe to ",
-      "status": "Extrait du flux · à vérifier",
+      "excerpt": "NC House speaker on marijuana as a priority; TX legalization bills filed; NH cannabis prospects in 2027; Marijuana tax op-ed; Industry & GOP op-ed Subscribe to receive Marijuana Moment’s newsletter in your inbox every…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Article",
       "image": "assets/live-9cd057629423b66cd1a6.webp",
       "credit": "Marijuana Moment · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
       "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-28-at-10.58.02-AM-e1611860353683.webp"
     },
     {
-      "id": "fd99db29cc42da3420cf",
-      "title": "Nebraska Medical Marijuana Officials Clarify That They Haven’t Set A Timeline For Product Testing",
-      "url": "https://www.marijuanamoment.net/nebraska-medical-marijuana-officials-clarify-that-they-havent-set-a-timeline-for-product-testing/",
-      "source": "Marijuana Moment",
-      "sourceFeed": "https://www.marijuanamoment.net/feed/",
-      "language": "en",
-      "region": "International",
-      "publishedAt": "2026-11-10T20:40:14+00:00",
+      "id": "accef496c197b63a9972",
+      "title": "Chanvre au THC : l’interdiction américaine entre en vigueur en deux temps",
+      "url": "https://lecannabiste.com/chanvre-au-thc-linterdiction-americaine-entre-en-vigueur-en-deux-temps/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-11T10:24:00+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
-      "excerpt": "“The commission remains focused on advancing this work in a deliberate and responsible manner, with the goal of establishing a functional, compliant medical can",
-      "status": "Extrait du flux · à vérifier",
-      "image": "assets/live-be8b258ef8f5ec2a3f1b.webp",
-      "credit": "Marijuana Moment · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
-      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/11/Stock-8.webp"
+      "excerpt": "La nouvelle définition fédérale du chanvre interdit le THC de synthèse le 12 novembre 2026, puis plafonne l'ensemble des produits au THC le 11 décembre. La version originale de ce contenu provient de Le Cannabiste et a…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-e30b3b9bf4cf7848ad6d.webp",
+      "credit": "Le Cannabiste · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/interdiction-chanvre-thc-usa.webp"
+    },
+    {
+      "id": "4670c0bfdb98bd1501b9",
+      "title": "Grow Group Completes £12m Recapitalisation and Restructuring, Appoints Co-CEOs and Completes Transition to Full Operations at its UK Manufacturing Facility",
+      "url": "https://businessofcannabis.com/grow-group-completes-12m-recapitalisation-and-restructuring-appoints-co-ceos-and-completes-transition-to-full-operations-at-its-uk-manufacturing-facility/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-11T09:44:56+00:00",
+      "collectedAt": "2026-11-11T14:48:56.642634+00:00",
+      "excerpt": "Grow Group has announced the completion of a recapitalisation, has appointed Co-CEOs, and now expects to generate healthy EBITDA in 2027.",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Communiqué",
+      "image": "assets/live-6fb23b048908cbfe30b8.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/a7iii.01_51_43_13.Still007-scaled.webp"
     },
     {
       "id": "dc91f4b14a55db703813",
@@ -145,14 +237,94 @@
       "source": "Hanf Magazin",
       "sourceFeed": "https://www.hanf-magazin.com/feed/",
       "language": "de",
-      "region": "International",
+      "region": "Europe",
       "publishedAt": "2026-11-11T07:00:00+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
-      "excerpt": "Ob Cannabis das Risiko für Blutgerinnsel erhöht, war bislang unklar. Eine neue Auswertung über zehn Jahre findet keinen Zusammenhang. Bemerkenswert ist das auch",
-      "status": "Extrait du flux · à vérifier",
+      "excerpt": "Ob Cannabis das Risiko für Blutgerinnsel erhöht, war bislang unklar. Eine neue Auswertung über zehn Jahre findet keinen Zusammenhang. Bemerkenswert ist das auch deshalb, weil wir vor vier Jahren das Gegenteil berichtet…",
+      "topics": [
+        "Santé & recherche",
+        "Chanvre"
+      ],
+      "kind": "Article",
       "image": "assets/live-7a8163a77bbf30743bc1.jpg",
       "credit": "Hanf Magazin · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
       "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-makroaufnahme-eines-trichoms-auf-einem-c-featured-83405.jpg"
+    },
+    {
+      "id": "fd99db29cc42da3420cf",
+      "title": "Nebraska Medical Marijuana Officials Clarify That They Haven’t Set A Timeline For Product Testing",
+      "url": "https://www.marijuanamoment.net/nebraska-medical-marijuana-officials-clarify-that-they-havent-set-a-timeline-for-product-testing/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-10T20:40:14+00:00",
+      "collectedAt": "2026-11-11T13:54:36.601762+00:00",
+      "excerpt": "“The commission remains focused on advancing this work in a deliberate and responsible manner, with the goal of establishing a functional, compliant medical cannabis program.” By Zach Wendling, Nebraska Examiner The…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-be8b258ef8f5ec2a3f1b.webp",
+      "credit": "Marijuana Moment · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/11/Stock-8.webp"
+    },
+    {
+      "id": "515b227865b379b75426",
+      "title": "We Should Tax Marijuana By Its THC Potency, Not Its Price (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/we-should-tax-marijuana-by-its-thc-potency-not-its-price-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-10T19:25:37+00:00",
+      "collectedAt": "2026-11-11T14:48:56.642634+00:00",
+      "excerpt": "“THC taxes, aiming squarely at cannabis’s main intoxicating molecule, are stable; they keep nudging against intoxication and rising potency, even as pre-tax prices fall.” By Pat Oglesby, Center for New Revenue When…",
+      "topics": [
+        "CBD & molécules"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-381804486a9d4b24b772.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-money-leaf-scaled.jpg"
+    },
+    {
+      "id": "15f4ba4d43928540542e",
+      "title": "Decriminalizing Marijuana In North Carolina Is ‘On Top Of Everybody’s Minds,’ Incoming House Speaker Says",
+      "url": "https://www.marijuanamoment.net/decriminalizing-marijuana-in-north-carolina-is-on-top-of-everybodys-minds-incoming-house-speaker-says/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-10T17:26:09+00:00",
+      "collectedAt": "2026-11-11T14:48:56.642634+00:00",
+      "excerpt": "North Carolina is poised to substantially reform its marijuana laws following last week’s midterm elections in which Democrats won control of at least the House of Representatives, a top lawmaker says.…",
+      "topics": [
+        "Autres actualités"
+      ],
+      "kind": "Article",
+      "image": "assets/live-27e2bed8d0ff9aa6533f.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-leaf-scaled.jpg"
+    },
+    {
+      "id": "06f87f4d74d1db7b9619",
+      "title": "The Cannabis Industry Bet on False Prophets, And Election Night Exposed the Cost (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/the-cannabis-industry-bet-on-false-prophets-and-election-night-exposed-the-cost-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-10T15:53:39+00:00",
+      "collectedAt": "2026-11-11T14:48:56.642634+00:00",
+      "excerpt": "“The industry’s pursuit of Republican gatekeepers has come at the expense of priorities such as patient protections, home cultivation and social equity, treating them as bargaining chips rather than principles worth…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-c148b11cb6db0cdfdc17.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/07/hemp-plant-3661210_1920.webp"
     },
     {
       "id": "95ee7593bd5aecf0100c",
@@ -161,16 +333,24 @@
       "source": "Hanf Magazin",
       "sourceFeed": "https://www.hanf-magazin.com/feed/",
       "language": "de",
-      "region": "International",
+      "region": "Europe",
       "publishedAt": "2026-11-10T15:00:00+00:00",
       "collectedAt": "2026-11-11T13:54:36.601762+00:00",
-      "excerpt": "Eine neue US-Studie in BMJ Open verbindet den legalen Cannabisverkauf mit einem schnelleren Anstieg von Krankenhausaufnahmen wegen Herzinsuffizienz, Herzinfarkt",
-      "status": "Extrait du flux · à vérifier",
+      "excerpt": "Eine neue US-Studie in BMJ Open verbindet den legalen Cannabisverkauf mit einem schnelleren Anstieg von Krankenhausaufnahmen wegen Herzinsuffizienz, Herzinfarkt und Vorhofflimmern. Die Schlagzeilen klingen eindeutig…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
       "image": "assets/live-1a28961b4ad0ee73b165.jpg",
       "credit": "Hanf Magazin · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
       "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-makroaufnahme-einer-cannabisbluete-mit-tr-featured-83811.jpg"
     }
   ],
   "windowHours": 24,
-  "notice": "Collecte automatique de flux publics. Les titres et extraits appartiennent aux sources. Ce fil ne remplace pas les bulletins vérifiés. Aucune synthèse médicale ou juridique générée automatiquement."
+  "schedule": "09h17, 13h17 et 18h17 · Paris",
+  "notice": "Revue de presse automatique. Titres et courts extraits dans la langue des sources ; articles à lire chez leurs éditeurs. Les rubriques sont un classement automatique, pas une validation des informations.",
+  "date": "2026-11-11"
 }
