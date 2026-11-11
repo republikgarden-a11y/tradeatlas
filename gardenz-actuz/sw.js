@@ -1,5 +1,5 @@
 // The shell is refreshed from the network; read articles/images remain available offline.
-const CACHE='gardenz-actuz-v3-0e83fe79d73d';
+const CACHE='gardenz-actuz-v3-a1a386885af9';
 const FILES=["./", "index.html", "app.css", "app.js", "journal.css", "install.css", "live.css", "live.js", "manifest.webmanifest", "assets/fraktur.ttf", "assets/icon-192.png", "assets/icon-512.png", "editions.json", "data/latest.json", "data/index.json"];
 const scopeURL=new URL(self.registration.scope);
 const keyFor=url=>new Request(url.origin+url.pathname);
