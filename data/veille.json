@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-11T16:05:02Z",
-  "last_success": "2026-11-11T16:05:02Z",
+  "checked_at": "2026-11-11T16:15:01Z",
+  "last_success": "2026-11-11T16:15:01Z",
   "topics_checked": 4,
   "successful_topics": 4,
-  "new_items": 1,
+  "new_items": 0,
   "errors": [],
   "articles": [
     {
