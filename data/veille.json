@@ -1,13 +1,21 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-11T14:48:15Z",
-  "last_success": "2026-11-11T14:48:15Z",
+  "checked_at": "2026-11-11T16:05:02Z",
+  "last_success": "2026-11-11T16:05:02Z",
   "topics_checked": 4,
   "successful_topics": 4,
   "new_items": 1,
   "errors": [],
   "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2FnRWpEb0JVRncyS2NrZk13dl9DYUcyMlp3ejBxNG5jTnBpVzhmdkM3M1hfdWJ6VW5Qakh3SzVhWVRSLXUxd283bE56VU9BeXZRdk5sdXR4T3lROVhUd0dCOHlQQjZNSS1tWjd1Z2cteHkzX2VTRkNTb1NqREhfM0JfS0NrXzQ5dFlQeDFZc2xrQW1Eb252VUw4Yk1vN2ZwY1E?oc=5",
+      "title": "2026 Big Smoke Las Vegas Seminars: The Top Cigars Of The Year - Cigar Aficionado",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Cigar Aficionado",
+      "published_at": "2026-11-11T15:51:00Z",
+      "first_seen": "2026-11-11T16:05:02Z"
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOUNhNUFWNExDcWJSNmhOQ0w0aElPTHIwTGZVbHBtVHg0aUc1NzJsRHhvdy1pYjRSeHo1eGw1ZEVHLWtWc0drRC1rcElCS2t2WXpWWWwyb0Jvd0JGU0ttR3U4d1cyelgyUGp1X1R2c3FNeVpBMkNJVTBFa05EdXpMaGpDUEZNSTNwUU45Zg?oc=5",
       "title": "Weller by Cohiba Travel Humidor | Accessory Review - Cigar Coop",
