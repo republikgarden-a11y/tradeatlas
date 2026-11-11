@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-11T15:05:19Z",
+  "title": "Design System: Gardenz Actuz",
+  "extensions": {
+    "colorMeta": {
+      "paper": {
+        "role": "neutral",
+        "displayName": "Papier clair",
+        "canonical": "#f7f2e6",
+        "tonalRamp": [
+          "oklch(15.00% 0.0168 88.00)",
+          "oklch(26.43% 0.0168 88.00)",
+          "oklch(37.86% 0.0168 88.00)",
+          "oklch(49.29% 0.0168 88.00)",
+          "oklch(60.71% 0.0168 88.00)",
+          "oklch(72.14% 0.0168 88.00)",
+          "oklch(83.57% 0.0168 88.00)",
+          "oklch(95.00% 0.0168 88.00)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Encre brune",
+        "canonical": "#30271c",
+        "tonalRamp": [
+          "oklch(15.00% 0.0234 72.23)",
+          "oklch(26.43% 0.0234 72.23)",
+          "oklch(37.86% 0.0234 72.23)",
+          "oklch(49.29% 0.0234 72.23)",
+          "oklch(60.71% 0.0234 72.23)",
+          "oklch(72.14% 0.0234 72.23)",
+          "oklch(83.57% 0.0234 72.23)",
+          "oklch(95.00% 0.0234 72.23)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Filet beige",
+        "canonical": "#c5b9a3",
+        "tonalRamp": [
+          "oklch(15.00% 0.0332 82.74)",
+          "oklch(26.43% 0.0332 82.74)",
+          "oklch(37.86% 0.0332 82.74)",
+          "oklch(49.29% 0.0332 82.74)",
+          "oklch(60.71% 0.0332 82.74)",
+          "oklch(72.14% 0.0332 82.74)",
+          "oklch(83.57% 0.0332 82.74)",
+          "oklch(95.00% 0.0332 82.74)"
+        ]
+      },
+      "green": {
+        "role": "primary",
+        "displayName": "Vert forêt",
+        "canonical": "#35543c",
+        "tonalRamp": [
+          "oklch(15.00% 0.0544 150.59)",
+          "oklch(26.43% 0.0544 150.59)",
+          "oklch(37.86% 0.0544 150.59)",
+          "oklch(49.29% 0.0544 150.59)",
+          "oklch(60.71% 0.0544 150.59)",
+          "oklch(72.14% 0.0544 150.59)",
+          "oklch(83.57% 0.0544 150.59)",
+          "oklch(95.00% 0.0544 150.59)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Brun secondaire",
+        "canonical": "#6b5b45",
+        "tonalRamp": [
+          "oklch(15.00% 0.0393 75.42)",
+          "oklch(26.43% 0.0393 75.42)",
+          "oklch(37.86% 0.0393 75.42)",
+          "oklch(49.29% 0.0393 75.42)",
+          "oklch(60.71% 0.0393 75.42)",
+          "oklch(72.14% 0.0393 75.42)",
+          "oklch(83.57% 0.0393 75.42)",
+          "oklch(95.00% 0.0393 75.42)"
+        ]
+      },
+      "outer": {
+        "role": "neutral",
+        "displayName": "Table de lecture",
+        "canonical": "#e5ddcf",
+        "tonalRamp": [
+          "oklch(15.00% 0.0208 81.78)",
+          "oklch(26.43% 0.0208 81.78)",
+          "oklch(37.86% 0.0208 81.78)",
+          "oklch(49.29% 0.0208 81.78)",
+          "oklch(60.71% 0.0208 81.78)",
+          "oklch(72.14% 0.0208 81.78)",
+          "oklch(83.57% 0.0208 81.78)",
+          "oklch(95.00% 0.0208 81.78)"
+        ]
+      },
+      "field": {
+        "role": "neutral",
+        "displayName": "Champ ivoire",
+        "canonical": "#fffdf5",
+        "tonalRamp": [
+          "oklch(15.00% 0.0107 95.16)",
+          "oklch(26.43% 0.0107 95.16)",
+          "oklch(37.86% 0.0107 95.16)",
+          "oklch(49.29% 0.0107 95.16)",
+          "oklch(60.71% 0.0107 95.16)",
+          "oklch(72.14% 0.0107 95.16)",
+          "oklch(83.57% 0.0107 95.16)",
+          "oklch(95.00% 0.0107 95.16)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Manchette",
+        "purpose": "Signature du journal et identité compacte."
+      },
+      "headline": {
+        "displayName": "Une",
+        "purpose": "Titre principal de la surface actuelle."
+      },
+      "title": {
+        "displayName": "Titre d’article",
+        "purpose": "Titres du fil de lecture."
+      },
+      "body": {
+        "displayName": "Lecture",
+        "purpose": "Prose et extraits."
+      },
+      "label": {
+        "displayName": "Repères",
+        "purpose": "Sources, dates, légendes et contrôles ; variantes selon le rôle."
+      }
+    },
+    "shadows": [
+      {
+        "name": "reading-sheet",
+        "value": "0 16px 30px #30271c12",
+        "purpose": "Ombre extérieure de la feuille de lecture actuelle."
+      }
+    ],
+    "motion": [
+      {
+        "name": "control-color",
+        "value": "color .18s ease-out, background-color .18s ease-out",
+        "purpose": "Liens et boutons lorsque prefers-reduced-motion vaut no-preference."
+      },
+      {
+        "name": "image-filter",
+        "value": "filter .25s ease-out",
+        "purpose": "Changement sépia/couleurs lorsque prefers-reduced-motion vaut no-preference."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide",
+        "value": "1500px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1050px"
+      },
+      {
+        "name": "mobile",
+        "value": "760px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Bouton neutre",
+      "kind": "button",
+      "refersTo": "button-neutral",
+      "description": "Action courante sur le papier. Le focus reprend le traitement global.",
+      "html": "<button class=\"ds-button\">Actualiser</button>",
+      "css": ".ds-button{font:18px/1.6 Georgia,'Times New Roman',serif;min-height:44px;padding:9px 14px;border:1px solid var(--line,#c5b9a3);border-radius:3px;cursor:pointer;background:transparent;color:var(--ink,#30271c)}.ds-button:focus-visible{outline:3px solid var(--green,#35543c);outline-offset:4px}"
+    },
+    {
+      "name": "Bouton sombre",
+      "kind": "button",
+      "refersTo": "button-dark",
+      "description": "Action forte, avec papier sur encre.",
+      "html": "<button class=\"ds-button-dark\">Installer l’app</button>",
+      "css": ".ds-button-dark{font:18px/1.6 Georgia,'Times New Roman',serif;min-height:44px;padding:9px 14px;border:1px solid var(--line,#c5b9a3);border-radius:3px;cursor:pointer;background:var(--ink,#30271c);border-color:var(--ink,#30271c);color:var(--paper,#f7f2e6)}.ds-button-dark:focus-visible{outline:3px solid var(--green,#35543c);outline-offset:4px}"
+    },
+    {
+      "name": "Recherche",
+      "kind": "input",
+      "refersTo": "search-field",
+      "description": "Champ de recherche et label distinct.",
+      "html": "<label class=\"ds-search\">Rechercher dans le journal<input type=\"search\" placeholder=\"Un sujet, un média, un mot-clé…\"></label>",
+      "css": ".ds-search{display:block;font:12px/1.5 system-ui,sans-serif;color:var(--muted,#6b5b45)}.ds-search input{display:block;width:100%;min-width:0;min-height:46px;margin-top:6px;padding:10px 9px;background:var(--field,#fffdf5);color:var(--ink,#30271c);border:1px solid var(--line,#c5b9a3);border-radius:3px;font:14px/1.4 system-ui,sans-serif;caret-color:var(--green,#35543c)}.ds-search input::placeholder{color:var(--muted,#6b5b45);opacity:1}.ds-search input:focus-visible{outline:3px solid var(--green,#35543c);outline-offset:4px}"
+    },
+    {
+      "name": "Navigation de lecture",
+      "kind": "nav",
+      "refersTo": "reading-tab",
+      "description": "Vues du journal ; la vue active est verte et soulignée.",
+      "html": "<nav class=\"ds-tabs\" aria-label=\"Choisir la lecture\"><button aria-pressed=\"true\">Dernières actus</button><button aria-pressed=\"false\">Mes articles</button></nav>",
+      "css": ".ds-tabs{display:flex;gap:26px;overflow-x:auto;border-bottom:1px solid var(--line,#c5b9a3);background:var(--paper,#f7f2e6)}.ds-tabs button{color:var(--ink,#30271c);background:transparent;border:0;border-radius:0;border-bottom:3px solid transparent;padding:14px 0 12px;min-height:52px;font:500 15px/1.4 system-ui,sans-serif;white-space:nowrap;cursor:pointer}.ds-tabs button:hover{color:var(--green,#35543c)}.ds-tabs button[aria-pressed=true]{color:var(--green,#35543c);border-bottom-color:var(--green,#35543c);font-weight:700}.ds-tabs button:focus-visible{outline:3px solid var(--green,#35543c);outline-offset:4px}"
+    },
+    {
+      "name": "Rubriques",
+      "kind": "chip",
+      "refersTo": "topic-selected",
+      "description": "Pastilles de filtrage avec état sélectionné explicite.",
+      "html": "<div class=\"ds-topics\"><button aria-pressed=\"true\">Tout</button><button aria-pressed=\"false\">Chanvre</button></div>",
+      "css": ".ds-topics{display:flex;gap:8px;flex-wrap:wrap}.ds-topics button{font:13px/1.3 system-ui,sans-serif;min-height:38px;padding:8px 12px;border:1px solid var(--line,#c5b9a3);border-radius:20px;color:var(--ink,#30271c);background:transparent;cursor:pointer}.ds-topics button[aria-pressed=true]{background:var(--green,#35543c);border-color:var(--green,#35543c);color:#fff}.ds-topics button:focus-visible{outline:3px solid var(--green,#35543c);outline-offset:4px}"
+    },
+    {
+      "name": "Article sans visuel",
+      "kind": "card",
+      "refersTo": "article-row",
+      "description": "Rangée éditoriale plate, sans image de remplacement.",
+      "html": "<article class=\"ds-article\"><p class=\"ds-meta\"><strong>Média d’origine</strong> · Date de publication · Français</p><h3><a href=\"#article\">Titre de l’article publié par sa source</a></h3><p class=\"ds-excerpt\">Un court extrait de la publication, conservé dans sa langue d’origine.</p><a class=\"ds-read\" href=\"#article\">Lire l’article ↗</a></article>",
+      "css": ".ds-article{padding:28px 0;border-bottom:1px solid var(--line,#c5b9a3);color:var(--ink,#30271c);max-width:86ch}.ds-meta{font:12px/1.5 system-ui,sans-serif;color:var(--muted,#6b5b45);margin:0 0 10px}.ds-meta strong{color:var(--green,#35543c)}.ds-article h3{font:700 28px/1.2 Georgia,serif;letter-spacing:-.02em;margin:0 0 12px}.ds-article h3 a{color:inherit;text-decoration:none}.ds-article h3 a:hover{text-decoration:underline}.ds-excerpt{font:18px/1.65 Georgia,serif;color:#514431;max-width:70ch;margin:0 0 20px}.ds-read{font:600 14px/1.4 system-ui,sans-serif;color:var(--green,#35543c);text-underline-offset:4px}.ds-article a:focus-visible{outline:3px solid var(--green,#35543c);outline-offset:4px}"
+    },
+    {
+      "name": "Article gardé",
+      "kind": "button",
+      "refersTo": "save-button",
+      "description": "Signet, libellé et aria-pressed portent ensemble l’état sauvegardé.",
+      "html": "<button class=\"ds-save\" aria-pressed=\"true\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" aria-hidden=\"true\"><path d=\"M6 3h12v18l-6-4-6 4z\"/></svg><span>Gardé</span></button>",
+      "css": ".ds-save{display:flex;align-items:center;gap:7px;font:13px/1.4 system-ui,sans-serif;padding:8px 10px;min-height:44px;border:1px solid transparent;border-radius:3px;background:transparent;color:var(--ink,#30271c);cursor:pointer}.ds-save svg{width:20px;height:20px}.ds-save[aria-pressed=true]{color:var(--green,#35543c);background:#e6eadc}.ds-save[aria-pressed=true] svg{fill:#d0dec4}.ds-save:focus-visible{outline:3px solid var(--green,#35543c);outline-offset:4px}"
+    },
+    {
+      "name": "Manchette",
+      "kind": "custom",
+      "refersTo": "masthead",
+      "description": "Signature Fraktur et doubles filets du journal.",
+      "html": "<header class=\"ds-masthead\"><h1>Gardenz Actuz</h1><p>Le journal du cannabis · CBD · Chanvre</p></header>",
+      "css": ".ds-masthead{color:var(--ink,#30271c)}.ds-masthead h1{font:clamp(58px,8.5vw,96px)/1.12 Fraktur,serif;text-align:center;margin:5px 0 16px;letter-spacing:-.015em}.ds-masthead p{border-top:1px solid currentColor;border-bottom:4px double currentColor;padding:9px 0;font:14px/1.6 system-ui,sans-serif;text-transform:uppercase;letter-spacing:.07em;margin:0}@media(max-width:760px){.ds-masthead h1{font-size:clamp(48px,11.8vw,76px);white-space:nowrap}.ds-masthead p{font-size:11px;text-align:center}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Le journal papier Gardenz",
+    "overview": "Gardenz Actuz prolonge son identité de journal : papier clair, encre brune, manchette gothique et photographies ou illustrations issues des éditeurs, traitées en sépia. Le mode Read privilégie une lecture éditoriale dense et calme, avec des sources et des dates immédiatement identifiables.\n\nLe vert forêt accompagne les actions, la sélection et les sources. Il reste un accent de navigation au sein du journal brun. Les anciennes éditions conservent leurs documents et leur présentation historique ; leurs particularités ne définissent pas les nouveaux composants.",
+    "keyCharacteristics": [
+      "Papier clair et encre brune.",
+      "Fraktur pour la signature, sérif pour la lecture, sans sérif pour les repères.",
+      "Articles séparés par des filets, avec une hiérarchie de texte nette.",
+      "Visuels de presse attribués, sépia par défaut et couleurs à la demande."
+    ],
+    "rules": [],
+    "dos": [
+      "Do conserver la manchette Fraktur, le papier clair et l’encre brune.",
+      "Do séparer la prose de lecture des dates, sources et légendes par la typographie.",
+      "Do conserver les crédits, la provenance et l’accès explicite au média d’origine.",
+      "Do rendre la sélection et le focus visibles en plus de leurs états accessibles."
+    ],
+    "donts": [
+      "Don't transformer chaque article en carte flottante avec une ombre.",
+      "Don't généraliser les règles typographiques héritées des archives aux métadonnées actuelles.",
+      "Don't remplacer les visuels de presse par des images synthétiques.",
+      "Don't imposer la composition de cette une à tous les futurs écrans."
+    ]
+  }
+}
