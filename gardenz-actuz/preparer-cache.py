@@ -5,7 +5,7 @@ import json
 import re
 root = Path(__file__).resolve().parent
 files = ['./', 'index.html', 'app.css', 'app.js', 'journal.css', 'install.css', 'live.css',
-         'live.js', 'manifest.webmanifest', 'assets/fraktur.ttf', 'assets/icon-192.png',
+         'live.js', 'translation.js', 'manifest.webmanifest', 'assets/fraktur.ttf', 'assets/icon-192.png',
          'assets/icon-512.png', 'editions.json', 'data/latest.json', 'data/index.json']
 worker = root / 'sw.js'
 source = worker.read_text()

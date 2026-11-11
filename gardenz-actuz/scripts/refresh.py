@@ -180,7 +180,7 @@ def publish(results, now, previous):
               if date(item.get('publishedAt')) and date(item['publishedAt']) >= now - dt.timedelta(days=30)}
     for ident, item in fresh.items():
         if ident in stored:
-            item.update({key: value for key, value in stored[ident].items() if key in ('image', 'imageSource', 'credit', 'collectedAt')})
+            item.update({key: value for key, value in stored[ident].items() if key in ('image', 'imageSource', 'credit', 'collectedAt', 'translation')})
         stored[ident] = item
     for item in stored.values():
         item['excerpt'] = short_excerpt(item.get('excerpt', ''), item['title'])

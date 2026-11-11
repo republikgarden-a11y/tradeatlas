@@ -12,21 +12,40 @@
   let news = null, archive = null, editionsIndex = [], active = 'live', topic = '', busy = false, limit = 12, offline = false, archiveRequest = 0;
   let saved = new Set(store.get('actuz-saved', [])), savedItems = store.get('actuz-saved-items', {});
   const initial = new URL(location.href);
-  function sourceLink(item, text) { const a = node('a', text); a.href = safeURL(item.url); a.target = '_blank'; a.rel = 'noopener noreferrer'; a.hreflang = item.language || ''; return a; }
+  const translator = window.GardenzTranslation;
+  let french = store.get('actuz-french', true) !== false;
+  function sourceLink(item, text, original = false) {
+    const a = node('a', text); a.href = translator.readerURL(item, french, original); a.target = '_blank'; a.rel = 'noopener noreferrer';
+    a.hreflang = french && item.language !== 'fr' && !original ? 'fr' : item.language || '';
+    if (french && item.language !== 'fr' && !original) a.title = 'Lire l’article complet en français avec Google Traduction · nouvel onglet';
+    return a;
+  }
+  function syncTranslation() {
+    el('translation-toggle').setAttribute('aria-checked', String(french));
+    el('translation-toggle-label').textContent = french ? 'Français : activé' : 'Français : désactivé';
+    if (active === 'archives') { el('translation-status').textContent = 'Ces anciennes éditions sont déjà rédigées en français.'; return; }
+    if (!french) { el('translation-status').textContent = 'Les textes d’origine sont affichés. Réactive le français à tout moment.'; return; }
+    const foreign = viewCorpus().filter(item => item.language !== 'fr');
+    const translated = foreign.filter(translator.valid).length;
+    el('translation-status').textContent = foreign.length && translated < foreign.length
+      ? translated + '/' + foreign.length + ' articles étrangers traduits. « Lire en français » reste disponible pour les autres.'
+      : 'Titres et extraits en français · traduction automatique · original disponible en un clic.';
+  }
   function saveButton(item) {
     const button = node('button', undefined, 'save-news'); button.type = 'button'; button.innerHTML = bookmarkIcon;
-    const selected = saved.has(item.id); button.append(node('span', selected ? 'Gardé' : 'Garder'));
-    button.setAttribute('aria-label', (selected ? 'Retirer de mes articles : ' : 'Garder pour plus tard : ') + item.title);
+    const selected = saved.has(item.id); button.dataset.itemId = item.id; button.append(node('span', selected ? 'Gardé' : 'Garder'));
+    button.setAttribute('aria-label', (selected ? 'Retirer de mes articles : ' : 'Garder pour plus tard : ') + translator.display(item, french).title);
     button.setAttribute('aria-pressed', String(selected));
     button.addEventListener('click', () => {
       if (saved.has(item.id)) { saved.delete(item.id); delete savedItems[item.id]; } else { saved.add(item.id); savedItems[item.id] = item; }
       store.set('actuz-saved', [...saved]); store.set('actuz-saved-items', savedItems);
       const oldFocus = document.activeElement; render();
-      const replacement = [...document.querySelectorAll('.save-news')].find(b => b.getAttribute('aria-label')?.endsWith(item.title));
+      const replacement = [...document.querySelectorAll('.save-news')].find(b => b.dataset.itemId === item.id);
       if (oldFocus === button) replacement?.focus({ preventScroll: true });
     }); return button;
   }
   function article(item, lead = false) {
+    const text = translator.display(item, french);
     const wrapper = node('article', undefined, (lead ? 'lead-story' : 'news-item') + (!item.image ? ' no-image' : '')); wrapper.id = 'news-' + item.id;
     if (item.image && /^assets\/[\w-]+\.(jpg|jpeg|png|webp)$/.test(item.image)) {
       const figure = node('figure', undefined, 'news-image'), link = sourceLink(item);
@@ -36,20 +55,27 @@
       figure.append(node('figcaption', item.source + ' · image de l’article')); wrapper.append(figure);
     }
     const copy = node('div', undefined, 'news-copy'), meta = node('p', undefined, 'news-meta');
-    meta.append(node('span', item.source, 'source-name'), node('span', timeLabel(item.publishedAt)), node('span', languageLabel(item.language)));
+    meta.append(node('span', item.source, 'source-name'), node('span', timeLabel(item.publishedAt)), node('span', text.translated ? 'Français · traduit de ' + ({en:'l’anglais',de:'l’allemand'}[item.language] || languageLabel(item.language)) : text.unavailable ? 'Source en ' + languageLabel(item.language).toLowerCase() : languageLabel(item.language), text.translated ? 'translated-label' : ''));
     copy.append(meta);
     if (item.kind && item.kind !== 'Article') copy.append(node('p', item.kind, 'article-kind'));
-    const h = node(lead ? 'h2' : 'h3'); h.lang = item.language || 'fr'; h.append(sourceLink(item, item.title)); copy.append(h);
-    if (item.excerpt) { const excerpt = node('p', item.excerpt, 'news-excerpt'); excerpt.lang = item.language || 'fr'; copy.append(excerpt); }
-    const tail = node('div', undefined, 'news-tail'), link = sourceLink(item, 'Lire l’article'); link.className = 'read-source'; link.append(node('span', ' ↗', 'external-arrow'));
-    tail.append(link, saveButton(item)); copy.append(tail); wrapper.append(copy); return wrapper;
+    const h = node(lead ? 'h2' : 'h3'); h.lang = text.language || 'fr'; h.append(sourceLink(item, text.title)); copy.append(h);
+    if (text.excerpt) { const excerpt = node('p', text.excerpt, text.unavailable ? 'translation-unavailable' : 'news-excerpt'); excerpt.lang = text.unavailable ? 'fr' : text.language || 'fr'; copy.append(excerpt); }
+    const tail = node('div', undefined, 'news-tail'), links = node('div', undefined, 'source-links');
+    const link = sourceLink(item, french && item.language !== 'fr' ? 'Lire en français' : 'Lire l’article'); link.className = 'read-source';
+    links.append(link);
+    if (french && item.language !== 'fr') { const original = sourceLink(item, 'Source originale', true); original.className = 'original-source'; links.append(original); }
+    tail.append(links, saveButton(item)); copy.append(tail); wrapper.append(copy); return wrapper;
   }
   function currentData() { return active === 'daily' ? archive : news; }
+  function viewCorpus() {
+    if (active !== 'saved') return [...(currentData()?.items || [])];
+    return translator.savedCorpus(news?.items || [], savedItems, saved);
+  }
   function itemsForView() {
-    let items = active === 'saved' ? [...new Map([...(news?.items || []), ...Object.values(savedItems)].map(i => [i.id, i])).values()].filter(i => saved.has(i.id)) : [...(currentData()?.items || [])];
+    const items = viewCorpus();
     const query = normalize(el('live-query').value).split(/\s+/).filter(Boolean), lang = el('live-language').value, source = el('live-source').value;
     const since = Date.now() - Number(el('live-period').value) * 3600000;
-    return items.filter(i => (active !== 'live' || new Date(i.publishedAt).getTime() >= since) && (!topic || i.topics?.includes(topic)) && (!lang || i.language === lang) && (!source || i.source === source) && query.every(q => normalize(i.title + ' ' + i.excerpt + ' ' + i.source + ' ' + (i.topics || []).join(' ')).includes(q)))
+    return items.filter(i => (active !== 'live' || new Date(i.publishedAt).getTime() >= since) && (!topic || i.topics?.includes(topic)) && (!lang || i.language === lang) && (!source || i.source === source) && query.every(q => normalize(i.title + ' ' + i.excerpt + ' ' + (translator.valid(i) ? i.translation.title + ' ' + i.translation.excerpt : '') + ' ' + i.source + ' ' + (i.topics || []).join(' ')).includes(q)))
       .sort((a, b) => (a.language !== 'fr') - (b.language !== 'fr') || new Date(b.publishedAt) - new Date(a.publishedAt));
   }
   function renderHealth() {
@@ -76,11 +102,12 @@
     const list = el('briefing-list'); list.replaceChildren();
     for (const item of fresh.slice(1, 5)) {
       const li = node('li'); li.append(node('span', item.topics?.[0] || item.source, 'briefing-topic'));
-      const link = sourceLink(item, item.title); link.lang = item.language; li.append(link, node('small', item.source + ' · ' + languageLabel(item.language))); list.append(li);
+      const text = translator.display(item, french), link = sourceLink(item, text.title); link.lang = text.language; li.append(link, node('small', item.source + ' · ' + (text.translated ? 'Traduit en français' : text.unavailable ? 'Traduction disponible à l’ouverture' : languageLabel(item.language)))); list.append(li);
     }
     if (!list.children.length) list.append(node('li', 'Une journée calme : les titres disponibles sont dans le fil ci-dessous.'));
   }
   function render() {
+    syncTranslation();
     if (!news) return;
     renderHealth(); renderFrontpage();
     el('saved-count').textContent = saved.size;
@@ -146,6 +173,7 @@
   }
   document.querySelectorAll('[data-view]').forEach(button => button.addEventListener('click', () => setView(button.dataset.view)));
   document.querySelectorAll('[data-topic]').forEach(button => button.addEventListener('click', () => { topic = button.dataset.topic; limit = 12; render(); }));
+  el('translation-toggle').addEventListener('click', () => { french = !french; store.set('actuz-french', french); render(); });
   el('live-form').addEventListener('submit', event => event.preventDefault());
   ['live-query', 'live-language', 'live-source', 'live-period'].forEach(id => el(id).addEventListener(id === 'live-query' ? 'input' : 'change', () => { limit = 12; render(); }));
   el('reset-filters').addEventListener('click', resetFilters); el('refresh-news').addEventListener('click', refresh);

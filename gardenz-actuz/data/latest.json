@@ -88,7 +88,20 @@
       "kind": "Article",
       "image": "assets/live-a713059154b661a40059.jpg",
       "credit": "Hanf Magazin · image de l’article",
-      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-makroaufnahme-einer-cannabisbluete-mit-tr-featured-83429.jpg"
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-makroaufnahme-einer-cannabisbluete-mit-tr-featured-83429.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "b1fd4ba7f55a26ba992e5ace92644a8246f3733ac0ed5a6cca1079e4c79b1ca3",
+        "sourceTitle": "3.744 Schmerzpatienten, 5 Verlaufstypen: Was das britische Cannabis-Register zeigt",
+        "sourceExcerpt": "Eine neue Auswertung des britischen Medizinalcannabis-Registers verfolgt 3.744 Schmerzpatienten über bis zu zwei Jahre. Im Mittel verbessern sich Schmerzen, Schlaf, Angst und Lebensqualität. Interessanter als der…",
+        "title": "3.744 patients souffrant de douleurs, 5 types d'évolution : ce que montre le registre britannique du cannabis médical",
+        "excerpt": "Une nouvelle analyse du registre britannique du cannabis médical suit 3.744 patients en souffrant de douleurs pendant jusqu'à deux ans. En moyenne, les douleurs, le sommeil, l'anxiété et la qualité de vie s'améliorent. Ce qui est particulièrement intéressant, c'est que…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:53:08.535535+00:00"
+      }
     },
     {
       "id": "d50e82fbaf0517c10f45",
@@ -268,7 +281,20 @@
       "kind": "Article",
       "image": "assets/live-7a8163a77bbf30743bc1.jpg",
       "credit": "Hanf Magazin · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
-      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-makroaufnahme-eines-trichoms-auf-einem-c-featured-83405.jpg"
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-makroaufnahme-eines-trichoms-auf-einem-c-featured-83405.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "5d3f739efe3325f364630a1ba7a1510c76987cee99a62db4e22cb964a9060d53",
+        "sourceTitle": "10 Jahre, 10.062 Patienten: Studie findet kein erhöhtes Thromboserisiko",
+        "sourceExcerpt": "Ob Cannabis das Risiko für Blutgerinnsel erhöht, war bislang unklar. Eine neue Auswertung über zehn Jahre findet keinen Zusammenhang. Bemerkenswert ist das auch deshalb, weil wir vor vier Jahren das Gegenteil berichtet…",
+        "title": "10 ans, 10 062 patients : l'étude ne détecte pas de risque accru de thrombose",
+        "excerpt": "L'hypothèse selon laquelle le cannabis augmenterait le risque de caillots sanguins était jusqu'alors incertaine. Une nouvelle analyse sur dix ans ne révèle aucun lien. Cela est remarquable, notamment parce que nous avions rapporté l'inverse il y a quatre ans…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:53:08.535535+00:00"
+      }
     },
     {
       "id": "fd99db29cc42da3420cf",
@@ -366,7 +392,20 @@
       "kind": "Article",
       "image": "assets/live-1a28961b4ad0ee73b165.jpg",
       "credit": "Hanf Magazin · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
-      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-makroaufnahme-einer-cannabisbluete-mit-tr-featured-83811.jpg"
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-makroaufnahme-einer-cannabisbluete-mit-tr-featured-83811.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "ced847b6450d2a111b02d717968913f464f5b28f49fca4d704849857758bad77",
+        "sourceTitle": "Mehr Herzaufnahmen nach der Legalisierung? Was die BMJ-Open-Studie zeigt und was nicht",
+        "sourceExcerpt": "Eine neue US-Studie in BMJ Open verbindet den legalen Cannabisverkauf mit einem schnelleren Anstieg von Krankenhausaufnahmen wegen Herzinsuffizienz, Herzinfarkt und Vorhofflimmern. Die Schlagzeilen klingen eindeutig…",
+        "title": "Plus d'hospitalisations cardiaques après la légalisation ? Ce que montre l'étude BMJ Open et ce que cela ne montre pas",
+        "excerpt": "Une nouvelle étude américaine publiée dans BMJ Open relie la vente légalisée de cannabis à une augmentation plus rapide des admissions hospitalières pour insuffisance cardiaque, infarctus du myocarde et fibrillation auriculaire. Les titres sonnent clairement…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:53:08.535535+00:00"
+      }
     },
     {
       "id": "2c67cfb98bfc68c6e55c",
@@ -502,7 +541,20 @@
       "kind": "Article",
       "image": "assets/live-50cbdc72dae9db8da73d.jpg",
       "credit": "Hanf Magazin · image de l’article",
-      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-getrocknete-cannabisbluete-auf-hellem-hol-featured-83995.jpg"
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-getrocknete-cannabisbluete-auf-hellem-hol-featured-83995.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "93e3a9dab8e05258caf0cc199aa51bdef42500ed6ccb52ffc0912d1e0af88f82",
+        "sourceTitle": "BayObLG: Erst 60 Gramm abziehen, dann die nicht geringe Menge prüfen",
+        "sourceExcerpt": "Wer mehr Cannabis besitzt als erlaubt, darf nicht nach der gesamten Menge bestraft werden. Das Bayerische Oberste Landesgericht (BayObLG) hat klargestellt, dass die straffreien 60 Gramm abzuziehen sind, bevor ein…",
+        "title": "BayObLG : retirer d'abord 60 grammes, puis vérifier la quantité non négligeable",
+        "excerpt": "Qui possède plus de cannabis que ce qui est autorisé ne peut pas être puni pour la quantité totale. Le Tribunal de grande instance de Bavière (BayObLG) a précisé que les 60 grammes sans pénalité doivent être retirés avant de…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:53:08.535535+00:00"
+      }
     },
     {
       "id": "3ea2327cf16dec694e03",
@@ -644,7 +696,20 @@
       "kind": "Article",
       "image": "assets/live-5191ff8ee40ea1891dc7.jpg",
       "credit": "Hanf Magazin · image de l’article",
-      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-makroaufnahme-feiner-hanffasern-in-natuer-featured-83410.jpg"
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-makroaufnahme-feiner-hanffasern-in-natuer-featured-83410.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "c1019d73c7d08b2c2780e845910036e29b2ff3b29f1c1e722ba7bd80d0d234ca",
+        "sourceTitle": "Halb so viel Morphin: Studie testet Cannabinoide bei akutem Nervenschmerz",
+        "sourceExcerpt": "Opioide einzusparen ist ein erklärtes Ziel der Schmerzmedizin. Eine israelische Studie hat geprüft, ob eine einzelne Dosis einer Cannabinoid-Zubereitung das in der Notaufnahme leistet. Das Ergebnis ist deutlich, die…",
+        "title": "Moitié moins de morphine : étude sur les cannabinoïdes pour les douleurs nerveuses aiguës",
+        "excerpt": "Éviter les opioïdes est un objectif clair de la médecine de la douleur. Une étude israélienne a examiné si une dose unique d'une préparation à base de cannabinoïdes peut remplacer les traitements en urgence. Le résultat est clair, le…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:53:08.535535+00:00"
+      }
     },
     {
       "id": "e4b6c538fa8a940c60b7",
@@ -665,7 +730,20 @@
       "kind": "Article",
       "image": "assets/live-ee6e529113d5ca494251.jpg",
       "credit": "Hanf Magazin · image de l’article",
-      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/biobloom-zahnpulver-hero.jpg"
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/biobloom-zahnpulver-hero.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "6dcfb275d24d44dc09ff873a4e192cea7eb8062e61b3eef268b0a3dafcafae4a",
+        "sourceTitle": "BioBloom fresh teeth: Innovative Zahnpflege mit Hydroxylapatit, Probiotika und CBD",
+        "sourceExcerpt": "Anzeige / entgeltliche Einschaltung · Dieser Beitrag entsteht in bezahlter Kooperation mit BioBloom. Auswahl, Recherche und Bewertung der Inhalte liegen beim Hanf Magazin. Zahnpulver erlebt seit einigen Jahren ein…",
+        "title": "BioBloom dentaire fraîche : une soin buccal innovant avec de l'hydroxyapatite, des probiotiques et du CBD",
+        "excerpt": "Publicité / participation rémunérée · Cet article est produit dans une collaboration payée avec BioBloom. La sélection, la recherche et l'évaluation des contenus relèvent du Hanf Magazin. Le poudre de dentifrice connaît depuis plusieurs années un…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:53:08.535535+00:00"
+      }
     },
     {
       "id": "68df20d073c8523abbc2",
@@ -764,7 +842,20 @@
       "kind": "Article",
       "image": "assets/live-cf4293867c1687d9e4de.jpg",
       "credit": "Hanf Magazin · image de l’article",
-      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-makroaufnahme-eines-einzelnen-hanfblatte-featured-83881.jpg"
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-makroaufnahme-eines-einzelnen-hanfblatte-featured-83881.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "98df5776930bf2a56074cccbd50e73f8e70be8252ffe83f0e6440d89ef55096e",
+        "sourceTitle": "3 Monate Frist für Nepals Regierung: Oberstes Gericht ordnet Regeln für Hanf an",
+        "sourceExcerpt": "Nepals Oberstes Gericht verpflichtet die Regierung, Regeln für den kontrollierten Hanfanbau zu erlassen. Das Urteil stammt vom Mai 2025, lesbar ist es erst seit wenigen Tagen, und wann die Frist zu laufen beginnt, ist…",
+        "title": "3 mois de délai pour le gouvernement du Népal : le Tribunal suprême fixe des règles pour le chanvre",
+        "excerpt": "Le Tribunal suprême du Népal oblige le gouvernement à établir des règles pour l'exploitation contrôlée du chanvre. Cette décision date du mai 2025, elle est désormais accessible depuis quelques jours, et la date à laquelle le délai commence à s'appliquer est…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:53:08.535535+00:00"
+      }
     },
     {
       "id": "bc843627841a3a95c3f1",
@@ -810,5 +901,13 @@
   ],
   "windowHours": 24,
   "schedule": "09h17, 13h17 et 18h17 · Paris",
-  "notice": "Revue de presse automatique. Titres et courts extraits dans la langue des sources ; articles à lire chez leurs éditeurs. Les rubriques sont un classement automatique, pas une validation des informations."
+  "notice": "Revue de presse automatique. Titres et courts extraits dans la langue des sources ; articles à lire chez leurs éditeurs. Les rubriques sont un classement automatique, pas une validation des informations.",
+  "translationStatus": {
+    "engine": "Qwen3 · traduction contextuelle locale",
+    "targetLanguage": "fr",
+    "available": 7,
+    "eligible": 29,
+    "status": "partial",
+    "updatedAt": "2026-11-11T15:53:08.535535+00:00"
+  }
 }

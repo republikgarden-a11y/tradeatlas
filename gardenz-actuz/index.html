@@ -14,7 +14,7 @@
   <link rel="stylesheet" href="journal.css">
   <link rel="stylesheet" href="app.css">
   <link rel="stylesheet" href="install.css">
-  <link rel="stylesheet" href="live.css"><script src="app.js?v=3" defer></script><script src="live.js?v=3" defer></script>
+  <link rel="stylesheet" href="live.css"><script src="app.js?v=3" defer></script><script src="translation.js?v=1" defer></script><script src="live.js?v=4" defer></script>
 </head>
 <body>
   <a class="skip" href="#live-panel">Aller au journal</a>
@@ -32,6 +32,10 @@
     <button type="button" data-view="saved" aria-pressed="false">Mes articles <span id="saved-count">0</span></button>
     <button type="button" data-view="archives" aria-pressed="false">Anciennes éditions</button>
   </nav>
+  <section class="translation-bar" aria-label="Traduction des actualités">
+    <button id="translation-toggle" class="translation-toggle" role="switch" aria-checked="true" aria-label="Traduire les articles en français" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" aria-hidden="true"><path d="M3 5h12M9 2v3M6 5c0 5 4 9 8 10M12 5c0 5-4 9-8 11M14 21l4-10 4 10M15.5 17h5"/></svg><span id="translation-toggle-label">Français : activé</span><span class="toggle-track" aria-hidden="true"><span></span></span></button>
+    <p id="translation-status" role="status" aria-live="polite">Titres et extraits en français. Un clic pour retrouver l’original.</p>
+  </section>
   <main id="live-panel" class="live-wrap" aria-label="Actualités cannabis, CBD et chanvre" tabindex="-1">
     <header class="news-heading">
       <h1>Gardenz Actuz</h1>
@@ -48,13 +52,13 @@
       <form id="live-form" class="live-tools" role="search">
         <label class="live-search" for="live-query">Rechercher dans le journal<input id="live-query" type="search" placeholder="Un sujet, un média, un mot-clé…" autocomplete="off"></label>
         <label for="live-period">Période<select id="live-period"><option value="24">Dernières 24 heures</option><option value="168">7 derniers jours</option><option value="720">30 derniers jours</option></select></label>
-        <label for="live-language">Langue<select id="live-language"><option value="">Toutes les langues</option><option value="fr">Français</option><option value="en">Anglais</option><option value="de">Allemand</option></select></label>
+        <label for="live-language">Langue de la source<select id="live-language"><option value="">Toutes les langues</option><option value="fr">Français</option><option value="en">Anglais</option><option value="de">Allemand</option></select></label>
         <label for="live-source">Source<select id="live-source"><option value="">Tous les médias</option></select></label>
       </form>
       <div class="filter-summary"><p id="filter-context">Les sources francophones apparaissent en premier, puis les plus récentes.</p><button id="reset-filters" type="button">Effacer les filtres</button></div>
       <div id="news-list"></div><button id="load-more" type="button" hidden>Afficher plus d’articles</button>
     </section>
-    <details class="source-health"><summary>Nos sources & la méthode</summary><p>Cette revue de presse rassemble automatiquement les titres, de courts extraits et les images des articles accessibles. Les liens ouvrent le média d’origine. Les textes restent dans leur langue de publication. Les rubriques facilitent la navigation ; elles sont attribuées automatiquement.</p><ul id="sources-health"></ul><p>NORML est une organisation militante. Les opinions et les communiqués sont signalés lorsqu’ils sont identifiés dans le flux. Une revue de presse ne vaut pas confirmation indépendante d’une annonce, d’une loi ou d’un résultat médical. Les crédits détaillés des images figurent chez leurs éditeurs.</p><p id="coverage-note">Une panne de source est signalée ; elle conserve les articles déjà disponibles. Les éditions ne sont créées qu’après une collecte réussie au moins en partie.</p></details>
+    <details class="source-health"><summary>Nos sources & la méthode</summary><p>Cette revue de presse rassemble automatiquement les titres, de courts extraits et les images des articles accessibles. Le français est activé par défaut : les titres et extraits anglais et allemands sont traduits automatiquement. Le bouton « Français » restitue instantanément les textes d’origine. « Lire en français » ouvre la traduction de l’article complet avec Google Traduction dans un nouvel onglet ; « Source originale » ouvre directement l’éditeur. Les rubriques facilitent la navigation ; elles sont attribuées automatiquement.</p><p>Les titres et extraits sont traduits avec le modèle libre <a href="https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF" target="_blank" rel="noopener noreferrer">Qwen3-4B-Instruct-2507, version Unsloth (Apache 2.0)</a>, exécuté lors de la préparation du journal. Les traductions sont automatiques ; les originaux restent disponibles et font référence.</p><ul id="sources-health"></ul><p>NORML est une organisation militante. Les opinions et les communiqués sont signalés lorsqu’ils sont identifiés dans le flux. Une revue de presse ne vaut pas confirmation indépendante d’une annonce, d’une loi ou d’un résultat médical. Les crédits détaillés des images figurent chez leurs éditeurs.</p><p id="coverage-note">Une panne de source est signalée ; elle conserve les articles déjà disponibles. Les éditions ne sont créées qu’après une collecte réussie au moins en partie.</p></details>
     <div class="journal-close"><p>Les nouvelles poussent.<br><em>Ta curiosité aussi.</em></p><div>Lecture gratuite · sans compte<br>Les articles gardés restent sur cet appareil.</div></div>
     <noscript><p>Active JavaScript pour lire les nouvelles et rechercher dans les éditions.</p></noscript>
   </main>
