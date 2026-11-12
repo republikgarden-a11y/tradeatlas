@@ -1,19 +1,35 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-11T16:15:01Z",
-  "last_success": "2026-11-11T16:15:01Z",
+  "checked_at": "2026-11-12T09:22:24Z",
+  "last_success": "2026-11-12T09:22:24Z",
   "topics_checked": 4,
   "successful_topics": 4,
-  "new_items": 0,
+  "new_items": 2,
   "errors": [],
   "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZlR0ZkZCb05HWUxKNlUxM3hQUzRhZjRmcWVHeGtBWW5oZlAwMGVUWlhxWGcwZmtvZmUySVdTX3hMamN3alRfT3V5QWxzWFBjaDFpdFptM2ZOX1l1b2dBUjQ4UGZrTDd5S2tWY2FpaFVUX0V6eTFESmtWSW8zdFU3U29wOGQ3eFdGZ3FkVFk1N1NfVU9tdWwzUVhlRTU3alRwbXp5VU1aLUZod0lPRFFsQXUzNzZ4ZFdk?oc=5",
+      "title": "Family visits their vault in a cemetery in Cuba and receives an unexpected surprise - CiberCuba",
+      "topic": "Fabricants & marques suivis",
+      "domain": "CiberCuba",
+      "published_at": "2026-11-11T23:06:40Z",
+      "first_seen": "2026-11-12T09:22:24Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM1V3eEJxTENIVHYxUkZURDNQNWdYM0REOFRwbC1ScTBhMV82ZFpUclJkeXdycE9zTU5Ocmx1YzFYUTVQRFlMTlRZdUoyTzdjNXQzOVBTZzd1cW9oOFRZSEZ2bGJFUHpGLXQ3VGo5YjdjSVZlVGFBbVFYdTlJa09ZYkg4VkZXbGxSUkstMEtWYnlkWWtjSUpXZEdXMGo?oc=5",
+      "title": "Triple Buzz Smoke Shop to open Georgetown store - Community Impact",
+      "topic": "Vape & accessoires",
+      "domain": "Community Impact",
+      "published_at": "2026-11-11T17:00:00Z",
+      "first_seen": "2026-11-11T14:20:50Z"
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2FnRWpEb0JVRncyS2NrZk13dl9DYUcyMlp3ejBxNG5jTnBpVzhmdkM3M1hfdWJ6VW5Qakh3SzVhWVRSLXUxd283bE56VU9BeXZRdk5sdXR4T3lROVhUd0dCOHlQQjZNSS1tWjd1Z2cteHkzX2VTRkNTb1NqREhfM0JfS0NrXzQ5dFlQeDFZc2xrQW1Eb252VUw4Yk1vN2ZwY1E?oc=5",
       "title": "2026 Big Smoke Las Vegas Seminars: The Top Cigars Of The Year - Cigar Aficionado",
       "topic": "Fabricants & marques suivis",
       "domain": "Cigar Aficionado",
-      "published_at": "2026-11-11T15:51:00Z",
+      "published_at": "2026-11-11T16:00:33Z",
       "first_seen": "2026-11-11T16:05:02Z"
     },
     {
@@ -21,7 +37,7 @@
       "title": "Weller by Cohiba Travel Humidor | Accessory Review - Cigar Coop",
       "topic": "Fabricants & marques suivis",
       "domain": "Cigar Coop",
-      "published_at": "2026-11-11T14:31:16Z",
+      "published_at": "2026-11-11T14:30:53Z",
       "first_seen": "2026-11-11T14:48:15Z"
     },
     {
@@ -30,14 +46,6 @@
       "topic": "Fabricants & marques suivis",
       "domain": "2Firsts",
       "published_at": "2026-11-11T13:07:07Z",
-      "first_seen": "2026-11-11T14:20:50Z"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM1V3eEJxTENIVHYxUkZURDNQNWdYM0REOFRwbC1ScTBhMV82ZFpUclJkeXdycE9zTU5Ocmx1YzFYUTVQRFlMTlRZdUoyTzdjNXQzOVBTZzd1cW9oOFRZSEZ2bGJFUHpGLXQ3VGo5YjdjSVZlVGFBbVFYdTlJa09ZYkg4VkZXbGxSUkstMEtWYnlkWWtjSUpXZEdXMGo?oc=5",
-      "title": "Triple Buzz Smoke Shop to open Georgetown store - Community Impact",
-      "topic": "Vape & accessoires",
-      "domain": "Community Impact",
-      "published_at": "2026-11-11T11:08:36Z",
       "first_seen": "2026-11-11T14:20:50Z"
     },
     {
@@ -87,6 +95,14 @@
       "domain": "stupidDOPE",
       "published_at": "2026-11-07T08:00:00Z",
       "first_seen": "2026-11-09T13:53:22Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZUduU0h6bjd1MktWX195ZVBaZnFpZ2pjRDdwNzBEaGN0SWM3RnJ4UktCMXh2YXNsRDJKOFdiVEMwRG03Y3BhbUI4blNxYlNvallHTXY0N1hJa2I1RWJneVJiNEY5anhTTzlKQXBLcWg3NjlPb0J3UlNkT2IzT2RLckRhdFUxTFRyZnd1TDhWVjVvMm9wSFAwN0530gFWQVVfeXFMTzdrU2Q4WUxhek1XeHhabjVMOXprMk40S2VZNjdfNFhSUUw0UU5fMmdtTHpEMXcwclI1Uy1mUXB3alJKNy0yYkdvb0llMEVCVVV4MGFsVEE?oc=5",
+      "title": "LA Judge Won't Toss $1.7M Freight Suit Against Vape Biz - Law360",
+      "topic": "Vape & accessoires",
+      "domain": "Law360",
+      "published_at": "2026-11-07T02:56:55Z",
+      "first_seen": "2026-11-12T09:22:24Z"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHNZSGpXRnlYbFBidHlOZzE0M0FNaldIMmFaZ1QyTEd6ZXVoRU1yeEFEOGxJZ2wyc3FiZ0FueDhLYjV6VE95U2QzeDV6QllVVzVjVWRCdllzOHFrRGFnMHBxT1FXVWJqLU9EWUFzR0RWSzFwTjJYa0s3S2p0akRpRzlCeERHcktKLTJyd085OVdCelZiVWFHcUM4U3JkV2Q3VzBVSl9fNmzSAVZBVV95cUxPN2tTZDhZTGF6TVd4eFpuNUw5emsyTjRLZVk2N180WFJRTDRRTl8yZ21MekQxdzByUjVTLWZRcHdqUko3LTJiR29vSWUwRUJVVXgwYWxUQQ?oc=5",
