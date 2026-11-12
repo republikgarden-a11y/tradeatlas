@@ -1,8 +1,8 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-12T13:22:26.928448+00:00",
-  "lastSuccess": "2026-11-12T13:22:26.928448+00:00",
+  "attemptedAt": "2026-11-12T17:58:30.187453+00:00",
+  "lastSuccess": "2026-11-12T17:58:30.187453+00:00",
   "status": "ok",
   "sources": [
     {
@@ -10,66 +10,235 @@
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
+      "checkedAt": "2026-11-12T17:58:30.187453+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
+      "checkedAt": "2026-11-12T17:58:30.187453+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
+      "checkedAt": "2026-11-12T17:58:30.187453+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
+      "checkedAt": "2026-11-12T17:58:30.187453+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
+      "checkedAt": "2026-11-12T17:58:30.187453+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-12T17:58:30.187453+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
+      "checkedAt": "2026-11-12T17:58:30.187453+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
+      "checkedAt": "2026-11-12T17:58:30.187453+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
+      "checkedAt": "2026-11-12T17:58:30.187453+00:00"
     }
   ],
   "items": [
+    {
+      "id": "1c68ddbd75df5dd1198e",
+      "title": "California’s Cannabis Regulations Are Creating A Soil Health Crisis (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/californias-cannabis-regulations-are-creating-a-soil-health-crisis-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-12T17:04:32+00:00",
+      "collectedAt": "2026-11-12T17:58:30.187453+00:00",
+      "excerpt": "“Farmers are effectively paying the state for the privilege of not growing cannabis, even when taking a season off may be necessary to maintain the long-term health of their land.” By Micah Anderson, LEEF Brands…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-d94ba026f848afc8ed93.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/11/Grow_Max-Jackson_0109.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "81a30b5344716e4e9d77f7dd1654ed2a60757f557f4efe3d5db36cedac3b950e",
+        "sourceTitle": "California’s Cannabis Regulations Are Creating A Soil Health Crisis (Op-Ed)",
+        "sourceExcerpt": "“Farmers are effectively paying the state for the privilege of not growing cannabis, even when taking a season off may be necessary to maintain the long-term health of their land.” By Micah Anderson, LEEF Brands…",
+        "title": "La réglementation californienne sur le cannabis crée une crise de santé des sols (Tribune)",
+        "excerpt": "« Les agriculteurs paient effectivement l’État pour le privilège de ne pas cultiver de cannabis, même lorsqu’ils prennent une saison sabbatique pour maintenir la santé à long terme de leurs terres. » Par Micah Anderson, LEEF Brands...",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T17:58:33.766908+00:00"
+      }
+    },
+    {
+      "id": "e5c8e7fb41bf759c4d15",
+      "title": "Incoming Wisconsin Governor Says Marijuana Legalization Can Offset Medicaid Cuts, As Top Lawmaker Calls It A 2027 ‘Priority’",
+      "url": "https://www.marijuanamoment.net/incoming-wisconsin-governor-says-marijuana-legalization-can-offset-medicaid-cuts-as-top-lawmaker-calls-it-a-2027-priority/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-12T15:08:17+00:00",
+      "collectedAt": "2026-11-12T17:58:30.187453+00:00",
+      "excerpt": "Wisconsin’s incoming Democratic governor says he wants to use revenue from legalizing marijuana to offset federal cuts to Medicaid, while a top leader in the party’s new legislative majority is making clear that…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-402c91116619d8ee6365.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/cannabis-marijuana-hand-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "edd4c505dd1745a91bd78680af66653159bb1025544dd5c2b0104925f8da3750",
+        "sourceTitle": "Incoming Wisconsin Governor Says Marijuana Legalization Can Offset Medicaid Cuts, As Top Lawmaker Calls It A 2027 ‘Priority’",
+        "sourceExcerpt": "Wisconsin’s incoming Democratic governor says he wants to use revenue from legalizing marijuana to offset federal cuts to Medicaid, while a top leader in the party’s new legislative majority is making clear that…",
+        "title": "Le gouverneur entrant du Wisconsin dit que la légalisation de la marijuana peut compenser les réductions de Medicaid, comme l’appelle un législateur de 2027 «priorité»",
+        "excerpt": "Le nouveau gouverneur démocrate du Wisconsin dit qu’il veut utiliser les revenus de la légalisation de la marijuana pour compenser les coupes fédérales dans Medicaid, tandis qu’un chef de file de la nouvelle majorité législative du parti indique clairement que la marijuana est illégale.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T17:58:33.766908+00:00"
+      }
+    },
+    {
+      "id": "cb802315bfaa699af2ff",
+      "title": "Cannabis Telemedicine in Germany: Regulation, Market Entry, Advertising and Enforcement",
+      "url": "https://businessofcannabis.com/cannabis-telemedicine-in-germany-regulation-market-entry-advertising-and-enforcement/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-12T15:06:13+00:00",
+      "collectedAt": "2026-11-12T17:58:30.187453+00:00",
+      "excerpt": "Written by SKW Schwarz partners Margret Knitter (Head of Medical Cannabis) and Dr Oliver Stöckel (Head of Digital Health). Digital health is transforming Germany’s medical cannabis market. While technology makes…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-3ede2e9ce16a8043ee50.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-50.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "3231196f047e7c9df8e0f1256285cf74b0e31ecb66606419b4d0e87b346d959e",
+        "sourceTitle": "Cannabis Telemedicine in Germany: Regulation, Market Entry, Advertising and Enforcement",
+        "sourceExcerpt": "Written by SKW Schwarz partners Margret Knitter (Head of Medical Cannabis) and Dr Oliver Stöckel (Head of Digital Health). Digital health is transforming Germany’s medical cannabis market. While technology makes…",
+        "title": "La télémédecine du cannabis en Allemagne : réglementation, entrée sur le marché, publicité et application",
+        "excerpt": "Écrit par les partenaires de SKW Schwarz Margret Knitter (Chef du Cannabis Médical) et Dr Oliver Stckel (Chef de la Santé Numérique). La santé numérique transforme le marché...",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T17:58:33.766908+00:00"
+      }
+    },
+    {
+      "id": "ddc1829dc3625d05d89c",
+      "title": "7.500 Teilnehmende aus 80 Ländern: Die ICBC Berlin feiert 2027 ihre zehnte Ausgabe",
+      "url": "https://www.hanf-magazin.com/termine/icbc-berlin-2027-termin-tickets-programm/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-12T15:00:00+00:00",
+      "collectedAt": "2026-11-12T17:58:30.187453+00:00",
+      "excerpt": "Die zehnte Berliner Ausgabe der International Cannabis Business Conference läuft vom 13. bis 15. April 2027 im Estrel. Apotheken, Growshops und Anbauvereinigungen kommen kostenlos hinein, für alle anderen endet der…",
+      "topics": [
+        "Chanvre",
+        "Économie",
+        "Culture"
+      ],
+      "kind": "Article",
+      "image": "assets/live-4a8fb3895eb68f4da834.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/icbc-berlin-2026-messehalle.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "046367278a2d2c1c75dcef348cf5216f1290dcda129d58a29ecd0b352226667e",
+        "sourceTitle": "7.500 Teilnehmende aus 80 Ländern: Die ICBC Berlin feiert 2027 ihre zehnte Ausgabe",
+        "sourceExcerpt": "Die zehnte Berliner Ausgabe der International Cannabis Business Conference läuft vom 13. bis 15. April 2027 im Estrel. Apotheken, Growshops und Anbauvereinigungen kommen kostenlos hinein, für alle anderen endet der…",
+        "title": "7 500 participants provenant de 80 pays : l'ICBC Berlin célébre sa dixième édition en 2027",
+        "excerpt": "La dixième édition de la Conférence internationale du business du cannabis à Berlin se déroulera du 13 au 15 avril 2027 à l'Estrel. Les pharmacies, les magasins de culture et les associations de culture peuvent entrer gratuitement, pour tous les autres, la participation se termine…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-12T17:58:33.766908+00:00"
+      }
+    },
+    {
+      "id": "c41885db7433ea347331",
+      "title": "Texas Republicans Lost The Election Because Of The THC Product Ban They Pushed, Joe Rogan Says",
+      "url": "https://www.marijuanamoment.net/texas-republicans-lost-the-election-because-of-the-thc-product-ban-they-pushed-joe-rogan-says/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-12T13:32:36+00:00",
+      "collectedAt": "2026-11-12T17:58:30.187453+00:00",
+      "excerpt": "Joe Rogan says a key reason that Texas Republicans did so poorly in last week’s midterm elections is because members of the party pushed to ban THC products that had been legal in the state when derived from hemp. “They…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre",
+        "Culture"
+      ],
+      "kind": "Article",
+      "image": "assets/live-53a594e2a4d75fd35889.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/11/joe-rogan-cannabis-marijuana.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "49fcc8f394b2433c177b3770af384c780d6c98a3ae8efbd7866d8ea3aa3d60d9",
+        "sourceTitle": "Texas Republicans Lost The Election Because Of The THC Product Ban They Pushed, Joe Rogan Says",
+        "sourceExcerpt": "Joe Rogan says a key reason that Texas Republicans did so poorly in last week’s midterm elections is because members of the party pushed to ban THC products that had been legal in the state when derived from hemp. “They…",
+        "title": "Les républicains du Texas ont perdu l'élection en raison de l'interdiction des produits au THC, selon Joe Rogan",
+        "excerpt": "Joe Rogan dit que l’une des principales raisons pour lesquelles les républicains du Texas ont si mal fait lors des élections de mi-mandat de la semaine dernière est que les membres du parti ont poussé à interdire les produits à base de THC qui étaient légaux dans l’État lorsqu’ils étaient dérivés du chanvre.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T17:58:33.766908+00:00"
+      }
+    },
     {
       "id": "1d246aa4a0bd57c56c81",
       "title": "First Phase Of Renewed Federal Hemp Product Ban Takes Effect As Industry Pushes Congress For Regulatory Alternative",
@@ -219,6 +388,38 @@
         "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
         "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
         "translatedAt": "2026-11-12T13:22:29.350067+00:00"
+      }
+    },
+    {
+      "id": "6f87cfa16487017f6585",
+      "title": "Cannabis Stocks Today — Thursday 12 November 2026: GrowGeneration sits at $1.26",
+      "url": "https://businessofcannabis.com/cannabis-stocks-today-thursday-12-november-2026-growgeneration-sits-at-1-26/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-12T08:26:30+00:00",
+      "collectedAt": "2026-11-12T17:58:30.187453+00:00",
+      "excerpt": "Cannabis stocks sit slightly lower on Thursday morning, with the US market in pre-market trading and most quotes reflecting Wednesday’s close. The AdvisorShares Pure US Cannabis ETF (MSOS) trades at $4.08, down 0.5%…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6cd6c58497e886559024.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/02/Cash-Companies-Cannabis-41.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "2b8ca8f391f04a08253905c28fb10e4e5f1d1f785cfd61c36413daa08b1e5875",
+        "sourceTitle": "Cannabis Stocks Today — Thursday 12 November 2026: GrowGeneration sits at $1.26",
+        "sourceExcerpt": "Cannabis stocks sit slightly lower on Thursday morning, with the US market in pre-market trading and most quotes reflecting Wednesday’s close. The AdvisorShares Pure US Cannabis ETF (MSOS) trades at $4.08, down 0.5%…",
+        "title": "Les stocks de cannabis aujourd'hui jeudi 12 novembre 2026: GrowGeneration s'élève à 1,26 $",
+        "excerpt": "Les actions de cannabis sont légèrement en baisse jeudi matin, le marché américain étant en pré-marché et la plupart des cotations reflétant la clôture de mercredi. Le AdvisorShares Pure US Cannabis ETF (MSOS) se négocie à 4,08 $, en baisse de 0,5%...",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T17:58:33.766908+00:00"
       }
     },
     {
@@ -536,6 +737,39 @@
         "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
         "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
         "translatedAt": "2026-11-11T16:17:33.157613+00:00"
+      }
+    },
+    {
+      "id": "54da574df8add13481ae",
+      "title": "Cannabis News Today — Wednesday, 11 November 2026: Statehouses Prepare Legalisation Bills as Governors Press Congress on Banking",
+      "url": "https://businessofcannabis.com/cannabis-news-today-wednesday-11-november-2026-statehouses-prepare-legalisation-bills-as-governors-press-congress-on-banking/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-11T15:29:16+00:00",
+      "collectedAt": "2026-11-12T17:58:30.187453+00:00",
+      "excerpt": "A week after the US midterm elections, cannabis policy is moving from the ballot box to the statehouse and Capitol Hill. Texas Democrats have prefiled legalisation bills, Wisconsin’s incoming leadership has committed to…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d7d7d55c78a2c06ded89.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/04/Newsletter-7.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "38ab4a6b02ccfdf2e685af62429050c21bf83365d26dcb20f56bb4e32d70bca5",
+        "sourceTitle": "Cannabis News Today — Wednesday, 11 November 2026: Statehouses Prepare Legalisation Bills as Governors Press Congress on Banking",
+        "sourceExcerpt": "A week after the US midterm elections, cannabis policy is moving from the ballot box to the statehouse and Capitol Hill. Texas Democrats have prefiled legalisation bills, Wisconsin’s incoming leadership has committed to…",
+        "title": "Cannabis News Today Mercredi 11 novembre 2026: Les Statehouses préparent des projets de loi de légalisation alors que les gouverneurs pressent le Congrès sur les banques",
+        "excerpt": "Une semaine après les élections de mi-mandat aux États-Unis, la politique sur le cannabis est en train de passer des urnes au palais de l’État et à Capitol Hill.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T17:58:33.766908+00:00"
       }
     },
     {
@@ -1723,9 +1957,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 44,
-    "eligible": 44,
+    "available": 51,
+    "eligible": 51,
     "status": "ok",
-    "updatedAt": "2026-11-12T13:22:29.350067+00:00"
+    "updatedAt": "2026-11-12T17:58:33.766908+00:00"
   }
 }
