@@ -1,75 +1,226 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-12T09:15:10.123425+00:00",
-  "lastSuccess": "2026-11-12T09:15:10.123425+00:00",
+  "attemptedAt": "2026-11-12T13:22:26.928448+00:00",
+  "lastSuccess": "2026-11-12T13:22:26.928448+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-12T13:22:26.928448+00:00"
     }
   ],
   "items": [
+    {
+      "id": "1d246aa4a0bd57c56c81",
+      "title": "First Phase Of Renewed Federal Hemp Product Ban Takes Effect As Industry Pushes Congress For Regulatory Alternative",
+      "url": "https://www.marijuanamoment.net/first-phase-of-renewed-federal-hemp-product-ban-takes-effect-as-industry-pushes-congress-for-regulatory-alternative/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-12T12:59:07+00:00",
+      "collectedAt": "2026-11-12T13:22:26.928448+00:00",
+      "excerpt": "As of Thursday, it is no longer federally legal to produce or sell hemp products that contain cannabinoids that can’t be naturally produced by the cannabis plant. A broader recriminalization of hemp THC products is…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-c148b11cb6db0cdfdc17.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/07/hemp-plant-3661210_1920.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "29d64ea8f662dd6079a3b77ace1bb282b0366da684985bad99664a370a36e3de",
+        "sourceTitle": "First Phase Of Renewed Federal Hemp Product Ban Takes Effect As Industry Pushes Congress For Regulatory Alternative",
+        "sourceExcerpt": "As of Thursday, it is no longer federally legal to produce or sell hemp products that contain cannabinoids that can’t be naturally produced by the cannabis plant. A broader recriminalization of hemp THC products is…",
+        "title": "La première phase de l’interdiction fédérale renouvelée des produits de chanvre prend effet alors que l’industrie pousse le Congrès à adopter une alternative réglementaire",
+        "excerpt": "À partir de jeudi, il n’est plus légal au niveau fédéral de produire ou de vendre des produits à base de chanvre qui contiennent des cannabinoïdes qui ne peuvent pas être produits naturellement par la plante de cannabis.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T13:22:29.350067+00:00"
+      }
+    },
+    {
+      "id": "53e923b041ec26924f52",
+      "title": "DEA rejects cannabis business registrations in multiple states (Newsletter: November 12, 2026)",
+      "url": "https://www.marijuanamoment.net/dea-rejects-cannabis-business-registrations-in-multiple-states-newsletter-november-12-2026/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-12T11:10:53+00:00",
+      "collectedAt": "2026-11-12T13:22:26.928448+00:00",
+      "excerpt": "Anti-marijuana GOP leaders in Congress; Senate panel’s cannabis & psychedelics stances; TX bipartisan cannabis teamwork; IA gov-elect on legalization Subscribe to receive Marijuana Moment’s newsletter in your inbox…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d453ead4d9d5accf3b5c.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2018/03/marijuana-plants-42-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "0e845f44bb888e8edd30cc06f49b8a4873578c045ccbeb1e0511e180ffd7e801",
+        "sourceTitle": "DEA rejects cannabis business registrations in multiple states (Newsletter: November 12, 2026)",
+        "sourceExcerpt": "Anti-marijuana GOP leaders in Congress; Senate panel’s cannabis & psychedelics stances; TX bipartisan cannabis teamwork; IA gov-elect on legalization Subscribe to receive Marijuana Moment’s newsletter in your inbox…",
+        "title": "La DEA rejette les enregistrements d’entreprises de cannabis dans plusieurs États (Newsletter: 12 novembre 2026)",
+        "excerpt": "Les leaders du GOP anti-marijuana au Congrès; Les positions du panel du Sénat sur le cannabis et les substances psychédéliques; Le travail d'équipe bipartisan sur le cannabis; IA gov-elect sur la légalisation",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T13:22:29.350067+00:00"
+      }
+    },
+    {
+      "id": "1916573e4dacb010efad",
+      "title": "Au Texas, démocrates et républicains commencent à s’accorder sur la légalisation du cannabis",
+      "url": "https://www.newsweed.fr/au-texas-democrates-et-republicains-commencent-a-saccorder-sur-la-legalisation-du-cannabis/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-12T10:36:33+00:00",
+      "collectedAt": "2026-11-12T13:22:26.928448+00:00",
+      "excerpt": "La perspective d’une légalisation du cannabis récréatif au Texas a pris un nouvel élan à la suite des élections de novembre 2026. Les démocrates ayant pris le contrôle du poste de gouverneur et de la Chambre des…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6d029f6c38c69a5292ce.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/texas-legalisation-cannabis-projet.jpg"
+    },
+    {
+      "id": "f53ae9cc6461695b878a",
+      "title": "Bedrocan Could Be Revived Under New Entity as Dutch Minister Tells Parliament UK Supply Is ‘Under Investigation’",
+      "url": "https://businessofcannabis.com/bedrocan-could-be-revived-under-new-entity-as-dutch-minister-tells-parliament-uk-supply-is-under-investigation/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-12T10:16:12+00:00",
+      "collectedAt": "2026-11-12T13:22:26.928448+00:00",
+      "excerpt": "Bedrocan’s recent collapse, which has endangered the supply of life-saving epilepsy medicine for dozens of patients across Europe, could soon be revived under a new entity. Over the last week, a number of key…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-4498aea303a8fab8dfcc.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-49.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "1d78199acf81f4c77554724b6b06c519498c5ff8b031be372b0075afa7b39c61",
+        "sourceTitle": "Bedrocan Could Be Revived Under New Entity as Dutch Minister Tells Parliament UK Supply Is ‘Under Investigation’",
+        "sourceExcerpt": "Bedrocan’s recent collapse, which has endangered the supply of life-saving epilepsy medicine for dozens of patients across Europe, could soon be revived under a new entity. Over the last week, a number of key…",
+        "title": "Bedrocan pourrait être ravivé sous une nouvelle entité alors que le ministre néerlandais dit au Parlement que l'approvisionnement du Royaume-Uni est \"en cours d'enquête\"",
+        "excerpt": "L’effondrement récent de Bedrocan, qui a mis en danger l’approvisionnement en médicaments contre l’épilepsie pour des dizaines de patients à travers l’Europe, pourrait bientôt être relancé sous une nouvelle entité.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T13:22:29.350067+00:00"
+      }
+    },
+    {
+      "id": "56604077e4fc98b29997",
+      "title": "Medical Cannabis in the Workplace: an Employer’s Guide to Testing, Safety and Rights",
+      "url": "https://cannabishealthnews.co.uk/2026/11/12/medical-cannabis-in-the-workplace-an-employers-guide-to-testing-safety-and-rights/",
+      "source": "Cannabis Health",
+      "sourceFeed": "https://cannabishealthnews.co.uk/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-12T10:00:56+00:00",
+      "collectedAt": "2026-11-12T13:22:26.928448+00:00",
+      "excerpt": "As more people in the UK access prescribed cannabis-based medicines, employers are facing questions around drug testing, workplace safety and employee rights.",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-36d02ece2094891b7e03.jpg",
+      "credit": "Cannabis Health · image de l’article",
+      "imageSource": "https://cannabishealthnews.co.uk/wp-content/uploads/2026/11/getty-images-Ju2sBlss7xc-unsplash.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "659b5c33c0521902ff42736ecfbc1132ecf667cc4fdfc1c4044102965afae0b1",
+        "sourceTitle": "Medical Cannabis in the Workplace: an Employer’s Guide to Testing, Safety and Rights",
+        "sourceExcerpt": "As more people in the UK access prescribed cannabis-based medicines, employers are facing questions around drug testing, workplace safety and employee rights.",
+        "title": "Le cannabis médical en milieu de travail : Guide de l’employeur pour les tests, la sécurité et les droits",
+        "excerpt": "Alors que de plus en plus de personnes au Royaume-Uni ont accès aux médicaments à base de cannabis prescrits, les employeurs sont confrontés à des questions sur le dépistage des drogues, la sécurité au travail et les droits des employés.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T13:22:29.350067+00:00"
+      }
+    },
     {
       "id": "6b032cbcd67456254992",
       "title": "North Carolina House Minority Leader Says Chamber Could Take Up Medical Cannabis Bill Next Year",
@@ -1572,9 +1723,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 40,
-    "eligible": 40,
+    "available": 44,
+    "eligible": 44,
     "status": "ok",
-    "updatedAt": "2026-11-12T09:15:15.515072+00:00"
+    "updatedAt": "2026-11-12T13:22:29.350067+00:00"
   }
 }
