@@ -1,0 +1,738 @@
+{
+  "version": 3,
+  "mode": "public-rss",
+  "attemptedAt": "2026-11-12T09:15:10.123425+00:00",
+  "lastSuccess": "2026-11-12T09:15:10.123425+00:00",
+  "status": "ok",
+  "sources": [
+    {
+      "name": "Newsweed",
+      "url": "https://www.newsweed.fr/feed/",
+      "ok": true,
+      "count": 2,
+      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+    },
+    {
+      "name": "Le Cannabiste",
+      "url": "https://lecannabiste.com/feed/",
+      "ok": true,
+      "count": 4,
+      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+    },
+    {
+      "name": "Marijuana Moment",
+      "url": "https://www.marijuanamoment.net/feed/",
+      "ok": true,
+      "count": 10,
+      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+    },
+    {
+      "name": "Ganjapreneur",
+      "url": "https://www.ganjapreneur.com/feed/",
+      "ok": true,
+      "count": 5,
+      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+    },
+    {
+      "name": "Hanf Magazin",
+      "url": "https://www.hanf-magazin.com/feed/",
+      "ok": true,
+      "count": 6,
+      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+    },
+    {
+      "name": "Business of Cannabis",
+      "url": "https://businessofcannabis.com/feed/",
+      "ok": true,
+      "count": 3,
+      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+    },
+    {
+      "name": "HempToday",
+      "url": "https://hemptoday.net/feed/",
+      "ok": true,
+      "count": 1,
+      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+    },
+    {
+      "name": "Cannabis Health",
+      "url": "https://cannabishealthnews.co.uk/feed/",
+      "ok": true,
+      "count": 1,
+      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+    },
+    {
+      "name": "NORML",
+      "url": "https://norml.org/feed/",
+      "ok": true,
+      "count": 1,
+      "checkedAt": "2026-11-12T09:15:10.123425+00:00"
+    }
+  ],
+  "items": [
+    {
+      "id": "6b032cbcd67456254992",
+      "title": "North Carolina House Minority Leader Says Chamber Could Take Up Medical Cannabis Bill Next Year",
+      "url": "https://ganjapreneur.com/north-carolina-house-minority-leader-says-chamber-could-take-up-medical-cannabis-bill-next-year/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-12T08:14:39+00:00",
+      "collectedAt": "2026-11-12T09:15:10.123425+00:00",
+      "excerpt": "North Carolina House Minority Leader Robert Reives (D), who is running for House speaker with the Democratic Party’s backing, indicated on Tuesday that the new Democratic majority in the chamber will likely take up a…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-800c5a826e14bb3388f1.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/06/north-carolina-bill-dead.jpeg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "7bdf1fdfb03077e2cbe33ec7a6559841db8568c1839cb7fc18a0c0e0870fc986",
+        "sourceTitle": "North Carolina House Minority Leader Says Chamber Could Take Up Medical Cannabis Bill Next Year",
+        "sourceExcerpt": "North Carolina House Minority Leader Robert Reives (D), who is running for House speaker with the Democratic Party’s backing, indicated on Tuesday that the new Democratic majority in the chamber will likely take up a…",
+        "title": "Le chef de la minorité de la Chambre de Caroline du Nord dit que la Chambre pourrait adopter la loi sur le cannabis médical l'année prochaine",
+        "excerpt": "Le chef de la minorité de la Chambre des représentants de Caroline du Nord, Robert Reives (D), qui se présente à la présidence de la Chambre avec le soutien du Parti démocrate, a indiqué mardi que la nouvelle majorité démocrate dans la chambre prendrait probablement une pause.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T09:15:15.515072+00:00"
+      }
+    },
+    {
+      "id": "c4854eacd062ed1cc26f",
+      "title": "Study: Men Who Occasionally Use Cannabis Feel Stronger Effects Than Women With Similar Habits",
+      "url": "https://ganjapreneur.com/study-men-who-occasionally-use-cannabis-feel-stronger-effects-than-women-with-similar-habits/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-12T08:14:22+00:00",
+      "collectedAt": "2026-11-12T09:15:10.123425+00:00",
+      "excerpt": "A study by University of California, Los Angeles (UCLA) researchers found that men who occasionally consume cannabis have stronger reactions than women with similar consumption habits, even though the amount of THC in…",
+      "topics": [
+        "Santé & recherche",
+        "CBD & molécules"
+      ],
+      "kind": "Article",
+      "image": "assets/live-557d194012e8ad0d32bd.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/02/buds.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "ef9b6e38be10c4916464e38bf2e3eaef5a7d7216f8eadc11a2f409132c50deb7",
+        "sourceTitle": "Study: Men Who Occasionally Use Cannabis Feel Stronger Effects Than Women With Similar Habits",
+        "sourceExcerpt": "A study by University of California, Los Angeles (UCLA) researchers found that men who occasionally consume cannabis have stronger reactions than women with similar consumption habits, even though the amount of THC in…",
+        "title": "Les hommes qui consomment occasionnellement du cannabis ressentent des effets plus forts que les femmes ayant des habitudes similaires",
+        "excerpt": "Une étude menée par des chercheurs de l’Université de Californie à Los Angeles (UCLA) a révélé que les hommes qui consomment occasionnellement du cannabis ont des réactions plus fortes que les femmes ayant des habitudes de consommation similaires, même si la quantité de THC dans leur corps est plus élevée.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T09:15:15.515072+00:00"
+      }
+    },
+    {
+      "id": "a3eb630496bd7bef15c6",
+      "title": "Workers at District Cannabis Cultivation Facility Vote to Join Union",
+      "url": "https://ganjapreneur.com/workers-at-district-cannabis-cultivation-facility-vote-to-join-union/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-12T08:13:23+00:00",
+      "collectedAt": "2026-11-12T09:15:10.123425+00:00",
+      "excerpt": "Workers at District Cannabis’ Hagerstown, Maryland, facility have voted to join United Food & Commercial Workers Union (UFCW) Local 27. The eight employees work in post-production, packaging, and sorting at the…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-b45a9e055fbce6b42e70.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/06/dea-confirm.jpeg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "a04d8d1d00f147df0fccf72642c85ce979695f3d55c363c14dbfa3bf6a14553d",
+        "sourceTitle": "Workers at District Cannabis Cultivation Facility Vote to Join Union",
+        "sourceExcerpt": "Workers at District Cannabis’ Hagerstown, Maryland, facility have voted to join United Food & Commercial Workers Union (UFCW) Local 27. The eight employees work in post-production, packaging, and sorting at the…",
+        "title": "Les travailleurs de l’installation de culture de cannabis de district votent pour rejoindre le syndicat",
+        "excerpt": "Les travailleurs de l’usine de District Cannabis de Hagerstown, dans le Maryland, ont voté pour rejoindre la section locale 27 de l’Union des travailleurs et travailleuses de l’alimentation et du commerce (UFCW).",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T09:15:15.515072+00:00"
+      }
+    },
+    {
+      "id": "2b2fb19bba397f237903",
+      "title": "Cannabis médical : le Brésil franchit le cap du million de patients",
+      "url": "https://lecannabiste.com/cannabis-medical-le-bresil-franchit-le-cap-du-million-de-patients/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-12T07:28:00+00:00",
+      "collectedAt": "2026-11-12T09:15:10.123425+00:00",
+      "excerpt": "Avec plus d'un million de patients, le marché brésilien du cannabis médical change d'échelle, tout en restant dépendant des importations étrangères.",
+      "topics": [
+        "Santé & recherche",
+        "CBD & molécules",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-e898cb10b33435d2edc5.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/pharmacie-bresil.webp"
+    },
+    {
+      "id": "ee80b5c0d5a8a14d7a8e",
+      "title": "Europa investiert in Hanffaser-Verarbeitung, Deutschland verliert seine Anbauer",
+      "url": "https://www.hanf-magazin.com/nutzhanf/rohstoffe-aus-hanf/europa-hanffaser-verarbeitung-deutschland-verliert-anbauer/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-12T07:00:00+00:00",
+      "collectedAt": "2026-11-12T09:15:10.123425+00:00",
+      "excerpt": "Frankreich, Portugal und Polen bauen Verarbeitungskapazitaet fuer Hanffaser auf. Deutschlands Flaeche ist 2026 sogar gewachsen, die Zahl der Betriebe hat sich seit 2022 aber halbiert. Was das ueber den eigentlichen…",
+      "topics": [
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-a154c0d2af25e50788dd.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-industriehalle-mit-gestapelten-hanffaser-featured-83766.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "ed90868117ac0485daced5d07908600e21c4d5eb5263661c69891ca3f3ba368c",
+        "sourceTitle": "Europa investiert in Hanffaser-Verarbeitung, Deutschland verliert seine Anbauer",
+        "sourceExcerpt": "Frankreich, Portugal und Polen bauen Verarbeitungskapazitaet fuer Hanffaser auf. Deutschlands Flaeche ist 2026 sogar gewachsen, die Zahl der Betriebe hat sich seit 2022 aber halbiert. Was das ueber den eigentlichen…",
+        "title": "L'Europe investit dans le traitement du fibres de chanvre, l'Allemagne perd ses producteurs",
+        "excerpt": "France, Portugal et Pologne développent des capacités de traitement de fibres de chanvre. La superficie allemande est même passée en 2026, mais le nombre d'entreprises a été réduit à moitié depuis 2022. Ce qui concerne en réalité…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-12T09:15:15.515072+00:00"
+      }
+    },
+    {
+      "id": "cd6547ae71cf43dc3984",
+      "title": "Koala CBD vorgestellt: CBD-Blüten ab 3 Euro pro Gramm, Berliner Marke mit Laborprüfung und eigenen Läden",
+      "url": "https://www.hanf-magazin.com/produktvorstellungen/koala-cbd-vorstellung-blueten-oele-samen/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-12T06:27:18+00:00",
+      "collectedAt": "2026-11-12T09:15:10.123425+00:00",
+      "excerpt": "Anzeige. Dieser Beitrag entstand in bezahlter Kooperation mit Koala CBD. Auswahl, Recherche und Bewertung der Inhalte liegen beim Hanf Magazin. Links zum Shop sind Partner-Links. Wer in Deutschland nach CBD-Blüten…",
+      "topics": [
+        "Santé & recherche",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-3c546e4a495fcd1d60d8.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/koala-cbd-blueten-theke.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "01f86b6a60ff9ac1749b5f871b984787be0b97ba6105cdabcabf9ddfe2ef0152",
+        "sourceTitle": "Koala CBD vorgestellt: CBD-Blüten ab 3 Euro pro Gramm, Berliner Marke mit Laborprüfung und eigenen Läden",
+        "sourceExcerpt": "Anzeige. Dieser Beitrag entstand in bezahlter Kooperation mit Koala CBD. Auswahl, Recherche und Bewertung der Inhalte liegen beim Hanf Magazin. Links zum Shop sind Partner-Links. Wer in Deutschland nach CBD-Blüten…",
+        "title": "Koala CBD présenté : fleurs à base de CBD à partir de 3 euros par gramme, marque de Berlin avec analyse laboratoire et boutiques propres",
+        "excerpt": "Publicité. Cet article a été produit dans une collaboration payée avec Koala CBD. La sélection, la recherche et l'évaluation des contenus relèvent du Hanf Magazin. Les liens vers le site de vente sont des liens partenaires. Qui cherche en Allemagne des fleurs à base de CBD…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-12T09:15:15.515072+00:00"
+      }
+    },
+    {
+      "id": "a74f79c048cc26b90eaf",
+      "title": "Attempt to save intoxicating hemp drinks with ‘Goodness of Hemp’ plan draws criticism",
+      "url": "https://hemptoday.net/attempt-to-save-intoxicating-hemp-drinks-with-goodness-of-hemp-plan-draws-criticism/",
+      "source": "HempToday",
+      "sourceFeed": "https://hemptoday.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-11T20:19:00+00:00",
+      "collectedAt": "2026-11-12T09:15:10.123425+00:00",
+      "excerpt": "A U.S. proposal to give intoxicating hemp drinks a federal market could revive the stigma that hemp grain and fiber businesses spent decades trying to shed, a prominent U.S. hemp […]",
+      "topics": [
+        "CBD & molécules",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-dcfc1e52b8f5a71b95a8.jpg",
+      "credit": "HempToday · image de l’article",
+      "imageSource": "https://hemptoday.net/wp-content/uploads/2026/11/THC-drinks-raspberry-1000x635-1.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "a5790c509f4580ca493f83096f3c86bab1851301c4ba73e40264e1b2f197d7aa",
+        "sourceTitle": "Attempt to save intoxicating hemp drinks with ‘Goodness of Hemp’ plan draws criticism",
+        "sourceExcerpt": "A U.S. proposal to give intoxicating hemp drinks a federal market could revive the stigma that hemp grain and fiber businesses spent decades trying to shed, a prominent U.S. hemp […]",
+        "title": "Tentative de sauver les boissons enivrantes de chanvre avec le plan «Goodness of Hemp» attire les critiques",
+        "excerpt": "Une proposition américaine de donner des boissons au chanvre enivrantes un marché fédéral pourrait raviver la stigmatisation que les entreprises de céréales et de fibres de chanvre ont passé des décennies à essayer de perdre, un important producteur de chanvre américain.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T09:15:15.515072+00:00"
+      }
+    },
+    {
+      "id": "99532b606ac2824fdc58",
+      "title": "Texas Democrats And Republicans Preview Bipartisan Cooperation On Cannabis For 2027 Session",
+      "url": "https://www.marijuanamoment.net/texas-democrats-and-republicans-preview-bipartisan-cooperation-on-cannabis-for-2027-session/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-11T19:17:05+00:00",
+      "collectedAt": "2026-11-12T09:15:10.123425+00:00",
+      "excerpt": "Democratic and Republican elected officials in Texas are discussing the possibility of teaming up across partisan lines to advance cannabis reform in the 2027 legislative session following last week’s election results…",
+      "topics": [
+        "Autres actualités"
+      ],
+      "kind": "Article",
+      "image": "assets/live-3deab65b940210eed367.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/09/weed-2517248_1920-e1541068407515.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "4b8f816db2f3f69bba3d2b64b7fb26d1601fa5d0770ef5e4b86c3e3308815c75",
+        "sourceTitle": "Texas Democrats And Republicans Preview Bipartisan Cooperation On Cannabis For 2027 Session",
+        "sourceExcerpt": "Democratic and Republican elected officials in Texas are discussing the possibility of teaming up across partisan lines to advance cannabis reform in the 2027 legislative session following last week’s election results…",
+        "title": "Les démocrates et les républicains du Texas prévoient une coopération bipartisane sur le cannabis pour la session de 2027",
+        "excerpt": "Les élus démocrates et républicains du Texas discutent de la possibilité de faire équipe par-delà les lignes partisanes pour faire avancer la réforme du cannabis lors de la session législative de 2027 après les résultats des élections de la semaine dernière.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T09:15:15.515072+00:00"
+      }
+    },
+    {
+      "id": "ba53d46fe5d8771bdf33",
+      "title": "DEA Is Rejecting Medical Marijuana Businesses That Want Federal Rescheduling Protections In Multiple States",
+      "url": "https://www.marijuanamoment.net/dea-is-rejecting-medical-marijuana-businesses-that-want-federal-rescheduling-protections-in-multiple-states/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-11T18:10:53+00:00",
+      "collectedAt": "2026-11-12T09:15:10.123425+00:00",
+      "excerpt": "The Drug Enforcement Administration (DEA) has rejected applications for federal registration and protections to medical marijuana businesses in at least six states and Washington, D.C., Marijuana Moment has learned.…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-7cfe9173b07bbcaad555.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/11/esteban-lopez-272105-e1544985017556-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "09e2a102a0964748ac26124328883f42a10c0fb9af278140301e9093ff63dc4f",
+        "sourceTitle": "DEA Is Rejecting Medical Marijuana Businesses That Want Federal Rescheduling Protections In Multiple States",
+        "sourceExcerpt": "The Drug Enforcement Administration (DEA) has rejected applications for federal registration and protections to medical marijuana businesses in at least six states and Washington, D.C., Marijuana Moment has learned.…",
+        "title": "La DEA rejette les entreprises de marijuana médicale qui veulent des protections de rééchelonnement fédérales dans plusieurs États",
+        "excerpt": "La Drug Enforcement Administration (DEA) a rejeté les demandes d'enregistrement et de protection fédérales aux entreprises de marijuana médicale dans au moins six États et Washington, DC, Marijuana Moment a appris.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T09:15:15.515072+00:00"
+      }
+    },
+    {
+      "id": "e2b5ad0cccb6c04baf96",
+      "title": "Newly Elected Senate And House GOP Leaders Oppose Marijuana Reform As Trump Moves Ahead With Rescheduling",
+      "url": "https://www.marijuanamoment.net/newly-elected-senate-and-house-gop-leaders-oppose-marijuana-reform-as-trump-moves-ahead-with-rescheduling/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-11T16:00:36+00:00",
+      "collectedAt": "2026-11-11T16:17:31.107430+00:00",
+      "excerpt": "Republicans in the U.S. House of Representatives and Senate elected leaders for their respective conferences on Tuesday as they prepare to take on minority status in the 120th Congress that starts early next year. GOP…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-b6c7663aab2f19dc3317.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2023/09/capitol-congress-marijuana.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "5fbb30e8b541266dcd632fc5bc5bf5a775f13eb9f385ac19f6e3244ecb51f11d",
+        "sourceTitle": "Newly Elected Senate And House GOP Leaders Oppose Marijuana Reform As Trump Moves Ahead With Rescheduling",
+        "sourceExcerpt": "Republicans in the U.S. House of Representatives and Senate elected leaders for their respective conferences on Tuesday as they prepare to take on minority status in the 120th Congress that starts early next year. GOP…",
+        "title": "Les dirigeants nouvellement élus du Sénat et de la Chambre des représentants s'opposent à la réforme de la marijuana alors que Trump avance avec un rééchelonnement",
+        "excerpt": "Les républicains de la Chambre des représentants des États-Unis et le Sénat ont élu des dirigeants pour leurs conférences respectives mardi alors qu'ils se préparent à prendre le statut de minorité au 120e Congrès qui commence au début de l'année prochaine.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:17:33.157613+00:00"
+      }
+    },
+    {
+      "id": "884761d8bbac3f0f94b9",
+      "title": "Multiple Adult-Use Cannabis Legalization Bills Pre-Filed In Texas",
+      "url": "https://ganjapreneur.com/multiple-adult-use-cannabis-legalization-bills-pre-filed-in-texas/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-11T15:03:08+00:00",
+      "collectedAt": "2026-11-11T15:57:27.791167+00:00",
+      "excerpt": "Texas Democrats pre-filed three adult-use cannabis legalization proposals this week, NewsRadio 1080 KRLD reports. State Reps. John Bucy III of Austin and Joe Moody of El Paso filed HB 362 and HB 369, respectively, both…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-b85ed171aeab55058c0c.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/10/texas-hemp-2.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "4b0525f56ad5fd3956d83fa2f238d58c6b6594bcf35e8e3ce410438d69209a76",
+        "sourceTitle": "Multiple Adult-Use Cannabis Legalization Bills Pre-Filed In Texas",
+        "sourceExcerpt": "Texas Democrats pre-filed three adult-use cannabis legalization proposals this week, NewsRadio 1080 KRLD reports. State Reps. John Bucy III of Austin and Joe Moody of El Paso filed HB 362 and HB 369, respectively, both…",
+        "title": "Plusieurs projets de loi visant la légalisation du cannabis à usage adulte pré-déposées au Texas",
+        "excerpt": "Les démocrates du Texas ont déposé trois propositions de légalisation du cannabis pour adultes cette semaine, rapporte NewsRadio 1080 KRLD. Les représentants de l'État John Bucy III d'Austin et Joe Moody d'El Paso ont déposé HB 362 et HB 369, respectivement, tous deux...",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:09:19.969632+00:00"
+      }
+    },
+    {
+      "id": "50ea3e082557ebc3669b",
+      "title": "New Hampshire Could Finally Legalize Adult-Use Cannabis After Democrats’ Big Win",
+      "url": "https://ganjapreneur.com/new-hampshire-could-finally-legalize-adult-use-cannabis-after-democrats-big-win/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-11T15:03:01+00:00",
+      "collectedAt": "2026-11-11T15:57:27.791167+00:00",
+      "excerpt": "New Hampshire state Rep. Jared Sullivan (D) of Bethlehem said that the state is closer than ever to legalizing adult-use cannabis after Democrats won control of both the state House and Senate last week, Valley News…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-26f76d8236e59b26abc2.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/new-hamp-bill-kill.jpeg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "e3af1429388d92fd03c0f6cd2b065ffb35d61be4bc5d46bca7eea1f7d8d22b2a",
+        "sourceTitle": "New Hampshire Could Finally Legalize Adult-Use Cannabis After Democrats’ Big Win",
+        "sourceExcerpt": "New Hampshire state Rep. Jared Sullivan (D) of Bethlehem said that the state is closer than ever to legalizing adult-use cannabis after Democrats won control of both the state House and Senate last week, Valley News…",
+        "title": "Le New Hampshire pourrait enfin légaliser le cannabis pour adultes après la grande victoire des démocrates",
+        "excerpt": "Le représentant de l'État du New Hampshire, Jared Sullivan (D), de Bethléem, a déclaré que l'État était plus proche que jamais de la légalisation du cannabis à usage adulte après que les démocrates aient pris le contrôle de la Chambre et du Sénat de l'État la semaine dernière.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:09:19.969632+00:00"
+      }
+    },
+    {
+      "id": "3e3cc6ff760ba5dd66aa",
+      "title": "3.744 Schmerzpatienten, 5 Verlaufstypen: Was das britische Cannabis-Register zeigt",
+      "url": "https://www.hanf-magazin.com/wissenschaft/studien/chronische-schmerzen-britisches-register-findet-fuenf-verlaufstypen-unter/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-11T15:00:00+00:00",
+      "collectedAt": "2026-11-11T15:01:04.060865+00:00",
+      "excerpt": "Eine neue Auswertung des britischen Medizinalcannabis-Registers verfolgt 3.744 Schmerzpatienten über bis zu zwei Jahre. Im Mittel verbessern sich Schmerzen, Schlaf, Angst und Lebensqualität. Interessanter als der…",
+      "topics": [
+        "Santé & recherche",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-a713059154b661a40059.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-makroaufnahme-einer-cannabisbluete-mit-tr-featured-83429.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "b1fd4ba7f55a26ba992e5ace92644a8246f3733ac0ed5a6cca1079e4c79b1ca3",
+        "sourceTitle": "3.744 Schmerzpatienten, 5 Verlaufstypen: Was das britische Cannabis-Register zeigt",
+        "sourceExcerpt": "Eine neue Auswertung des britischen Medizinalcannabis-Registers verfolgt 3.744 Schmerzpatienten über bis zu zwei Jahre. Im Mittel verbessern sich Schmerzen, Schlaf, Angst und Lebensqualität. Interessanter als der…",
+        "title": "3 744 patients souffrant de douleurs, 5 types d'évolution : ce que montre le registre britannique du cannabis médical",
+        "excerpt": "Une nouvelle analyse du registre britannique du cannabis médical suit 3 744 patients souffrant de douleurs pendant jusqu'à deux ans. En moyenne, les douleurs, le sommeil, l'anxiété et la qualité de vie s'améliorent. Ce qui est particulièrement intéressant, c'est que…",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-11T15:53:08.535535+00:00"
+      }
+    },
+    {
+      "id": "d50e82fbaf0517c10f45",
+      "title": "Iowa’s Incoming Governor Says Legalizing Marijuana Can Generate ‘Hundreds Of Millions Of Dollars’ For The State",
+      "url": "https://www.marijuanamoment.net/iowas-incoming-governor-says-legalizing-marijuana-can-generate-hundreds-of-millions-of-dollars-for-the-state/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-11T14:33:09+00:00",
+      "collectedAt": "2026-11-11T14:48:56.642634+00:00",
+      "excerpt": "Rob Sand, the Democrat who won Iowa’s gubernatorial election last week, says he plans to move forward with a proposal to legalize marijuana in the state—arguing that it could generate “hundreds of millions of dollars”…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-cf8fcffb34f18e7448fa.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-hand-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "a5ff15381817113b92d5a0cadd1d4ba61d5117e126f8a75e126c6c2f425eadf2",
+        "sourceTitle": "Iowa’s Incoming Governor Says Legalizing Marijuana Can Generate ‘Hundreds Of Millions Of Dollars’ For The State",
+        "sourceExcerpt": "Rob Sand, the Democrat who won Iowa’s gubernatorial election last week, says he plans to move forward with a proposal to legalize marijuana in the state—arguing that it could generate “hundreds of millions of dollars”…",
+        "title": "Le nouveau gouverneur de l’Iowa affirme que la légalisation de la marijuana peut générer «des centaines de millions de dollars» pour l’État",
+        "excerpt": "Rob Sand, le démocrate qui a remporté les élections au poste de gouverneur de l’Iowa la semaine dernière, a déclaré qu’il prévoyait d’aller de l’avant avec une proposition de légalisation de la marijuana dans l’État, affirmant que cela pourrait générer «des centaines de millions de dollars» ...",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
+      }
+    },
+    {
+      "id": "ee20aa78db13bf968c7b",
+      "title": "Snoop Dogg ouvre son club de cannabis à Barcelone",
+      "url": "https://lecannabiste.com/snoop-dogg-ouvre-son-club-de-cannabis-a-barcelone/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-11T13:12:00+00:00",
+      "collectedAt": "2026-11-11T13:54:36.601762+00:00",
+      "excerpt": "Snoop Dogg ouvre Tha Dogg House, son club de cannabis, à Barcelone : troisième adresse européenne, dans la zone grise des clubs sociaux espagnols.",
+      "topics": [
+        "Culture"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d0d93b7c94120b464166.webp",
+      "credit": "Le Cannabiste · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/club-cannabis-barcelone.webp"
+    },
+    {
+      "id": "591b1645d2a710df3bc6",
+      "title": "Senate Committee Floats Marijuana As Opioid Alternative, Encourages Psychedelic Research And Raises Concerns Over Cannabis-Infused Foods",
+      "url": "https://www.marijuanamoment.net/senate-committee-floats-marijuana-as-opioid-alternative-encourages-psychedelic-research-and-raises-concerns-over-cannabis-infused-foods/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-11T13:11:24+00:00",
+      "collectedAt": "2026-11-11T13:54:36.601762+00:00",
+      "excerpt": "A key Senate committee is directing federal agencies to consider medical marijuana as an opioid alternative as well as the therapeutic benefits of psychedelics—while also encouraging hemp cultivar and germplasm…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-42095fcae4b380b97e27.webp",
+      "credit": "Marijuana Moment · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2021/09/psilocybin-mushroom-marijuana-leaf.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "806fc5ccd222dc66063f68c3de5e24fa119aa38712606f190282e0dcc192ba57",
+        "sourceTitle": "Senate Committee Floats Marijuana As Opioid Alternative, Encourages Psychedelic Research And Raises Concerns Over Cannabis-Infused Foods",
+        "sourceExcerpt": "A key Senate committee is directing federal agencies to consider medical marijuana as an opioid alternative as well as the therapeutic benefits of psychedelics—while also encouraging hemp cultivar and germplasm…",
+        "title": "Le Comité sénatorial suggère la marijuana comme alternative aux opioïdes, encourage la recherche psychédélique et soulève des inquiétudes au sujet des aliments infusés au cannabis",
+        "excerpt": "Un comité clé du Sénat ordonne aux organismes fédéraux de considérer la marijuana médicale comme une alternative aux opioïdes ainsi que les avantages thérapeutiques des psychédéliques, tout en encourageant le cultivar de chanvre et le germoplasme.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
+      }
+    },
+    {
+      "id": "deacea456e24631d7bda",
+      "title": "Evidence, Access and the Future of Cannabinoid Medicine: Key Takeaways from Cannabis Health Symposium Frankfurt — Part 2",
+      "url": "https://cannabishealthnews.co.uk/2026/11/11/key-takeaways-from-cannabis-health-symposium-frankfurt-part-2/",
+      "source": "Cannabis Health",
+      "sourceFeed": "https://cannabishealthnews.co.uk/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-11T13:00:43+00:00",
+      "collectedAt": "2026-11-11T14:48:56.642634+00:00",
+      "excerpt": "Last week, Cannabis Health Symposium hosted its first event in Frankfurt, bringing together healthcare professionals, researchers, policymakers and industry operators.",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "CBD & molécules"
+      ],
+      "kind": "Article",
+      "image": "",
+      "credit": "",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "e2ac15a91622e320f9c6748771487573520254776e2f9709b406263fffd9225d",
+        "sourceTitle": "Evidence, Access and the Future of Cannabinoid Medicine: Key Takeaways from Cannabis Health Symposium Frankfurt — Part 2",
+        "sourceExcerpt": "Last week, Cannabis Health Symposium hosted its first event in Frankfurt, bringing together healthcare professionals, researchers, policymakers and industry operators.",
+        "title": "Preuves, accès et avenir de la médecine des cannabinoïdes: principaux enseignements du symposium sur la santé du cannabis de Francfort – Partie 2",
+        "excerpt": "La semaine dernière, le Cannabis Health Symposium a organisé son premier événement à Francfort, réunissant des professionnels de la santé, des chercheurs, des décideurs et des opérateurs de l’industrie.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
+      }
+    },
+    {
+      "id": "0e252e754197c38bda6a",
+      "title": "We Say We Support Veterans, But Why Is Accessing Medical Cannabis Still So Difficult? (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/we-say-we-support-veterans-but-why-is-accessing-medical-cannabis-still-so-difficult-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-11T12:29:02+00:00",
+      "collectedAt": "2026-11-11T13:54:36.601762+00:00",
+      "excerpt": "“This Veterans Day, let’s measure our support in more than ceremonies and dispensary discounts.” By Narith Panh, Dragonfly Wellness Every Veterans Day, communities across the country thank the men and women who served.…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-a7825e91d82c5ae69c85.webp",
+      "credit": "Marijuana Moment · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/03/army-soldier-military-marijuana-cannabis.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "f0e9a2234f65c728692e330c9eb9710b784985202efdfabc371b07106140a16e",
+        "sourceTitle": "We Say We Support Veterans, But Why Is Accessing Medical Cannabis Still So Difficult? (Op-Ed)",
+        "sourceExcerpt": "“This Veterans Day, let’s measure our support in more than ceremonies and dispensary discounts.” By Narith Panh, Dragonfly Wellness Every Veterans Day, communities across the country thank the men and women who served.…",
+        "title": "Nous disons que nous soutenons les anciens combattants, mais pourquoi l’accès au cannabis médical est-il encore si difficile?",
+        "excerpt": "« En cette Journée des anciens combattants, mesurons notre soutien dans plus que des cérémonies et des rabais sur les dispensaires. » Par Narith Panh, Dragonfly Wellness Chaque Journée des anciens combattants, les communautés de tout le pays remercient les hommes et les femmes qui ont servi....",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
+      }
+    },
+    {
+      "id": "200cda5e25ec8f8e2417",
+      "title": "Governors press Congress for cannabis banking bill (Newsletter: November 11, 2026)",
+      "url": "https://www.marijuanamoment.net/governors-press-congress-for-cannabis-banking-bill-newsletter-november-11-2026/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-11T11:12:27+00:00",
+      "collectedAt": "2026-11-11T13:54:36.601762+00:00",
+      "excerpt": "NC House speaker on marijuana as a priority; TX legalization bills filed; NH cannabis prospects in 2027; Marijuana tax op-ed; Industry & GOP op-ed Subscribe to receive Marijuana Moment’s newsletter in your inbox every…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9cd057629423b66cd1a6.webp",
+      "credit": "Marijuana Moment · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-28-at-10.58.02-AM-e1611860353683.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "c54412966b71f2bdb9d8acf8c66683acac54152239f75194e5608f85eabbd4ed",
+        "sourceTitle": "Governors press Congress for cannabis banking bill (Newsletter: November 11, 2026)",
+        "sourceExcerpt": "NC House speaker on marijuana as a priority; TX legalization bills filed; NH cannabis prospects in 2027; Marijuana tax op-ed; Industry & GOP op-ed Subscribe to receive Marijuana Moment’s newsletter in your inbox every…",
+        "title": "Les gouverneurs pressent le Congrès pour un projet de loi sur les services bancaires pour l'industrie du cannabis (Newsletter: 11 novembre 2026)",
+        "excerpt": "Caroline du Nord président de la Chambre sur la marijuana comme une priorité; Texas projets de loi de légalisation déposée; New Hampshire perspectives de cannabis en 2027; article d'opinion de la marijuana sur la fiscalité; Industrie et GOP op-ed",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
+      }
+    },
+    {
+      "id": "accef496c197b63a9972",
+      "title": "Chanvre au THC : l’interdiction américaine entre en vigueur en deux temps",
+      "url": "https://lecannabiste.com/chanvre-au-thc-linterdiction-americaine-entre-en-vigueur-en-deux-temps/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-11T10:24:00+00:00",
+      "collectedAt": "2026-11-11T13:54:36.601762+00:00",
+      "excerpt": "La nouvelle définition fédérale du chanvre interdit le THC de synthèse le 12 novembre 2026, puis plafonne l'ensemble des produits au THC le 11 décembre.",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-e30b3b9bf4cf7848ad6d.webp",
+      "credit": "Le Cannabiste · visuel og:image de l’article ; crédit individuel et nature documentaire non vérifiés. Illustration possible.",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/interdiction-chanvre-thc-usa.webp"
+    },
+    {
+      "id": "4670c0bfdb98bd1501b9",
+      "title": "Grow Group Completes £12m Recapitalisation and Restructuring, Appoints Co-CEOs and Completes Transition to Full Operations at its UK Manufacturing Facility",
+      "url": "https://businessofcannabis.com/grow-group-completes-12m-recapitalisation-and-restructuring-appoints-co-ceos-and-completes-transition-to-full-operations-at-its-uk-manufacturing-facility/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-11T09:44:56+00:00",
+      "collectedAt": "2026-11-11T14:48:56.642634+00:00",
+      "excerpt": "Grow Group has announced the completion of a recapitalisation, has appointed Co-CEOs, and now expects to generate healthy EBITDA in 2027.",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Communiqué",
+      "image": "assets/live-6fb23b048908cbfe30b8.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/a7iii.01_51_43_13.Still007-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "6100c61e7a816c1a416427785b7b719fedf6c7cb871a85629fa794fd911c8398",
+        "sourceTitle": "Grow Group Completes £12m Recapitalisation and Restructuring, Appoints Co-CEOs and Completes Transition to Full Operations at its UK Manufacturing Facility",
+        "sourceExcerpt": "Grow Group has announced the completion of a recapitalisation, has appointed Co-CEOs, and now expects to generate healthy EBITDA in 2027.",
+        "title": "Grow Group achève la recapitalisation et la restructuration de 12 millions de livres sterling, nomme des codirecteurs généraux et achève la transition vers des opérations complètes dans son usine de fabrication au Royaume-Uni",
+        "excerpt": "Grow Group a annoncé la finalisation d’une recapitalisation, a nommé des codirecteurs généraux et prévoit désormais de générer un EBITDA sain en 2027.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-11T16:05:05.489011+00:00"
+      }
+    }
+  ],
+  "windowHours": 24,
+  "schedule": "09h17, 13h17 et 18h17 · Paris",
+  "notice": "Revue de presse automatique. Titres et courts extraits dans la langue des sources ; articles à lire chez leurs éditeurs. Les rubriques sont un classement automatique, pas une validation des informations.",
+  "date": "2026-11-12",
+  "translationStatus": {
+    "engine": "Traduction neuronale locale",
+    "targetLanguage": "fr",
+    "available": 18,
+    "eligible": 18,
+    "status": "ok",
+    "updatedAt": "2026-11-12T09:15:15.515072+00:00"
+  }
+}
