@@ -1,0 +1,14 @@
+<!doctype html><html lang="fr"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>Gardenz Actuz — reprise du journal</title><style>body{max-width:760px;margin:10vh auto;padding:28px;background:#f3ead7;color:#30271c;font:20px/1.7 Georgia,serif}button,a{font:inherit;color:inherit}button{padding:14px 24px;border:1px solid #30271c;background:#fff8e9;cursor:pointer}</style><h1>Retrouver ton journal actualisé</h1><p id="status" role="status">Cette opération renouvelle le moteur de lecture. Tes favoris sont conservés.</p><button id="repair">Reprendre la mise à jour</button><p><a href="/">Retour au journal</a></p><script>
+const status=document.getElementById('status'),button=document.getElementById('repair');
+button.addEventListener('click',async()=>{
+ button.disabled=true;
+ if(!('serviceWorker' in navigator)){location.assign('/');return;}
+ status.textContent='Connexion à la nouvelle version…';
+ try{
+  navigator.serviceWorker.addEventListener('controllerchange',()=>location.assign('/'),{once:true});
+  const registration=await navigator.serviceWorker.register('/sw.js',{updateViaCache:'none'});
+  await registration.update();
+  status.textContent='Nouvelle version demandée. Si le journal ne s’ouvre pas automatiquement, utilise « Retour au journal ».';
+ }catch{status.textContent='La reprise n’a pas abouti. Vérifie la publication du ZIP et ta connexion, puis réessaie.';button.disabled=false;}
+});
+</script></html>

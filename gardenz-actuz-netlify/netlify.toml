@@ -1,0 +1,6 @@
+[build]
+  publish = "."
+  command = ""
+  # Le journal est servi depuis GitHub : les collectes quotidiennes ne nécessitent
+  # pas de nouveau déploiement Netlify. Premier build sans cache toujours autorisé.
+  ignore = 'test "$CACHED_COMMIT_REF" != "$COMMIT_REF" && git diff --quiet "$CACHED_COMMIT_REF" "$COMMIT_REF" -- .'

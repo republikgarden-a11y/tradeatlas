@@ -1,0 +1,6 @@
+# Gardenz Actuz : conserver l’adresse Netlify et suivre les publications GitHub.
+# Les deux règles forcées remplacent la page de secours locale.
+/ https://republikgarden-a11y.github.io/tradeatlas/gardenz-actuz/ 200!
+/index.html https://republikgarden-a11y.github.io/tradeatlas/gardenz-actuz/index.html 200!
+# Les fichiers locaux sw.js et reparer-cache.html restent servis localement.
+/* https://republikgarden-a11y.github.io/tradeatlas/gardenz-actuz/:splat 200
