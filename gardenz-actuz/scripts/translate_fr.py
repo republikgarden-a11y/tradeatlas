@@ -14,9 +14,28 @@ MODEL_REVISION = 'a06e946bb6b655725eafa393f4a9745d460374c9'
 MODEL_FILE = 'Qwen3-4B-Instruct-2507-Q4_K_M.gguf'
 MODELS = {'en': ('Helsinki-NLP/opus-mt-tc-big-en-fr', '6e062862ced6f5622a589ab2aadc2a1d4978db78'), 'de': (MODEL_REPOSITORY, MODEL_REVISION)}
 ENGINE = 'Traduction neuronale locale'
+EXCERPT_POLICY = 'complete-sentences-v1'
 _MODEL = None
 _EN_MODEL = None
 _EN_TOKENIZER = None
+
+def excerpt_input(text):
+    """A cut-off RSS sentence must never be completed by the translation model."""
+    if not text.rstrip().endswith(('…', '...')):
+        return text
+    body = re.sub(r'(?:…|\.{3})\s*$', '', text)
+    sentences = list(re.finditer(r'[.!?][”\"’\x27)\]]*(?=\s|$)', body))
+    return body[:sentences[-1].end()].strip() if sentences else ''
+
+def truncated_excerpt(item):
+    return excerpt_input(item.get('excerpt', '')) != item.get('excerpt', '')
+
+def safe_excerpt(text, item):
+    if truncated_excerpt(item):
+        if not excerpt_input(item.get('excerpt', '')):
+            return 'Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».'
+        return text.rstrip(' .…') + ' […]'
+    return text
 
 def source_hash(item):
     source = [item.get('language', ''), item.get('title', ''), item.get('excerpt', '')]
@@ -24,6 +43,7 @@ def source_hash(item):
 
 def valid_translation(item, translation):
     return (isinstance(translation, dict) and translation.get('targetLanguage') == 'fr'
+            and (not truncated_excerpt(item) or translation.get('excerptPolicy') == EXCERPT_POLICY)
             and (translation.get('model'), translation.get('modelRevision')) == MODELS.get(item.get('language'))
             and translation.get('sourceHash') == source_hash(item)
             and translation.get('sourceTitle') == item.get('title', '')
@@ -192,8 +212,9 @@ def prepare_documents(documents, translate=translate_batch, now=None, checkpoint
             for key, item in pending[offset:offset + 2]:
                 start = len(texts)
                 texts.append(item['title'])
-                if item.get('excerpt'):
-                    texts.append(item['excerpt'])
+                source_excerpt = excerpt_input(item.get('excerpt', ''))
+                if source_excerpt:
+                    texts.append(source_excerpt)
                 positions.append((key, item, start))
             try:
                 result = translate(language, texts)
@@ -202,7 +223,8 @@ def prepare_documents(documents, translate=translate_batch, now=None, checkpoint
                 for key, item, start in positions:
                     cache[key] = dict(targetLanguage='fr', sourceLanguage=language, sourceHash=key,
                         sourceTitle=item['title'], sourceExcerpt=item.get('excerpt', ''),
-                        title=result[start].strip(), excerpt=result[start + 1].strip() if item.get('excerpt') else '',
+                        title=result[start].strip(), excerpt=safe_excerpt(result[start + 1].strip() if excerpt_input(item.get('excerpt', '')) else '', item),
+                        excerptPolicy=EXCERPT_POLICY,
                         engine='OPUS-MT · Helsinki-NLP' if language == 'en' else 'Qwen3 · traduction contextuelle locale', model=MODELS[language][0], modelRevision=MODELS[language][1], translatedAt=now)
                 apply_cache()
             except Exception as error:
@@ -230,3 +252,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

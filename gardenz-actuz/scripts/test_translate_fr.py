@@ -1,8 +1,26 @@
 import copy
 import unittest
-from translate_fr import prepare_documents, source_hash, valid_translation, clean_french, english_input
+from translate_fr import prepare_documents, source_hash, valid_translation, clean_french, english_input, excerpt_input
 
 class TranslationTests(unittest.TestCase):
+    def test_cut_off_excerpt_is_not_sent_to_model(self):
+        item=self.item();item['excerpt']='The governor wants legalization, while a leader says that…'
+        docs=[{'items':[item]}];calls=[]
+        def translate(lang,texts):
+            calls.extend(texts)
+            return ['Titre traduit' for _ in texts]
+        prepare_documents(docs,translate)
+        self.assertEqual(calls,[item['title']])
+        self.assertIn('Extrait source coupé',item['translation']['excerpt'])
+        self.assertEqual(item['excerpt'],'The governor wants legalization, while a leader says that…')
+        self.assertTrue(valid_translation(item,item['translation']))
+        del item['translation']['excerptPolicy']
+        self.assertFalse(valid_translation(item,item['translation']))
+
+    def test_only_complete_sentences_of_truncated_excerpt_are_translated(self):
+        self.assertEqual(excerpt_input('The study follows 100 patients. Preliminary findings show…'),'The study follows 100 patients.')
+        self.assertEqual(excerpt_input('The dose is 0.003 mg...'),'')
+        self.assertEqual(excerpt_input('A complete excerpt.'),'A complete excerpt.')
     def item(self, language='en'):
         return dict(id='one', language=language, title='Medical cannabis research', excerpt='The study follows 100 patients.', url='https://example.org/one')
 
@@ -87,3 +105,4 @@ class TranslationTests(unittest.TestCase):
         self.assertEqual(docs[0]['translationStatus']['available'],0)
 
 if __name__=='__main__':unittest.main()
+
