@@ -1,8 +1,14 @@
 import copy
 import unittest
-from translate_fr import prepare_documents, source_hash, valid_translation, clean_french, english_input, excerpt_input
+from translate_fr import prepare_documents, source_hash, valid_translation, clean_french, english_input, excerpt_input, obvious_wrong_language
 
 class TranslationTests(unittest.TestCase):
+    def test_obvious_english_output_is_rejected(self):
+        self.assertTrue(obvious_wrong_language('Double dose of THC, only about 15 percent more high'))
+        self.assertFalse(obvious_wrong_language('Le plan Goodness of Hemp attire les critiques'))
+        docs=[{'items':[self.item()]}]
+        prepare_documents(docs,lambda lang,texts:['This is not the French output' for _ in texts])
+        self.assertNotIn('translation',docs[0]['items'][0])
     def test_cut_off_excerpt_is_not_sent_to_model(self):
         item=self.item();item['excerpt']='The governor wants legalization, while a leader says that…'
         docs=[{'items':[item]}];calls=[]
@@ -20,6 +26,7 @@ class TranslationTests(unittest.TestCase):
     def test_only_complete_sentences_of_truncated_excerpt_are_translated(self):
         self.assertEqual(excerpt_input('The study follows 100 patients. Preliminary findings show…'),'The study follows 100 patients.')
         self.assertEqual(excerpt_input('The dose is 0.003 mg...'),'')
+        self.assertEqual(excerpt_input('A complete sentence. An incomplete thought […]'),'A complete sentence.')
         self.assertEqual(excerpt_input('A complete excerpt.'),'A complete excerpt.')
     def item(self, language='en'):
         return dict(id='one', language=language, title='Medical cannabis research', excerpt='The study follows 100 patients.', url='https://example.org/one')

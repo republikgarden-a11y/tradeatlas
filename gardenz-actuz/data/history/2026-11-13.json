@@ -96,13 +96,14 @@
         "sourceHash": "986b832768d9fd9145ec7edcde998fda137087d3e9bacc3c6cff1ce3b3a544dc",
         "sourceTitle": "Doppelte THC-Dosis, nur rund 15 Prozent mehr Rausch: 41 Laborstudien ausgewertet",
         "sourceExcerpt": "Wer doppelt so viel THC inhaliert, ist nicht doppelt so high. Das ist die Kernaussage einer neuen Meta-Analyse aus London und Melbourne, die 41 kontrollierte Laborstudien mit insgesamt 1.020 Teilnehmenden auswertet. Der…",
-        "title": "Double dose of THC, only about 15 percent more high: 41 laboratory studies analyzed",
-        "excerpt": "Inhaling twice as much THC does not make someone twice as high. This is the central finding of a new meta-analysis from London and Melbourne, which evaluates 41 controlled laboratory studies involving a total of 1,020 participants […]",
+        "title": "Dose de THC doublée, effet ressenti accru d’environ 15 % seulement : analyse de 41 études en laboratoire",
+        "excerpt": "Inhaler deux fois plus de THC ne double pas l’effet ressenti. C’est le principal constat d’une nouvelle méta-analyse menée à Londres et Melbourne, qui examine 41 études contrôlées en laboratoire réunissant 1 020 participants. […]",
         "excerptPolicy": "complete-sentences-v1",
         "engine": "Qwen3 · traduction contextuelle locale",
         "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
         "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-13T08:48:41.797806+00:00"
+        "translatedAt": "2026-11-13T08:48:41.797806+00:00",
+        "reviewNote": "Traduction française revue lors du contrôle de publication du 13 novembre 2026."
       }
     },
     {
@@ -220,13 +221,14 @@
         "sourceHash": "edd4c505dd1745a91bd78680af66653159bb1025544dd5c2b0104925f8da3750",
         "sourceTitle": "Incoming Wisconsin Governor Says Marijuana Legalization Can Offset Medicaid Cuts, As Top Lawmaker Calls It A 2027 ‘Priority’",
         "sourceExcerpt": "Wisconsin’s incoming Democratic governor says he wants to use revenue from legalizing marijuana to offset federal cuts to Medicaid, while a top leader in the party’s new legislative majority is making clear that…",
-        "title": "Le gouverneur entrant du Wisconsin dit que la légalisation de la marijuana peut compenser les réductions de Medicaid, comme l’appelle un législateur de 2027 «priorité»",
+        "title": "Wisconsin : le futur gouverneur veut compenser les coupes dans Medicaid par la légalisation du cannabis, une priorité pour 2027 selon un responsable parlementaire",
         "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
         "excerptPolicy": "complete-sentences-v1",
         "engine": "OPUS-MT · Helsinki-NLP",
         "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
         "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
-        "translatedAt": "2026-11-13T08:48:41.797806+00:00"
+        "translatedAt": "2026-11-13T08:48:41.797806+00:00",
+        "reviewNote": "Titre français revu lors du contrôle de publication du 13 novembre 2026."
       }
     },
     {
