@@ -1,13 +1,45 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-12T09:22:24Z",
-  "last_success": "2026-11-12T09:22:24Z",
+  "checked_at": "2026-11-13T09:20:24Z",
+  "last_success": "2026-11-13T09:20:24Z",
   "topics_checked": 4,
   "successful_topics": 4,
-  "new_items": 2,
+  "new_items": 5,
   "errors": [],
   "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcG5fVUVOTnhDYjBIVHJoMzBlNVZSTjFsSUJPcVBpY3FuQmtmaGdOMzBnZTYyQjVNOTQ5ZmJIV2tRUGlvczJmdUktcG9GSlRjblpJT1pRLXptUkViMHBwYzZlYmRWSEVnRWJ2SWlBeTVuMHliV2RjakcwMFQ5aXloMjZCWnU4bzctd3JjQVNhbVBhVThTdmxqT3B1QlRBQU96V1h3VUgycFkxUQ?oc=5",
+      "title": "Republic Technologies Announces 2026 AGSM Results - Business Wire",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Business Wire",
+      "published_at": "2026-11-13T05:04:00Z",
+      "first_seen": "2026-11-13T09:20:24Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCQ1pGdlVvM2hDR2dwZThZbW9EMEx2VUpOQ2VqRTRIUS13Y1RwSG5WSUl4RGE5ZzQtbE9WeVNSMjlWc1dvV01xVmp1azc1Z3FyUzdEbmNn?oc=5",
+      "title": "Republic Technologies Inc. (DOCT.CN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Yahoo! Finance Canada",
+      "published_at": "2026-11-12T17:46:59Z",
+      "first_seen": "2026-11-13T09:20:24Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcXE1ZzlqTUJJSTNZV19mVzNTT01NSVduTllyLUI2YzV5eTQ1TFo5RUs3SHhvYWlSNVFJNGtveTZKVDBHZmVZaEZzbkhwWjJSMU1tdzZOcGdpcmxnNVp5S0FvNmZwUXhhcVNhQ0xSOW95WnFYN3hEZWh0SzM4Z1VGcmZwN2E1d3FISlNpakZHWlRuTnMtaVlnMGhwSFZkZw?oc=5",
+      "title": "Top 9 OEM Cannabis Packaging Bags Manufacturers in 2026 - EIN News",
+      "topic": "Packaging & chanvre",
+      "domain": "EIN News",
+      "published_at": "2026-11-12T13:57:00Z",
+      "first_seen": "2026-11-13T09:20:24Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNVY1NXhiUHYwMDVQTUtRaE9ESEh6Uk1FSkt5TFdKamhuLXQ5ZmtfVUplbmloOVNLVEVKTnFyaWhaelNhc09xUGJQelYyeTd4T3lMRHgyLV9ta1dPS1h1SkZHRjNBd1RfSGU0SWIzak9qdXBzU1UwTE12bDV0eVhqbzhFdVJYTG9HSzFxTjhzZnYwdFlickt3YS1PbWNxdm5DNVJvS2lSZm1lMFk?oc=5",
+      "title": "The cannabis packaging mistakes putting operators and retailers at risk - MJBizDaily",
+      "topic": "Packaging & chanvre",
+      "domain": "MJBizDaily",
+      "published_at": "2026-11-12T11:33:06Z",
+      "first_seen": "2026-11-13T09:20:24Z"
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZlR0ZkZCb05HWUxKNlUxM3hQUzRhZjRmcWVHeGtBWW5oZlAwMGVUWlhxWGcwZmtvZmUySVdTX3hMamN3alRfT3V5QWxzWFBjaDFpdFptM2ZOX1l1b2dBUjQ4UGZrTDd5S2tWY2FpaFVUX0V6eTFESmtWSW8zdFU3U29wOGQ3eFdGZ3FkVFk1N1NfVU9tdWwzUVhlRTU3alRwbXp5VU1aLUZod0lPRFFsQXUzNzZ4ZFdk?oc=5",
       "title": "Family visits their vault in a cemetery in Cuba and receives an unexpected surprise - CiberCuba",
@@ -23,6 +55,14 @@
       "domain": "Community Impact",
       "published_at": "2026-11-11T17:00:00Z",
       "first_seen": "2026-11-11T14:20:50Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGtDRmNlUEg1eHJjYlBtYlhpajJzdHlMNGNxVklwdXYtMkNFWThQTmplWFQ5RDZsWHFhdDRadXRDanFkUTZhLS1OVGRWYTVRaC1MTF82MUF6NHp1YllManVoTEd6enlyRjhCazh3LVNURUxJQjVXTmhVaEEybjZva0hyZVBBOFFVV1ZTYjVDWUZjU0w4STJ5Sl8yNzNSSjZt?oc=5",
+      "title": "2026 Big Smoke Las Vegas Seminars: The Top Cigars Of The Year - Cigar Aficionado",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Cigar Aficionado",
+      "published_at": "2026-11-11T16:00:33Z",
+      "first_seen": "2026-11-13T09:20:24Z"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2FnRWpEb0JVRncyS2NrZk13dl9DYUcyMlp3ejBxNG5jTnBpVzhmdkM3M1hfdWJ6VW5Qakh3SzVhWVRSLXUxd283bE56VU9BeXZRdk5sdXR4T3lROVhUd0dCOHlQQjZNSS1tWjd1Z2cteHkzX2VTRkNTb1NqREhfM0JfS0NrXzQ5dFlQeDFZc2xrQW1Eb252VUw4Yk1vN2ZwY1E?oc=5",
@@ -82,7 +122,7 @@
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fdDhYRGtWbUVDU05LZ0N1LVNHSl9OMHhjd2FPVWQ3eGJ6MlNJNVl3bFpRaGdYUDFjTEl4SnZqYmxZUVNTVmdISzV6SW9nRHNyem5pemFaMEtuZHMtWDJyN3NSd0lkVk5PTnc?oc=5",
-      "title": "Smoore International Holdings Limited (58K.F) Analyst Insights, Price Targets & Recommendations - Yahoo Finance - Yahoo! Finance Canada",
+      "title": "Smoore International Holdings Limited (58K.F) Analyst Insights, Price Targets & Recommendations - Yahoo! Finance Canada",
       "topic": "Fabricants & marques suivis",
       "domain": "Yahoo! Finance Canada",
       "published_at": "2026-11-09T10:12:38Z",
