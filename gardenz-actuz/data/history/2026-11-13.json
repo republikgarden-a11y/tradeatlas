@@ -1,0 +1,505 @@
+{
+  "version": 3,
+  "mode": "public-rss",
+  "attemptedAt": "2026-11-13T08:48:36.826112+00:00",
+  "lastSuccess": "2026-11-13T08:48:36.826112+00:00",
+  "status": "ok",
+  "sources": [
+    {
+      "name": "Newsweed",
+      "url": "https://www.newsweed.fr/feed/",
+      "ok": true,
+      "count": 2,
+      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+    },
+    {
+      "name": "Le Cannabiste",
+      "url": "https://lecannabiste.com/feed/",
+      "ok": true,
+      "count": 3,
+      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+    },
+    {
+      "name": "Marijuana Moment",
+      "url": "https://www.marijuanamoment.net/feed/",
+      "ok": true,
+      "count": 10,
+      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+    },
+    {
+      "name": "Ganjapreneur",
+      "url": "https://www.ganjapreneur.com/feed/",
+      "ok": true,
+      "count": 5,
+      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+    },
+    {
+      "name": "Hanf Magazin",
+      "url": "https://www.hanf-magazin.com/feed/",
+      "ok": true,
+      "count": 5,
+      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+    },
+    {
+      "name": "Business of Cannabis",
+      "url": "https://businessofcannabis.com/feed/",
+      "ok": true,
+      "count": 5,
+      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+    },
+    {
+      "name": "HempToday",
+      "url": "https://hemptoday.net/feed/",
+      "ok": true,
+      "count": 1,
+      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+    },
+    {
+      "name": "Cannabis Health",
+      "url": "https://cannabishealthnews.co.uk/feed/",
+      "ok": true,
+      "count": 2,
+      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+    },
+    {
+      "name": "NORML",
+      "url": "https://norml.org/feed/",
+      "ok": true,
+      "count": 0,
+      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+    }
+  ],
+  "items": [
+    {
+      "id": "8f12cf19e6ab6beffc75",
+      "title": "Doppelte THC-Dosis, nur rund 15 Prozent mehr Rausch: 41 Laborstudien ausgewertet",
+      "url": "https://www.hanf-magazin.com/wissenschaft/studien/doppelte-thc-dosis-kaum-mehr-rausch-meta-analyse-zu-41-laborstudien/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-13T07:00:00+00:00",
+      "collectedAt": "2026-11-13T08:48:36.826112+00:00",
+      "excerpt": "Wer doppelt so viel THC inhaliert, ist nicht doppelt so high. Das ist die Kernaussage einer neuen Meta-Analyse aus London und Melbourne, die 41 kontrollierte Laborstudien mit insgesamt 1.020 Teilnehmenden auswertet. Der…",
+      "topics": [
+        "Santé & recherche",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-95f4475d3141acbe2821.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-drei-cannabisblueten-groessenvergleich-featured-83693.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "986b832768d9fd9145ec7edcde998fda137087d3e9bacc3c6cff1ce3b3a544dc",
+        "sourceTitle": "Doppelte THC-Dosis, nur rund 15 Prozent mehr Rausch: 41 Laborstudien ausgewertet",
+        "sourceExcerpt": "Wer doppelt so viel THC inhaliert, ist nicht doppelt so high. Das ist die Kernaussage einer neuen Meta-Analyse aus London und Melbourne, die 41 kontrollierte Laborstudien mit insgesamt 1.020 Teilnehmenden auswertet. Der…",
+        "title": "Double dose of THC, only about 15 percent more high: 41 laboratory studies analyzed",
+        "excerpt": "Inhaling twice as much THC does not make someone twice as high. This is the central finding of a new meta-analysis from London and Melbourne, which evaluates 41 controlled laboratory studies involving a total of 1,020 participants […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-13T08:48:41.797806+00:00"
+      }
+    },
+    {
+      "id": "cd4f015fcb7512a32ce5",
+      "title": "Texas Officials Say Cannabis Reform Is A Priority For 2027 Session And Tout Hemp As ‘Saving Grace’ For Farmers",
+      "url": "https://www.marijuanamoment.net/texas-officials-say-cannabis-reform-is-a-priority-for-2027-session-and-tout-hemp-as-saving-grace-for-farmers/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-12T18:08:04+00:00",
+      "collectedAt": "2026-11-13T08:48:36.826112+00:00",
+      "excerpt": "Texas’s incoming Democratic lieutenant governor said a bill to legally regulate THC products will be one of her top priorities in the 2027 session—as the state’s agriculture commissioner-elect says hemp has the…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre",
+        "Culture"
+      ],
+      "kind": "Article",
+      "image": "assets/live-466d7cff9129f6bd2958.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/05/texas-marijuana.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "fcc7ce1e07f786b92f198e98c0988f4aaea109510f5dfebad4833811b435c676",
+        "sourceTitle": "Texas Officials Say Cannabis Reform Is A Priority For 2027 Session And Tout Hemp As ‘Saving Grace’ For Farmers",
+        "sourceExcerpt": "Texas’s incoming Democratic lieutenant governor said a bill to legally regulate THC products will be one of her top priorities in the 2027 session—as the state’s agriculture commissioner-elect says hemp has the…",
+        "title": "Les responsables du Texas disent que la réforme du cannabis est une priorité pour 2027 session et tout le chanvre comme «sauver la grâce» pour les agriculteurs",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T08:48:41.797806+00:00"
+      }
+    },
+    {
+      "id": "33df3efac42fc0f3af09",
+      "title": "Snoop Dogg ouvre son Cannabis Club à Barcelone",
+      "url": "https://www.newsweed.fr/snoop-dogg-va-ouvrir-son-cannabis-club-a-barcelone/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-12T17:06:29+00:00",
+      "collectedAt": "2026-11-13T08:48:36.826112+00:00",
+      "excerpt": "Snoop Dogg poursuit son expansion sur le marché européen du cannabis avec l’arrivée de Tha Dogg House à Barcelone . Après avoir inauguré deux coffeeshops à Amsterdam, le rappeur américain s’implante cette fois en…",
+      "topics": [
+        "Économie",
+        "Culture"
+      ],
+      "kind": "Article",
+      "image": "assets/live-e0a221cb98997bdac672.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/tha-dogg-house-barcelone.jpg"
+    },
+    {
+      "id": "1c68ddbd75df5dd1198e",
+      "title": "California’s Cannabis Regulations Are Creating A Soil Health Crisis (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/californias-cannabis-regulations-are-creating-a-soil-health-crisis-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-12T17:04:32+00:00",
+      "collectedAt": "2026-11-12T17:58:30.187453+00:00",
+      "excerpt": "“Farmers are effectively paying the state for the privilege of not growing cannabis, even when taking a season off may be necessary to maintain the long-term health of their land.” By Micah Anderson, LEEF Brands…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-d94ba026f848afc8ed93.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/11/Grow_Max-Jackson_0109.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "81a30b5344716e4e9d77f7dd1654ed2a60757f557f4efe3d5db36cedac3b950e",
+        "sourceTitle": "California’s Cannabis Regulations Are Creating A Soil Health Crisis (Op-Ed)",
+        "sourceExcerpt": "“Farmers are effectively paying the state for the privilege of not growing cannabis, even when taking a season off may be necessary to maintain the long-term health of their land.” By Micah Anderson, LEEF Brands…",
+        "title": "La réglementation californienne sur le cannabis crée une crise de santé des sols (Tribune)",
+        "excerpt": "« Les agriculteurs paient effectivement l’État pour le privilège de ne pas cultiver de cannabis, même en prenant une saison sabbatique peut être nécessaire pour maintenir la santé à long terme de leurs terres. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T08:48:41.797806+00:00"
+      }
+    },
+    {
+      "id": "e5c8e7fb41bf759c4d15",
+      "title": "Incoming Wisconsin Governor Says Marijuana Legalization Can Offset Medicaid Cuts, As Top Lawmaker Calls It A 2027 ‘Priority’",
+      "url": "https://www.marijuanamoment.net/incoming-wisconsin-governor-says-marijuana-legalization-can-offset-medicaid-cuts-as-top-lawmaker-calls-it-a-2027-priority/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-12T15:08:17+00:00",
+      "collectedAt": "2026-11-12T17:58:30.187453+00:00",
+      "excerpt": "Wisconsin’s incoming Democratic governor says he wants to use revenue from legalizing marijuana to offset federal cuts to Medicaid, while a top leader in the party’s new legislative majority is making clear that…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-402c91116619d8ee6365.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/cannabis-marijuana-hand-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "edd4c505dd1745a91bd78680af66653159bb1025544dd5c2b0104925f8da3750",
+        "sourceTitle": "Incoming Wisconsin Governor Says Marijuana Legalization Can Offset Medicaid Cuts, As Top Lawmaker Calls It A 2027 ‘Priority’",
+        "sourceExcerpt": "Wisconsin’s incoming Democratic governor says he wants to use revenue from legalizing marijuana to offset federal cuts to Medicaid, while a top leader in the party’s new legislative majority is making clear that…",
+        "title": "Le gouverneur entrant du Wisconsin dit que la légalisation de la marijuana peut compenser les réductions de Medicaid, comme l’appelle un législateur de 2027 «priorité»",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T08:48:41.797806+00:00"
+      }
+    },
+    {
+      "id": "cb802315bfaa699af2ff",
+      "title": "Cannabis Telemedicine in Germany: Regulation, Market Entry, Advertising and Enforcement",
+      "url": "https://businessofcannabis.com/cannabis-telemedicine-in-germany-regulation-market-entry-advertising-and-enforcement/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-12T15:06:13+00:00",
+      "collectedAt": "2026-11-12T17:58:30.187453+00:00",
+      "excerpt": "Written by SKW Schwarz partners Margret Knitter (Head of Medical Cannabis) and Dr Oliver Stöckel (Head of Digital Health). Digital health is transforming Germany’s medical cannabis market. While technology makes…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-3ede2e9ce16a8043ee50.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-50.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "3231196f047e7c9df8e0f1256285cf74b0e31ecb66606419b4d0e87b346d959e",
+        "sourceTitle": "Cannabis Telemedicine in Germany: Regulation, Market Entry, Advertising and Enforcement",
+        "sourceExcerpt": "Written by SKW Schwarz partners Margret Knitter (Head of Medical Cannabis) and Dr Oliver Stöckel (Head of Digital Health). Digital health is transforming Germany’s medical cannabis market. While technology makes…",
+        "title": "La télémédecine du cannabis en Allemagne : réglementation, entrée sur le marché, publicité et application",
+        "excerpt": "Écrit par les partenaires de SKW Schwarz Margret Knitter (Chef du Cannabis Médical) et Dr Oliver Stckel (Chef de la Santé Numérique). La santé numérique transforme le marché du cannabis médical en Allemagne […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T08:48:41.797806+00:00"
+      }
+    },
+    {
+      "id": "ddc1829dc3625d05d89c",
+      "title": "7.500 Teilnehmende aus 80 Ländern: Die ICBC Berlin feiert 2027 ihre zehnte Ausgabe",
+      "url": "https://www.hanf-magazin.com/termine/icbc-berlin-2027-termin-tickets-programm/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-12T15:00:00+00:00",
+      "collectedAt": "2026-11-12T17:58:30.187453+00:00",
+      "excerpt": "Die zehnte Berliner Ausgabe der International Cannabis Business Conference läuft vom 13. bis 15. April 2027 im Estrel. Apotheken, Growshops und Anbauvereinigungen kommen kostenlos hinein, für alle anderen endet der…",
+      "topics": [
+        "Chanvre",
+        "Économie",
+        "Culture"
+      ],
+      "kind": "Article",
+      "image": "assets/live-4a8fb3895eb68f4da834.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/icbc-berlin-2026-messehalle.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "046367278a2d2c1c75dcef348cf5216f1290dcda129d58a29ecd0b352226667e",
+        "sourceTitle": "7.500 Teilnehmende aus 80 Ländern: Die ICBC Berlin feiert 2027 ihre zehnte Ausgabe",
+        "sourceExcerpt": "Die zehnte Berliner Ausgabe der International Cannabis Business Conference läuft vom 13. bis 15. April 2027 im Estrel. Apotheken, Growshops und Anbauvereinigungen kommen kostenlos hinein, für alle anderen endet der…",
+        "title": "7,500 participants from 80 countries: ICBC Berlin celebrates its tenth edition",
+        "excerpt": "The tenth Berlin edition of the International Cannabis Business Conference takes place from April 13 to 15, 2027, at Estrel […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-13T08:48:41.797806+00:00"
+      }
+    },
+    {
+      "id": "c41885db7433ea347331",
+      "title": "Texas Republicans Lost The Election Because Of The THC Product Ban They Pushed, Joe Rogan Says",
+      "url": "https://www.marijuanamoment.net/texas-republicans-lost-the-election-because-of-the-thc-product-ban-they-pushed-joe-rogan-says/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-12T13:32:36+00:00",
+      "collectedAt": "2026-11-12T17:58:30.187453+00:00",
+      "excerpt": "Joe Rogan says a key reason that Texas Republicans did so poorly in last week’s midterm elections is because members of the party pushed to ban THC products that had been legal in the state when derived from hemp. “They…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre",
+        "Culture"
+      ],
+      "kind": "Article",
+      "image": "assets/live-53a594e2a4d75fd35889.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/11/joe-rogan-cannabis-marijuana.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "49fcc8f394b2433c177b3770af384c780d6c98a3ae8efbd7866d8ea3aa3d60d9",
+        "sourceTitle": "Texas Republicans Lost The Election Because Of The THC Product Ban They Pushed, Joe Rogan Says",
+        "sourceExcerpt": "Joe Rogan says a key reason that Texas Republicans did so poorly in last week’s midterm elections is because members of the party pushed to ban THC products that had been legal in the state when derived from hemp. “They…",
+        "title": "Les républicains du Texas ont perdu l'élection en raison de l'interdiction des produits au THC, selon Joe Rogan",
+        "excerpt": "Joe Rogan dit que l’une des principales raisons pour lesquelles les républicains du Texas ont si mal fait lors des élections de mi-mandat de la semaine dernière est que les membres du parti ont poussé à interdire les produits à base de THC qui étaient légaux dans l’État lorsqu’ils étaient dérivés du chanvre […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T08:48:41.797806+00:00"
+      }
+    },
+    {
+      "id": "1d246aa4a0bd57c56c81",
+      "title": "First Phase Of Renewed Federal Hemp Product Ban Takes Effect As Industry Pushes Congress For Regulatory Alternative",
+      "url": "https://www.marijuanamoment.net/first-phase-of-renewed-federal-hemp-product-ban-takes-effect-as-industry-pushes-congress-for-regulatory-alternative/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-12T12:59:07+00:00",
+      "collectedAt": "2026-11-12T13:22:26.928448+00:00",
+      "excerpt": "As of Thursday, it is no longer federally legal to produce or sell hemp products that contain cannabinoids that can’t be naturally produced by the cannabis plant. A broader recriminalization of hemp THC products is…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-c148b11cb6db0cdfdc17.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/07/hemp-plant-3661210_1920.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "29d64ea8f662dd6079a3b77ace1bb282b0366da684985bad99664a370a36e3de",
+        "sourceTitle": "First Phase Of Renewed Federal Hemp Product Ban Takes Effect As Industry Pushes Congress For Regulatory Alternative",
+        "sourceExcerpt": "As of Thursday, it is no longer federally legal to produce or sell hemp products that contain cannabinoids that can’t be naturally produced by the cannabis plant. A broader recriminalization of hemp THC products is…",
+        "title": "La première phase de l’interdiction fédérale renouvelée des produits de chanvre prend effet alors que l’industrie pousse le Congrès à adopter une alternative réglementaire",
+        "excerpt": "Jeudi, il n’est plus légal au niveau fédéral de produire ou de vendre des produits à base de chanvre qui contiennent des cannabinoïdes qui ne peuvent pas être produits naturellement par la plante de cannabis […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T08:48:41.797806+00:00"
+      }
+    },
+    {
+      "id": "53e923b041ec26924f52",
+      "title": "DEA rejects cannabis business registrations in multiple states (Newsletter: November 12, 2026)",
+      "url": "https://www.marijuanamoment.net/dea-rejects-cannabis-business-registrations-in-multiple-states-newsletter-november-12-2026/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-12T11:10:53+00:00",
+      "collectedAt": "2026-11-12T13:22:26.928448+00:00",
+      "excerpt": "Anti-marijuana GOP leaders in Congress; Senate panel’s cannabis & psychedelics stances; TX bipartisan cannabis teamwork; IA gov-elect on legalization Subscribe to receive Marijuana Moment’s newsletter in your inbox…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d453ead4d9d5accf3b5c.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2018/03/marijuana-plants-42-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "0e845f44bb888e8edd30cc06f49b8a4873578c045ccbeb1e0511e180ffd7e801",
+        "sourceTitle": "DEA rejects cannabis business registrations in multiple states (Newsletter: November 12, 2026)",
+        "sourceExcerpt": "Anti-marijuana GOP leaders in Congress; Senate panel’s cannabis & psychedelics stances; TX bipartisan cannabis teamwork; IA gov-elect on legalization Subscribe to receive Marijuana Moment’s newsletter in your inbox…",
+        "title": "La DEA rejette les enregistrements d’entreprises de cannabis dans plusieurs États (Newsletter: 12 novembre 2026)",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T08:48:41.797806+00:00"
+      }
+    },
+    {
+      "id": "1916573e4dacb010efad",
+      "title": "Au Texas, démocrates et républicains commencent à s’accorder sur la légalisation du cannabis",
+      "url": "https://www.newsweed.fr/au-texas-democrates-et-republicains-commencent-a-saccorder-sur-la-legalisation-du-cannabis/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-12T10:36:33+00:00",
+      "collectedAt": "2026-11-12T13:22:26.928448+00:00",
+      "excerpt": "La perspective d’une légalisation du cannabis récréatif au Texas a pris un nouvel élan à la suite des élections de novembre 2026. Les démocrates ayant pris le contrôle du poste de gouverneur et de la Chambre des…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6d029f6c38c69a5292ce.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/texas-legalisation-cannabis-projet.jpg"
+    },
+    {
+      "id": "f53ae9cc6461695b878a",
+      "title": "Bedrocan Could Be Revived Under New Entity as Dutch Minister Tells Parliament UK Supply Is ‘Under Investigation’",
+      "url": "https://businessofcannabis.com/bedrocan-could-be-revived-under-new-entity-as-dutch-minister-tells-parliament-uk-supply-is-under-investigation/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-12T10:16:12+00:00",
+      "collectedAt": "2026-11-12T13:22:26.928448+00:00",
+      "excerpt": "Bedrocan’s recent collapse, which has endangered the supply of life-saving epilepsy medicine for dozens of patients across Europe, could soon be revived under a new entity. Over the last week, a number of key…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-4498aea303a8fab8dfcc.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-49.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "1d78199acf81f4c77554724b6b06c519498c5ff8b031be372b0075afa7b39c61",
+        "sourceTitle": "Bedrocan Could Be Revived Under New Entity as Dutch Minister Tells Parliament UK Supply Is ‘Under Investigation’",
+        "sourceExcerpt": "Bedrocan’s recent collapse, which has endangered the supply of life-saving epilepsy medicine for dozens of patients across Europe, could soon be revived under a new entity. Over the last week, a number of key…",
+        "title": "Bedrocan pourrait être ravivé sous une nouvelle entité alors que le ministre néerlandais dit au Parlement que l'approvisionnement du Royaume-Uni est \"en cours d'enquête\"",
+        "excerpt": "L’effondrement récent de Bedrocan, qui a mis en danger l’approvisionnement en médicaments contre l’épilepsie pour des dizaines de patients à travers l’Europe, pourrait bientôt être relancé sous une nouvelle entité […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T08:48:41.797806+00:00"
+      }
+    },
+    {
+      "id": "56604077e4fc98b29997",
+      "title": "Medical Cannabis in the Workplace: an Employer’s Guide to Testing, Safety and Rights",
+      "url": "https://cannabishealthnews.co.uk/2026/11/12/medical-cannabis-in-the-workplace-an-employers-guide-to-testing-safety-and-rights/",
+      "source": "Cannabis Health",
+      "sourceFeed": "https://cannabishealthnews.co.uk/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-12T10:00:56+00:00",
+      "collectedAt": "2026-11-12T13:22:26.928448+00:00",
+      "excerpt": "As more people in the UK access prescribed cannabis-based medicines, employers are facing questions around drug testing, workplace safety and employee rights.",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-36d02ece2094891b7e03.jpg",
+      "credit": "Cannabis Health · image de l’article",
+      "imageSource": "https://cannabishealthnews.co.uk/wp-content/uploads/2026/11/getty-images-Ju2sBlss7xc-unsplash.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "659b5c33c0521902ff42736ecfbc1132ecf667cc4fdfc1c4044102965afae0b1",
+        "sourceTitle": "Medical Cannabis in the Workplace: an Employer’s Guide to Testing, Safety and Rights",
+        "sourceExcerpt": "As more people in the UK access prescribed cannabis-based medicines, employers are facing questions around drug testing, workplace safety and employee rights.",
+        "title": "Le cannabis médical en milieu de travail : Guide de l’employeur pour les tests, la sécurité et les droits",
+        "excerpt": "Alors que de plus en plus de personnes au Royaume-Uni ont accès aux médicaments à base de cannabis prescrits, les employeurs sont confrontés à des questions sur le dépistage des drogues, la sécurité au travail et les droits des employés.",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-12T13:22:29.350067+00:00"
+      }
+    }
+  ],
+  "windowHours": 24,
+  "schedule": "09h17, 13h17 et 18h17 · Paris",
+  "notice": "Revue de presse automatique. Titres et courts extraits dans la langue des sources ; articles à lire chez leurs éditeurs. Les rubriques sont un classement automatique, pas une validation des informations.",
+  "date": "2026-11-13",
+  "translationStatus": {
+    "engine": "Traduction neuronale locale",
+    "targetLanguage": "fr",
+    "available": 11,
+    "eligible": 11,
+    "status": "ok",
+    "updatedAt": "2026-11-13T08:48:41.797806+00:00"
+  }
+}
