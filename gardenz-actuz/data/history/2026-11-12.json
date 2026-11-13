@@ -129,13 +129,14 @@
         "sourceHash": "edd4c505dd1745a91bd78680af66653159bb1025544dd5c2b0104925f8da3750",
         "sourceTitle": "Incoming Wisconsin Governor Says Marijuana Legalization Can Offset Medicaid Cuts, As Top Lawmaker Calls It A 2027 ‘Priority’",
         "sourceExcerpt": "Wisconsin’s incoming Democratic governor says he wants to use revenue from legalizing marijuana to offset federal cuts to Medicaid, while a top leader in the party’s new legislative majority is making clear that…",
-        "title": "Le gouverneur entrant du Wisconsin dit que la légalisation de la marijuana peut compenser les réductions de Medicaid, comme l’appelle un législateur de 2027 «priorité»",
+        "title": "Wisconsin : le futur gouverneur veut compenser les coupes dans Medicaid par la légalisation du cannabis, une priorité pour 2027 selon un responsable parlementaire",
         "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
         "excerptPolicy": "complete-sentences-v1",
         "engine": "OPUS-MT · Helsinki-NLP",
         "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
         "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
-        "translatedAt": "2026-11-13T08:48:41.797806+00:00"
+        "translatedAt": "2026-11-13T08:48:41.797806+00:00",
+        "reviewNote": "Titre français revu lors du contrôle de publication du 13 novembre 2026."
       }
     },
     {
@@ -199,13 +200,13 @@
         "sourceHash": "046367278a2d2c1c75dcef348cf5216f1290dcda129d58a29ecd0b352226667e",
         "sourceTitle": "7.500 Teilnehmende aus 80 Ländern: Die ICBC Berlin feiert 2027 ihre zehnte Ausgabe",
         "sourceExcerpt": "Die zehnte Berliner Ausgabe der International Cannabis Business Conference läuft vom 13. bis 15. April 2027 im Estrel. Apotheken, Growshops und Anbauvereinigungen kommen kostenlos hinein, für alle anderen endet der…",
-        "title": "7,500 participants from 80 countries: ICBC Berlin celebrates its tenth edition",
-        "excerpt": "The tenth Berlin edition of the International Cannabis Business Conference takes place from April 13 to 15, 2027, at Estrel […]",
+        "title": "7 500 participants provenant de 80 pays : l'ICBC Berlin célébre sa dixième édition en 2027",
+        "excerpt": "La dixième édition de la International Cannabis Business Conference à Berlin se déroule du 13 au 15 avril 2027 à l'Estrel […]",
         "excerptPolicy": "complete-sentences-v1",
         "engine": "Qwen3 · traduction contextuelle locale",
         "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
         "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-13T08:48:41.797806+00:00"
+        "translatedAt": "2026-11-13T08:56:01.409872+00:00"
       }
     },
     {
@@ -649,11 +650,12 @@
         "sourceTitle": "Attempt to save intoxicating hemp drinks with ‘Goodness of Hemp’ plan draws criticism",
         "sourceExcerpt": "A U.S. proposal to give intoxicating hemp drinks a federal market could revive the stigma that hemp grain and fiber businesses spent decades trying to shed, a prominent U.S. hemp […]",
         "title": "Tentative de sauver les boissons enivrantes de chanvre avec le plan «Goodness of Hemp» attire les critiques",
-        "excerpt": "Une proposition américaine de donner des boissons au chanvre enivrantes un marché fédéral pourrait raviver la stigmatisation que les entreprises de céréales et de fibres de chanvre ont passé des décennies à essayer de perdre, un important producteur de chanvre américain.",
+        "excerpt": "Une proposition américaine de donner des boissons au chanvre enivrantes un marché fédéral pourrait raviver la stigmatisation que les entreprises de céréales et de fibres de chanvre ont passé des décennies à essayer de perdre, un important américain […]",
+        "excerptPolicy": "complete-sentences-v1",
         "engine": "OPUS-MT · Helsinki-NLP",
         "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
         "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
-        "translatedAt": "2026-11-12T09:15:15.515072+00:00"
+        "translatedAt": "2026-11-13T08:56:01.409872+00:00"
       }
     },
     {
@@ -1109,6 +1111,6 @@
     "available": 28,
     "eligible": 28,
     "status": "ok",
-    "updatedAt": "2026-11-13T08:48:41.797806+00:00"
+    "updatedAt": "2026-11-13T08:56:01.409872+00:00"
   }
 }

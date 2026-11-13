@@ -1,8 +1,8 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-13T08:48:36.826112+00:00",
-  "lastSuccess": "2026-11-13T08:48:36.826112+00:00",
+  "attemptedAt": "2026-11-13T08:55:58.739945+00:00",
+  "lastSuccess": "2026-11-13T08:55:58.739945+00:00",
   "status": "ok",
   "sources": [
     {
@@ -10,63 +10,63 @@
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+      "checkedAt": "2026-11-13T08:55:58.739945+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+      "checkedAt": "2026-11-13T08:55:58.739945+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+      "checkedAt": "2026-11-13T08:55:58.739945+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+      "checkedAt": "2026-11-13T08:55:58.739945+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+      "checkedAt": "2026-11-13T08:55:58.739945+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+      "checkedAt": "2026-11-13T08:55:58.739945+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+      "checkedAt": "2026-11-13T08:55:58.739945+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+      "checkedAt": "2026-11-13T08:55:58.739945+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-13T08:48:36.826112+00:00"
+      "checkedAt": "2026-11-13T08:55:58.739945+00:00"
     }
   ],
   "items": [
@@ -292,13 +292,13 @@
         "sourceHash": "046367278a2d2c1c75dcef348cf5216f1290dcda129d58a29ecd0b352226667e",
         "sourceTitle": "7.500 Teilnehmende aus 80 Ländern: Die ICBC Berlin feiert 2027 ihre zehnte Ausgabe",
         "sourceExcerpt": "Die zehnte Berliner Ausgabe der International Cannabis Business Conference läuft vom 13. bis 15. April 2027 im Estrel. Apotheken, Growshops und Anbauvereinigungen kommen kostenlos hinein, für alle anderen endet der…",
-        "title": "7,500 participants from 80 countries: ICBC Berlin celebrates its tenth edition",
-        "excerpt": "The tenth Berlin edition of the International Cannabis Business Conference takes place from April 13 to 15, 2027, at Estrel […]",
+        "title": "7 500 participants provenant de 80 pays : l'ICBC Berlin célébre sa dixième édition en 2027",
+        "excerpt": "La dixième édition de la International Cannabis Business Conference à Berlin se déroule du 13 au 15 avril 2027 à l'Estrel […]",
         "excerptPolicy": "complete-sentences-v1",
         "engine": "Qwen3 · traduction contextuelle locale",
         "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
         "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
-        "translatedAt": "2026-11-13T08:48:41.797806+00:00"
+        "translatedAt": "2026-11-13T08:56:01.409872+00:00"
       }
     },
     {
@@ -502,6 +502,6 @@
     "available": 11,
     "eligible": 11,
     "status": "ok",
-    "updatedAt": "2026-11-13T08:48:41.797806+00:00"
+    "updatedAt": "2026-11-13T08:56:01.409872+00:00"
   }
 }
