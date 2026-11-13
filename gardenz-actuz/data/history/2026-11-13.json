@@ -1,75 +1,480 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-13T13:16:34.881962+00:00",
-  "lastSuccess": "2026-11-13T13:16:34.881962+00:00",
+  "attemptedAt": "2026-11-13T17:56:44.256944+00:00",
+  "lastSuccess": "2026-11-13T17:56:44.256944+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-13T13:16:34.881962+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-13T13:16:34.881962+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-13T13:16:34.881962+00:00"
+      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-13T13:16:34.881962+00:00"
+      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-13T13:16:34.881962+00:00"
+      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-13T13:16:34.881962+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-13T13:16:34.881962+00:00"
+      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-13T13:16:34.881962+00:00"
+      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-13T13:16:34.881962+00:00"
+      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
     }
   ],
   "items": [
+    {
+      "id": "7608e7abd19abd8c7748",
+      "title": "Maroc : le premier médicament au cannabis contre l’épilepsie arrive en pharmacie",
+      "url": "https://lecannabiste.com/maroc-le-premier-medicament-au-cannabis-contre-lepilepsie-arrive-en-pharmacie/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-13T17:01:00+00:00",
+      "collectedAt": "2026-11-13T17:56:44.256944+00:00",
+      "excerpt": "Le Maroc commercialise son premier médicament à base de cannabis, un cannabidiol générique contre l'épilepsie pharmacorésistante, après cinq ans de recherche.",
+      "topics": [
+        "Santé & recherche",
+        "CBD & molécules",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-e072c639c308d5d30419.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/featured.webp"
+    },
+    {
+      "id": "bac9ee42a831082ee863",
+      "title": "Les États-Unis interdisent les cannabinoïdes synthétiques « non-naturels », le THC en sursis jusqu’au 11 décembre",
+      "url": "https://www.newsweed.fr/etats-unis-interdiction-cannabinoides-synthetiques/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-13T17:00:30+00:00",
+      "collectedAt": "2026-11-13T17:56:44.256944+00:00",
+      "excerpt": "La première phase de l’interdiction fédérale des cannabinoïdes issus du chanvre est entrée en vigueur le 12 novembre 2026, visant pour l’instant uniquement les cannabinoïdes non-présents naturellement dans la plante de…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-2bb4576286e3573084ca.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/interdiction-cannabinoides-synthetiques-usa.jpg"
+    },
+    {
+      "id": "5c86805e8f24fad3bc72",
+      "title": "Dutch Cabinet to Review Prevalence of Edibles in Coffeeshop Pilot",
+      "url": "https://businessofcannabis.com/dutch-cabinet-to-review-prevalence-of-edibles-in-coffeeshop-pilot/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-13T15:58:37+00:00",
+      "collectedAt": "2026-11-13T17:56:44.256944+00:00",
+      "excerpt": "This article was written by Mauro Picavet and originally published on cannabisindustrie.nl. The Dutch government will take another look at the role of edibles in its ‘controlled cannabis supply chain experiment’ amid…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-b0b9ac055c1c6a7dac3e.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/tamara-malaniy-3b23eLihQRc-unsplash-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "e7ca9956a4b4f2b279bd0d50e5b56f45cc1555a701dd93f3cdea96b94c2c6288",
+        "sourceTitle": "Dutch Cabinet to Review Prevalence of Edibles in Coffeeshop Pilot",
+        "sourceExcerpt": "This article was written by Mauro Picavet and originally published on cannabisindustrie.nl. The Dutch government will take another look at the role of edibles in its ‘controlled cannabis supply chain experiment’ amid…",
+        "title": "Le gouvernement néerlandais examine la prévalence des aliments dans un projet pilote de coffeeshop",
+        "excerpt": "Cet article a été écrit par Mauro Picavet et initialement publié sur cannabisindustrie.nl […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T17:56:51.198439+00:00"
+      }
+    },
+    {
+      "id": "eeaa6cbc905294ddce01",
+      "title": "Cannabis News Today — Friday, 13 November 2026: Hemp Enforcement Spreads to the States as Auxly Posts Record Quarter",
+      "url": "https://businessofcannabis.com/cannabis-news-today-friday-13-november-2026-hemp-enforcement-spreads-to-the-states-as-auxly-posts-record-quarter/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-13T15:31:56+00:00",
+      "collectedAt": "2026-11-13T17:56:44.256944+00:00",
+      "excerpt": "This week, the first phase of the federal ban on intoxicating hemp took effect. In August, a provision titled ‘Section 781 Extension’ was passed, giving certain products a month’s reprieve before being criminalised.…",
+      "topics": [
+        "Lois & société",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d7d7d55c78a2c06ded89.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/04/Newsletter-7.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "da18f282cb439cfa4b6f4c859b355f3e9182e8560cfa332e2a2c561168de04e2",
+        "sourceTitle": "Cannabis News Today — Friday, 13 November 2026: Hemp Enforcement Spreads to the States as Auxly Posts Record Quarter",
+        "sourceExcerpt": "This week, the first phase of the federal ban on intoxicating hemp took effect. In August, a provision titled ‘Section 781 Extension’ was passed, giving certain products a month’s reprieve before being criminalised.…",
+        "title": "Cannabis News Today Vendredi 13 novembre 2026: L’application de la loi sur le chanvre s’étend aux États-Unis alors qu’Auxly affiche un trimestre record",
+        "excerpt": "Cette semaine, la première phase de l’interdiction fédérale du chanvre enivrant a pris effet. En août, une disposition intitulée «Extension de l’article 781» a été adoptée, donnant à certains produits un délai d’un mois avant d’être criminalisés […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T17:56:51.198439+00:00"
+      }
+    },
+    {
+      "id": "96eeb13bb7ca43e9bd87",
+      "title": "Pennsylvania Should Legalize Marijuana In A Way That Gives Smaller Businesses A Chance To Compete (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/pennsylvania-should-legalize-marijuana-in-a-way-that-gives-smaller-businesses-a-chance-to-compete-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-13T15:27:40+00:00",
+      "collectedAt": "2026-11-13T17:56:44.256944+00:00",
+      "excerpt": "“Legalization alone does not guarantee a competitive market, and simply allowing existing companies to serve more customers would fall short of what Pennsylvania needs.” By Gabe Perlow, Tri-Mountain Pure Under Governor…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-66c90e04d0ea822322a9.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cananbis-leaf-hand-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "50d6ba4c7224972600aff7e4dbbe1f9bf0dd66f437a4d7da1936fe970bd235bc",
+        "sourceTitle": "Pennsylvania Should Legalize Marijuana In A Way That Gives Smaller Businesses A Chance To Compete (Op-Ed)",
+        "sourceExcerpt": "“Legalization alone does not guarantee a competitive market, and simply allowing existing companies to serve more customers would fall short of what Pennsylvania needs.” By Gabe Perlow, Tri-Mountain Pure Under Governor…",
+        "title": "La Pennsylvanie devrait légaliser la marijuana d’une manière qui donne aux petites entreprises une chance de rivaliser",
+        "excerpt": "« La légalisation à elle seule ne garantit pas un marché concurrentiel, et le simple fait de permettre aux entreprises existantes de servir plus de clients ne suffirait pas à répondre aux besoins de la Pennsylvanie. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T17:56:51.198439+00:00"
+      }
+    },
+    {
+      "id": "efa99e9ff3c04875e899",
+      "title": "Report: Australia Medical Cannabis Market to Reach $2.6B by 2035",
+      "url": "https://ganjapreneur.com/report-australia-medical-cannabis-market-to-reach-2-6b-by-2035/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-13T15:21:16+00:00",
+      "collectedAt": "2026-11-13T17:56:44.256944+00:00",
+      "excerpt": "Australia’s medical cannabis market is predicted to exceed USD 2.67 billion by 2035, according to a recent Market.us Media report. The market was worth an estimated $781.6 million in 2025 and is expected to grow at a…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-51e67fe46d504740eeb0.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/australia-study.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "989ace37f6fde3a549db205436cbb5b7c77dbf025cadb815052b7e60879a6f3c",
+        "sourceTitle": "Report: Australia Medical Cannabis Market to Reach $2.6B by 2035",
+        "sourceExcerpt": "Australia’s medical cannabis market is predicted to exceed USD 2.67 billion by 2035, according to a recent Market.us Media report. The market was worth an estimated $781.6 million in 2025 and is expected to grow at a…",
+        "title": "Le marché australien du cannabis médical atteindra 2,6 milliards de dollars d’ici 2035",
+        "excerpt": "Le marché australien du cannabis médical devrait dépasser 2,67 milliards de dollars d’ici 2035, selon un récent rapport de Market.us Media […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T17:56:51.198439+00:00"
+      }
+    },
+    {
+      "id": "e12475c62aff3eb64f69",
+      "title": "Illinois Delays Hemp THC Ban for Retailers Involved In Federal Lawsuit",
+      "url": "https://ganjapreneur.com/illinois-delays-hemp-thc-ban-for-retailers-involved-in-federal-lawsuit/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-13T15:21:10+00:00",
+      "collectedAt": "2026-11-13T17:56:44.256944+00:00",
+      "excerpt": "While the Illinois ban on hemp-derived THC products formally took effect on Thursday, the state has agreed to delay enforcement of the law by one week for hundreds of retailers who are involved in a federal lawsuit…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-09f09d70a993c5bf2165.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/illinois-cannabis-sales.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "313134b994ba1fd6dc95d6215fb75c788baeaf38095c1d6c3bd5c0f50268f9a3",
+        "sourceTitle": "Illinois Delays Hemp THC Ban for Retailers Involved In Federal Lawsuit",
+        "sourceExcerpt": "While the Illinois ban on hemp-derived THC products formally took effect on Thursday, the state has agreed to delay enforcement of the law by one week for hundreds of retailers who are involved in a federal lawsuit…",
+        "title": "L'Illinois retarde l'interdiction du chanvre THC pour les détaillants impliqués dans une poursuite fédérale",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T17:56:51.198439+00:00"
+      }
+    },
+    {
+      "id": "12aed4ec8b577d715c1e",
+      "title": "Cannabis Stocks Today — Friday 13 November 2026: Curaleaf trades at $8.06",
+      "url": "https://businessofcannabis.com/cannabis-stocks-today-friday-13-november-2026-curaleaf-trades-at-8-06/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-13T15:15:39+00:00",
+      "collectedAt": "2026-11-13T17:56:44.256944+00:00",
+      "excerpt": "Cannabis stocks sit lower on Friday morning, with the US market in pre-market trading and most quotes reflecting Thursday’s close; some over-the-counter names may lag by a further session. The AdvisorShares Pure US…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6cd6c58497e886559024.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/02/Cash-Companies-Cannabis-41.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "1dd2dbde9cce2648d5ccbf966a06b558b71cda40ea24f04b77e66c66c71a15fe",
+        "sourceTitle": "Cannabis Stocks Today — Friday 13 November 2026: Curaleaf trades at $8.06",
+        "sourceExcerpt": "Cannabis stocks sit lower on Friday morning, with the US market in pre-market trading and most quotes reflecting Thursday’s close; some over-the-counter names may lag by a further session. The AdvisorShares Pure US…",
+        "title": "Les stocks de cannabis aujourd'hui vendredi 13 novembre 2026: Curaleaf se négocie à 8,06 $",
+        "excerpt": "Les stocks de cannabis restent plus bas vendredi matin, le marché américain étant en pré-marché et la plupart des cotations reflétant la clôture de jeudi; certains noms en vente libre peuvent être retardés d'une nouvelle session […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T17:56:51.198439+00:00"
+      }
+    },
+    {
+      "id": "16bfb8794e5df4aaad99",
+      "title": "Le premier médicament CBD marocain contre l’épilepsie arrive en pharmacie",
+      "url": "https://www.newsweed.fr/premier-medicament-cbd-marocain-epilepsie-pharmacie/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-13T15:00:28+00:00",
+      "collectedAt": "2026-11-13T17:56:44.256944+00:00",
+      "excerpt": "Depuis le 9 novembre 2026, un médicament à base de cannabidiol (CBD), entièrement produit dans le Royaume, est disponible en pharmacie. Développé par Pharma 5, il cible certaines formes sévères d’épilepsie résistantes…",
+      "topics": [
+        "Santé & recherche",
+        "CBD & molécules"
+      ],
+      "kind": "Article",
+      "image": "assets/live-10d9fef9cbb30e934dc4.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/lancement-pharma5-maroc.jpg"
+    },
+    {
+      "id": "9521fa181dc96b167267",
+      "title": "52 gegen 85 Prozent: Wer Cannabispatienten tatsächlich berät",
+      "url": "https://www.hanf-magazin.com/medizin/cannabismedizin-allgemein/medizinalcannabis-beratung-new-jersey-studie/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-13T15:00:00+00:00",
+      "collectedAt": "2026-11-13T17:56:44.256944+00:00",
+      "excerpt": "Medizinalcannabis-Programme begründen sich mit ärztlicher Aufsicht. Eine Befragung unter Patientinnen und Patienten in New Jersey hat nachgefragt, wer tatsächlich berät. Das Ergebnis stellt die Begründung infrage. Für…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-8cbc141cee8d0baa9684.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-silhouette-eines-arztes-vor-hellem-fenst-featured-83411.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "c56e23b0593a8099304ffd1ce452c190c7b4707896b6564643efaf38e3df7855",
+        "sourceTitle": "52 gegen 85 Prozent: Wer Cannabispatienten tatsächlich berät",
+        "sourceExcerpt": "Medizinalcannabis-Programme begründen sich mit ärztlicher Aufsicht. Eine Befragung unter Patientinnen und Patienten in New Jersey hat nachgefragt, wer tatsächlich berät. Das Ergebnis stellt die Begründung infrage. Für…",
+        "title": "52 contre 85 pour cent : qui conseille vraiment les patients du cannabis ?",
+        "excerpt": "Les programmes de cannabis médical s'appuient sur une surveillance médicale. Une enquête menée auprès de patients au New Jersey a examiné qui conseille réellement les patients. Le résultat remet en question cette justification […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-13T17:56:51.198439+00:00"
+      }
+    },
+    {
+      "id": "0b89e57dde26ca984bf6",
+      "title": "Senate Panel Proposes Extending State Medical Marijuana Protections, Without House’s Anti-Rescheduling Provision",
+      "url": "https://www.marijuanamoment.net/senate-panel-proposes-extending-state-medical-marijuana-protections-without-houses-anti-rescheduling-provision/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-13T14:44:30+00:00",
+      "collectedAt": "2026-11-13T17:56:44.256944+00:00",
+      "excerpt": "The Senate Appropriations Committee is proposing to continue a current rider in federal law that shields state medical marijuana programs from federal interference—while also declining to join the House in supporting a…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-27e2bed8d0ff9aa6533f.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "db30ffc1583fdfcc6d428e88ca44ee1aeed25e151c05d6356d7915a90bef77a5",
+        "sourceTitle": "Senate Panel Proposes Extending State Medical Marijuana Protections, Without House’s Anti-Rescheduling Provision",
+        "sourceExcerpt": "The Senate Appropriations Committee is proposing to continue a current rider in federal law that shields state medical marijuana programs from federal interference—while also declining to join the House in supporting a…",
+        "title": "Une commission sénatoriale propose d’étendre les protections de la marijuana médicale d’État, sans la disposition anti-reprogrammation de la Chambre",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T17:56:51.198439+00:00"
+      }
+    },
+    {
+      "id": "bc550e6f96e05751a202",
+      "title": "Cannabis légal et héroïne : une baisse observée sur 55 millions de dossiers américains",
+      "url": "https://lecannabiste.com/cannabis-legal-et-heroine-une-baisse-observee-sur-55-millions-de-dossiers-americains/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-13T14:23:00+00:00",
+      "collectedAt": "2026-11-13T17:56:44.256944+00:00",
+      "excerpt": "Une vaste étude américaine sur 55,2 millions d'admissions en soins associe la légalisation du cannabis récréatif à un recul de l'héroïne, sans prouver de cause à effet.",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-47ed789638c2633f1fd1.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/featured-1.webp"
+    },
+    {
+      "id": "5db57b24c0f099915f14",
+      "title": "Incoming Kansas Governor Wants To Legalize Marijuana, Saying Trump’s Federal Move Eases The Parth For State Action",
+      "url": "https://www.marijuanamoment.net/incoming-kansas-governor-wants-to-legalize-marijuana-saying-trumps-federal-move-eases-the-parth-for-state-action/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-13T13:33:41+00:00",
+      "collectedAt": "2026-11-13T17:56:44.256944+00:00",
+      "excerpt": "Kansas’s newly elected incoming Democratic governor has made it clear she wants to legalize marijuana, arguing that the Trump administration’s move to reschedule cannabis at the federal level will make it easier to…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-10457cc4ceb08206fc3b.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/07/elsa-olofsson-2HGA_mHtPtg-unsplash-1-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "b67aa0def7405d6f0c0a7cf0ad5204bc795b3fe6158960649650187e6d566b11",
+        "sourceTitle": "Incoming Kansas Governor Wants To Legalize Marijuana, Saying Trump’s Federal Move Eases The Parth For State Action",
+        "sourceExcerpt": "Kansas’s newly elected incoming Democratic governor has made it clear she wants to legalize marijuana, arguing that the Trump administration’s move to reschedule cannabis at the federal level will make it easier to…",
+        "title": "Le gouverneur entrant du Kansas veut légaliser la marijuana, affirmant que la décision fédérale de Trump facilite le Parth pour l'action de l'État",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-13T17:56:51.198439+00:00"
+      }
+    },
+    {
+      "id": "7938b53bd588b5f3771f",
+      "title": "Les pépites CBD de novembre 2026 : 10 fleurs et rosins à découvrir chez 5 producteurs français",
+      "url": "https://www.newsweed.fr/pepites-cbd-novembre-2026/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-13T13:00:18+00:00",
+      "collectedAt": "2026-11-13T17:56:44.256944+00:00",
+      "excerpt": "Des fleurs aux notes de fruits rouges, de bonbons acidulés ou de gaz, des extractions qui révèlent toute la richesse aromatique du chanvre : la sélection Newsweed × Testeur de CBD met à l’honneur cinq acteurs français…",
+      "topics": [
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-66ec7acebc8855348eb0.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/pepites-cbd-novembre-2026.jpg"
+    },
     {
       "id": "1575d0026114faed1a00",
       "title": "Almost Every GOP Lawmaker That Trump-Linked PAC Supported With Marijuana Industry Donations Lost Their Election",
@@ -587,9 +992,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 13,
-    "eligible": 13,
+    "available": 22,
+    "eligible": 22,
     "status": "ok",
-    "updatedAt": "2026-11-13T13:16:38.034458+00:00"
+    "updatedAt": "2026-11-13T17:56:51.198439+00:00"
   }
 }
