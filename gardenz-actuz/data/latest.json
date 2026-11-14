@@ -1,75 +1,217 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-14T12:58:47.425163+00:00",
-  "lastSuccess": "2026-11-14T12:58:47.425163+00:00",
+  "attemptedAt": "2026-11-14T17:44:19.977943+00:00",
+  "lastSuccess": "2026-11-14T17:44:19.977943+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-14T12:58:47.425163+00:00"
+      "count": 7,
+      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-14T12:58:47.425163+00:00"
+      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 10,
-      "checkedAt": "2026-11-14T12:58:47.425163+00:00"
+      "count": 8,
+      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-14T12:58:47.425163+00:00"
+      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-14T12:58:47.425163+00:00"
+      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-14T12:58:47.425163+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-14T12:58:47.425163+00:00"
+      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-14T12:58:47.425163+00:00"
+      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-14T12:58:47.425163+00:00"
+      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
     }
   ],
   "items": [
+    {
+      "id": "852b3b1c5038cdd9b422",
+      "title": "Missouri Hemp THC Product Ban Takes Effect, With Temporary Exemption For Beverages",
+      "url": "https://www.marijuanamoment.net/missouri-hemp-thc-product-ban-takes-effect-with-temporary-exemption-for-beverages/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-14T17:26:58+00:00",
+      "collectedAt": "2026-11-14T17:44:19.977943+00:00",
+      "excerpt": "“It’s just basically been a sad day… There’s some people with…multiple families relying on the income from this.” By Rebecca Rivas, Missouri Independent Hemp retailers across Missouri slashed prices, cleared shelves…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-90e64dc5c0b873739ae6.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2022/08/pexels-kindel-media-7668053-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "704160c40c0c297da314c82cba6d8f83272bcd9a037801b9e3f7f9577853961c",
+        "sourceTitle": "Missouri Hemp THC Product Ban Takes Effect, With Temporary Exemption For Beverages",
+        "sourceExcerpt": "“It’s just basically been a sad day… There’s some people with…multiple families relying on the income from this.” By Rebecca Rivas, Missouri Independent Hemp retailers across Missouri slashed prices, cleared shelves…",
+        "title": "L'interdiction des produits THC du chanvre du Missouri prend effet, avec une exemption temporaire pour les boissons",
+        "excerpt": "« C’est juste un jour triste... Il y a des gens avec... plusieurs familles qui comptent sur les revenus de cela. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-14T17:44:24.470429+00:00"
+      }
+    },
+    {
+      "id": "99c36a06eac31bb62c1d",
+      "title": "1,2 million d’adultes en Grande-Bretagne consomment du cannabis presque quotidiennement",
+      "url": "https://www.newsweed.fr/1-million-adultes-grande-bretagne-consomment-cannabis/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-14T16:00:29+00:00",
+      "collectedAt": "2026-11-14T17:44:19.977943+00:00",
+      "excerpt": "Environ 1,2 million d’adultes en Grande-Bretagne consomment du cannabis quotidiennement ou presque quotidiennement, selon une nouvelle étude publiée dans la revue scientifique Addiction . Menée par des chercheurs du…",
+      "topics": [
+        "Autres actualités"
+      ],
+      "kind": "Article",
+      "image": "assets/live-1f98b5809dfc49ceffa1.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2019/09/fb-share.jpg"
+    },
+    {
+      "id": "d5d941f5e3e18edcd6da",
+      "title": "Durban Poison: Die südafrikanische Landrasse im Porträt",
+      "url": "https://www.hanf-magazin.com/growing/strains/durban-poison/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-14T15:00:00+00:00",
+      "collectedAt": "2026-11-14T17:44:19.977943+00:00",
+      "excerpt": "Durban Poison ist eine Cannabis-Landrasse aus dem Süden Afrikas, benannt nach der Hafenstadt Durban an der Ostküste Südafrikas. Sie gilt als sativadominierte Sorte und als eine der wenigen afrikanischen Linien, die es…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-159c3901a0401bd45e87.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-kwazulu-natal-kuestenlandschaft-featured-84107.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "33a3b851b79ccd9993a4d823833c9682371c22700879272f2af67a63f17e57e3",
+        "sourceTitle": "Durban Poison: Die südafrikanische Landrasse im Porträt",
+        "sourceExcerpt": "Durban Poison ist eine Cannabis-Landrasse aus dem Süden Afrikas, benannt nach der Hafenstadt Durban an der Ostküste Südafrikas. Sie gilt als sativadominierte Sorte und als eine der wenigen afrikanischen Linien, die es…",
+        "title": "Durban Poison : la landrasse sud-africaine au portrait",
+        "excerpt": "Durban Poison est une landrasse de cannabis provenant du sud de l'Afrique, nommée d'après la ville portuaire de Durban, située sur la côte est du Sud-Afrique […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-14T17:44:24.470429+00:00"
+      }
+    },
+    {
+      "id": "83f366d1196eabfd2770",
+      "title": "North Carolina Cannabis Commission Gets Advice From Oklahoma Official On Legal Market Structure And Enforcement",
+      "url": "https://www.marijuanamoment.net/north-carolina-cannabis-commission-gets-advice-from-oklahoma-official-on-legal-market-structure-and-enforcement/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-14T14:32:34+00:00",
+      "collectedAt": "2026-11-14T17:44:19.977943+00:00",
+      "excerpt": "“We have spent the majority of our time over the last six years trying to put the worms back in the can.” By Clayton Henkel, NC Newsline Lt. Col. Mitch Smith with the Oklahoma Bureau of Narcotics and Dangerous Drugs…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-5d89b3f79dcf9e2bbc3f.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/09/flowers-2469212_1920.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "8f7bb601163985e476a6a2fb7376123066f3107e2fb03d6d2b264c7ab52447e5",
+        "sourceTitle": "North Carolina Cannabis Commission Gets Advice From Oklahoma Official On Legal Market Structure And Enforcement",
+        "sourceExcerpt": "“We have spent the majority of our time over the last six years trying to put the worms back in the can.” By Clayton Henkel, NC Newsline Lt. Col. Mitch Smith with the Oklahoma Bureau of Narcotics and Dangerous Drugs…",
+        "title": "La Commission du cannabis de Caroline du Nord reçoit des conseils d'un responsable de l'Oklahoma sur la structure juridique du marché et l'application de la loi",
+        "excerpt": "« Nous avons passé la majorité de notre temps au cours des six dernières années à essayer de remettre les vers dans la boîte. » Par Clayton Henkel, NC Newsline Lieutenant Col […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-14T17:44:24.470429+00:00"
+      }
+    },
+    {
+      "id": "0ba8036370e1a3aedd15",
+      "title": "Isolats de CBD, CBN, CBC : qu’attendre de ces produits ?",
+      "url": "https://www.newsweed.fr/isolats-cbd-cbn-cbc-produits/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-14T13:00:42+00:00",
+      "collectedAt": "2026-11-14T17:44:19.977943+00:00",
+      "excerpt": "Que se passe-t-il lorsqu’on prend un extrait de chanvre complexe et qu’on le réduit à un seul cannabinoïde ? On obtient alors un isolat : un composé hautement purifié dont la composition est clairement définie. Le CBD…",
+      "topics": [
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-3ecac5c37b7e64541e51.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/isolats-cannbinoides.jpg"
+    },
     {
       "id": "76e51d395e627878b66a",
       "title": "Allemagne : fin du remboursement des fleurs de cannabis, 65 000 patients à la caisse",
@@ -2696,9 +2838,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 66,
-    "eligible": 66,
+    "available": 69,
+    "eligible": 69,
     "status": "ok",
-    "updatedAt": "2026-11-14T12:58:51.015144+00:00"
+    "updatedAt": "2026-11-14T17:44:24.470429+00:00"
   }
 }
