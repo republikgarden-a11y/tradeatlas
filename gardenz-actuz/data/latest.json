@@ -1,8 +1,8 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-13T17:56:44.256944+00:00",
-  "lastSuccess": "2026-11-13T17:56:44.256944+00:00",
+  "attemptedAt": "2026-11-14T09:00:10.812056+00:00",
+  "lastSuccess": "2026-11-14T09:00:10.812056+00:00",
   "status": "ok",
   "sources": [
     {
@@ -10,66 +10,132 @@
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 6,
-      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
+      "checkedAt": "2026-11-14T09:00:10.812056+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-14T09:00:10.812056+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
+      "checkedAt": "2026-11-14T09:00:10.812056+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-14T09:00:10.812056+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-14T09:00:10.812056+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-14T09:00:10.812056+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-14T09:00:10.812056+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
+      "checkedAt": "2026-11-14T09:00:10.812056+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-13T17:56:44.256944+00:00"
+      "checkedAt": "2026-11-14T09:00:10.812056+00:00"
     }
   ],
   "items": [
+    {
+      "id": "465bad5cfb4083999e34",
+      "title": "Nutzhanf: zwölf Irrtümer, die sich hartnäckig halten",
+      "url": "https://www.hanf-magazin.com/nutzhanf/nutzhanf-irrtuemer-faktencheck/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-14T07:00:00+00:00",
+      "collectedAt": "2026-11-14T09:00:10.812056+00:00",
+      "excerpt": "Über kaum eine Nutzpflanze kursieren so viele halbrichtige Sätze wie über Nutzhanf. Er mache high, er sei verboten, er komme ohne Dünger aus, er könne im Alleingang den Wald retten. Zwölf verbreitete Irrtümer, und was…",
+      "topics": [
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-bed60e2f34abb6ce61f1.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-weitlaeufiges-nutzhanf-feld-mit-hochgewac-inline_0-83262.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "0a7b530935ed72209130b6a265c3e10f824946b311c82d1594da60f27d5af61e",
+        "sourceTitle": "Nutzhanf: zwölf Irrtümer, die sich hartnäckig halten",
+        "sourceExcerpt": "Über kaum eine Nutzpflanze kursieren so viele halbrichtige Sätze wie über Nutzhanf. Er mache high, er sei verboten, er komme ohne Dünger aus, er könne im Alleingang den Wald retten. Zwölf verbreitete Irrtümer, und was…",
+        "title": "Chanvre utile : douze erreurs, qui se font encore fort",
+        "excerpt": "Sur presque aucune plante utile, il n'y a autant d'informations partielles que sur le chanvre. Il fait effet, il est interdit, il pousse sans engrais, il pourrait sauver seul la forêt […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-14T09:00:14.990200+00:00"
+      }
+    },
+    {
+      "id": "b94245b0f10514a9d3e0",
+      "title": "IgniteIt Brings the Cannabis Industry Back to Washington",
+      "url": "https://ganjapreneur.com/igniteit-brings-the-cannabis-industry-back-to-washington/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-14T00:25:54+00:00",
+      "collectedAt": "2026-11-14T09:00:10.812056+00:00",
+      "excerpt": "Last November I caught a 5 a.m. train out of New York Penn Station to get to IgniteIt’s first Washington, D.C. event, and it was worth every minute of lost sleep. Next Wednesday, November 18, IgniteIt’s Capital & Policy…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-06168626451098790958.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/washingtondc.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "2270f87dd0197966d5477e99aa6d5ac50dba49897ae662e5c91804be2fb44dd2",
+        "sourceTitle": "IgniteIt Brings the Cannabis Industry Back to Washington",
+        "sourceExcerpt": "Last November I caught a 5 a.m. train out of New York Penn Station to get to IgniteIt’s first Washington, D.C. event, and it was worth every minute of lost sleep. Next Wednesday, November 18, IgniteIt’s Capital & Policy…",
+        "title": "IgniteIt ramène l’industrie du cannabis à Washington",
+        "excerpt": "En novembre dernier, j'ai pris un train à 5 heures du matin de New York Penn Station pour me rendre à IgniteC'est le premier événement de Washington, DC, et cela valait chaque minute de sommeil perdu […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-14T09:00:14.990200+00:00"
+      }
+    },
     {
       "id": "7608e7abd19abd8c7748",
       "title": "Maroc : le premier médicament au cannabis contre l’épilepsie arrive en pharmacie",
@@ -2591,9 +2657,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 64,
-    "eligible": 64,
+    "available": 66,
+    "eligible": 66,
     "status": "ok",
-    "updatedAt": "2026-11-13T17:56:51.198439+00:00"
+    "updatedAt": "2026-11-14T09:00:14.990200+00:00"
   }
 }
