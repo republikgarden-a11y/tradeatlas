@@ -1,75 +1,95 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-15T08:59:51.239547+00:00",
-  "lastSuccess": "2026-11-15T08:59:51.239547+00:00",
+  "attemptedAt": "2026-11-15T13:00:53.225119+00:00",
+  "lastSuccess": "2026-11-15T13:00:53.225119+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
+      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 7,
-      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
+      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
+      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
+      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
+      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
+      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
+      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
     }
   ],
   "items": [
+    {
+      "id": "68e95876778328937d63",
+      "title": "Faillite de Bedrocan : le gouvernement néerlandais sous pression",
+      "url": "https://www.newsweed.fr/faillite-bedrocan-gouvernement-neerlandais-sous-pression/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-15T09:00:55+00:00",
+      "collectedAt": "2026-11-15T13:00:53.225119+00:00",
+      "excerpt": "La faillite de Bedrocan, l’un des principaux producteurs de cannabis médical en Europe, déclenche une polémique politique aux Pays-Bas, en plus de susciter des inquiétudes quant à l’accès des patients à des traitements…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-354cd7b6722b300cde42.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/bedrocan-banqueroute.jpg"
+    },
     {
       "id": "eccca7d5a2b447dfe57c",
       "title": "THC in 2.800 Jahre alten Haaren: Science-Studie liefert frühesten Beleg für Cannabisrausch",
@@ -2876,6 +2896,6 @@
     "available": 70,
     "eligible": 70,
     "status": "ok",
-    "updatedAt": "2026-11-15T08:59:54.280437+00:00"
+    "updatedAt": "2026-11-15T13:00:55.541241+00:00"
   }
 }
