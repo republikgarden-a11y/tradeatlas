@@ -1,8 +1,8 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-15T13:00:53.225119+00:00",
-  "lastSuccess": "2026-11-15T13:00:53.225119+00:00",
+  "attemptedAt": "2026-11-15T17:45:05.777621+00:00",
+  "lastSuccess": "2026-11-15T17:45:05.777621+00:00",
   "status": "ok",
   "sources": [
     {
@@ -10,66 +10,174 @@
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 6,
-      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
+      "checkedAt": "2026-11-15T17:45:05.777621+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-15T17:45:05.777621+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-15T17:45:05.777621+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-15T17:45:05.777621+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
+      "checkedAt": "2026-11-15T17:45:05.777621+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-15T17:45:05.777621+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
+      "checkedAt": "2026-11-15T17:45:05.777621+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
+      "checkedAt": "2026-11-15T17:45:05.777621+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-15T13:00:53.225119+00:00"
+      "checkedAt": "2026-11-15T17:45:05.777621+00:00"
     }
   ],
   "items": [
+    {
+      "id": "f1b699e835731ca2fa0f",
+      "title": "De « Cannabro » à « AI Bro » : certains cultivateurs de cannabis américains envisagent un nouvel avenir dans les datacenters",
+      "url": "https://www.newsweed.fr/cannabro-aibro-cultivateurs-datacenters/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-15T16:00:23+00:00",
+      "collectedAt": "2026-11-15T17:45:05.777621+00:00",
+      "excerpt": "Il n’est pas toujours évident de construire une entreprise profitable dans le cannabis légal. Entre chute des prix et offre excédentaire qui mettent les entreprises de culture sous pression, certains entrepreneurs…",
+      "topics": [
+        "Lois & société",
+        "Économie",
+        "Culture"
+      ],
+      "kind": "Article",
+      "image": "assets/live-1f98b5809dfc49ceffa1.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2019/09/fb-share.jpg"
+    },
+    {
+      "id": "1390bd3fbd77a6bb7561",
+      "title": "Acapulco Gold: Die mexikanische Landrasse im Porträt",
+      "url": "https://www.hanf-magazin.com/growing/strains/acapulco-gold/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-15T15:00:00+00:00",
+      "collectedAt": "2026-11-15T17:45:05.777621+00:00",
+      "excerpt": "Acapulco Gold ist eine Cannabis-Landrasse aus Mexiko, benannt nach der Hafenstadt Acapulco im Bundesstaat Guerrero. Sie wurde in den 1960er Jahren in den USA bekannt und gehört zu den Namen, die aus der Gegenkultur…",
+      "topics": [
+        "Autres actualités"
+      ],
+      "kind": "Article",
+      "image": "assets/live-ba80d6a7109033803be1.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-guerrero-bergland-mexiko-featured-84108.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "9d8308b5e2ddfde2fc2584dc504ae766e5f3ac192b532704f2f739b0b44abdda",
+        "sourceTitle": "Acapulco Gold: Die mexikanische Landrasse im Porträt",
+        "sourceExcerpt": "Acapulco Gold ist eine Cannabis-Landrasse aus Mexiko, benannt nach der Hafenstadt Acapulco im Bundesstaat Guerrero. Sie wurde in den 1960er Jahren in den USA bekannt und gehört zu den Namen, die aus der Gegenkultur…",
+        "title": "Acapulco Gold : la landrasse mexicaine au portrait",
+        "excerpt": "Acapulco Gold est une landrasse de cannabis originaire du Mexique, nommée d'après la ville portuaire d'Acapulco dans l'État de Guerrero […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-15T17:45:10.797220+00:00"
+      }
+    },
+    {
+      "id": "753f41fd021b63c06bb4",
+      "title": "Hemp Gummies Help Me Sleep After Decades Of Insomnia, So Why Is Congress Trying To Ban Them? (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/hemp-gummies-help-me-sleep-after-decades-of-insomnia-so-why-is-congress-trying-to-ban-them-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-15T14:40:47+00:00",
+      "collectedAt": "2026-11-15T17:45:05.777621+00:00",
+      "excerpt": "“The possibility of losing access to a product that has helped me scares me. I do not want to go backward.” By Marjorie Schalles via MinnPost I am 76 years old, and after decades of struggling with insomnia, I can…",
+      "topics": [
+        "Lois & société",
+        "Chanvre"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-90e64dc5c0b873739ae6.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2022/08/pexels-kindel-media-7668053-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "64777ef6cef31057ebeeb6769b0c93d92cd9fe31c8795ee9516f2811eb4afa74",
+        "sourceTitle": "Hemp Gummies Help Me Sleep After Decades Of Insomnia, So Why Is Congress Trying To Ban Them? (Op-Ed)",
+        "sourceExcerpt": "“The possibility of losing access to a product that has helped me scares me. I do not want to go backward.” By Marjorie Schalles via MinnPost I am 76 years old, and after decades of struggling with insomnia, I can…",
+        "title": "Gummies de chanvre m'aident à dormir après des décennies d'insomnie, alors pourquoi le Congrès essaie-t-il de les interdire?",
+        "excerpt": "« La possibilité de perdre l’accès à un produit qui m’a aidé me fait peur. Je ne veux pas revenir en arrière. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-15T17:45:10.797220+00:00"
+      }
+    },
+    {
+      "id": "e31c38d4abcbf90e59a0",
+      "title": "Israël relance ses accusations de dumping contre le cannabis médical canadien",
+      "url": "https://www.newsweed.fr/israel-relance-accusations-dumping-cannabis-canadien/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-15T13:00:21+00:00",
+      "collectedAt": "2026-11-15T17:45:05.777621+00:00",
+      "excerpt": "Les producteurs canadiens de cannabis font l’objet d’une nouvelle enquête suite à des allégations selon lesquelles ils vendraient du cannabis médical à l’étranger à des prix artificiellement bas. Israël envisage…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-5cff0e3813723367c2cb.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/dumping-israel-cannabis-canada.jpg"
+    },
     {
       "id": "68e95876778328937d63",
       "title": "Faillite de Bedrocan : le gouvernement néerlandais sous pression",
@@ -2893,9 +3001,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 70,
-    "eligible": 70,
+    "available": 72,
+    "eligible": 72,
     "status": "ok",
-    "updatedAt": "2026-11-15T13:00:55.541241+00:00"
+    "updatedAt": "2026-11-15T17:45:10.797220+00:00"
   }
 }
