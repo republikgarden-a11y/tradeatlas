@@ -1,75 +1,110 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-14T17:44:19.977943+00:00",
-  "lastSuccess": "2026-11-14T17:44:19.977943+00:00",
+  "attemptedAt": "2026-11-15T08:59:51.239547+00:00",
+  "lastSuccess": "2026-11-15T08:59:51.239547+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 7,
-      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
+      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 8,
-      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
+      "count": 7,
+      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
+      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
+      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
+      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
+      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
+      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-14T17:44:19.977943+00:00"
+      "checkedAt": "2026-11-15T08:59:51.239547+00:00"
     }
   ],
   "items": [
+    {
+      "id": "eccca7d5a2b447dfe57c",
+      "title": "THC in 2.800 Jahre alten Haaren: Science-Studie liefert frühesten Beleg für Cannabisrausch",
+      "url": "https://www.hanf-magazin.com/wissenschaft/studien/thc-in-2-800-jahre-alten-haaren-science-studie-liefert-fruehesten-beleg-fuer/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-15T07:00:00+00:00",
+      "collectedAt": "2026-11-15T08:59:51.239547+00:00",
+      "excerpt": "Menschen haben Cannabis schon vor rund 2.800 Jahren als Rauschmittel genutzt. Das zeigt eine Studie im Fachjournal Science, die am 5. November 2026 erschienen ist. In einem skythischen Fürstengrab in Südsibirien fanden…",
+      "topics": [
+        "Santé & recherche",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-52c72eeb6559c8a13c9d.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-alte-cannabissamen-auf-verwittertem-holz-featured-83994.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "707405594c77c7a2dea0ebfb5a045d2c2bfb01aec0b13ed5e5684c231a5c91e2",
+        "sourceTitle": "THC in 2.800 Jahre alten Haaren: Science-Studie liefert frühesten Beleg für Cannabisrausch",
+        "sourceExcerpt": "Menschen haben Cannabis schon vor rund 2.800 Jahren als Rauschmittel genutzt. Das zeigt eine Studie im Fachjournal Science, die am 5. November 2026 erschienen ist. In einem skythischen Fürstengrab in Südsibirien fanden…",
+        "title": "THC dans des cheveux datant de 2 800 ans : étude scientifique fournit la preuve la plus ancienne de l'usage du cannabis comme substance psychédélique",
+        "excerpt": "Les humains utilisaient déjà le cannabis il y a environ 2 800 ans comme substance de stimulation. Cela est démontré par une étude publiée dans le journal scientifique Science, parue le 5 novembre 2026 […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-15T08:59:54.280437+00:00"
+      }
+    },
     {
       "id": "852b3b1c5038cdd9b422",
       "title": "Missouri Hemp THC Product Ban Takes Effect, With Temporary Exemption For Beverages",
@@ -2838,9 +2873,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 69,
-    "eligible": 69,
+    "available": 70,
+    "eligible": 70,
     "status": "ok",
-    "updatedAt": "2026-11-14T17:44:24.470429+00:00"
+    "updatedAt": "2026-11-15T08:59:54.280437+00:00"
   }
 }

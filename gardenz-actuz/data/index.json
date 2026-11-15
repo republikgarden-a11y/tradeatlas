@@ -2,6 +2,12 @@
   "version": 1,
   "editions": [
     {
+      "date": "2026-11-15",
+      "path": "data/history/2026-11-15.json",
+      "count": 8,
+      "lastSuccess": "2026-11-15T08:59:51.239547+00:00"
+    },
+    {
       "date": "2026-11-14",
       "path": "data/history/2026-11-14.json",
       "count": 26,
