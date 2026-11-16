@@ -1,75 +1,314 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-16T10:19:07.213581+00:00",
-  "lastSuccess": "2026-11-16T10:19:07.213581+00:00",
+  "attemptedAt": "2026-11-16T15:14:54.400593+00:00",
+  "lastSuccess": "2026-11-16T15:14:54.400593+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-16T10:19:07.213581+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-16T10:19:07.213581+00:00"
+      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-16T10:19:07.213581+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-16T10:19:07.213581+00:00"
+      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-16T10:19:07.213581+00:00"
+      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 0,
-      "checkedAt": "2026-11-16T10:19:07.213581+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-16T10:19:07.213581+00:00"
+      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-16T10:19:07.213581+00:00"
+      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-16T10:19:07.213581+00:00"
+      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
     }
   ],
   "items": [
+    {
+      "id": "138bf0b71f3afbc108d0",
+      "title": "Stationäre Vaporizer: Was Ballon, Schlauch und Schwerkraft unterscheidet",
+      "url": "https://www.hanf-magazin.com/genusskonsum-von-cannabis/cannabis-vaporisieren/stationaere-vaporizer-was-ballon-schlauch-und-schwerkraft-unterscheidet/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-16T15:00:00+00:00",
+      "collectedAt": "2026-11-16T15:14:54.400593+00:00",
+      "excerpt": "Bei Tischgeräten entscheidet nicht nur die Heiztechnik, sondern vor allem die Frage, wie der Dampf zu dir kommt. Ballon, Schlauch und Schwerkraft im Vergleich. Der Beitrag Stationäre Vaporizer: Was Ballon, Schlauch und…",
+      "topics": [
+        "Autres actualités"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6d5347fa1f97b47b688c.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/stationaere-vaporizer-ballon-schlauch-schwerkraft.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "99de79997f2cb6cb02aa7b02d5e30e68e8f76058bd412575e334446fe312c935",
+        "sourceTitle": "Stationäre Vaporizer: Was Ballon, Schlauch und Schwerkraft unterscheidet",
+        "sourceExcerpt": "Bei Tischgeräten entscheidet nicht nur die Heiztechnik, sondern vor allem die Frage, wie der Dampf zu dir kommt. Ballon, Schlauch und Schwerkraft im Vergleich. Der Beitrag Stationäre Vaporizer: Was Ballon, Schlauch und…",
+        "title": "Vaporiseurs stationnaires : quelle différence entre ballon, tube et gravité",
+        "excerpt": "Chez les appareils de table, ce n'est pas seulement la technologie de chauffage qui compte, mais surtout la question de la manière dont le vapour vous parvient. Ballon, tube et gravité en comparaison […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-16T15:14:57.864287+00:00"
+      }
+    },
+    {
+      "id": "3e2625ea16e825ff49f5",
+      "title": "Wisconsin Will ‘Definitely’ Legalize Marijuana Next Year, Top Democratic Senator Says As GOP Leader Says He’s Open To Discussing It",
+      "url": "https://www.marijuanamoment.net/wisconsin-will-definitely-legalize-marijuana-next-year-top-democratic-senator-says-as-gop-leader-says-hes-open-to-discussing-it/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-16T14:40:23+00:00",
+      "collectedAt": "2026-11-16T15:14:54.400593+00:00",
+      "excerpt": "The Democratic leaders of the Wisconsin Senate and Assembly say they want to legalize marijuana within the next year now that their party gained majority control of the legislature in this month’s midterm elections—and…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9fef0599e1323cdf2178.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/09/weed-2517251_1920-e1543923890731.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "d3973c368003b1c0783091a31bb6793123e014b9d5524e068121863a493cc986",
+        "sourceTitle": "Wisconsin Will ‘Definitely’ Legalize Marijuana Next Year, Top Democratic Senator Says As GOP Leader Says He’s Open To Discussing It",
+        "sourceExcerpt": "The Democratic leaders of the Wisconsin Senate and Assembly say they want to legalize marijuana within the next year now that their party gained majority control of the legislature in this month’s midterm elections—and…",
+        "title": "Le Wisconsin légalisera «certainement» la marijuana l'année prochaine, a déclaré le chef du Parti républicain, qui est prêt à en discuter",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-16T15:14:57.864287+00:00"
+      }
+    },
+    {
+      "id": "dc07e82e69e02f41c129",
+      "title": "Legalizing Marijuana In Pennsylvania Is Not A ‘High Priority’ For 2027, Top Senate Democrat Says",
+      "url": "https://www.marijuanamoment.net/legalizing-marijuana-in-pennsylvania-is-not-a-high-priority-for-2027-top-senate-democrat-says/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-16T13:42:05+00:00",
+      "collectedAt": "2026-11-16T15:14:54.400593+00:00",
+      "excerpt": "Advocates have expressed optimism that Pennsylvania is poised to legalize marijuana now that Democrats are fully in control of the state legislature, but the Senate’s incoming president says the issue is not a priority…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-f6d6e3017b3a752c4b30.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2019/01/16041577621_7eb25d0564_k.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "a73a27e342dd804aeb12b4cad26239623ff200a0af672c13b8fe92e06fde97c0",
+        "sourceTitle": "Legalizing Marijuana In Pennsylvania Is Not A ‘High Priority’ For 2027, Top Senate Democrat Says",
+        "sourceExcerpt": "Advocates have expressed optimism that Pennsylvania is poised to legalize marijuana now that Democrats are fully in control of the state legislature, but the Senate’s incoming president says the issue is not a priority…",
+        "title": "La légalisation de la marijuana en Pennsylvanie n’est pas une «priorité élevée» pour 2027, selon un haut démocrate du Sénat",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-16T15:14:57.864287+00:00"
+      }
+    },
+    {
+      "id": "cb7f7dbc77ea41a593c9",
+      "title": "Ottawa simplifie les taxes sur le cannabis, sans alléger la fiscalité des producteurs",
+      "url": "https://www.newsweed.fr/ottawa-simplifie-les-taxes-sur-le-cannabis-sans-alleger-la-fiscalite-des-producteurs/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-16T13:00:55+00:00",
+      "collectedAt": "2026-11-16T15:14:54.400593+00:00",
+      "excerpt": "Le gouvernement canadien a annoncé, dans son budget 2026, une réforme du système de timbres fiscaux appliqués aux produits du cannabis. Destinée à réduire les contraintes administratives et logistiques des producteurs…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-357e561c5d1ab3b2da33.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/reforme-taxe-cannabis-canada.jpg"
+    },
+    {
+      "id": "fb99249c1edc273fbf37",
+      "title": "Senate Democratic Leadership Candidates On Marijuana: Where Schumer And Van Hollen Stand",
+      "url": "https://www.marijuanamoment.net/senate-democratic-leadership-candidates-on-marijuana-where-schumer-and-van-hollen-stand/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-16T12:41:37+00:00",
+      "collectedAt": "2026-11-16T15:14:54.400593+00:00",
+      "excerpt": "Senate Democrats are facing a competitive race for the party’s leader in the chamber after they won a majority in this month’s midterm elections—and the two contenders both support marijuana reform, though they have…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-e2206f49130af6f5c068.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2023/08/capitol-congress-cannabis.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "f8523b43ca25afb21e3910e66b33a760cb45dd90094e98844e38aeb2c19372d7",
+        "sourceTitle": "Senate Democratic Leadership Candidates On Marijuana: Where Schumer And Van Hollen Stand",
+        "sourceExcerpt": "Senate Democrats are facing a competitive race for the party’s leader in the chamber after they won a majority in this month’s midterm elections—and the two contenders both support marijuana reform, though they have…",
+        "title": "Les candidats à la direction démocratique du Sénat sur la marijuana: où se tiennent Schumer et Van Hollen",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-16T15:14:57.864287+00:00"
+      }
+    },
+    {
+      "id": "09ad4509fd7981d6e8b9",
+      "title": "Boots Launches Private Medical Cannabis Service in UK High-Street First",
+      "url": "https://businessofcannabis.com/boots-launches-private-medical-cannabis-service-in-uk-high-street-first/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-16T11:43:30+00:00",
+      "collectedAt": "2026-11-16T15:14:54.400593+00:00",
+      "excerpt": "The pharmacy chain has launched SureLeaf, an online medical cannabis service for patients aged 25 and over who have not found relief from conventional treatments.",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9a7c33a0fc749eb9efb5.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/Bournemouth__Boots_Pharmacy_-_geograph.org_.uk_-_1289004.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "6a9ce80c46cec79cbc2f0d6e7a36e631e9e4f700b65c22f1eda2a3a3cfc0fcda",
+        "sourceTitle": "Boots Launches Private Medical Cannabis Service in UK High-Street First",
+        "sourceExcerpt": "The pharmacy chain has launched SureLeaf, an online medical cannabis service for patients aged 25 and over who have not found relief from conventional treatments.",
+        "title": "Boots lance un service privé de cannabis médical au Royaume-Uni",
+        "excerpt": "La chaîne de pharmacies a lancé SureLeaf, un service de cannabis médical en ligne pour les patients âgés de 25 ans et plus qui n’ont pas trouvé de soulagement des traitements conventionnels.",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-16T15:14:57.864287+00:00"
+      }
+    },
+    {
+      "id": "5f038c7c25c1dac2ea5a",
+      "title": "Senate panel pushes to extend federal medical cannabis protections (Newsletter: November 16, 2026)",
+      "url": "https://www.marijuanamoment.net/senate-panel-pushes-to-extend-federal-medical-cannabis-protections-newsletter-november-16-2026/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-16T11:13:15+00:00",
+      "collectedAt": "2026-11-16T15:14:54.400593+00:00",
+      "excerpt": "GOP lawmakers backed by marijuana industry money lost elections; KS gov-elect wants legal cannabis; PA legalization op-ed; NC cannabis commission Subscribe to receive Marijuana Moment’s newsletter in your inbox every…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9c1bddd3d94970178e61.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/02/Rosie-Creek-Farm-9-4_Max-Jackson_NIKON-D610_0051.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "1013507b2cfe069191f098e477ec36d158babf1972c2eb665bf84a383a9c73a9",
+        "sourceTitle": "Senate panel pushes to extend federal medical cannabis protections (Newsletter: November 16, 2026)",
+        "sourceExcerpt": "GOP lawmakers backed by marijuana industry money lost elections; KS gov-elect wants legal cannabis; PA legalization op-ed; NC cannabis commission Subscribe to receive Marijuana Moment’s newsletter in your inbox every…",
+        "title": "Un panel du Sénat pousse à étendre les protections fédérales du cannabis médical (Newsletter: 16 novembre 2026)",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-16T15:14:57.864287+00:00"
+      }
+    },
+    {
+      "id": "0601e3ef326d303d8481",
+      "title": "Malte veut des licences pour la vente de « produits CBD »",
+      "url": "https://www.newsweed.fr/malte-veut-des-licences-pour-la-vente-de-cannabis-a-faible-teneur-en-thc/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-16T10:27:48+00:00",
+      "collectedAt": "2026-11-16T15:14:54.400593+00:00",
+      "excerpt": "Malte s’apprête à renforcer la surveillance des produits à base de cannabis à faible teneur en THC , en proposant un système de licences pour les entreprises, des exigences d’étiquetage plus strictes et de nouvelles…",
+      "topics": [
+        "CBD & molécules",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-aee0813e2c438a8cd774.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/magasin-cbd-malte.jpg"
+    },
     {
       "id": "3610449111935b90d99a",
       "title": "Australian hemp body loses elected leadership amid internal dispute and weak finances",
@@ -3140,9 +3379,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 75,
-    "eligible": 75,
+    "available": 81,
+    "eligible": 81,
     "status": "ok",
-    "updatedAt": "2026-11-16T10:19:11.921859+00:00"
+    "updatedAt": "2026-11-16T15:14:57.864287+00:00"
   }
 }
