@@ -1,13 +1,21 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-15T09:08:27Z",
-  "last_success": "2026-11-15T09:08:27Z",
+  "checked_at": "2026-11-16T10:20:28Z",
+  "last_success": "2026-11-16T10:20:28Z",
   "topics_checked": 4,
   "successful_topics": 4,
-  "new_items": 2,
+  "new_items": 3,
   "errors": [],
   "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ005aFJ4S3ZfWTNqR2tNVXFnLTlGLVhpR3VWQVV0NWFhUWdYeU96SGtjbnMwb29vUEVGa2NKdUhLM05zZ0pLZ1ZlMzFKV1NOdW5jU0NGTWxLUXN2bFdsVzRkMU56ZExUeUZaSmFXUzI2TTdrMmF4ZXo2SDNydXJJVUpISnZNcm5VTUtvc1FveGNpSkc4aEM2UjRheTBoT3BQUkthbTczZUxIWFI3NUJEdzZBLWZxaGlQTnA2alQ4MA?oc=5",
+      "title": "Water Pipe Mouth Tips Market To 2035: Hygiene-Driven Growth and Hookah Demand - News and Statistics - IndexBox",
+      "topic": "Vape & accessoires",
+      "domain": "IndexBox",
+      "published_at": "2026-11-16T04:21:04Z",
+      "first_seen": "2026-11-16T10:20:28Z"
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3cU1SbHdkbUJvX2lxSTROcWZ3RXdiSmV1TThHOEtkQnNkdTdoSjJuQmRoWHFrMElnZnB5SFd6cVFVcWNBNUhHZThwV2hFenNwVmIwZ1dtSkhIVW1mMFNBYlE5TQ?oc=5",
       "title": "Republic Technologies Inc. (DOCKF) Seasonal returns chart - Yahoo Finance UK",
@@ -15,6 +23,22 @@
       "domain": "Yahoo Finance UK",
       "published_at": "2026-11-14T22:01:32Z",
       "first_seen": "2026-11-15T09:08:27Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oY1lrZ0VrS3Z4OUt0WHRnRWJwalFvWUlnSHZoOWRVXzBJZTdOdWw5TEdDTXRITW05cUk3U1U1aVJ2UVlUUWlaWWVjdWpycDVHLVN4aUZxQ2s1YllGSW83aHhUZmtZR3NJSWttek5oZw?oc=5",
+      "title": "Smoore International Holdings Limited (58K.F) recent insider transactions - Yahoo Finance UK",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Yahoo Finance UK",
+      "published_at": "2026-11-13T19:15:43Z",
+      "first_seen": "2026-11-16T10:20:28Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzVWZRRVZraHY2N3k4aWRMd3p5WGlNMWlxaXE1T0JaUlk5UGFMcGF5eXNCaUtOTWFIM19Ma2M2dnVYdWlyWkJQSnlDSmVaU01KNFY3UzdqZ1B2YWJtandRWm1fSTM0QzQ?oc=5",
+      "title": "Smoore International Holdings Limited (58K.F) insider ownership and holdings - Yahoo Finance UK",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Yahoo Finance UK",
+      "published_at": "2026-11-13T19:15:43Z",
+      "first_seen": "2026-11-16T10:20:28Z"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX3IyWnFYQWw5Z2otWTd2MHFjS3pSNnNTcmdka1ZNbWJBWk9RUi1QWW9hZ2RSOGlyYmlEU2licFgwbHJlNEI2blhNWElMVFJERlQ4Wl96YWV4Uzc1V0E0RHpGMldSTWZnUGZ4T1pyY1BVRDRYd0RLTm5SZ1NJempGU2p0cUI?oc=5",
