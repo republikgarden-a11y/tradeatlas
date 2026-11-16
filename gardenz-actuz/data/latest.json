@@ -1,75 +1,210 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-16T15:14:54.400593+00:00",
-  "lastSuccess": "2026-11-16T15:14:54.400593+00:00",
-  "status": "ok",
+  "attemptedAt": "2026-11-16T18:07:23.361795+00:00",
+  "lastSuccess": "2026-11-16T18:07:23.361795+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
-      "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-16T18:07:23.361795+00:00",
+      "error": "HTTP 415"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
+      "count": 7,
+      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 0,
-      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
+      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
+      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
+      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
+      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-16T15:14:54.400593+00:00"
+      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
     }
   ],
   "items": [
+    {
+      "id": "05dd056db64ec844add6",
+      "title": "Virginia Legislative Committee Recommends Changes To Marijuana Legalization Law For 2027 Session",
+      "url": "https://www.marijuanamoment.net/virginia-legislative-committee-recommends-changes-to-marijuana-legalization-law-for-2027-session/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-16T16:47:34+00:00",
+      "collectedAt": "2026-11-16T18:07:23.361795+00:00",
+      "excerpt": "A Virginia legislative cannabis commission is recommending potential changes to the state’s newly enacted marijuana legalization policy for lawmakers to take up during the 2027 session. The legislature and Gov. Abigail…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-35096b3062ea7362c1d1.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2023/07/20230725_192054-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "093a26f5d733db7f69929f7163f8ae605dab1e8f9dd1f27a4d3ca611719f8518",
+        "sourceTitle": "Virginia Legislative Committee Recommends Changes To Marijuana Legalization Law For 2027 Session",
+        "sourceExcerpt": "A Virginia legislative cannabis commission is recommending potential changes to the state’s newly enacted marijuana legalization policy for lawmakers to take up during the 2027 session. The legislature and Gov. Abigail…",
+        "title": "Le comité législatif de Virginie recommande des changements à la loi sur la légalisation de la marijuana pour 2027 session",
+        "excerpt": "Une commission législative de la Virginie sur le cannabis recommande des changements potentiels à la politique de légalisation de la marijuana récemment promulguée par l’État pour que les législateurs l’adoptent au cours de la session de 2027 […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-16T18:07:41.185176+00:00"
+      }
+    },
+    {
+      "id": "93a6d348856d9e5d9359",
+      "title": "Federally Funded Study to Investigate Workplace Health Risks in Oklahoma Cannabis Industry",
+      "url": "https://ganjapreneur.com/federally-funded-study-to-investigate-workplace-health-risks-in-oklahoma-cannabis-industry/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-16T15:27:26+00:00",
+      "collectedAt": "2026-11-16T18:07:23.361795+00:00",
+      "excerpt": "A researcher at Oklahoma University has received a federal research grant to investigate workplace health risks faced by employees in the Oklahoma medical cannabis industry. The Centers for Disease Control and…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-8f83c085c86a9f1c9c6d.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/cannabis-worker.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "1692f709e2031154cb084d840fb4869735e843e2372bbf8b3be91d93655db363",
+        "sourceTitle": "Federally Funded Study to Investigate Workplace Health Risks in Oklahoma Cannabis Industry",
+        "sourceExcerpt": "A researcher at Oklahoma University has received a federal research grant to investigate workplace health risks faced by employees in the Oklahoma medical cannabis industry. The Centers for Disease Control and…",
+        "title": "Étude financée par le gouvernement fédéral pour enquêter sur les risques pour la santé au travail dans l'industrie du cannabis de l'Oklahoma",
+        "excerpt": "Un chercheur de l’Université d’Oklahoma a reçu une subvention de recherche fédérale pour enquêter sur les risques pour la santé au travail auxquels sont confrontés les employés de l’industrie du cannabis médical en Oklahoma […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-16T18:07:41.185176+00:00"
+      }
+    },
+    {
+      "id": "222e52ba5b6dc3f54db8",
+      "title": "Likely Pennsylvania Senate Leader Says Cannabis Legalization Not High Priority",
+      "url": "https://ganjapreneur.com/likely-pennsylvania-senate-leader-says-cannabis-legalization-not-high-priority/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-16T15:27:14+00:00",
+      "collectedAt": "2026-11-16T18:07:23.361795+00:00",
+      "excerpt": "While Pennsylvania may be more likely to pass cannabis legalization reforms under the Democratic majority coming next year, the likely Senate President Pro Tempore Jay Costa (D) said the reforms are “not maybe…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-93c52d8587c6ffb12284.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2026/11/pennsylvania-policy.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "6a8fc3fcde6e3c3838c01381d12594ba804cbecc35ff6651c897ea7d7f422fe0",
+        "sourceTitle": "Likely Pennsylvania Senate Leader Says Cannabis Legalization Not High Priority",
+        "sourceExcerpt": "While Pennsylvania may be more likely to pass cannabis legalization reforms under the Democratic majority coming next year, the likely Senate President Pro Tempore Jay Costa (D) said the reforms are “not maybe…",
+        "title": "Un leader du Sénat de Pennsylvanie dit que la légalisation du cannabis n’est pas une priorité",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-16T18:07:41.185176+00:00"
+      }
+    },
+    {
+      "id": "256e0862c8838f9dc94e",
+      "title": "DEA’s Approach To Marijuana Rescheduling Is Creating Deep Uncertainty For Regulators, Patients And Market Operators (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/deas-approach-to-marijuana-rescheduling-is-creating-deep-uncertainty-for-regulators-patients-and-market-operators-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-16T15:27:10+00:00",
+      "collectedAt": "2026-11-16T18:07:23.361795+00:00",
+      "excerpt": "“Supply chains in many states will not have enough cultivators, manufacturers and dispensaries to support a viable supply chain in either the DEA market or the state-only market.” By Gillian L. Schauer, Cannabis…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Opinion",
+      "image": "",
+      "credit": "",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "5cfbce32b0f68fefd9fcccf7f90932fe006e0e695605e4aa15818d6baffc7600",
+        "sourceTitle": "DEA’s Approach To Marijuana Rescheduling Is Creating Deep Uncertainty For Regulators, Patients And Market Operators (Op-Ed)",
+        "sourceExcerpt": "“Supply chains in many states will not have enough cultivators, manufacturers and dispensaries to support a viable supply chain in either the DEA market or the state-only market.” By Gillian L. Schauer, Cannabis…",
+        "title": "L’approche de la DEA en matière de rééchelonnement de la marijuana crée une profonde incertitude pour les régulateurs, les patients et les opérateurs du marché (Tribune)",
+        "excerpt": "« Dans de nombreux États, les chaînes d’approvisionnement n’auront pas assez de cultivateurs, de fabricants et de dispensaires pour soutenir une chaîne d’approvisionnement viable sur le marché de la DEA ou sur le marché de l’État seulement. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-16T18:07:41.185176+00:00"
+      }
+    },
     {
       "id": "138bf0b71f3afbc108d0",
       "title": "Stationäre Vaporizer: Was Ballon, Schlauch und Schwerkraft unterscheidet",
@@ -3379,9 +3514,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 81,
-    "eligible": 81,
+    "available": 85,
+    "eligible": 85,
     "status": "ok",
-    "updatedAt": "2026-11-16T15:14:57.864287+00:00"
+    "updatedAt": "2026-11-16T18:07:41.185176+00:00"
   }
 }
