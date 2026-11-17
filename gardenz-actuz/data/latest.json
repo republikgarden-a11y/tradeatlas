@@ -1,76 +1,367 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-16T18:07:23.361795+00:00",
-  "lastSuccess": "2026-11-16T18:07:23.361795+00:00",
-  "status": "partial",
+  "attemptedAt": "2026-11-17T09:17:20.714669+00:00",
+  "lastSuccess": "2026-11-17T09:17:20.714669+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
-      "ok": false,
-      "count": 0,
-      "checkedAt": "2026-11-16T18:07:23.361795+00:00",
-      "error": "HTTP 415"
+      "ok": true,
+      "count": 3,
+      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 7,
-      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
+      "count": 9,
+      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
+      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
+      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
+      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
+      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
-      "count": 0,
-      "checkedAt": "2026-11-16T18:07:23.361795+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
     }
   ],
   "items": [
+    {
+      "id": "ad5220982d444e251c30",
+      "title": "Nur 4 Indikationen, keine Blüten: Spanien startet Medizinalcannabis in den Kliniken",
+      "url": "https://www.hanf-magazin.com/recht/rechtslage-international/spanien-medizinalcannabis-startet-in-den-krankenhausapotheken/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-17T07:00:00+00:00",
+      "collectedAt": "2026-11-17T09:17:20.714669+00:00",
+      "excerpt": "Ein Jahr nach dem Beschluss seines Regelwerks kommt Spaniens Medizinalcannabis bei den ersten Patientinnen und Patienten an. Seit Ende Oktober 2026 können Krankenhäuser standardisierte Cannabispräparate bestellen. Die…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-ad10fa535fe1cfcdfce7.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-cannabis-pflanze-in-bluete-unter-kontroll-featured-83427.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "7ea917ec4387fe8a7b93a5ae66f1884f8432b554fd7941340d0a8d460b9485d3",
+        "sourceTitle": "Nur 4 Indikationen, keine Blüten: Spanien startet Medizinalcannabis in den Kliniken",
+        "sourceExcerpt": "Ein Jahr nach dem Beschluss seines Regelwerks kommt Spaniens Medizinalcannabis bei den ersten Patientinnen und Patienten an. Seit Ende Oktober 2026 können Krankenhäuser standardisierte Cannabispräparate bestellen. Die…",
+        "title": "Seulement 4 indications, pas de fleurs : l'Espagne lance le cannabis médical dans les hôpitaux",
+        "excerpt": "Un an après l'adoption de son cadre réglementaire, le cannabis médical en Espagne arrive auprès des premiers patients. À partir de fin octobre 2026, les hôpitaux pourront commander des préparations standardisées de cannabis […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-17T09:17:27.385127+00:00"
+      }
+    },
+    {
+      "id": "7acee5e742f18c1875b0",
+      "title": "Analysis of Virginia Cannabis Market Estimates $1.05B Annual Sales",
+      "url": "https://ganjapreneur.com/analysis-of-virginia-cannabis-market-estimates-1-05b-annual-sales/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-17T06:18:00+00:00",
+      "collectedAt": "2026-11-17T09:17:20.714669+00:00",
+      "excerpt": "Virginia has published its first analysis of its adult-use cannabis market and licensing ahead of the July 1, 2027 market launch. The report, conducted by Cannabis Public Policy Consulting, suggests the commonwealth’s…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-a20854befabcda516f96.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/michigan-price-drop.jpeg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "acbeaccabc3a827461567d6554d6225f104b30d9241d7b69476dfb4db22d5a8e",
+        "sourceTitle": "Analysis of Virginia Cannabis Market Estimates $1.05B Annual Sales",
+        "sourceExcerpt": "Virginia has published its first analysis of its adult-use cannabis market and licensing ahead of the July 1, 2027 market launch. The report, conducted by Cannabis Public Policy Consulting, suggests the commonwealth’s…",
+        "title": "Analyse du marché du cannabis de Virginie estime à 1,05 milliard de dollars les ventes annuelles",
+        "excerpt": "Virginia a publié sa première analyse de son marché du cannabis pour adultes et de ses licences avant le lancement du marché le 1er juillet 2027 […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T09:17:27.385127+00:00"
+      }
+    },
+    {
+      "id": "0f1d466c16958778d59d",
+      "title": "Massachusetts Regulators Advance New Draft Cannabis Testing Regulations",
+      "url": "https://ganjapreneur.com/massachusetts-regulators-advance-new-draft-cannabis-testing-regulations/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-17T06:17:29+00:00",
+      "collectedAt": "2026-11-17T09:17:20.714669+00:00",
+      "excerpt": "The Massachusetts Cannabis Control Commission (CCC) has advanced new draft cannabis testing regulations which the agency said are designed to modernize testing requirements, reduce variability, and strengthen public…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-62a618861d0e4f716f5c.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/02/testing-lab-lawsuit.jpeg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "7f37416feb92f32186539edf6d298c856f3957b54cd92c2cfc7be733d7a7e96b",
+        "sourceTitle": "Massachusetts Regulators Advance New Draft Cannabis Testing Regulations",
+        "sourceExcerpt": "The Massachusetts Cannabis Control Commission (CCC) has advanced new draft cannabis testing regulations which the agency said are designed to modernize testing requirements, reduce variability, and strengthen public…",
+        "title": "Les régulateurs du Massachusetts avancent un nouveau projet de règlement sur les tests de cannabis",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T09:17:27.385127+00:00"
+      }
+    },
+    {
+      "id": "6701bd866b1a7c052745",
+      "title": "Employees at Sweet Flower Cannabis Dispensary in Los Angeles Authorize Unfair Labor Practices Strike",
+      "url": "https://ganjapreneur.com/employees-at-sweet-flower-cannabis-dispensary-in-los-angeles-authorize-unfair-labor-practices-strike/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-17T06:17:19+00:00",
+      "collectedAt": "2026-11-17T09:17:20.714669+00:00",
+      "excerpt": "Employees at Sweet Flower Cannabis Dispensary in Los Angeles, California, last week authorized an unfair labor practice strike after what they describe as unfair labor practices by the company during contract…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6beae63ee070caf013f1.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2026/11/arkansas-prices.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "725b55605075fd04624d42c0df63ed9747aab8268f45fd3db6dabb88ea5308bb",
+        "sourceTitle": "Employees at Sweet Flower Cannabis Dispensary in Los Angeles Authorize Unfair Labor Practices Strike",
+        "sourceExcerpt": "Employees at Sweet Flower Cannabis Dispensary in Los Angeles, California, last week authorized an unfair labor practice strike after what they describe as unfair labor practices by the company during contract…",
+        "title": "Les employés du dispensaire de cannabis Sweet Flower à Los Angeles autorisent une grève des pratiques déloyales de travail",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T09:17:27.385127+00:00"
+      }
+    },
+    {
+      "id": "c3596347e06b9a47a551",
+      "title": "Maximizing Opportunities in the Shifting Global Cannabis Industry: ICBC is the Nexus for International Expansion",
+      "url": "https://ganjapreneur.com/maximizing-opportunities-in-the-shifting-global-cannabis-industry-icbc-is-the-nexus-for-international-expansion/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-16T22:28:10+00:00",
+      "collectedAt": "2026-11-17T09:17:20.714669+00:00",
+      "excerpt": "The global cannabis industry has started a significant new era of growth, driven by cannabis policy and regulatory modernization, scientific research, evolving consumer and patient demand, and international trade. Some…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-b907fbd6a586e2f5f24f.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2026/11/icbc-article-head.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "a51db7b2348beabad6a5e384d1672cd02ef99242c42fa1556989ddab9f10e6ef",
+        "sourceTitle": "Maximizing Opportunities in the Shifting Global Cannabis Industry: ICBC is the Nexus for International Expansion",
+        "sourceExcerpt": "The global cannabis industry has started a significant new era of growth, driven by cannabis policy and regulatory modernization, scientific research, evolving consumer and patient demand, and international trade. Some…",
+        "title": "Maximiser les opportunités dans l'industrie mondiale du cannabis en mutation: ICBC est le Nexus de l'expansion internationale",
+        "excerpt": "L’industrie mondiale du cannabis a entamé une nouvelle ère de croissance importante, tirée par la modernisation des politiques et de la réglementation du cannabis, la recherche scientifique, l’évolution de la demande des consommateurs et des patients et le commerce international […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T09:17:27.385127+00:00"
+      }
+    },
+    {
+      "id": "990fe271701745a0e9f1",
+      "title": "Nebraska Officials Advance Medical Marijuana Rules Without Changes To Testing And Fees Provisions",
+      "url": "https://www.marijuanamoment.net/nebraska-officials-advance-medical-marijuana-rules-without-changes-to-testing-and-fees-provisions/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-16T20:40:36+00:00",
+      "collectedAt": "2026-11-17T09:17:20.714669+00:00",
+      "excerpt": "Medical cannabis cultivation businesses has requested amendments on those issues. By Zach Wendling, Nebraska Examiner Proposed amendments to Nebraska’s regulations for medical cannabis establishments will proceed as-is…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-1b675c4f6969e9fa9f4b.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2018/03/marijuana-plants-36-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "4da0ab4276169ba2fca8b44bfdb0356dfb14ddc3400b45ed3680ee611939f3b1",
+        "sourceTitle": "Nebraska Officials Advance Medical Marijuana Rules Without Changes To Testing And Fees Provisions",
+        "sourceExcerpt": "Medical cannabis cultivation businesses has requested amendments on those issues. By Zach Wendling, Nebraska Examiner Proposed amendments to Nebraska’s regulations for medical cannabis establishments will proceed as-is…",
+        "title": "Les autorités du Nebraska font progresser les règles sur la marijuana médicale sans modifier les dispositions relatives aux tests et aux frais",
+        "excerpt": "Les entreprises de culture du cannabis à des fins médicales ont demandé des modifications sur ces questions […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T09:17:27.385127+00:00"
+      }
+    },
+    {
+      "id": "895647dcbb35ce688ca1",
+      "title": "NORML Op-Ed: As More States Regulate Cannabis, Teen Use Has Never Been Lower",
+      "url": "https://norml.org/blog/2026/11/16/norml-op-ed-as-more-states-regulate-cannabis-teen-use-has-never-been-lower/",
+      "source": "NORML",
+      "sourceFeed": "https://norml.org/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-16T20:35:19+00:00",
+      "collectedAt": "2026-11-17T09:17:20.714669+00:00",
+      "excerpt": "Legalization has accomplished something that prohibition never could. It took marijuana products off the street corner and placed them behind the counter — largely out of the reach of young people.",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-aeecb1222a7fb88c8513.png",
+      "credit": "NORML · image de l’article",
+      "imageSource": "https://norml.org/wp-content/uploads/2026/02/teen-marijuana-decline.png",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "a525fed357acdb729bd3b0909a8d8384bbedc2ba4e8479af3e683676e810d248",
+        "sourceTitle": "NORML Op-Ed: As More States Regulate Cannabis, Teen Use Has Never Been Lower",
+        "sourceExcerpt": "Legalization has accomplished something that prohibition never could. It took marijuana products off the street corner and placed them behind the counter — largely out of the reach of young people.",
+        "title": "NORML Op-Ed: Alors que de plus en plus d'États réglementent le cannabis, la consommation chez les adolescents n'a jamais été inférieure",
+        "excerpt": "La légalisation a accompli quelque chose que la prohibition n’a jamais pu accomplir : elle a retiré les produits de la marijuana du coin de la rue et les a placés derrière le comptoir – en grande partie hors de la portée des jeunes.",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T09:17:27.385127+00:00"
+      }
+    },
+    {
+      "id": "4c3d8debca2038bb93c4",
+      "title": "Kentucky Governor Calls On Congress To Pass Marijuana Banking Bill To Support His State’s Medical Cannabis Program",
+      "url": "https://www.marijuanamoment.net/kentucky-governor-calls-on-congress-to-pass-marijuana-banking-bill-to-support-his-states-medical-cannabis-program/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-16T19:21:39+00:00",
+      "collectedAt": "2026-11-17T09:17:20.714669+00:00",
+      "excerpt": "The governor of Kentucky is pushing Congress to pass a marijuana banking bill to support his state’s rollout of a medical cannabis program. Gov. Andy Beshear (D) said at a press conference on Thursday that he joined…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-34fa9591d77d14de4b5e.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2019/03/IMG_20190312_222705-e1553718985308-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "f7048b7b50b09e64aefda88aa9c19eb242bc155e79d26af8223a21210365a128",
+        "sourceTitle": "Kentucky Governor Calls On Congress To Pass Marijuana Banking Bill To Support His State’s Medical Cannabis Program",
+        "sourceExcerpt": "The governor of Kentucky is pushing Congress to pass a marijuana banking bill to support his state’s rollout of a medical cannabis program. Gov. Andy Beshear (D) said at a press conference on Thursday that he joined…",
+        "title": "Le gouverneur du Kentucky appelle le Congrès à adopter un projet de loi sur les banques de marijuana pour soutenir le programme de cannabis médical de son État",
+        "excerpt": "Le gouverneur du Kentucky pousse le Congrès à adopter un projet de loi bancaire sur la marijuana pour soutenir le déploiement par son État d’un programme de cannabis médical […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T09:17:27.385127+00:00"
+      }
+    },
+    {
+      "id": "936945e7820588ae86c3",
+      "title": "Cannabis médical : le pionnier néerlandais Bedrocan en faillite, sa marque vendue 200 000 euros",
+      "url": "https://lecannabiste.com/cannabis-medical-le-pionnier-neerlandais-bedrocan-en-faillite-sa-marque-vendue-200-000-euros/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-16T17:42:00+00:00",
+      "collectedAt": "2026-11-17T09:17:20.714669+00:00",
+      "excerpt": "Seul producteur national de cannabis médical, le néerlandais Bedrocan a été déclaré en faillite et sa marque rachetée 200 000 euros, avec environ 7 000 patients dans l'attente d'un nouveau fournisseur.",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-11da2e3d9809b34694a1.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/featured-5.webp"
+    },
     {
       "id": "05dd056db64ec844add6",
       "title": "Virginia Legislative Committee Recommends Changes To Marijuana Legalization Law For 2027 Session",
@@ -188,8 +479,8 @@
         "Économie"
       ],
       "kind": "Opinion",
-      "image": "",
-      "credit": "",
+      "image": "assets/live-cf8fcffb34f18e7448fa.jpg",
+      "credit": "Marijuana Moment · image de l’article",
       "translation": {
         "targetLanguage": "fr",
         "sourceLanguage": "en",
@@ -203,7 +494,8 @@
         "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
         "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
         "translatedAt": "2026-11-16T18:07:41.185176+00:00"
-      }
+      },
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-hand-leaf-scaled.jpg"
     },
     {
       "id": "138bf0b71f3afbc108d0",
@@ -3514,9 +3806,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 85,
-    "eligible": 85,
+    "available": 93,
+    "eligible": 93,
     "status": "ok",
-    "updatedAt": "2026-11-16T18:07:41.185176+00:00"
+    "updatedAt": "2026-11-17T09:17:27.385127+00:00"
   }
 }
