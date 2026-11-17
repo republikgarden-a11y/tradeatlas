@@ -1,75 +1,383 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-17T13:18:44.286755+00:00",
-  "lastSuccess": "2026-11-17T13:18:44.286755+00:00",
+  "attemptedAt": "2026-11-17T18:06:51.788264+00:00",
+  "lastSuccess": "2026-11-17T18:06:51.788264+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
+      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 6,
-      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
+      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
+      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
+      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
+      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
     }
   ],
   "items": [
+    {
+      "id": "f19f464216fb984876b2",
+      "title": "The Election’s Blue Wave Won’t Save Cannabis Equity, But A New Blueprint Might (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/the-elections-blue-wave-wont-save-cannabis-equity-but-a-new-blueprint-might-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-17T17:53:25+00:00",
+      "collectedAt": "2026-11-17T18:06:51.788264+00:00",
+      "excerpt": "“Some of the states that have struggled most to translate cannabis equity into meaningful outcomes have been led by Democrats.” By Dasheeda Dawson, The WeedHead™ The Democrats won big. Cannabis legalization could be…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-10457cc4ceb08206fc3b.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/07/elsa-olofsson-2HGA_mHtPtg-unsplash-1-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "fb43d3feb37d89283cd26b5fddbe54d2fc249ba340ad4fc79553182831a7240c",
+        "sourceTitle": "The Election’s Blue Wave Won’t Save Cannabis Equity, But A New Blueprint Might (Op-Ed)",
+        "sourceExcerpt": "“Some of the states that have struggled most to translate cannabis equity into meaningful outcomes have been led by Democrats.” By Dasheeda Dawson, The WeedHead™ The Democrats won big. Cannabis legalization could be…",
+        "title": "La vague bleue de l’élection ne sauvera pas l’équité du cannabis, mais un nouveau plan pourrait (Tribune)",
+        "excerpt": "« Certains des États qui ont eu le plus de difficulté à traduire l’équité du cannabis en résultats significatifs ont été dirigés par les démocrates. » Par Dasheeda Dawson, The WeedHeadTM The Democrats a remporté un franc succès […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T18:06:59.168234+00:00"
+      }
+    },
+    {
+      "id": "e9ad742f1271eae6977c",
+      "title": "Is Boots’ Entry into Medical Cannabis a Boon for Legitimacy or Solidification of a Flawed Framework?",
+      "url": "https://businessofcannabis.com/is-boots-entry-into-medical-cannabis-a-boon-for-legitimacy-or-solidification-of-a-flawed-framework/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-17T16:41:50+00:00",
+      "collectedAt": "2026-11-17T18:06:51.788264+00:00",
+      "excerpt": "The UK’s largest pharmacy chain, with more than 1,800 stores and £7.5bn in annual revenue, on Monday announced its entry into the blossoming medical cannabis sector. While the mechanics behind its new online medical…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6a1d265407e163d89bae.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-53.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "0a06508ffd98b3dc8df6357f38c5e5dbdc15987cc7b3254f8d6c01975c8d831b",
+        "sourceTitle": "Is Boots’ Entry into Medical Cannabis a Boon for Legitimacy or Solidification of a Flawed Framework?",
+        "sourceExcerpt": "The UK’s largest pharmacy chain, with more than 1,800 stores and £7.5bn in annual revenue, on Monday announced its entry into the blossoming medical cannabis sector. While the mechanics behind its new online medical…",
+        "title": "L’entrée de Boots dans le cannabis médical est-elle une aubaine pour la légitimité ou la solidification d’un cadre défectueux?",
+        "excerpt": "La plus grande chaîne de pharmacies du Royaume-Uni, avec plus de 1 800 magasins et un chiffre d’affaires annuel de 7,5 milliards de livres sterling, a annoncé lundi son entrée dans le secteur florissant du cannabis médical […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T18:06:59.168234+00:00"
+      }
+    },
+    {
+      "id": "d7d8bbebe6abc9ae7a50",
+      "title": "Texas: Lawmakers Pre-File Adult-Use Legalization Legislation, Other Marijuana Reform Bills Ahead of 2027 Session",
+      "url": "https://norml.org/blog/2026/11/17/texas-lawmakers-pre-file-adult-use-legalization-legislation-other-marijuana-reform-bills-ahead-of-2027-session/",
+      "source": "NORML",
+      "sourceFeed": "https://norml.org/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-17T15:38:42+00:00",
+      "collectedAt": "2026-11-17T18:06:51.788264+00:00",
+      "excerpt": "\"There is arguably no other state in the nation in greater immediate need of marijuana law reform than the Lone Star State.\"",
+      "topics": [
+        "Lois & société",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-b4236bbf59771d958499.png",
+      "credit": "NORML · image de l’article",
+      "imageSource": "https://norml.org/wp-content/uploads/2025/05/austin-texas-marijuana.png",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "44a476a089c9db115327bfee6f74a7c280ddabdaf8e07089d374acbc443d9ebb",
+        "sourceTitle": "Texas: Lawmakers Pre-File Adult-Use Legalization Legislation, Other Marijuana Reform Bills Ahead of 2027 Session",
+        "sourceExcerpt": "\"There is arguably no other state in the nation in greater immediate need of marijuana law reform than the Lone Star State.\"",
+        "title": "Texas: Les législateurs pré-déclarent la législation sur la légalisation de l'utilisation de la marijuana, d'autres projets de loi sur la réforme de la marijuana avant la session de 2027",
+        "excerpt": "\"Il n'y a sans doute pas d'autre État dans le pays qui ait un plus grand besoin immédiat de réforme de la loi sur la marijuana que l'État Lone Star.\"",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T18:06:59.168234+00:00"
+      }
+    },
+    {
+      "id": "f94618a12fb5c8c03992",
+      "title": "Congress To Hold Hearing Focused On Psychedelic Therapy For Military Veterans This Week",
+      "url": "https://www.marijuanamoment.net/congress-to-hold-hearing-focused-on-psychedelic-therapy-for-military-veterans-this-week/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-17T15:36:24+00:00",
+      "collectedAt": "2026-11-17T18:06:51.788264+00:00",
+      "excerpt": "A congressional committee is scheduled to hold a hearing about increasing military veterans’ access to psychedelic treatments this week—with officials from the U.S. Department of Veterans Affairs (VA) set to testify…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-70a984d68fcc01ad3fc7.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/04/psilocybin-mushroom-psychedelic.jpeg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "af5938e929d28ea6ed7b4e902eb53a99ebdb1a8b517483664474daa9187065cc",
+        "sourceTitle": "Congress To Hold Hearing Focused On Psychedelic Therapy For Military Veterans This Week",
+        "sourceExcerpt": "A congressional committee is scheduled to hold a hearing about increasing military veterans’ access to psychedelic treatments this week—with officials from the U.S. Department of Veterans Affairs (VA) set to testify…",
+        "title": "Le Congrès tiendra une audience axée sur la thérapie psychédélique pour les vétérans militaires cette semaine",
+        "excerpt": "Un comité du Congrès devrait tenir une audience sur l’augmentation de l’accès des anciens combattants militaires aux traitements psychédéliques cette semaine – avec des responsables des États-Unis […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T18:06:59.168234+00:00"
+      }
+    },
+    {
+      "id": "326137716c9e8e047389",
+      "title": "Texas Should Legalize Marijuana And Use Revenue To Fund $1,500 Economic Relief Checks For Every Household In The State, Lawmaker Says",
+      "url": "https://www.marijuanamoment.net/texas-should-legalize-marijuana-and-use-revenue-to-fund-1500-economic-relief-checks-for-every-household-in-the-state-lawmaker-says/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-17T15:10:48+00:00",
+      "collectedAt": "2026-11-17T18:06:51.788264+00:00",
+      "excerpt": "Texas should legalize marijuana and use the revenue to fund the incoming governor’s plan to send a $1,500 economic relief payment to every household in the state, a Democratic senator says. “We can create new taxation…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-381804486a9d4b24b772.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-money-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "ca121278806f58bdcb85e19303509a352aea5d68fa1334378996a11ee18ce8e3",
+        "sourceTitle": "Texas Should Legalize Marijuana And Use Revenue To Fund $1,500 Economic Relief Checks For Every Household In The State, Lawmaker Says",
+        "sourceExcerpt": "Texas should legalize marijuana and use the revenue to fund the incoming governor’s plan to send a $1,500 economic relief payment to every household in the state, a Democratic senator says. “We can create new taxation…",
+        "title": "Le Texas devrait légaliser la marijuana et utiliser ses revenus pour financer des chèques d’aide économique de 1 500 $ pour chaque ménage de l’État, selon un législateur",
+        "excerpt": "Le Texas devrait légaliser la marijuana et utiliser les revenus pour financer le plan du nouveau gouverneur d’envoyer un paiement d’aide économique de 1 500 $ à chaque foyer de l’État, a déclaré un sénateur démocrate […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T18:06:59.168234+00:00"
+      }
+    },
+    {
+      "id": "919c47cca79c66b85075",
+      "title": "Cannabis thérapeutique : le Sénat réclame à l’État un calendrier",
+      "url": "https://lecannabiste.com/cannabis-therapeutique-le-senat-reclame-a-letat-un-calendrier/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-17T15:02:00+00:00",
+      "collectedAt": "2026-11-17T18:06:51.788264+00:00",
+      "excerpt": "Le Sénat a adopté un amendement obligeant le gouvernement à présenter sous six mois un calendrier pour généraliser l'accès au cannabis thérapeutique, à l'arrêt faute de décrets.",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-4c52c846c697e4e9d70d.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/featured-6.webp"
+    },
+    {
+      "id": "ee3b38877688089c4930",
+      "title": "Du rauchst noch? Zeit für ein Upgrade deines Rituals",
+      "url": "https://www.hanf-magazin.com/produktvorstellungen/vaporizer-statt-rauchen-veazy-storz-bickel/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-17T15:00:00+00:00",
+      "collectedAt": "2026-11-17T18:06:51.788264+00:00",
+      "excerpt": "Was beim Verdampfen technisch anders passiert, was der VEAZY von STORZ & BICKEL kann, und drei Dinge, die das Gerät ausdrücklich nicht ist. Der Beitrag Du rauchst noch? Zeit für ein Upgrade deines Rituals erschien…",
+      "topics": [
+        "Autres actualités"
+      ],
+      "kind": "Article",
+      "image": "assets/live-4c5c308f1032e0f36473.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/sb-veazy-vaporizer-orange.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "df18fc22efd45700a4367d8caf96d5b3fda3c337f89c016169b992157276a5c8",
+        "sourceTitle": "Du rauchst noch? Zeit für ein Upgrade deines Rituals",
+        "sourceExcerpt": "Was beim Verdampfen technisch anders passiert, was der VEAZY von STORZ & BICKEL kann, und drei Dinge, die das Gerät ausdrücklich nicht ist. Der Beitrag Du rauchst noch? Zeit für ein Upgrade deines Rituals erschien…",
+        "title": "Tu fumes encore ? Il est temps de mettre à jour ton rituel",
+        "excerpt": "Ce qui change techniquement lors de la vaporisation, ce que peut offrir le VEAZY de STORZ & BICKEL, et trois points qui sont explicitement mentionnés comme ne pas étant du matériel. L'article Tu fumes encore ? […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-17T18:06:59.168234+00:00"
+      }
+    },
+    {
+      "id": "b1f741f8e877d434b75b",
+      "title": "Curaleaf Laboratories and PURPLEFARM Announce Manufacturing and Distribution Agreement for the UK Market",
+      "url": "https://businessofcannabis.com/curaleaf-laboratories-and-purplefarm-announce-manufacturing-and-distribution-agreement-for-the-uk-market/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-17T14:15:40+00:00",
+      "collectedAt": "2026-11-17T18:06:51.788264+00:00",
+      "excerpt": "Curaleaf Laboratories, a UK manufacturer of cannabis-based medicinal products, today announced a partnership with PURPLEFARM to manufacture, package and distribute PURPLEFARM products across the United Kingdom. The…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Communiqué",
+      "image": "assets/live-1afba5e29ea35b4cfc61.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-52.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "77e23fd4632cd5e181a967f7c3fb587906f5a4c116549addac7666726c7edde3",
+        "sourceTitle": "Curaleaf Laboratories and PURPLEFARM Announce Manufacturing and Distribution Agreement for the UK Market",
+        "sourceExcerpt": "Curaleaf Laboratories, a UK manufacturer of cannabis-based medicinal products, today announced a partnership with PURPLEFARM to manufacture, package and distribute PURPLEFARM products across the United Kingdom. The…",
+        "title": "Curaleaf Laboratories et PURPLEFARM annoncent un accord de fabrication et de distribution pour le marché britannique",
+        "excerpt": "Curaleaf Laboratories, un fabricant britannique de médicaments à base de cannabis, a annoncé aujourd'hui un partenariat avec PURPLEFARM pour fabriquer, emballer et distribuer des produits PURPLEFARM à travers le Royaume-Uni […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T18:06:59.168234+00:00"
+      }
+    },
+    {
+      "id": "b6dbc009d8af26642e07",
+      "title": "La plus grande chaîne de pharmacies du Royaume-Uni lance un service de cannabis médical",
+      "url": "https://www.newsweed.fr/boots-royaume-uni-cannabis-medical/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-17T14:11:02+00:00",
+      "collectedAt": "2026-11-17T18:06:51.788264+00:00",
+      "excerpt": "La plus grande chaîne de pharmacies britannique, Boots, fait son entrée sur le marché du cannabis médical avec SureLeaf, un service privé d’ordonnances en ligne. Boots intègre le cannabis médical Le 16 novembre 2026…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9d9a3e0735199a25a5fa.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/boots-cannabis-medical.jpg"
+    },
+    {
+      "id": "d7070e607ce079e808e3",
+      "title": "Georgia Companies Launch Medical Marijuana Delivery Via USPS Certified Mail As Federal Agency Refuses To Clarify Stance",
+      "url": "https://www.marijuanamoment.net/georgia-companies-launch-medical-marijuana-delivery-via-usps-certified-mail-as-federal-agency-refuses-to-clarify-stance/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-17T14:00:14+00:00",
+      "collectedAt": "2026-11-17T18:06:51.788264+00:00",
+      "excerpt": "Two Georgia-based companies are teaming up on a new effort to deliver medical marijuana directly to patients under newly enacted state rules—and they plan to use U.S. Postal Service (USPS) certified mail for the…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-f4d97985b0ad651a64e1.png",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/usps-postal-service-marijuana-cannabis-1024x614.png",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "ea7d28440c256aeb97b801a21dfb125d54e65cbd9a8a8afdfc0b8a4bdfa80abc",
+        "sourceTitle": "Georgia Companies Launch Medical Marijuana Delivery Via USPS Certified Mail As Federal Agency Refuses To Clarify Stance",
+        "sourceExcerpt": "Two Georgia-based companies are teaming up on a new effort to deliver medical marijuana directly to patients under newly enacted state rules—and they plan to use U.S. Postal Service (USPS) certified mail for the…",
+        "title": "Georgia Companies lance la livraison de marijuana médicale par courrier certifié USPS alors que l'agence fédérale refuse de clarifier la position",
+        "excerpt": "Deux entreprises basées en Géorgie s'associent sur un nouvel effort pour livrer de la marijuana médicale directement aux patients en vertu des règles de l'État nouvellement promulguées - et ils prévoient d'utiliser les États-Unis […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T18:06:59.168234+00:00"
+      }
+    },
     {
       "id": "de868ed14090fa89996a",
       "title": "Veterans Groups Push Congress To Regulate Hemp THC Products Instead Of Banning Them",
@@ -238,6 +546,26 @@
         "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
         "translatedAt": "2026-11-17T13:18:48.992837+00:00"
       }
+    },
+    {
+      "id": "e4eddd9c773f8d6fe75f",
+      "title": "Cannabis médical : toujours pas de décrets, mais bientôt un nouveau rapport",
+      "url": "https://www.newsweed.fr/cannabis-medical-toujours-pas-de-decrets-mais-bientot-un-nouveau-rapport/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-17T09:48:35+00:00",
+      "collectedAt": "2026-11-17T18:06:51.788264+00:00",
+      "excerpt": "Le gouvernement gagne du temps et les patients en perdent. Le Sénat a adopté un amendement au projet de loi de financement de la Sécurité sociale (PLFSS) demandant au gouvernement un rapport sur le déploiement du…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-4829c9c62f866a1c8db7.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/retards-cannabis-medical-france.jpg"
     },
     {
       "id": "2fc08641586ce8b2b35c",
@@ -563,6 +891,25 @@
       "image": "assets/live-11da2e3d9809b34694a1.webp",
       "credit": "Le Cannabiste · image de l’article",
       "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/featured-5.webp"
+    },
+    {
+      "id": "aff6c4dbb7ba36b835ff",
+      "title": "Pays-Bas : les edibles au cœur d’un réexamen politique de l’expérience cannabis",
+      "url": "https://www.newsweed.fr/pays-bas-edibles-reexamen-politique-cannabis/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-16T17:00:45+00:00",
+      "collectedAt": "2026-11-17T18:06:51.788264+00:00",
+      "excerpt": "Les produits comestibles au THC deviennent un sujet politique dans l’expérimentation néerlandaise de la chaîne d’approvisionnement réglementée du cannabis. Après les premières inquiétudes relevées dans le rapport…",
+      "topics": [
+        "CBD & molécules"
+      ],
+      "kind": "Article",
+      "image": "assets/live-29c2b61bcc4a219a7078.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/edibles-experience-cannabis-pays-bas.jpg"
     },
     {
       "id": "05dd056db64ec844add6",
@@ -4008,9 +4355,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 99,
-    "eligible": 99,
+    "available": 107,
+    "eligible": 107,
     "status": "ok",
-    "updatedAt": "2026-11-17T13:18:48.992837+00:00"
+    "updatedAt": "2026-11-17T18:06:59.168234+00:00"
   }
 }
