@@ -1,13 +1,37 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-16T10:20:28Z",
-  "last_success": "2026-11-16T10:20:28Z",
+  "checked_at": "2026-11-17T09:24:21Z",
+  "last_success": "2026-11-17T09:24:21Z",
   "topics_checked": 4,
   "successful_topics": 4,
   "new_items": 3,
   "errors": [],
   "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnJ1Z01WaVZCNXViTFI2ZXAzd2VpbXZRdkhDSzI4R0lIYmhMbnNlTUo0cVkwdFVORlhCTE1UU002VE1sZEhfMGNvVGlKMHVHeW1CZl9OZ0UyRGhwV2lncDBrLXB2TFRIdHhkN2tpN1l2T1VSdHlBNnpqZU9QeEtEZGpEcEZva2ZWOEJka0Z2NHFieUU1bXU4WmF4dHJFcWt6QVU4NHM3RHlqMzVTVHFFM08wME5FQjNQZ29CTVoxemNILW0yVU1r?oc=5",
+      "title": "Greenlane: Q3 Earnings Snapshot - 10TV",
+      "topic": "Vape & accessoires",
+      "domain": "10TV",
+      "published_at": "2026-11-16T22:40:00Z",
+      "first_seen": "2026-11-17T09:24:21Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU1cyS0JPLXZZQ2RnV2lfOGRCX0tBb0Q0N25fei1RSHFZRy1rN1labmgtek1tR0wzRVlCck1WRy1mdC1xRC1PTy1NQ09YM1U4U21XZ1lWZkJBNVBoV2hKcGl5UmxYSHBKY3UzdVExOVlkam9FWU5rMUdlQm9xc1hyM2F5dGdZLVp0UDFJ?oc=5",
+      "title": "Siglo Accessory Celebrates Year Of The Goat - Cigar Aficionado",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Cigar Aficionado",
+      "published_at": "2026-11-16T17:40:42Z",
+      "first_seen": "2026-11-17T09:24:21Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSHd1Si1TMk1ULXRpRkI2c2N0c1JHSWVJSHR0R2cwNE0tQkxHaWJVaUltRHZMdUw5VGowZS1YSUJIMl9IOWQ0Y0dqM2x4OHlWa01JZG9iNHRKZEYtM2NCMDE2N0VUc1J5SXNlbkxrX2J6ZERNSVJhZjZhMjlfNzdUdjhwQWtYcjJTV2tUZVV4a0ZXTkRSSlktSnNCbXBuMXRiS25ZNXhUb08tSlRxYkJINE5kSWxETzFOVTRheklrX21yNTRMSWc?oc=5",
+      "title": "Treeform Launches New Website With Cannabis Packaging Resources and Compliance Guides - EIN News",
+      "topic": "Packaging & chanvre",
+      "domain": "EIN News",
+      "published_at": "2026-11-16T13:00:00Z",
+      "first_seen": "2026-11-17T09:24:21Z"
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ005aFJ4S3ZfWTNqR2tNVXFnLTlGLVhpR3VWQVV0NWFhUWdYeU96SGtjbnMwb29vUEVGa2NKdUhLM05zZ0pLZ1ZlMzFKV1NOdW5jU0NGTWxLUXN2bFdsVzRkMU56ZExUeUZaSmFXUzI2TTdrMmF4ZXo2SDNydXJJVUpISnZNcm5VTUtvc1FveGNpSkc4aEM2UjRheTBoT3BQUkthbTczZUxIWFI3NUJEdzZBLWZxaGlQTnA2alQ4MA?oc=5",
       "title": "Water Pipe Mouth Tips Market To 2035: Hygiene-Driven Growth and Hookah Demand - News and Statistics - IndexBox",
@@ -21,7 +45,7 @@
       "title": "Republic Technologies Inc. (DOCKF) Seasonal returns chart - Yahoo Finance UK",
       "topic": "Fabricants & marques suivis",
       "domain": "Yahoo Finance UK",
-      "published_at": "2026-11-14T22:01:32Z",
+      "published_at": "2026-11-13T21:00:00Z",
       "first_seen": "2026-11-15T09:08:27Z"
     },
     {
