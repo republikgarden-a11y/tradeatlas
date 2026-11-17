@@ -1,75 +1,277 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-17T09:17:20.714669+00:00",
-  "lastSuccess": "2026-11-17T09:17:20.714669+00:00",
+  "attemptedAt": "2026-11-17T13:18:44.286755+00:00",
+  "lastSuccess": "2026-11-17T13:18:44.286755+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 0,
-      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
+      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 9,
-      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
+      "count": 10,
+      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 6,
-      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
+      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
+      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-17T09:17:20.714669+00:00"
+      "checkedAt": "2026-11-17T13:18:44.286755+00:00"
     }
   ],
   "items": [
+    {
+      "id": "de868ed14090fa89996a",
+      "title": "Veterans Groups Push Congress To Regulate Hemp THC Products Instead Of Banning Them",
+      "url": "https://www.marijuanamoment.net/veterans-groups-push-congress-to-regulate-hemp-thc-products-instead-of-banning-them/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-17T12:59:23+00:00",
+      "collectedAt": "2026-11-17T13:18:44.286755+00:00",
+      "excerpt": "A coalition of organizations representing military veterans is pushing Congress to call off a currently scheduled federal ban on hemp THC products that’s set to take effect next month and replace it with a policy that…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-3deab65b940210eed367.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/09/weed-2517248_1920-e1541068407515.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "801dd513ebdd4a5064b288895c5fe5d316f0dbfeb11e31f21918ce78d70ca3ac",
+        "sourceTitle": "Veterans Groups Push Congress To Regulate Hemp THC Products Instead Of Banning Them",
+        "sourceExcerpt": "A coalition of organizations representing military veterans is pushing Congress to call off a currently scheduled federal ban on hemp THC products that’s set to take effect next month and replace it with a policy that…",
+        "title": "Des groupes d'anciens combattants poussent le Congrès à réglementer les produits à base de chanvre THC au lieu de les interdire",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T13:18:48.992837+00:00"
+      }
+    },
+    {
+      "id": "0b3824925659b9319222",
+      "title": "The Best Chance To Keep Hemp THC Products Legal Is By Attaching Provisions To A Larger Bill, GOP Congressman Says",
+      "url": "https://www.marijuanamoment.net/the-best-chance-to-keep-hemp-thc-products-legal-is-by-attaching-provisions-to-a-larger-bill-gop-congressman-says/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-17T12:41:11+00:00",
+      "collectedAt": "2026-11-17T13:18:44.286755+00:00",
+      "excerpt": "A key Republican lawmaker is floating the idea of keeping hemp THC products federally legal by attaching language to a must-pass spending bill. “The best opportunity, in my opinion, is to get this on a bill that is…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d0a353c0dd44be64c442.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/03/Grow_Max-Jackson_0112.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "8fcec5bcbd3263ed81348c7c8e59ba3a0b9603627de10d267feca1f4e69d6191",
+        "sourceTitle": "The Best Chance To Keep Hemp THC Products Legal Is By Attaching Provisions To A Larger Bill, GOP Congressman Says",
+        "sourceExcerpt": "A key Republican lawmaker is floating the idea of keeping hemp THC products federally legal by attaching language to a must-pass spending bill. “The best opportunity, in my opinion, is to get this on a bill that is…",
+        "title": "La meilleure chance de garder les produits à base de chanvre THC légaux est d’attacher des dispositions à un projet de loi plus important, selon un membre du Congrès du GOP",
+        "excerpt": "Un législateur républicain clé fait flotter l’idée de garder les produits de chanvre THC légaux au niveau fédéral en attachant un libellé à un projet de loi de dépenses incontournable […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T13:18:48.992837+00:00"
+      }
+    },
+    {
+      "id": "e92af463fb6685c04d2a",
+      "title": "Schumer vs. Van Hollen on cannabis (Newsletter: November 17, 2026)",
+      "url": "https://www.marijuanamoment.net/schumer-vs-van-hollen-on-cannabis-newsletter-november-17-2026/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-17T11:12:19+00:00",
+      "collectedAt": "2026-11-17T13:18:44.286755+00:00",
+      "excerpt": "WI will “definitely” legalize; Top PA senator: Marijuana not a priority; VA cannabis law tweaks; State officials org on DEA rescheduling confusion Subscribe to receive Marijuana Moment’s newsletter in your inbox every…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-fe0c81f79fbe10176871.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/02/Wild-Creek-Visit_Max-Jackson_ILCE-7RM3_0014.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "ec8a4f90bbd8f690047f81295f1f117ac4a6bc142a2365384a357949cfb87562",
+        "sourceTitle": "Schumer vs. Van Hollen on cannabis (Newsletter: November 17, 2026)",
+        "sourceExcerpt": "WI will “definitely” legalize; Top PA senator: Marijuana not a priority; VA cannabis law tweaks; State officials org on DEA rescheduling confusion Subscribe to receive Marijuana Moment’s newsletter in your inbox every…",
+        "title": "Schumer vs. Van Hollen sur le cannabis (Newsletter: 17 novembre 2026)",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T13:18:48.992837+00:00"
+      }
+    },
+    {
+      "id": "9da82dba57fcb04ccfb3",
+      "title": "54 von 67 Stimmen: Warum die Midterms die US-Legalisierung nicht bringen",
+      "url": "https://www.hanf-magazin.com/recht/rechtslage-international/us-midterms-2026-cannabis-legalisierung-veto-schedule-iii/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-17T11:00:00+00:00",
+      "collectedAt": "2026-11-17T13:18:44.286755+00:00",
+      "excerpt": "Die Demokraten haben bei den US-Zwischenwahlen beide Kammern des Kongresses gewonnen, und in der Branche wird das als Rückenwind für die Legalisierung gelesen. Die Rechnung geht so nicht auf. Der Hebel, der in den USA…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-5617ac98139dc32d787e.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-ai-83986-featured-us-kapitol-kuppel-im-gegenlicht.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "3b864462e5434a0b0f4bd14bc6536a7a1366fe369c823ba386d94d4a40768425",
+        "sourceTitle": "54 von 67 Stimmen: Warum die Midterms die US-Legalisierung nicht bringen",
+        "sourceExcerpt": "Die Demokraten haben bei den US-Zwischenwahlen beide Kammern des Kongresses gewonnen, und in der Branche wird das als Rückenwind für die Legalisierung gelesen. Die Rechnung geht so nicht auf. Der Hebel, der in den USA…",
+        "title": "54 sur 67 voix : Pourquoi les élections intermédiaires n'ont pas abouti à la légalisation des États-Unis",
+        "excerpt": "Les démocrates ont remporté les deux chambres du Congrès lors des élections intermédiaires aux États-Unis, et dans l'industrie, cela est interprété comme un soutien à la légalisation. La comptabilité ne tient pas […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-17T13:18:48.992837+00:00"
+      }
+    },
+    {
+      "id": "84692eb3f9b0ff473923",
+      "title": "Cannabis Stocks Today — Monday 16 November 2026: Aurora sits at $4.94",
+      "url": "https://businessofcannabis.com/cannabis-stocks-today-monday-16-november-2026-aurora-sits-at-4-94/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-17T10:02:18+00:00",
+      "collectedAt": "2026-11-17T13:18:44.286755+00:00",
+      "excerpt": "Cannabis shares start the week on the back foot, with losses reaching Canadian producers and US operators alike. With the US session still in pre-market, 24 of the 35 cannabis-linked tickers tracked by Business of…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6cd6c58497e886559024.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/02/Cash-Companies-Cannabis-41.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "3c38d68df8fbc4cfee71aa889e9fbc0fc96cc3a32fab77ff2f1dffa7ec601a40",
+        "sourceTitle": "Cannabis Stocks Today — Monday 16 November 2026: Aurora sits at $4.94",
+        "sourceExcerpt": "Cannabis shares start the week on the back foot, with losses reaching Canadian producers and US operators alike. With the US session still in pre-market, 24 of the 35 cannabis-linked tickers tracked by Business of…",
+        "title": "Les stocks de cannabis aujourd'hui lundi 16 novembre 2026: Aurora se trouve à 4,94 $",
+        "excerpt": "Les actions de cannabis commencent la semaine sur le dos, avec des pertes atteignant les producteurs canadiens et les opérateurs américains […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T13:18:48.992837+00:00"
+      }
+    },
+    {
+      "id": "2fc08641586ce8b2b35c",
+      "title": "Cannabis Events UK: Dates for Clinicians and Industry in 2026–2027",
+      "url": "https://cannabishealthnews.co.uk/2026/11/17/cannabis-events-uk-dates-for-clinicians-and-industry-in-2026-2027/",
+      "source": "Cannabis Health",
+      "sourceFeed": "https://cannabishealthnews.co.uk/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-17T09:11:51+00:00",
+      "collectedAt": "2026-11-17T13:18:44.286755+00:00",
+      "excerpt": "Looking for medical cannabis conferences and industry events? Here are the upcoming UK dates, who they’re for and where to book.",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-87b80b27072e6e8aa3db.jpg",
+      "credit": "Cannabis Health · image de l’article",
+      "imageSource": "https://cannabishealthnews.co.uk/wp-content/uploads/2026/11/sincerely-media-dGxOgeXAXm8-unsplash-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "ab560a129e0688bc6deca419aa40fd48d6879238bd8db3be4798851cb80100a3",
+        "sourceTitle": "Cannabis Events UK: Dates for Clinicians and Industry in 2026–2027",
+        "sourceExcerpt": "Looking for medical cannabis conferences and industry events? Here are the upcoming UK dates, who they’re for and where to book.",
+        "title": "Cannabis Événements Royaume-Uni: Dates pour les cliniciens et l'industrie en 2026-2027",
+        "excerpt": "Vous cherchez des conférences sur le cannabis médical et des événements de l’industrie? Voici les dates à venir au Royaume-Uni, pour qui ils sont et où réserver.",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-17T13:18:48.992837+00:00"
+      }
+    },
     {
       "id": "ad5220982d444e251c30",
       "title": "Nur 4 Indikationen, keine Blüten: Spanien startet Medizinalcannabis in den Kliniken",
@@ -830,9 +1032,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 20,
-    "eligible": 20,
+    "available": 26,
+    "eligible": 26,
     "status": "ok",
-    "updatedAt": "2026-11-17T09:17:27.385127+00:00"
+    "updatedAt": "2026-11-17T13:18:48.992837+00:00"
   }
 }
