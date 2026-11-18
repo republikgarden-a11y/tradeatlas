@@ -1,75 +1,209 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-17T18:06:51.788264+00:00",
-  "lastSuccess": "2026-11-17T18:06:51.788264+00:00",
+  "attemptedAt": "2026-11-18T09:18:06.346221+00:00",
+  "lastSuccess": "2026-11-18T09:18:06.346221+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
+      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
+      "count": 7,
+      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
+      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
+      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
+      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
+      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-17T18:06:51.788264+00:00"
+      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
     }
   ],
   "items": [
+    {
+      "id": "6f391acb29ba01fb9ade",
+      "title": "Kiwi x Cookie Dog von Mavericks Genetics: Autoflower-Profil und Terpene im Check",
+      "url": "https://www.hanf-magazin.com/growing/strains/kiwi-x-cookie-dog-von-mavericks-genetics-autoflower-profil-und-terpene-im-check/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-18T07:00:00+00:00",
+      "collectedAt": "2026-11-18T09:18:06.346221+00:00",
+      "excerpt": "Kiwi x Cookie Dog ist eine selbstblühende Sorte mit limonendominiertem Terpenprofil. Was Datenblatt und Laborbericht zeigen und an welchen Stellen sie nicht zusammenpassen. Der Beitrag Kiwi x Cookie Dog von Mavericks…",
+      "topics": [
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-7721a0647cd03a9627e0.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/mavericks-83291-up-kiwi.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "08b8aa873bfc6143d0757f045b63f1582479913e53e00bf74ac1a0024d6dad40",
+        "sourceTitle": "Kiwi x Cookie Dog von Mavericks Genetics: Autoflower-Profil und Terpene im Check",
+        "sourceExcerpt": "Kiwi x Cookie Dog ist eine selbstblühende Sorte mit limonendominiertem Terpenprofil. Was Datenblatt und Laborbericht zeigen und an welchen Stellen sie nicht zusammenpassen. Der Beitrag Kiwi x Cookie Dog von Mavericks…",
+        "title": "Kiwi x Cookie Dog de Mavericks Genetics : profil d'auto-floraison et terpènes en vérification",
+        "excerpt": "Kiwi x Cookie Dog est une variété auto-floraison avec un profil de terpènes dominé par l'arôme de citron. Ce que les fiches techniques et les rapports de laboratoire révèlent et aux endroits où elles ne sont pas en accord […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-18T09:18:09.898199+00:00"
+      }
+    },
+    {
+      "id": "6f4883d729cc3fd76945",
+      "title": "Veteran-Owned Got Your Six Dispensary Launches New Website With Free 2-Hour Cannabis Delivery Across 30 Miles of Princeton",
+      "url": "https://ganjapreneur.com/veteran-owned-got-your-six-dispensary-launches-new-website-with-free-2-hour-cannabis-delivery-across-30-miles-of-princeton/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-17T22:46:40+00:00",
+      "collectedAt": "2026-11-18T09:18:06.346221+00:00",
+      "excerpt": "PRINCETON, N.J.: Got Your Six Dispensary, a veteran-owned cannabis shop on Route 27 in Princeton Marketplace, has launched a new website at https://gotyoursixdispensary.com. Adults 21 and older can now shop the full…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "",
+      "credit": "",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "c1f2a9c6f7bbf78fbab555f8b360132b1c1dd34cf9ec31bf0c31b92333c2741e",
+        "sourceTitle": "Veteran-Owned Got Your Six Dispensary Launches New Website With Free 2-Hour Cannabis Delivery Across 30 Miles of Princeton",
+        "sourceExcerpt": "PRINCETON, N.J.: Got Your Six Dispensary, a veteran-owned cannabis shop on Route 27 in Princeton Marketplace, has launched a new website at https://gotyoursixdispensary.com. Adults 21 and older can now shop the full…",
+        "title": "Veteran-Owned Got Your Six Dispensary lance un nouveau site Web avec une livraison gratuite de cannabis de 2 heures à travers 30 miles de Princeton",
+        "excerpt": "PRINCETON, N.J.: Got Your Six Dispensary, un magasin de cannabis appartenant à des vétérans sur la Route 27 à Princeton Marketplace, a lancé un nouveau site Web à https://gotyoursixdispensary.com […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-18T09:18:09.898199+00:00"
+      }
+    },
+    {
+      "id": "109d5559a6c2a0300e7e",
+      "title": "Bipartisan Senators File Bill To Keep Hemp THC Products Federally Legal As Next Month’s Scheduled Ban Looms",
+      "url": "https://www.marijuanamoment.net/bipartisan-senators-file-bill-to-keep-hemp-thc-products-federally-legal-as-next-months-scheduled-ban-looms/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-17T21:27:45+00:00",
+      "collectedAt": "2026-11-18T09:18:06.346221+00:00",
+      "excerpt": "A bipartisan duo of U.S. senators have filed a new bill that would prevent the federal recriminalization of hemp THC products that is currently scheduled to go into effect next month while instituting a set of new…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-c148b11cb6db0cdfdc17.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/07/hemp-plant-3661210_1920.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "c5e6fba33b4749965fbdc0f0b303e3b4040be084ecd9c3dd70d5aec98dab7071",
+        "sourceTitle": "Bipartisan Senators File Bill To Keep Hemp THC Products Federally Legal As Next Month’s Scheduled Ban Looms",
+        "sourceExcerpt": "A bipartisan duo of U.S. senators have filed a new bill that would prevent the federal recriminalization of hemp THC products that is currently scheduled to go into effect next month while instituting a set of new…",
+        "title": "Les sénateurs bipartisans déposent un projet de loi pour garder les produits à base de chanvre THC légaux au niveau fédéral comme l’interdiction prévue le mois prochain",
+        "excerpt": "Un duo bipartisan des États-Unis […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-18T09:18:09.898199+00:00"
+      }
+    },
+    {
+      "id": "4e99e9bb36eaa4b56be1",
+      "title": "North Carolina Governor’s Cannabis Council Weighs Recommendations For Legally Regulating THC, Including State-Controlled Dispensaries",
+      "url": "https://www.marijuanamoment.net/north-carolina-governors-cannabis-council-weighs-recommendations-for-legally-regulating-thc-including-state-controlled-dispensaries/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-17T20:29:19+00:00",
+      "collectedAt": "2026-11-18T09:18:06.346221+00:00",
+      "excerpt": "A North Carolina governor-appointed cannabis commission is reviewing draft recommendations as it prepares to issue its final report next month on how the state should legally regulate THC—including state control of…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules"
+      ],
+      "kind": "Article",
+      "image": "assets/live-cf8fcffb34f18e7448fa.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-hand-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "de37cfdd4fac238ceea885547fd203b3ed1603bc89e12fc423163b6a2437c300",
+        "sourceTitle": "North Carolina Governor’s Cannabis Council Weighs Recommendations For Legally Regulating THC, Including State-Controlled Dispensaries",
+        "sourceExcerpt": "A North Carolina governor-appointed cannabis commission is reviewing draft recommendations as it prepares to issue its final report next month on how the state should legally regulate THC—including state control of…",
+        "title": "Le Conseil du cannabis du gouverneur de Caroline du Nord évalue les recommandations pour la réglementation légale du THC, y compris les dispensaires contrôlés par l’État",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-18T09:18:09.898199+00:00"
+      }
+    },
     {
       "id": "f19f464216fb984876b2",
       "title": "The Election’s Blue Wave Won’t Save Cannabis Equity, But A New Blueprint Might (Op-Ed)",
@@ -102,6 +236,25 @@
         "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
         "translatedAt": "2026-11-17T18:06:59.168234+00:00"
       }
+    },
+    {
+      "id": "18c7950055463dc7c485",
+      "title": "Le cannabis néo-zélandais débarque en Europe, et il a du feu dans les terpènes",
+      "url": "https://www.newsweed.fr/cannabis-neo-zelandais-europe-feu-terpenes/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-17T17:00:23+00:00",
+      "collectedAt": "2026-11-18T09:18:06.346221+00:00",
+      "excerpt": "Entre l’océan Pacifique et les montagnes enneigées de l’île du Sud de la Nouvelle-Zélande, un producteur de cannabis nommé Puro cultive un produit que le monde n’a encore jamais vraiment vu. Biologiques, cultivées au…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-2bb01a99302c0f4f9ddb.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/puro-nouvelle-zelande.jpg"
     },
     {
       "id": "e9ad742f1271eae6977c",
@@ -4355,9 +4508,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 107,
-    "eligible": 107,
+    "available": 111,
+    "eligible": 111,
     "status": "ok",
-    "updatedAt": "2026-11-17T18:06:59.168234+00:00"
+    "updatedAt": "2026-11-18T09:18:09.898199+00:00"
   }
 }
