@@ -1,75 +1,264 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-18T09:18:06.346221+00:00",
-  "lastSuccess": "2026-11-18T09:18:06.346221+00:00",
+  "attemptedAt": "2026-11-18T13:23:44.683193+00:00",
+  "lastSuccess": "2026-11-18T13:23:44.683193+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
+      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 7,
-      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
+      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
+      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
+      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-18T09:18:06.346221+00:00"
+      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
     }
   ],
   "items": [
+    {
+      "id": "934902a88fc588bc8359",
+      "title": "USPS Says Medical Marijuana Isn’t Mailable ‘Under Any Circumstances,’ But Weighs Possible Policy Change Under Rescheduling",
+      "url": "https://www.marijuanamoment.net/usps-says-medical-marijuana-isnt-mailable-under-any-circumstances-but-weighs-possible-policy-change-under-rescheduling/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-18T12:52:19+00:00",
+      "collectedAt": "2026-11-18T13:23:44.683193+00:00",
+      "excerpt": "The U.S. Postal Service (USPS) is pushing back against a new program from Georgia companies that plan to use certified mail to deliver marijuana to patients in the state’s medical cannabis program—but it says it is…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-f4d97985b0ad651a64e1.png",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/usps-postal-service-marijuana-cannabis-1024x614.png",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "c0b1a5808f5e95f0653962fe054fcf8ce3d3fdfb90d79486522fe69f6cf37499",
+        "sourceTitle": "USPS Says Medical Marijuana Isn’t Mailable ‘Under Any Circumstances,’ But Weighs Possible Policy Change Under Rescheduling",
+        "sourceExcerpt": "The U.S. Postal Service (USPS) is pushing back against a new program from Georgia companies that plan to use certified mail to deliver marijuana to patients in the state’s medical cannabis program—but it says it is…",
+        "title": "USPS dit que la marijuana médicale n’est pas envoiable par la poste «en aucune circonstance», mais pèse possible changement de politique sous reprogrammation",
+        "excerpt": "Les États-Unis […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-18T13:23:47.767025+00:00"
+      }
+    },
+    {
+      "id": "7638bd326092deb02d6a",
+      "title": "Cannabis Stocks Today — Wednesday 18 November 2026: AFC Gamma holds above $3.50",
+      "url": "https://businessofcannabis.com/cannabis-stocks-today-wednesday-18-november-2026-afc-gamma-holds-above-3-50/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-18T12:09:39+00:00",
+      "collectedAt": "2026-11-18T13:23:44.683193+00:00",
+      "excerpt": "Cannabis equities sit modestly lower on Wednesday, with US markets still in pre-market trading, so the quotes below reflect Tuesday’s closing levels and some over-the-counter names may lag by a further day. The…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6cd6c58497e886559024.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/02/Cash-Companies-Cannabis-41.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "4852fb83de7d597869933c53f480d3cb4eca5b1faa92f82a1f88fdc5ae28ec82",
+        "sourceTitle": "Cannabis Stocks Today — Wednesday 18 November 2026: AFC Gamma holds above $3.50",
+        "sourceExcerpt": "Cannabis equities sit modestly lower on Wednesday, with US markets still in pre-market trading, so the quotes below reflect Tuesday’s closing levels and some over-the-counter names may lag by a further day. The…",
+        "title": "Les stocks de cannabis aujourd'hui Mercredi 18 Novembre 2026: AFC Gamma détient plus de 3,50 $",
+        "excerpt": "Les actions de cannabis restent légèrement plus basses mercredi, les marchés américains étant toujours en négociation avant le marché, de sorte que les cotations ci-dessous reflètent les niveaux de clôture de mardi et certains noms de gré à gré pourraient accuser un nouveau retard […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-18T13:23:47.767025+00:00"
+      }
+    },
+    {
+      "id": "ee77a83ee24c318d63a9",
+      "title": "New medical cannabis delivery plan involves USPS (Newsletter: November 18, 2026)",
+      "url": "https://www.marijuanamoment.net/new-medical-cannabis-delivery-plan-involves-usps-newsletter-november-18-2026/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-18T11:12:56+00:00",
+      "collectedAt": "2026-11-18T13:23:44.683193+00:00",
+      "excerpt": "NC gov’s marijuana council; Federal hemp debate heats up with new bill; Congressional psychedelics hearing; TX legalization revenue Subscribe to receive Marijuana Moment’s newsletter in your inbox every weekday morning.…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-5d89b3f79dcf9e2bbc3f.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/09/flowers-2469212_1920.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "f1a098e4a5de47c864c5210c12a557dc90a7de0f91cf5877f9ea836223749c59",
+        "sourceTitle": "New medical cannabis delivery plan involves USPS (Newsletter: November 18, 2026)",
+        "sourceExcerpt": "NC gov’s marijuana council; Federal hemp debate heats up with new bill; Congressional psychedelics hearing; TX legalization revenue Subscribe to receive Marijuana Moment’s newsletter in your inbox every weekday morning.…",
+        "title": "Le nouveau plan de livraison de cannabis médical implique USPS (Newsletter: 18 novembre 2026)",
+        "excerpt": "Conseil de marijuana de NC gov; débat fédéral sur le chanvre avec un nouveau projet de loi; audition psychédélique du Congrès; revenus de la légalisation du Texas Inscrivez-vous pour recevoir la newsletter de Marijuana Moment dans votre boîte de réception tous les matins de la semaine […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-18T13:23:47.767025+00:00"
+      }
+    },
+    {
+      "id": "d7fee472193c26c81513",
+      "title": "More Tonnes, Tougher Economics: Europe’s Medical Cannabis Outlook for 2027",
+      "url": "https://businessofcannabis.com/more-tonnes-tougher-economics-europes-medical-cannabis-outlook-for-2027/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-18T10:31:03+00:00",
+      "collectedAt": "2026-11-18T13:23:44.683193+00:00",
+      "excerpt": "Written for Business of Cannabis by Oskar Fletcher, Chief Executive of pharmaceutical contract manufacturing operator Blossom Pharma. As Germany’s medical cannabis import figures arrive, the industry’s attention…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-e6caec73b10046f28dd0.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-54.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "1890d5593b3e8b705481898b9a7f9e443076dc6429aecb126e147673db9da4d4",
+        "sourceTitle": "More Tonnes, Tougher Economics: Europe’s Medical Cannabis Outlook for 2027",
+        "sourceExcerpt": "Written for Business of Cannabis by Oskar Fletcher, Chief Executive of pharmaceutical contract manufacturing operator Blossom Pharma. As Germany’s medical cannabis import figures arrive, the industry’s attention…",
+        "title": "Plus de tonnes, une économie plus forte: les perspectives du cannabis médical en Europe pour 2027",
+        "excerpt": "Rédigé pour Business of Cannabis par Oskar Fletcher, directeur général de l'opérateur de fabrication sous contrat pharmaceutique Blossom Pharma […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-18T13:23:47.767025+00:00"
+      }
+    },
+    {
+      "id": "4f52ffe27e7e9336e3ad",
+      "title": "La Géorgie devient le premier État américain à expédier du cannabis médical via le service postal",
+      "url": "https://www.newsweed.fr/la-georgie-devient-le-premier-etat-americain-a-expedier-du-cannabis-medical-via-le-service-postal/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-18T10:19:10+00:00",
+      "collectedAt": "2026-11-18T13:23:44.683193+00:00",
+      "excerpt": "La Géorgie est devenue le premier État américain à autoriser l’expédition de cannabis médical par le service postal national (USPS), bien que sa conformité avec la législation fédérale reste à établir. Depuis le 17…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-1f98b5809dfc49ceffa1.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2019/09/fb-share.jpg"
+    },
+    {
+      "id": "338d606cd008cdbf2d0c",
+      "title": "Who’s in the Room? Meet the Clinicians, Operators and Advocates Joining the London Cannabis Health Symposium",
+      "url": "https://cannabishealthnews.co.uk/2026/11/18/whos-in-the-room-meet-the-clinicians-operators-and-advocates-joining-the-london-cannabis-health-symposium/",
+      "source": "Cannabis Health",
+      "sourceFeed": "https://cannabishealthnews.co.uk/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-18T10:00:44+00:00",
+      "collectedAt": "2026-11-18T13:23:44.683193+00:00",
+      "excerpt": "Who will you meet at Cannabis Health Symposium London next week?",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9c0623b362296e076180.webp",
+      "credit": "Cannabis Health · image de l’article",
+      "imageSource": "https://cannabishealthnews.co.uk/wp-content/uploads/2026/11/london-hero-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "d6e83a78b20fae396e6ce9505a0ada18e867ad51d78bc3e2686d53a9c3dc0ec3",
+        "sourceTitle": "Who’s in the Room? Meet the Clinicians, Operators and Advocates Joining the London Cannabis Health Symposium",
+        "sourceExcerpt": "Who will you meet at Cannabis Health Symposium London next week?",
+        "title": "Rencontrez les cliniciens, les opérateurs et les avocats qui se joignent au London Cannabis Health Symposium",
+        "excerpt": "Qui rencontrerez-vous au Cannabis Health Symposium London la semaine prochaine?",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-18T13:23:47.767025+00:00"
+      }
+    },
     {
       "id": "6f391acb29ba01fb9ade",
       "title": "Kiwi x Cookie Dog von Mavericks Genetics: Autoflower-Profil und Terpene im Check",
@@ -728,9 +917,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 17,
-    "eligible": 17,
+    "available": 22,
+    "eligible": 22,
     "status": "ok",
-    "updatedAt": "2026-11-18T09:18:09.898199+00:00"
+    "updatedAt": "2026-11-18T13:23:47.767025+00:00"
   }
 }
