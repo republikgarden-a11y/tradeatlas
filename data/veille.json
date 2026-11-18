@@ -1,13 +1,45 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-17T09:24:21Z",
-  "last_success": "2026-11-17T09:24:21Z",
+  "checked_at": "2026-11-18T09:26:05Z",
+  "last_success": "2026-11-18T09:26:05Z",
   "topics_checked": 4,
   "successful_topics": 4,
-  "new_items": 3,
+  "new_items": 5,
   "errors": [],
   "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORU1NdUxGVlFJYjExaVdQUFdoVlZCRlFSOWRGTkNPLVoxY294azhIUVY1M0xsQzlxSUtLdjBxNWJKbTh1aWI5MHJuTEVaTU93ckJ6ZTV1emVXMUFLb2dXYU8tOG9rQWNNckxzVzZrMkt0UVd3cVlORnpweGJPUThycw?oc=5",
+      "title": "Still Smoking? Time to Upgrade Your Ritual - Hanf Magazin",
+      "topic": "Papier & cônes",
+      "domain": "Hanf Magazin",
+      "published_at": "2026-11-17T16:56:42Z",
+      "first_seen": "2026-11-18T09:26:05Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05KaWFiZ09rdmhUUEZBVncxbTNNMXQtTEx4MVdjRUdRcGxnNFh5SDFaZi1oalctWU10cDBHeFJDdi1hcFlWcTgtLWFmMF9tamtQSUY5ME9mWmEwUkI5WE8xQkZLTUwtMFBtNUVSbExjMldBa1NlU21aMGgxU2VaQklySkxLZEVxSHV5UmlfcU02M2RsLVM0b2FBVHktNWIxZExEdDBjUGZ6eGRwY0tvY2NIMC12Vm44Wmx2ZDRJTFhMdEwwa0E?oc=5",
+      "title": "Treeform launches new website with cannabis packaging resources and compliance guides - MMJDaily",
+      "topic": "Packaging & chanvre",
+      "domain": "MMJDaily",
+      "published_at": "2026-11-17T16:16:56Z",
+      "first_seen": "2026-11-18T09:26:05Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOTV4NXVwWVphNEYtUEtYTEw3TGQ0dTVIRU1ZVnUtTDhEb2JYSjhDQ2lyTXA2TDBCbUh6QmhvX0lqSUZhUmVKSFdaTG9RajFhaElqdEV1bXVHQ09VWk83UElVLUJUX0RkSzBQR3JPM0NNaV9fZW5nSG12VHJMcFV0dFc2TWZ5MVpyNDZqVzkyQnJKcHlFNjBBY1ZqUkozOG1vNVJlTGRoOUhTa0lHQXRXRGthT0d3VWkwMWVNYUFGbFNZaURVeEh3V0lDTzBONXh0Y0dN?oc=5",
+      "title": "Boveda Introduces New 100-Count Humidor, Expanding Its Award-Winning Humidor Line - Business Wire",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Business Wire",
+      "published_at": "2026-11-17T14:00:00Z",
+      "first_seen": "2026-11-18T09:26:05Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHlfZWY2Y0NYSHB6WXpWU0hFRmY0M0FzbzYtTFZZRGtMU1lxcHNmNmROOHJFZFc2MnJyMnpKZ0cwd2psM3VuN1FBcEpyQXZuVWl4dHhsUTVpYmJ6cm93LVhWWnBTSWFLNk11cXFBbzZEeG93a0dsYngwWUJTcGhsRmVpQUtmOEhjREVtNVln?oc=5",
+      "title": "The Ultimate Guide to Choosing Cannabis Vape Hardware - Programming Insider",
+      "topic": "Vape & accessoires",
+      "domain": "Programming Insider",
+      "published_at": "2026-11-17T08:14:17Z",
+      "first_seen": "2026-11-09T13:53:22Z"
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnJ1Z01WaVZCNXViTFI2ZXAzd2VpbXZRdkhDSzI4R0lIYmhMbnNlTUo0cVkwdFVORlhCTE1UU002VE1sZEhfMGNvVGlKMHVHeW1CZl9OZ0UyRGhwV2lncDBrLXB2TFRIdHhkN2tpN1l2T1VSdHlBNnpqZU9QeEtEZGpEcEZva2ZWOEJka0Z2NHFieUU1bXU4WmF4dHJFcWt6QVU4NHM3RHlqMzVTVHFFM08wME5FQjNQZ29CTVoxemNILW0yVU1r?oc=5",
       "title": "Greenlane: Q3 Earnings Snapshot - 10TV",
@@ -15,6 +47,14 @@
       "domain": "10TV",
       "published_at": "2026-11-16T22:40:00Z",
       "first_seen": "2026-11-17T09:24:21Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQlNnUlhTX3BCRUQteVV5RTR0UUdWNkxDQWdya0hxUi1nNUxNbW5NX3ZDVGtQVTVHRTVwQkxLajFTUlltOFdIY0ljVWZWd2xiMjlYMW1xN3NfRTA2aWxFZ1RzdjVYbnUxY2hqVGhBRF9DSHliSWpHWXIxT1ROUW1tWklucV9aZEdXa013NlpNeW1CRzl6UVVpSQ?oc=5",
+      "title": "Siglo Accessory Celebrates Year Of The Goat - Cigar Aficionado",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Cigar Aficionado",
+      "published_at": "2026-11-16T17:40:42Z",
+      "first_seen": "2026-11-18T09:26:05Z"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU1cyS0JPLXZZQ2RnV2lfOGRCX0tBb0Q0N25fei1RSHFZRy1rN1labmgtek1tR0wzRVlCck1WRy1mdC1xRC1PTy1NQ09YM1U4U21XZ1lWZkJBNVBoV2hKcGl5UmxYSHBKY3UzdVExOVlkam9FWU5rMUdlQm9xc1hyM2F5dGdZLVp0UDFJ?oc=5",
@@ -153,6 +193,14 @@
       "first_seen": "2026-11-12T09:22:24Z"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vU2dTYnl6SnVrTVJIQ0dESjdhbEoxc0w3a2RGczk1LXNJaS1Wemh4eW94RERMTHdGbnppem9Sd04tZVhiLVU2dUtOLWlnTlRXc3ZYMWdRV0dFM2VGOFQyRlhCNTl2Z1doclE?oc=5",
+      "title": "MJBizCon 2026 comes at critical moment for cannabis - GreenState",
+      "topic": "Packaging & chanvre",
+      "domain": "GreenState",
+      "published_at": "2026-11-11T18:40:53Z",
+      "first_seen": "2026-11-18T09:26:05Z"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM1V3eEJxTENIVHYxUkZURDNQNWdYM0REOFRwbC1ScTBhMV82ZFpUclJkeXdycE9zTU5Ocmx1YzFYUTVQRFlMTlRZdUoyTzdjNXQzOVBTZzd1cW9oOFRZSEZ2bGJFUHpGLXQ3VGo5YjdjSVZlVGFBbVFYdTlJa09ZYkg4VkZXbGxSUkstMEtWYnlkWWtjSUpXZEdXMGo?oc=5",
       "title": "Triple Buzz Smoke Shop to open Georgetown store - Community Impact",
       "topic": "Vape & accessoires",
@@ -270,14 +318,6 @@
       "topic": "Vape & accessoires",
       "domain": "The Marijuana Herald",
       "published_at": "2026-11-06T23:17:50Z",
-      "first_seen": "2026-11-09T13:53:22Z"
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHlfZWY2Y0NYSHB6WXpWU0hFRmY0M0FzbzYtTFZZRGtMU1lxcHNmNmROOHJFZFc2MnJyMnpKZ0cwd2psM3VuN1FBcEpyQXZuVWl4dHhsUTVpYmJ6cm93LVhWWnBTSWFLNk11cXFBbzZEeG93a0dsYngwWUJTcGhsRmVpQUtmOEhjREVtNVln?oc=5",
-      "title": "The Ultimate Guide to Choosing Cannabis Vape Hardware - Programming Insider",
-      "topic": "Vape & accessoires",
-      "domain": "Programming Insider",
-      "published_at": "2026-11-06T12:46:18Z",
       "first_seen": "2026-11-09T13:53:22Z"
     },
     {
