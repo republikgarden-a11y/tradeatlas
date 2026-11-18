@@ -1,8 +1,8 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-18T13:23:44.683193+00:00",
-  "lastSuccess": "2026-11-18T13:23:44.683193+00:00",
+  "attemptedAt": "2026-11-18T18:00:23.485855+00:00",
+  "lastSuccess": "2026-11-18T18:00:23.485855+00:00",
   "status": "ok",
   "sources": [
     {
@@ -10,66 +10,343 @@
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
+      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
+      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
+      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 7,
-      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
+      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
+      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
+      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
+      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-18T13:23:44.683193+00:00"
+      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
     }
   ],
   "items": [
+    {
+      "id": "275433c1eb21b8544cd1",
+      "title": "Houston City Council Officially Makes Marijuana A Low Priority For Police After Voters Approve Ballot Measure",
+      "url": "https://www.marijuanamoment.net/houston-city-council-officially-makes-marijuana-a-low-priority-for-police-after-voters-approve-ballot-measure/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-18T17:27:46+00:00",
+      "collectedAt": "2026-11-18T18:00:23.485855+00:00",
+      "excerpt": "Local officials in Houston, Texas have officially amended the city charter to make misdemeanor marijuana possession the “lowest possible enforcement priority” for local police after voters approved the reform on the…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-ab701a68557a21a3303d.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2018/01/Stock-13.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "bbc43e4f37d3b24c5cc7612212a71760b85eebae78f1de7a5a7c1e16a90b0feb",
+        "sourceTitle": "Houston City Council Officially Makes Marijuana A Low Priority For Police After Voters Approve Ballot Measure",
+        "sourceExcerpt": "Local officials in Houston, Texas have officially amended the city charter to make misdemeanor marijuana possession the “lowest possible enforcement priority” for local police after voters approved the reform on the…",
+        "title": "Le conseil municipal de Houston fait officiellement de la marijuana une faible priorité pour la police après que les électeurs aient approuvé la mesure des bulletins de vote",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-18T18:00:30.091427+00:00"
+      }
+    },
+    {
+      "id": "2b274387bbdd5833be08",
+      "title": "La Suède va mettre fin au remboursement du cannabis médical",
+      "url": "https://www.newsweed.fr/suede-fin-remboursement-cannabis-medical/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-18T16:30:28+00:00",
+      "collectedAt": "2026-11-18T18:00:23.485855+00:00",
+      "excerpt": "Des milliers de patients en Suède pourraient devoir faire face à des factures mensuelles pouvant atteindre 10 000 SEK (900 €) pour des traitements à base de cannabis médical à compter du 1er décembre 2026, suite à une…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9670e889599ab5a84e6b.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/suede-remboursement-cannabis-medical.jpg"
+    },
+    {
+      "id": "a30ff2e28600dc3d6a43",
+      "title": "Top Oklahoma GOP Senator Files Bill To Protect Medical Marijuana Patients’ Gun Rights",
+      "url": "https://www.marijuanamoment.net/top-oklahoma-gop-senator-files-bill-to-protect-medical-marijuana-patients-gun-rights/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-18T16:26:41+00:00",
+      "collectedAt": "2026-11-18T18:00:23.485855+00:00",
+      "excerpt": "A top Oklahoma Republican senator has filed a bill for the 2027 session aimed at protecting the gun rights of medical cannabis patients under state law. The new legislation from Senate Majority Floor Leader Julie…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-fa576b940c0c933ddc58.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2021/04/gun-marijuana.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "92d0e44703eb7d80f928e9446a74a7b7b460fcd94d1091df6101b4275ad798c5",
+        "sourceTitle": "Top Oklahoma GOP Senator Files Bill To Protect Medical Marijuana Patients’ Gun Rights",
+        "sourceExcerpt": "A top Oklahoma Republican senator has filed a bill for the 2027 session aimed at protecting the gun rights of medical cannabis patients under state law. The new legislation from Senate Majority Floor Leader Julie…",
+        "title": "Le sénateur républicain de l'Oklahoma dépose un projet de loi pour protéger les droits des patients à la marijuana médicale",
+        "excerpt": "Un sénateur républicain de l’Oklahoma a déposé un projet de loi pour la session de 2027 visant à protéger les droits des patients atteints de cannabis médical en vertu de la loi de l’État […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-18T18:00:30.091427+00:00"
+      }
+    },
+    {
+      "id": "0341148d4633c6b85570",
+      "title": "‘It Is Time’ For Wisconsin To Legalize Marijuana, But It Needs To Be Done ‘The Right Way,’ New Governor Says",
+      "url": "https://www.marijuanamoment.net/it-is-time-for-wisconsin-to-legalize-marijuana-but-it-needs-to-be-done-the-right-way-new-governor-says/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-18T15:21:26+00:00",
+      "collectedAt": "2026-11-18T18:00:23.485855+00:00",
+      "excerpt": "Wisconsin’s incoming governor says he understands that people in his state are “high on passing marijuana legally”—which he supports—but he wants to make sure that lawmakers carefully craft a plan that gets the details…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-96c03ff90d4097e4f183.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/07/roberto-valdivia-HrRm_V-V0sM-unsplash-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "369da32fc1467d845f5ea124e4c32b850ded7f68bc64b12287389a7ea8a28b0f",
+        "sourceTitle": "‘It Is Time’ For Wisconsin To Legalize Marijuana, But It Needs To Be Done ‘The Right Way,’ New Governor Says",
+        "sourceExcerpt": "Wisconsin’s incoming governor says he understands that people in his state are “high on passing marijuana legally”—which he supports—but he wants to make sure that lawmakers carefully craft a plan that gets the details…",
+        "title": "«Il est temps» pour le Wisconsin de légaliser la marijuana, mais cela doit être fait «de la bonne façon», déclare le nouveau gouverneur",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-18T18:00:30.091427+00:00"
+      }
+    },
+    {
+      "id": "ac07aead629be73ae08f",
+      "title": "Nebraska Medical Cannabis Regulators Send Rule Updates to AG for Review",
+      "url": "https://ganjapreneur.com/nebraska-medical-cannabis-regulators-send-rule-updates-to-ag-for-review/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-18T14:50:24+00:00",
+      "collectedAt": "2026-11-18T18:00:23.485855+00:00",
+      "excerpt": "Nebraska officials have sent their proposed medical cannabis regulatory amendments to Attorney General Mike Hilgers for legal review, the Nebraska Examiner reports. Last month, the state’s four cannabis cultivation…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-e03b1985c3004d457e7d.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/06/kentucky-senate-medical-cannabis.jpeg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "579a9bf6d69e2f9ab2ca8fb4bbdc8972e25e3d3242b2800f820a85e7a8c691ac",
+        "sourceTitle": "Nebraska Medical Cannabis Regulators Send Rule Updates to AG for Review",
+        "sourceExcerpt": "Nebraska officials have sent their proposed medical cannabis regulatory amendments to Attorney General Mike Hilgers for legal review, the Nebraska Examiner reports. Last month, the state’s four cannabis cultivation…",
+        "title": "Les autorités de réglementation du cannabis médical du Nebraska envoient des mises à jour à AG pour examen",
+        "excerpt": "Les responsables du Nebraska ont envoyé leurs propositions de modification de la réglementation du cannabis médical au procureur général Mike Hilgers pour examen juridique, rapporte le Nebraska Examiner […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-18T18:00:30.091427+00:00"
+      }
+    },
+    {
+      "id": "a411d61ed51023e620d9",
+      "title": "Virginia State Sen. Pleads Not Guilty In Federal Cannabis Conspiracy Case",
+      "url": "https://ganjapreneur.com/virginia-state-sen-pleads-not-guilty-in-federal-cannabis-conspiracy-case/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-18T14:49:48+00:00",
+      "collectedAt": "2026-11-18T18:00:23.485855+00:00",
+      "excerpt": "Virginia state Sen. Louise Lucas (D) of Portsmouth pleaded not guilty to the federal racketeering and money laundering charges brought against her in relation to her state-licensed medical cannabis retailer, The…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-e48b02dcfb3f537ab8c6.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/gavelleaf2.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "815e4f9370ee31ccbf047bbb29c4b1dd879976d4390eff27868236a006a7d031",
+        "sourceTitle": "Virginia State Sen. Pleads Not Guilty In Federal Cannabis Conspiracy Case",
+        "sourceExcerpt": "Virginia state Sen. Louise Lucas (D) of Portsmouth pleaded not guilty to the federal racketeering and money laundering charges brought against her in relation to her state-licensed medical cannabis retailer, The…",
+        "title": "Le sénateur de l’État de Virginie plaide non coupable dans une affaire de complot fédéral sur le cannabis",
+        "excerpt": "État de Virginie Sen […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-18T18:00:30.091427+00:00"
+      }
+    },
+    {
+      "id": "15cdeae76d225a3883d3",
+      "title": "GOP Senators Say They’ll Try To Block Any Government Funding Bill That Keeps Hemp THC Products Legal",
+      "url": "https://www.marijuanamoment.net/gop-senators-say-theyll-try-to-block-any-government-funding-bill-that-keeps-hemp-thc-products-legal/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-18T14:47:58+00:00",
+      "collectedAt": "2026-11-18T18:00:23.485855+00:00",
+      "excerpt": "Two Republican senators are saying they will not support passage of any bill to keep the federal government funded if it includes language to reverse the currently scheduled recriminalization of hemp THC products. After…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-34f3b2c10bcac3a0b516.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2022/08/pexels-kindel-media-7668051-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "0dd14e94bcbed3a13cbb22040c333d11a055abf45a30a9adb49a3c9e28633a6b",
+        "sourceTitle": "GOP Senators Say They’ll Try To Block Any Government Funding Bill That Keeps Hemp THC Products Legal",
+        "sourceExcerpt": "Two Republican senators are saying they will not support passage of any bill to keep the federal government funded if it includes language to reverse the currently scheduled recriminalization of hemp THC products. After…",
+        "title": "Les sénateurs du GOP disent qu'ils essaieront de bloquer tout projet de loi de financement du gouvernement qui maintient légal les produits à base de chanvre THC",
+        "excerpt": "Deux sénateurs républicains disent qu'ils ne soutiendront pas l'adoption d'un projet de loi visant à maintenir le financement du gouvernement fédéral s'il comprend un libellé visant à inverser la recriminalisation actuellement prévue des produits à base de chanvre THC […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-18T18:00:30.091427+00:00"
+      }
+    },
+    {
+      "id": "517c82169a9eaf447c89",
+      "title": "Indica ou sativa : une revue de 28 études juge ces étiquettes trompeuses",
+      "url": "https://lecannabiste.com/indica-ou-sativa-une-revue-de-28-etudes-juge-ces-etiquettes-trompeuses/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-18T14:01:00+00:00",
+      "collectedAt": "2026-11-18T18:00:23.485855+00:00",
+      "excerpt": "Une revue de 28 études conclut que les étiquettes indica, sativa et hybride ne prédisent ni la composition chimique ni les effets du cannabis.",
+      "topics": [
+        "CBD & molécules"
+      ],
+      "kind": "Article",
+      "image": "assets/live-c78846d8497e9edaffe3.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/featured-8.webp"
+    },
+    {
+      "id": "e4e8f1a68b650565b587",
+      "title": "Alcohol Manufacturers Pushing Congress To Ban Hemp Products Live In Their Own Anti-THC Echo Chamber (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/alcohol-manufacturers-pushing-congress-to-ban-hemp-products-live-in-their-own-anti-thc-echo-chamber-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-18T13:38:07+00:00",
+      "collectedAt": "2026-11-18T18:00:23.485855+00:00",
+      "excerpt": "“Alcohol manufacturers are the only tier of their own industry asking Congress to kill a category that Forbes has called a $38.5 billion industry.” By Jim Higdon, Cornbread Hemp In a new letter, alcohol manufacturers…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-7f3a6e30713fcdfc5392.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2024/03/beer-alcohol-marijuana.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "f96729128da9b0e9811dd050a17c9e6b90d33deeb4044e7156c48024e47fdb6e",
+        "sourceTitle": "Alcohol Manufacturers Pushing Congress To Ban Hemp Products Live In Their Own Anti-THC Echo Chamber (Op-Ed)",
+        "sourceExcerpt": "“Alcohol manufacturers are the only tier of their own industry asking Congress to kill a category that Forbes has called a $38.5 billion industry.” By Jim Higdon, Cornbread Hemp In a new letter, alcohol manufacturers…",
+        "title": "Les fabricants d'alcool poussent le Congrès à interdire les produits de chanvre dans leur propre chambre d'écho anti-THC (Tribune)",
+        "excerpt": "Les fabricants d’alcool sont le seul niveau de leur propre industrie demandant au Congrès de tuer une catégorie que Forbes a appelé une industrie de 38,5 milliards de dollars […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-18T18:00:30.091427+00:00"
+      }
+    },
     {
       "id": "934902a88fc588bc8359",
       "title": "USPS Says Medical Marijuana Isn’t Mailable ‘Under Any Circumstances,’ But Weighs Possible Policy Change Under Rescheduling",
@@ -917,9 +1194,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 22,
-    "eligible": 22,
+    "available": 29,
+    "eligible": 29,
     "status": "ok",
-    "updatedAt": "2026-11-18T13:23:47.767025+00:00"
+    "updatedAt": "2026-11-18T18:00:30.091427+00:00"
   }
 }
