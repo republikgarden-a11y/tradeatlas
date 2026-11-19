@@ -1,8 +1,8 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-19T09:21:17.699580+00:00",
-  "lastSuccess": "2026-11-19T09:21:17.699580+00:00",
+  "attemptedAt": "2026-11-19T13:27:37.313156+00:00",
+  "lastSuccess": "2026-11-19T13:27:37.313156+00:00",
   "status": "ok",
   "sources": [
     {
@@ -10,66 +10,225 @@
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
+      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
+      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
+      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 6,
-      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
+      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
-      "count": 0,
-      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
+      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
     }
   ],
   "items": [
+    {
+      "id": "2849688eb2c313607d9d",
+      "title": "Senate Panel Wants To Keep Blocking DC From Legal Marijuana Sales, While Pushing Feds To Continue Cannabis Drug Testing Under Rescheduling",
+      "url": "https://www.marijuanamoment.net/senate-panel-wants-to-keep-blocking-dc-from-legal-marijuana-sales-while-pushing-feds-to-continue-cannabis-drug-testing-under-rescheduling/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T12:37:30+00:00",
+      "collectedAt": "2026-11-19T13:27:37.313156+00:00",
+      "excerpt": "A key U.S. Senate committee has released spending bills and attached reports that would keep blocking local officials in Washington, D.C. from legalizing recreational marijuana sales and direct federal officials to…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-402c91116619d8ee6365.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/cannabis-marijuana-hand-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "66957493779baf59614fa6d3636b83e3ced59346d011065b2d8cffe473121e45",
+        "sourceTitle": "Senate Panel Wants To Keep Blocking DC From Legal Marijuana Sales, While Pushing Feds To Continue Cannabis Drug Testing Under Rescheduling",
+        "sourceExcerpt": "A key U.S. Senate committee has released spending bills and attached reports that would keep blocking local officials in Washington, D.C. from legalizing recreational marijuana sales and direct federal officials to…",
+        "title": "Le comité sénatorial veut empêcher DC de vendre légalement de la marijuana, tout en poussant les autorités fédérales à poursuivre les tests de dépistage de drogues du cannabis sous reprogrammation",
+        "excerpt": "Un comité clé du Sénat américain a publié des projets de loi de dépenses et des rapports ci-joints qui continueraient à bloquer les responsables locaux à Washington, DC […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T13:27:40.901799+00:00"
+      }
+    },
+    {
+      "id": "3e7ed21d4125ee916b93",
+      "title": "Cannabis Health Symposium London: Complete Session Guide — Who’s Speaking and Why it Matters",
+      "url": "https://cannabishealthnews.co.uk/2026/11/19/cannabis-health-symposium-london-complete-session-guide/",
+      "source": "Cannabis Health",
+      "sourceFeed": "https://cannabishealthnews.co.uk/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-19T12:21:31+00:00",
+      "collectedAt": "2026-11-19T13:27:37.313156+00:00",
+      "excerpt": "Everything you need to know about the Cannabis Health Symposium in London next week.",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9c0623b362296e076180.webp",
+      "credit": "Cannabis Health · image de l’article",
+      "imageSource": "https://cannabishealthnews.co.uk/wp-content/uploads/2026/11/london-hero-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "8ef934e8a7944ef69ca46d78bb969e031975f921ecefd0acc76a2cdc21c78d86",
+        "sourceTitle": "Cannabis Health Symposium London: Complete Session Guide — Who’s Speaking and Why it Matters",
+        "sourceExcerpt": "Everything you need to know about the Cannabis Health Symposium in London next week.",
+        "title": "Symposium sur la santé du cannabis à Londres : Guide complet de la séance Qui parle et pourquoi c’est important",
+        "excerpt": "Tout ce que vous devez savoir sur le symposium sur la santé du cannabis à Londres la semaine prochaine.",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T13:27:40.901799+00:00"
+      }
+    },
+    {
+      "id": "8f930eea681604221038",
+      "title": "Pakistan moves toward commercial hemp as regulators tackle delays in licensing",
+      "url": "https://hemptoday.net/pakistan-moves-toward-commercial-hemp-as-regulators-tackle-delays-in-licensing/",
+      "source": "HempToday",
+      "sourceFeed": "https://hemptoday.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T11:22:56+00:00",
+      "collectedAt": "2026-11-19T13:27:37.313156+00:00",
+      "excerpt": "Pakistan has taken another step toward commercial industrial hemp production by streamlining licensing procedures, but the move comes six years after the government first opened the door to the crop, […]",
+      "topics": [
+        "Lois & société",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-111137a057fe38a3fea0.jpg",
+      "credit": "HempToday · image de l’article",
+      "imageSource": "https://hemptoday.net/wp-content/uploads/2026/11/Saleem-Mandviwalla-tight-1000x635-1.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "b402e29f2a3d79cffc53bedfa44245f0c872b0f9176ef291a056a4f71276cafa",
+        "sourceTitle": "Pakistan moves toward commercial hemp as regulators tackle delays in licensing",
+        "sourceExcerpt": "Pakistan has taken another step toward commercial industrial hemp production by streamlining licensing procedures, but the move comes six years after the government first opened the door to the crop, […]",
+        "title": "Le Pakistan se tourne vers le chanvre commercial alors que les régulateurs s'attaquent aux retards dans l'octroi de licences",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T13:27:40.901799+00:00"
+      }
+    },
+    {
+      "id": "2c4043a3796621325c6e",
+      "title": "Hemp debate could upend federal funding legislation (Newsletter: November 19, 2026)",
+      "url": "https://www.marijuanamoment.net/hemp-debate-could-upend-federal-funding-legislation-newsletter-november-19-2026/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T11:12:01+00:00",
+      "collectedAt": "2026-11-19T13:27:37.313156+00:00",
+      "excerpt": "USPS: Medical marijuana “nonmailable”; New WI gov talks marijuana plans; OK medical cannabis & gun rights bill; Houston marijuana policy Subscribe to receive Marijuana Moment’s newsletter in your inbox every weekday…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-a813c13c95cd77a615a2.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/11/Grow_Max-Jackson_0119.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "a828dce501a96d851758b1e4e8ba4b3ed69541c1e0aa9d364d9204ea53f0b8ca",
+        "sourceTitle": "Hemp debate could upend federal funding legislation (Newsletter: November 19, 2026)",
+        "sourceExcerpt": "USPS: Medical marijuana “nonmailable”; New WI gov talks marijuana plans; OK medical cannabis & gun rights bill; Houston marijuana policy Subscribe to receive Marijuana Moment’s newsletter in your inbox every weekday…",
+        "title": "Le débat sur le chanvre pourrait bouleverser la législation fédérale sur le financement (Newsletter: 19 novembre 2026)",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T13:27:40.901799+00:00"
+      }
+    },
+    {
+      "id": "45bdb885e6d8076a5a45",
+      "title": "THC issu du chanvre : les sénateurs américains se déchirent sur l’interdiction",
+      "url": "https://www.newsweed.fr/thc-issu-chanvre-senateurs-americains-interdiction/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-19T10:12:46+00:00",
+      "collectedAt": "2026-11-19T13:27:37.313156+00:00",
+      "excerpt": "Une nouvelle proposition bipartisane cherche à assurer un avenir aux produits à base de THC issu du chanvre aux États-Unis , à quelques semaines seulement de l’entrée en vigueur des restrictions fédérales. Alors que…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6ceefd4f5344333a4f99.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/thc-chanvre-etats-unis.jpg"
+    },
     {
       "id": "fdaf62f4a102752ef1fa",
       "title": "6,00, 5,95 oder 4,50 Euro: Drei Preise für dasselbe Gramm Medizinalcannabis",
@@ -765,9 +924,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 18,
-    "eligible": 18,
+    "available": 22,
+    "eligible": 22,
     "status": "ok",
-    "updatedAt": "2026-11-19T09:21:24.384726+00:00"
+    "updatedAt": "2026-11-19T13:27:40.901799+00:00"
   }
 }
