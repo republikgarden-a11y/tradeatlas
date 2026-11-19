@@ -1,75 +1,332 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-19T13:27:37.313156+00:00",
-  "lastSuccess": "2026-11-19T13:27:37.313156+00:00",
-  "status": "ok",
+  "attemptedAt": "2026-11-19T18:00:15.008014+00:00",
+  "lastSuccess": "2026-11-19T18:00:15.008014+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
-      "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-19T18:00:15.008014+00:00",
+      "error": "HTTP 415"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
+      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 6,
-      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
+      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
+      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
+      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-19T13:27:37.313156+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
     }
   ],
   "items": [
+    {
+      "id": "76c0e00e6f591f56e879",
+      "title": "Texas Lawmakers Should Not Miss The Chance To Modernize The State’s Cannabis Laws In 2027 (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/texas-lawmakers-should-not-miss-the-chance-to-modernize-the-states-cannabis-laws-in-2027-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T17:23:59+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "“Texas has a unique opportunity to show the rest of the nation how to unite medical cannabis, adult-use legalization and consumable hemp under one safe and smart regulatory roof.” By Adam Smith, Marijuana Policy Project…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Chanvre"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-466d7cff9129f6bd2958.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/05/texas-marijuana.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "df99034721bc22abef2c68a9b216dbd2d16852dd40f36404ca5bd6421a2e6314",
+        "sourceTitle": "Texas Lawmakers Should Not Miss The Chance To Modernize The State’s Cannabis Laws In 2027 (Op-Ed)",
+        "sourceExcerpt": "“Texas has a unique opportunity to show the rest of the nation how to unite medical cannabis, adult-use legalization and consumable hemp under one safe and smart regulatory roof.” By Adam Smith, Marijuana Policy Project…",
+        "title": "Les législateurs du Texas ne devraient pas manquer l’occasion de moderniser les lois sur le cannabis de l’État en 2027",
+        "excerpt": "« Le Texas a une occasion unique de montrer au reste du pays comment unir le cannabis médical, la légalisation à usage adulte et le chanvre consommable sous un même toit réglementaire sûr et intelligent. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T18:00:22.256007+00:00"
+      }
+    },
+    {
+      "id": "29c855644410238d953e",
+      "title": "Bedrocan: What Went Wrong? – The Administrators’ Account",
+      "url": "https://businessofcannabis.com/bedrocan-what-went-wrong-the-administrators-account/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-19T16:54:13+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "This is the final part of our three-part series examining the various, conflicting accounts of Bedrocan’s bankruptcy declaration. Health Minister Sophie Hermans’ account and founder and former chairman Tjalling…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-3871771dd3bd10e2c12d.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-58.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "7a8624472f13f84eafe6e887dcf18c02f08466bc1c15447649d572494ef65e63",
+        "sourceTitle": "Bedrocan: What Went Wrong? – The Administrators’ Account",
+        "sourceExcerpt": "This is the final part of our three-part series examining the various, conflicting accounts of Bedrocan’s bankruptcy declaration. Health Minister Sophie Hermans’ account and founder and former chairman Tjalling…",
+        "title": "Bedrocan: Qu’est-ce qui ne va pas? – Le compte des administrateurs",
+        "excerpt": "Ceci est la dernière partie de notre série en trois parties examinant les différents comptes contradictoires de la déclaration de faillite de Bedrocan […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T18:00:22.256007+00:00"
+      }
+    },
+    {
+      "id": "c2e4161e0e4ab02b8165",
+      "title": "Bedrocan: What Went Wrong? – The Founder’s Account",
+      "url": "https://businessofcannabis.com/bedrocan-what-went-wrong-the-founders-account/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-19T16:52:15+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "This is the second in a three-part series examining the various, conflicting accounts of Bedrocan’s bankruptcy declaration. The Health Minister Sophie Hermans’s account, and the initial findings of its administrators…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-c7b486ae88a32bd411b3.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-57.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "6d8b37d71d63739c3f73112b8007bcfd3d15c8356e462208cff3877fa69579f7",
+        "sourceTitle": "Bedrocan: What Went Wrong? – The Founder’s Account",
+        "sourceExcerpt": "This is the second in a three-part series examining the various, conflicting accounts of Bedrocan’s bankruptcy declaration. The Health Minister Sophie Hermans’s account, and the initial findings of its administrators…",
+        "title": "Bedrocan: Qu'est-ce qui ne va pas? - Le compte du fondateur",
+        "excerpt": "Il s’agit du deuxième d’une série de trois qui examine les différents récits contradictoires de la déclaration de faillite de Bedrocan […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T18:00:22.256007+00:00"
+      }
+    },
+    {
+      "id": "180bedd43874902c7185",
+      "title": "Bedrocan: What Went Wrong? – The Health Minister’s Account",
+      "url": "https://businessofcannabis.com/bedrocan-what-went-wrong-the-health-ministers-account/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-19T16:50:58+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "This is the first in a three-part series examining the various, conflicting accounts of Bedrocan’s bankruptcy declaration. Founder and former chairman Tjalling Erkelens account, and the initial findings of its…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-e847ccf32490b735454e.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-56.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "46343bf917c1f00e52d6859e0770faf6137cb5df8494abe4f9c2cc4a93e8ff35",
+        "sourceTitle": "Bedrocan: What Went Wrong? – The Health Minister’s Account",
+        "sourceExcerpt": "This is the first in a three-part series examining the various, conflicting accounts of Bedrocan’s bankruptcy declaration. Founder and former chairman Tjalling Erkelens account, and the initial findings of its…",
+        "title": "Bedrocan: Qu’est-ce qui ne va pas? – Le compte du ministre de la Santé",
+        "excerpt": "Il s’agit du premier d’une série de trois qui examine les différents récits contradictoires de la déclaration de faillite de Bedrocan […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T18:00:22.256007+00:00"
+      }
+    },
+    {
+      "id": "f74a2446a44e416397a1",
+      "title": "Cannabis Stocks Today — Thursday 19 November 2026: IM Cannabis trades at $0.54",
+      "url": "https://businessofcannabis.com/cannabis-stocks-today-thursday-19-november-2026-im-cannabis-trades-at-0-54/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-19T16:04:23+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "Cannabis stocks sit lower on Thursday, 19 November, with the latest quotes from Finnhub largely reflecting Wednesday’s trading. The AdvisorShares Pure US Cannabis ETF (MSOS) trades at $3.58, down 1.9%, while the Amplify…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6cd6c58497e886559024.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/02/Cash-Companies-Cannabis-41.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "70fffbcdbaf7d9ffb7a52d5b49ec77a7a53b39c87b4df490d9745e03d5fc4696",
+        "sourceTitle": "Cannabis Stocks Today — Thursday 19 November 2026: IM Cannabis trades at $0.54",
+        "sourceExcerpt": "Cannabis stocks sit lower on Thursday, 19 November, with the latest quotes from Finnhub largely reflecting Wednesday’s trading. The AdvisorShares Pure US Cannabis ETF (MSOS) trades at $3.58, down 1.9%, while the Amplify…",
+        "title": "Les stocks de cannabis aujourd'hui Jeudi 19 Novembre 2026: IM Cannabis se négocie à 0,54 $",
+        "excerpt": "Les actions de cannabis restent en baisse le jeudi 19 novembre, les dernières cotations de Finnhub reflétant en grande partie les échanges de mercredi […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T18:00:22.256007+00:00"
+      }
+    },
+    {
+      "id": "048d188bb132b97fa3e7",
+      "title": "Medical Marijuana Companies Sue DEA In Federal Court Over Restrictions It Imposed For Rescheduling Protections",
+      "url": "https://www.marijuanamoment.net/medical-marijuana-companies-sue-dea-in-federal-court-over-restrictions-it-imposed-for-rescheduling-protections/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T15:34:29+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "Three marijuana companies are taking the Drug Enforcement Administration (DEA) to court over restrictions the agency is placing on cannabis businesses under the Trump administration’s federal rescheduling move. Last…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-27e2bed8d0ff9aa6533f.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "36fbab1886031f04038a6607b6cb3f7735c4127fa4de661ac89de83cae90134d",
+        "sourceTitle": "Medical Marijuana Companies Sue DEA In Federal Court Over Restrictions It Imposed For Rescheduling Protections",
+        "sourceExcerpt": "Three marijuana companies are taking the Drug Enforcement Administration (DEA) to court over restrictions the agency is placing on cannabis businesses under the Trump administration’s federal rescheduling move. Last…",
+        "title": "Les compagnies de marijuana médicale poursuivent la DEA devant la Cour fédérale pour les restrictions qu'elle a imposées pour le rééchelonnement des protections",
+        "excerpt": "Trois sociétés de marijuana intentent des poursuites contre la Drug Enforcement Administration (DEA) au sujet des restrictions imposées par l’agence aux entreprises de cannabis dans le cadre du changement de calendrier fédéral de l’administration Trump […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T18:00:22.256007+00:00"
+      }
+    },
+    {
+      "id": "23ff9e390a6e2af6641e",
+      "title": "Indiana Voters Should Be Able To Decide On Legalizing Marijuana, New Secretary Of State Says",
+      "url": "https://www.marijuanamoment.net/indiana-voters-should-be-able-to-decide-on-legalizing-marijuana-new-secretary-of-state-says/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T14:14:15+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "Indiana’s incoming secretary of state wants to change the state constitution to let voters place initiatives on the ballot to advance issues that lawmakers aren’t addressing—including marijuana legalization. Under…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-66c90e04d0ea822322a9.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cananbis-leaf-hand-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "69d0fd2edeacd947cb7cccd8365cdf392f4c0edde742f695467754e29f83c044",
+        "sourceTitle": "Indiana Voters Should Be Able To Decide On Legalizing Marijuana, New Secretary Of State Says",
+        "sourceExcerpt": "Indiana’s incoming secretary of state wants to change the state constitution to let voters place initiatives on the ballot to advance issues that lawmakers aren’t addressing—including marijuana legalization. Under…",
+        "title": "Les électeurs de l'Indiana devraient être en mesure de décider de la légalisation de la marijuana, selon le nouveau secrétaire d'État",
+        "excerpt": "Le nouveau secrétaire d’État de l’Indiana veut changer la constitution de l’État pour permettre aux électeurs de placer des initiatives sur le bulletin de vote pour faire avancer des questions que les législateurs ne traitent pas, y compris la légalisation de la marijuana […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T18:00:22.256007+00:00"
+      }
+    },
+    {
+      "id": "fe5659409224097320fb",
+      "title": "La Finlande veut légaliser le cannabis sur le modèle allemand",
+      "url": "https://www.newsweed.fr/finlande-legaliser-cannabis-modele-allemand/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-19T13:00:17+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "Après le rejet par le Parlement finlandais, en février 2026, d’une initiative citoyenne visant à légaliser le cannabis, les partisans de la réforme reviennent à la charge avec une stratégie différente. Plutôt que de…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-be4e9adfc4c013d0adbd.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/projet-legalisation-cannabis-finlande.jpg"
+    },
     {
       "id": "2849688eb2c313607d9d",
       "title": "Senate Panel Wants To Keep Blocking DC From Legal Marijuana Sales, While Pushing Feds To Continue Cannabis Drug Testing Under Rescheduling",
@@ -924,9 +1181,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 22,
-    "eligible": 22,
+    "available": 29,
+    "eligible": 29,
     "status": "ok",
-    "updatedAt": "2026-11-19T13:27:40.901799+00:00"
+    "updatedAt": "2026-11-19T18:00:22.256007+00:00"
   }
 }
