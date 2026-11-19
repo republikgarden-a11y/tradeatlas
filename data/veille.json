@@ -1,13 +1,29 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-18T09:26:05Z",
-  "last_success": "2026-11-18T09:26:05Z",
+  "checked_at": "2026-11-19T09:29:22Z",
+  "last_success": "2026-11-19T09:29:22Z",
   "topics_checked": 4,
   "successful_topics": 4,
-  "new_items": 5,
+  "new_items": 3,
   "errors": [],
   "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeDBzT0hZc1VOVWthZkhmMTR1Q2Y5M1h0S0JhUzBnclU1VjJheXBWdUlZeGlDOHJnVWZGVjZSUHc3VEFjY3VmTjNBSHpBbzk5ODl1UUtpSTRhWTIyUmhEeFFOX2JaeWo3VEhuWGFMa19PRF9adU9ha3ZmS2V2NXhsanFVUEFtNG9hQnE5Q1htbm9ETDdQbnFZbmFXYm9YUFZGSU14YlhjcFA1TkhzLTN3LWlBQWRWbjRKSDZoc2JzdGJDUTZBcGE4UWZfOGdSZWt4ZkRCUy1rd1hfVlVKQ212dW4yOVJUdUZWTGJRMUtZcw?oc=5",
+      "title": "Vibe Packaging Now Offers a Certified Child-Resistant, Resealable Can End for Cannabis Beverages - Cannabis Business Times",
+      "topic": "Packaging & chanvre",
+      "domain": "Cannabis Business Times",
+      "published_at": "2026-11-19T00:26:11Z",
+      "first_seen": "2026-11-19T09:29:22Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd1RxSmJCdlJtaWQxUFB0bjNhUFdFR0ItQmpTLUtCcFFzU0h0dEVmVUZEcHBsUXJ5RUdDa3RPUmZ6a1VSY21QaklnZ2tncF9MNVNKZkdaZzBrdzNYX1VaQ2p2X183Nlp5QTVGbHc1T0M5aVFqNXZWdXdEeEN0cWxuMV9xelNYbmZqS21qV0paSzlmUzA?oc=5",
+      "title": "Five Questions With Sean Knutsen Of Boveda - Cigar Aficionado",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Cigar Aficionado",
+      "published_at": "2026-11-18T19:41:27Z",
+      "first_seen": "2026-11-19T09:29:22Z"
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORU1NdUxGVlFJYjExaVdQUFdoVlZCRlFSOWRGTkNPLVoxY294azhIUVY1M0xsQzlxSUtLdjBxNWJKbTh1aWI5MHJuTEVaTU93ckJ6ZTV1emVXMUFLb2dXYU8tOG9rQWNNckxzVzZrMkt0UVd3cVlORnpweGJPUThycw?oc=5",
       "title": "Still Smoking? Time to Upgrade Your Ritual - Hanf Magazin",
@@ -81,6 +97,14 @@
       "first_seen": "2026-11-16T10:20:28Z"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzVWZRRVZraHY2N3k4aWRMd3p5WGlNMWlxaXE1T0JaUlk5UGFMcGF5eXNCaUtOTWFIM19Ma2M2dnVYdWlyWkJQSnlDSmVaU01KNFY3UzdqZ1B2YWJtandRWm1fSTM0QzQ?oc=5",
+      "title": "Smoore International Holdings Limited (58K.F) insider ownership and holdings - Yahoo Finance UK",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Yahoo Finance UK",
+      "published_at": "2026-11-15T16:10:35Z",
+      "first_seen": "2026-11-16T10:20:28Z"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3cU1SbHdkbUJvX2lxSTROcWZ3RXdiSmV1TThHOEtkQnNkdTdoSjJuQmRoWHFrMElnZnB5SFd6cVFVcWNBNUhHZThwV2hFenNwVmIwZ1dtSkhIVW1mMFNBYlE5TQ?oc=5",
       "title": "Republic Technologies Inc. (DOCKF) Seasonal returns chart - Yahoo Finance UK",
       "topic": "Fabricants & marques suivis",
@@ -97,12 +121,12 @@
       "first_seen": "2026-11-16T10:20:28Z"
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzVWZRRVZraHY2N3k4aWRMd3p5WGlNMWlxaXE1T0JaUlk5UGFMcGF5eXNCaUtOTWFIM19Ma2M2dnVYdWlyWkJQSnlDSmVaU01KNFY3UzdqZ1B2YWJtandRWm1fSTM0QzQ?oc=5",
-      "title": "Smoore International Holdings Limited (58K.F) insider ownership and holdings - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSGFiWHZuclJQdlJTWl9KSzI1c01adUZBOWphX25nTG8zTWJDTXN2cE1OVFI1MXJfby1wVVhxcTFZS0tQYURMRWZZc2FEQS13S1RxWjBnckIzc0UyT2lCRHZqclRWR0l2UGMwQVV1Qk5ZblItWHFuZG1JRXQ5SkJIaUxjYw?oc=5",
+      "title": "Bigger Boveda Humidor Coming Next Week - Cigar Aficionado",
       "topic": "Fabricants & marques suivis",
-      "domain": "Yahoo Finance UK",
-      "published_at": "2026-11-13T19:15:43Z",
-      "first_seen": "2026-11-16T10:20:28Z"
+      "domain": "Cigar Aficionado",
+      "published_at": "2026-11-13T17:16:46Z",
+      "first_seen": "2026-11-19T09:29:22Z"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX3IyWnFYQWw5Z2otWTd2MHFjS3pSNnNTcmdka1ZNbWJBWk9RUi1QWW9hZ2RSOGlyYmlEU2licFgwbHJlNEI2blhNWElMVFJERlQ4Wl96YWV4Uzc1V0E0RHpGMldSTWZnUGZ4T1pyY1BVRDRYd0RLTm5SZ1NJempGU2p0cUI?oc=5",
