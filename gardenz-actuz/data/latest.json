@@ -1,8 +1,8 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-18T18:00:23.485855+00:00",
-  "lastSuccess": "2026-11-18T18:00:23.485855+00:00",
+  "attemptedAt": "2026-11-19T09:21:17.699580+00:00",
+  "lastSuccess": "2026-11-19T09:21:17.699580+00:00",
   "status": "ok",
   "sources": [
     {
@@ -10,66 +10,287 @@
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
+      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
+      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 7,
-      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
+      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
+      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
+      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-18T18:00:23.485855+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-19T09:21:17.699580+00:00"
     }
   ],
   "items": [
+    {
+      "id": "fdaf62f4a102752ef1fa",
+      "title": "6,00, 5,95 oder 4,50 Euro: Drei Preise für dasselbe Gramm Medizinalcannabis",
+      "url": "https://www.hanf-magazin.com/wirtschaft/drei-preise-fuer-dasselbe-gramm-medizinalcannabis-marktzahlen-2026/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-19T07:00:00+00:00",
+      "collectedAt": "2026-11-19T09:21:17.699580+00:00",
+      "excerpt": "Sechs Euro, 5,95 Euro oder 4,50 Euro: Für den Preis eines Gramms Medizinalcannabis kursieren derzeit drei Zahlen, und keine davon ist falsch. Sie messen nur drei verschiedene Dinge. Neue Marktdaten erklären, warum die…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-4660b8310854d194a4eb.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-getrocknete-cannabisblueten-auf-holzflaech-featured-83983.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "ef5653ff2e61812d3cc6f00b835f29b92d95120a6c5f8bcea47f49c0da914cf7",
+        "sourceTitle": "6,00, 5,95 oder 4,50 Euro: Drei Preise für dasselbe Gramm Medizinalcannabis",
+        "sourceExcerpt": "Sechs Euro, 5,95 Euro oder 4,50 Euro: Für den Preis eines Gramms Medizinalcannabis kursieren derzeit drei Zahlen, und keine davon ist falsch. Sie messen nur drei verschiedene Dinge. Neue Marktdaten erklären, warum die…",
+        "title": "6,00 €, 5,95 € ou 4,50 € : Trois prix pour le même gramme de cannabis médical",
+        "excerpt": "Six euros, 5,95 euros ou 4,50 euros : Pour le prix d'un gramme de cannabis médical, trois chiffres circulent actuellement, et aucun d'entre eux n'est faux. Ils mesurent simplement trois choses différentes […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-19T09:21:24.384726+00:00"
+      }
+    },
+    {
+      "id": "a242844a0d6f538c3fea",
+      "title": "Federal Bill Aims to Establish Hemp Regulations as Ban Looms",
+      "url": "https://ganjapreneur.com/federal-bill-aims-to-establish-hemp-regulations-as-ban-looms/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T06:51:28+00:00",
+      "collectedAt": "2026-11-19T09:21:17.699580+00:00",
+      "excerpt": "Senators Tim Sheehy (R-MT) and Amy Klobuchar (D-MN) on Tuesday introduced the Hemp Guardrails Act, which would establish federal regulations for hemp-derived consumer products. The bipartisan proposal would prohibit the…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-4f77e8fd22278961e48f.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/dea-lawsuit.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "7e8e857d02e49c0518e5b7b4eb8da3e19e761895f461ba999bc23f75e395b017",
+        "sourceTitle": "Federal Bill Aims to Establish Hemp Regulations as Ban Looms",
+        "sourceExcerpt": "Senators Tim Sheehy (R-MT) and Amy Klobuchar (D-MN) on Tuesday introduced the Hemp Guardrails Act, which would establish federal regulations for hemp-derived consumer products. The bipartisan proposal would prohibit the…",
+        "title": "Un projet de loi fédéral vise à établir un règlement sur le chanvre comme loi d'interdiction",
+        "excerpt": "Les sénateurs Tim Sheehy (R-MT) et Amy Klobuchar (D-MN) ont présenté mardi la Loi sur les garde-corps en chanvre, qui établirait des règlements fédéraux pour les produits de consommation dérivés du chanvre […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T09:21:24.384726+00:00"
+      }
+    },
+    {
+      "id": "01af4711805ee2ff04f7",
+      "title": "Massachusetts to Allow Drive-Thru Sales at Cannabis Dispensaries",
+      "url": "https://ganjapreneur.com/massachusetts-to-allow-drive-thru-sales-at-cannabis-dispensaries/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T06:51:03+00:00",
+      "collectedAt": "2026-11-19T09:21:17.699580+00:00",
+      "excerpt": "The Massachusetts Cannabis Control Commission (CCC) on Tuesday voted unanimously to allow cannabis dispensaries to operate drive-thrus, WCVB 5 reports. Businesses must submit their plans for review and regulatory…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-aa3c9d6083165001f96c.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/drivingsunset.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "a2424874888beb15a09672659d49fa60952ef134cd0a63dcfcabbb47f41af569",
+        "sourceTitle": "Massachusetts to Allow Drive-Thru Sales at Cannabis Dispensaries",
+        "sourceExcerpt": "The Massachusetts Cannabis Control Commission (CCC) on Tuesday voted unanimously to allow cannabis dispensaries to operate drive-thrus, WCVB 5 reports. Businesses must submit their plans for review and regulatory…",
+        "title": "Le Massachusetts autorise les ventes de drive-thru dans les dispensaires de cannabis",
+        "excerpt": "La Commission de contrôle du cannabis du Massachusetts (CCC) a voté mardi à l'unanimité pour permettre aux dispensaires de cannabis d'opérer en voiture, rapporte WCVB 5 […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T09:21:24.384726+00:00"
+      }
+    },
+    {
+      "id": "469d4ee7818369ffe29f",
+      "title": "Virginia Lawmakers Consider Using Future Cannabis Taxes to Expand Substance Abuse Prevention and Counseling in Public Schools",
+      "url": "https://ganjapreneur.com/virginia-lawmakers-consider-using-future-cannabis-taxes-to-expand-substance-abuse-prevention-and-counseling-in-public-schools/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T06:49:11+00:00",
+      "collectedAt": "2026-11-19T09:21:17.699580+00:00",
+      "excerpt": "Virginia lawmakers are considering using future cannabis tax revenue to expand substance use prevention and counseling in public schools, the Virginia Mercury reports. The discussion comes following a recent survey that…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-5f497efb5f676608d953.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/06/va-legal-2.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "717c749a310b59341667f72f53748eba8d813e04b9108ef2741281564d4bfc13",
+        "sourceTitle": "Virginia Lawmakers Consider Using Future Cannabis Taxes to Expand Substance Abuse Prevention and Counseling in Public Schools",
+        "sourceExcerpt": "Virginia lawmakers are considering using future cannabis tax revenue to expand substance use prevention and counseling in public schools, the Virginia Mercury reports. The discussion comes following a recent survey that…",
+        "title": "Les législateurs de Virginie envisagent d’utiliser les taxes futures sur le cannabis pour développer la prévention de la toxicomanie et le counseling dans les écoles publiques",
+        "excerpt": "Les législateurs de Virginie envisagent d’utiliser les recettes fiscales futures du cannabis pour développer la prévention et le conseil en matière de consommation de substances dans les écoles publiques, rapporte Virginia Mercury […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T09:21:24.384726+00:00"
+      }
+    },
+    {
+      "id": "41e6e53bec10144679ea",
+      "title": "Congress Holds Hearing On Psychedelics’ Medical Benefits For Military Veterans",
+      "url": "https://www.marijuanamoment.net/congress-holds-hearing-on-psychedelics-medical-benefits-for-military-veterans/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-18T21:16:05+00:00",
+      "collectedAt": "2026-11-19T09:21:17.699580+00:00",
+      "excerpt": "A congressional committee held a hearing about increasing military veterans’ access to psychedelic treatments—with officials from the U.S. Department of Veterans Affairs (VA) testifying alongside medical professionals…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-061829129521d4554da9.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/05/us-capitol-congress-psilocybin-psychedelic-mushroom.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "ee9640e99a9c13f5d3e13488d9192275ae1b097f76d254b62deb992b23de0ee8",
+        "sourceTitle": "Congress Holds Hearing On Psychedelics’ Medical Benefits For Military Veterans",
+        "sourceExcerpt": "A congressional committee held a hearing about increasing military veterans’ access to psychedelic treatments—with officials from the U.S. Department of Veterans Affairs (VA) testifying alongside medical professionals…",
+        "title": "Le Congrès tient une audience sur les avantages médicaux des psychédéliques pour les anciens combattants",
+        "excerpt": "Un comité du Congrès a tenu une audience sur l’augmentation de l’accès des anciens combattants militaires aux traitements psychédéliques – avec des responsables des États-Unis […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T09:21:24.384726+00:00"
+      }
+    },
+    {
+      "id": "9d0c7bc5a71807dd71af",
+      "title": "Texas Has A ‘Clear Path’ To Legalizing Marijuana In 2027, Advocates Say, Even As Obstacles Remain",
+      "url": "https://www.marijuanamoment.net/texas-has-a-clear-path-to-legalizing-marijuana-in-2027-advocates-say-even-as-obstacles-remain/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-18T18:56:50+00:00",
+      "collectedAt": "2026-11-19T09:21:17.699580+00:00",
+      "excerpt": "“There are Republican senators who believe in cannabis law reform, and it remains to be seen what the environment in the Senate is going to be.” By Stephen Simpson, The Texas Tribune Sarah Todd, director of the Texas…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-fe0c81f79fbe10176871.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/02/Wild-Creek-Visit_Max-Jackson_ILCE-7RM3_0014.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "142d259588398792cf583187a1bd6e29e021b54171cb3a57619b215672f8dbe4",
+        "sourceTitle": "Texas Has A ‘Clear Path’ To Legalizing Marijuana In 2027, Advocates Say, Even As Obstacles Remain",
+        "sourceExcerpt": "“There are Republican senators who believe in cannabis law reform, and it remains to be seen what the environment in the Senate is going to be.” By Stephen Simpson, The Texas Tribune Sarah Todd, director of the Texas…",
+        "title": "Le Texas a un «chemin clair» pour légaliser la marijuana en 2027, selon les avocats, même si des obstacles subsistent",
+        "excerpt": "« Il y a des sénateurs républicains qui croient en la réforme de la loi sur le cannabis, et il reste à voir ce que sera l’environnement au Sénat. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T09:21:24.384726+00:00"
+      }
+    },
+    {
+      "id": "7c4e2c1dde83f16eb60f",
+      "title": "Royaume-Uni : Boots devient la première grande pharmacie de rue à prescrire du cannabis médical",
+      "url": "https://lecannabiste.com/royaume-uni-boots-devient-la-premiere-grande-pharmacie-de-rue-a-prescrire-du-cannabis-medical/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-18T18:47:00+00:00",
+      "collectedAt": "2026-11-19T09:21:17.699580+00:00",
+      "excerpt": "Une grande enseigne de pharmacie britannique ouvre SureLeaf, un service de cannabis médical sur prescription en ligne pour la douleur chronique, l'anxiété et l'insomnie.",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9f90c0ef324364749d26.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/featured-7.webp"
+    },
     {
       "id": "275433c1eb21b8544cd1",
       "title": "Houston City Council Officially Makes Marijuana A Low Priority For Police After Voters Approve Ballot Measure",
@@ -4974,9 +5195,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 123,
-    "eligible": 123,
+    "available": 129,
+    "eligible": 129,
     "status": "ok",
-    "updatedAt": "2026-11-18T18:00:30.091427+00:00"
+    "updatedAt": "2026-11-19T09:21:24.384726+00:00"
   }
 }
