@@ -1,8 +1,8 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-20T09:16:52.992370+00:00",
-  "lastSuccess": "2026-11-20T09:16:52.992370+00:00",
+  "attemptedAt": "2026-11-20T13:22:20.969482+00:00",
+  "lastSuccess": "2026-11-20T13:22:20.969482+00:00",
   "status": "ok",
   "sources": [
     {
@@ -10,66 +10,240 @@
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
     }
   ],
   "items": [
+    {
+      "id": "bf37cd369603d76ed2fd",
+      "title": "Texas Congressman Says GOP Was Punished In The Election By Voters Who Were ‘Pissed Off’ About Cannabis Ban",
+      "url": "https://www.marijuanamoment.net/texas-congressman-says-gop-was-punished-in-the-election-by-voters-who-were-pissed-off-about-cannabis-ban/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-20T12:50:11+00:00",
+      "collectedAt": "2026-11-20T13:22:20.969482+00:00",
+      "excerpt": "A Democratic congressman from Texas says cannabis policy was a major under-noticed reason that Republicans in his state did so poorly in this month’s midterm elections. “One thing that didn’t get a lot of attention, but…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-cf8fcffb34f18e7448fa.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-hand-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "2d9ac1504e6a6657d46c3e8605f432a48303b28484ab53b1667bd1b2398812c9",
+        "sourceTitle": "Texas Congressman Says GOP Was Punished In The Election By Voters Who Were ‘Pissed Off’ About Cannabis Ban",
+        "sourceExcerpt": "A Democratic congressman from Texas says cannabis policy was a major under-noticed reason that Republicans in his state did so poorly in this month’s midterm elections. “One thing that didn’t get a lot of attention, but…",
+        "title": "Un membre du Congrès du Texas dit que le GOP a été puni lors de l'élection par des électeurs qui ont été \"piqués\" à propos de l'interdiction du cannabis",
+        "excerpt": "Un membre du Congrès démocrate du Texas a déclaré que la politique du cannabis était une raison majeure sous-estimée pour laquelle les républicains de son État avaient si mal fait lors des élections de mi-mandat de ce mois-ci […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-20T13:22:25.317312+00:00"
+      }
+    },
+    {
+      "id": "6009f011aa64b560a428",
+      "title": "Cannabis companies sue DEA over rescheduling requirements (Newsletter: November 20, 2026)",
+      "url": "https://www.marijuanamoment.net/cannabis-companies-sue-dea-over-rescheduling-requirements-newsletter-november-20-2026/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-20T11:12:55+00:00",
+      "collectedAt": "2026-11-20T13:22:20.969482+00:00",
+      "excerpt": "Senate panel’s new marijuana & psychedelics stances; IN secretary of state: Allow cannabis on ballot; Philadelphia officials: PA should legalize Subscribe to receive Marijuana Moment’s newsletter in your inbox every…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-00825caa931eb5acb39c.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2018/08/cannabis-leaf.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "c70868356cd0e51648b6e217fab7a02370000f683735d96c97d6abe6a27a61ae",
+        "sourceTitle": "Cannabis companies sue DEA over rescheduling requirements (Newsletter: November 20, 2026)",
+        "sourceExcerpt": "Senate panel’s new marijuana & psychedelics stances; IN secretary of state: Allow cannabis on ballot; Philadelphia officials: PA should legalize Subscribe to receive Marijuana Moment’s newsletter in your inbox every…",
+        "title": "Les sociétés de cannabis poursuivent la DEA pour des exigences de rééchelonnement (Newsletter: 20 novembre 2026)",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-20T13:22:25.317312+00:00"
+      }
+    },
+    {
+      "id": "6c835ce7f047bcaead46",
+      "title": "Spürt man CBD doch? Erst bei 200 Milligramm ein Effekt, bei 100 nicht",
+      "url": "https://www.hanf-magazin.com/wissenschaft/studien/spuert-man-cbd-doch-studie-findet-bei-200-milligramm-einen-leichten-effekt/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-20T11:00:00+00:00",
+      "collectedAt": "2026-11-20T13:22:20.969482+00:00",
+      "excerpt": "CBD gilt als das Cannabinoid, das man nicht spürt. Eine klinische Studie aus Montreal zeichnet ein genaueres Bild: Bei 200 Milligramm berichteten gesunde Gelegenheitskonsumenten von einem leichten, aber messbar…",
+      "topics": [
+        "Santé & recherche",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-e6b88ba81e3dfd0ec97f.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-weichkapseln-zwei-gruppen-featured-83785.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "7c846bd27692b456b9316d549e999efb15eca1e2425ed0496dc20007be08fc7e",
+        "sourceTitle": "Spürt man CBD doch? Erst bei 200 Milligramm ein Effekt, bei 100 nicht",
+        "sourceExcerpt": "CBD gilt als das Cannabinoid, das man nicht spürt. Eine klinische Studie aus Montreal zeichnet ein genaueres Bild: Bei 200 Milligramm berichteten gesunde Gelegenheitskonsumenten von einem leichten, aber messbar…",
+        "title": "Est-ce que l'on perçoit du CBD ? Un effet apparaît seulement à 200 milligrammes, pas à 100.",
+        "excerpt": "Le CBD est considéré comme le cannabinoïde que l'on ne perçoit pas […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-20T13:22:25.317312+00:00"
+      }
+    },
+    {
+      "id": "9eab1c5437d2ec399b9d",
+      "title": "‘Patient First, Suspect Second’: Richard List on Medical Cannabis and Policing in the UK",
+      "url": "https://cannabishealthnews.co.uk/2026/11/20/patient-first-suspect-second-richard-list-on-medical-cannabis-and-policing-in-the-uk/",
+      "source": "Cannabis Health",
+      "sourceFeed": "https://cannabishealthnews.co.uk/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-20T10:40:20+00:00",
+      "collectedAt": "2026-11-20T13:22:20.969482+00:00",
+      "excerpt": "Ahead of the Cannabis Health London Symposium next week, senior police drugs adviser Richard List warns of gaps in UK police knowledge of medical cannabis, while welcoming growing engagement and outlining plans for new…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-82101aab08a5ea265c67.png",
+      "credit": "Cannabis Health · image de l’article",
+      "imageSource": "https://cannabishealthnews.co.uk/wp-content/uploads/2026/11/Richard-List-Quote-Hero-1.png",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "a56ebc4e49b595ec376d6b96a43745a19514521665b2c97c3903453fd4796d07",
+        "sourceTitle": "‘Patient First, Suspect Second’: Richard List on Medical Cannabis and Policing in the UK",
+        "sourceExcerpt": "Ahead of the Cannabis Health London Symposium next week, senior police drugs adviser Richard List warns of gaps in UK police knowledge of medical cannabis, while welcoming growing engagement and outlining plans for new…",
+        "title": "« Le patient d’abord, le suspect ensuite » : liste de Richard sur le cannabis médical et les services de police au Royaume-Uni",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-20T13:22:25.317312+00:00"
+      }
+    },
+    {
+      "id": "2588503c6b6f56251e5e",
+      "title": "Le Massachusetts donne son feu vert à la vente de cannabis au drive",
+      "url": "https://www.newsweed.fr/massachusetts-feu-vert-vente-cannabis-drive/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-20T09:35:24+00:00",
+      "collectedAt": "2026-11-20T13:22:20.969482+00:00",
+      "excerpt": "Le Massachusetts ouvre la voie aux points de vente de cannabis avec service au volant, permettant ainsi aux dispensaires de servir les clients directement depuis leur véhicule. Approuvé à l’unanimité par les autorités…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-0093689169e537d218b0.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/05/cannabis-drive-in.jpg"
+    },
+    {
+      "id": "49e15d0beb608e1cea56",
+      "title": "Faux CBD de synthèse : l’alerte de Saint-Lô remonte au ministère de la Santé",
+      "url": "https://lecannabiste.com/faux-cbd-de-synthese-lalerte-de-saint-lo-remonte-au-ministere-de-la-sante/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-20T09:20:00+00:00",
+      "collectedAt": "2026-11-20T13:22:20.969482+00:00",
+      "excerpt": "Partie de Saint-Lô, une alerte sur des faux CBD contenant des cannabinoïdes de synthèse a conduit un député de la Manche à saisir le ministère de la Santé et à réclamer une réponse nationale.",
+      "topics": [
+        "Santé & recherche",
+        "CBD & molécules"
+      ],
+      "kind": "Article",
+      "image": "assets/live-5c3095e11816612b58dc.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/featured-10.webp"
+    },
     {
       "id": "a0a937b66710c5e1d3d3",
       "title": "Blank& im Porträt: CBD-Naturkosmetik aus Finnland, von Gesichtsöl bis Gleitmittel",
@@ -581,9 +755,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 13,
-    "eligible": 13,
+    "available": 17,
+    "eligible": 17,
     "status": "ok",
-    "updatedAt": "2026-11-20T09:16:57.423208+00:00"
+    "updatedAt": "2026-11-20T13:22:25.317312+00:00"
   }
 }
