@@ -1,76 +1,142 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-19T18:00:15.008014+00:00",
-  "lastSuccess": "2026-11-19T18:00:15.008014+00:00",
-  "status": "partial",
+  "attemptedAt": "2026-11-20T09:16:52.992370+00:00",
+  "lastSuccess": "2026-11-20T09:16:52.992370+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
-      "ok": false,
-      "count": 0,
-      "checkedAt": "2026-11-19T18:00:15.008014+00:00",
-      "error": "HTTP 415"
+      "ok": true,
+      "count": 3,
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 6,
-      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-19T18:00:15.008014+00:00"
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
     }
   ],
   "items": [
+    {
+      "id": "a0a937b66710c5e1d3d3",
+      "title": "Blank& im Porträt: CBD-Naturkosmetik aus Finnland, von Gesichtsöl bis Gleitmittel",
+      "url": "https://www.hanf-magazin.com/produktvorstellungen/blank-and-cbd-naturkosmetik-finnland/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-20T07:00:00+00:00",
+      "collectedAt": "2026-11-20T09:16:52.992370+00:00",
+      "excerpt": "Anzeige. Dieser Beitrag ist Teil einer bezahlten Werbekooperation mit der finnischen Kosmetikmarke Blank&. Wir erhalten dafür ein Honorar und werden zusätzlich an Verkäufen beteiligt, die über die Links in diesem…",
+      "topics": [
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-2dd2d99e9352f14c4e00.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/blank-and-cbd-kosmetik-stillleben.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "64e393d8e8ba19d6ecb40f5ffff59090c93bf2ec5a728ab9bcce5459b8969c39",
+        "sourceTitle": "Blank& im Porträt: CBD-Naturkosmetik aus Finnland, von Gesichtsöl bis Gleitmittel",
+        "sourceExcerpt": "Anzeige. Dieser Beitrag ist Teil einer bezahlten Werbekooperation mit der finnischen Kosmetikmarke Blank&. Wir erhalten dafür ein Honorar und werden zusätzlich an Verkäufen beteiligt, die über die Links in diesem…",
+        "title": "Blank& en portrait : cosmétiques naturelles à base de CBD du Finlande, des huiles pour le visage aux produits de glissement",
+        "excerpt": "Publicité. Cet article fait partie d'une coopération publicitaire avec la marque de cosmétiques finlandaise Blank& […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-20T09:16:57.423208+00:00"
+      }
+    },
+    {
+      "id": "c4c5233cf5db5a19845e",
+      "title": "Pennsylvania Should Legalize Marijuana Under New Democratic Control, Philadelphia City Council Resolution Says",
+      "url": "https://www.marijuanamoment.net/pennsylvania-should-legalize-marijuana-under-new-democratic-control-philadelphia-city-council-resolution-says/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T18:15:55+00:00",
+      "collectedAt": "2026-11-20T09:16:52.992370+00:00",
+      "excerpt": "Local officials in Pennsylvania’s most populous city are calling on state lawmakers to pass a bill to legalize marijuana now that Democrats have full control of the legislature. “Over the past decade, repeated efforts…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9677e072b4ea68ccfff5.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/cannabis-marijuana-hand-sky-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "12feb545b0c02b0344018f6e1221044fa129debbed727e8233ae362bbf02b00e",
+        "sourceTitle": "Pennsylvania Should Legalize Marijuana Under New Democratic Control, Philadelphia City Council Resolution Says",
+        "sourceExcerpt": "Local officials in Pennsylvania’s most populous city are calling on state lawmakers to pass a bill to legalize marijuana now that Democrats have full control of the legislature. “Over the past decade, repeated efforts…",
+        "title": "La Pennsylvanie devrait légaliser la marijuana sous un nouveau contrôle démocratique, selon une résolution du conseil municipal de Philadelphie",
+        "excerpt": "Les responsables locaux de la ville la plus peuplée de Pennsylvanie appellent les législateurs de l’État à adopter un projet de loi visant à légaliser la marijuana maintenant que les démocrates ont le contrôle total de la législature […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-20T09:16:57.423208+00:00"
+      }
+    },
     {
       "id": "76c0e00e6f591f56e879",
       "title": "Texas Lawmakers Should Not Miss The Chance To Modernize The State’s Cannabis Laws In 2027 (Op-Ed)",
@@ -274,6 +340,27 @@
         "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
         "translatedAt": "2026-11-19T18:00:22.256007+00:00"
       }
+    },
+    {
+      "id": "12a7a117b8c7cb39f344",
+      "title": "Géorgie : premier État américain à livrer le cannabis médical par la poste",
+      "url": "https://lecannabiste.com/georgie-premier-etat-americain-a-livrer-le-cannabis-medical-par-la-poste/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-19T15:28:00+00:00",
+      "collectedAt": "2026-11-20T09:16:52.992370+00:00",
+      "excerpt": "La Géorgie devient le premier État américain à expédier du cannabis médical aux patients par la poste, sur fond de requalification fédérale et de flou juridique persistant.",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "CBD & molécules"
+      ],
+      "kind": "Article",
+      "image": "assets/live-a6244e67dbb6c4bb99bd.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/featured-9.webp"
     },
     {
       "id": "23ff9e390a6e2af6641e",
@@ -5611,9 +5698,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 140,
-    "eligible": 140,
+    "available": 142,
+    "eligible": 142,
     "status": "ok",
-    "updatedAt": "2026-11-19T18:00:22.256007+00:00"
+    "updatedAt": "2026-11-20T09:16:57.423208+00:00"
   }
 }

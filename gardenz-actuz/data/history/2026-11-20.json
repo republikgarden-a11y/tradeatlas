@@ -1,0 +1,589 @@
+{
+  "version": 3,
+  "mode": "public-rss",
+  "attemptedAt": "2026-11-20T09:16:52.992370+00:00",
+  "lastSuccess": "2026-11-20T09:16:52.992370+00:00",
+  "status": "ok",
+  "sources": [
+    {
+      "name": "Newsweed",
+      "url": "https://www.newsweed.fr/feed/",
+      "ok": true,
+      "count": 4,
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+    },
+    {
+      "name": "Le Cannabiste",
+      "url": "https://lecannabiste.com/feed/",
+      "ok": true,
+      "count": 3,
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+    },
+    {
+      "name": "Marijuana Moment",
+      "url": "https://www.marijuanamoment.net/feed/",
+      "ok": true,
+      "count": 10,
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+    },
+    {
+      "name": "Ganjapreneur",
+      "url": "https://www.ganjapreneur.com/feed/",
+      "ok": true,
+      "count": 5,
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+    },
+    {
+      "name": "Hanf Magazin",
+      "url": "https://www.hanf-magazin.com/feed/",
+      "ok": true,
+      "count": 2,
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+    },
+    {
+      "name": "Business of Cannabis",
+      "url": "https://businessofcannabis.com/feed/",
+      "ok": true,
+      "count": 6,
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+    },
+    {
+      "name": "HempToday",
+      "url": "https://hemptoday.net/feed/",
+      "ok": true,
+      "count": 1,
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+    },
+    {
+      "name": "Cannabis Health",
+      "url": "https://cannabishealthnews.co.uk/feed/",
+      "ok": true,
+      "count": 2,
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+    },
+    {
+      "name": "NORML",
+      "url": "https://norml.org/feed/",
+      "ok": true,
+      "count": 0,
+      "checkedAt": "2026-11-20T09:16:52.992370+00:00"
+    }
+  ],
+  "items": [
+    {
+      "id": "a0a937b66710c5e1d3d3",
+      "title": "Blank& im Porträt: CBD-Naturkosmetik aus Finnland, von Gesichtsöl bis Gleitmittel",
+      "url": "https://www.hanf-magazin.com/produktvorstellungen/blank-and-cbd-naturkosmetik-finnland/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-20T07:00:00+00:00",
+      "collectedAt": "2026-11-20T09:16:52.992370+00:00",
+      "excerpt": "Anzeige. Dieser Beitrag ist Teil einer bezahlten Werbekooperation mit der finnischen Kosmetikmarke Blank&. Wir erhalten dafür ein Honorar und werden zusätzlich an Verkäufen beteiligt, die über die Links in diesem…",
+      "topics": [
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-2dd2d99e9352f14c4e00.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/blank-and-cbd-kosmetik-stillleben.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "64e393d8e8ba19d6ecb40f5ffff59090c93bf2ec5a728ab9bcce5459b8969c39",
+        "sourceTitle": "Blank& im Porträt: CBD-Naturkosmetik aus Finnland, von Gesichtsöl bis Gleitmittel",
+        "sourceExcerpt": "Anzeige. Dieser Beitrag ist Teil einer bezahlten Werbekooperation mit der finnischen Kosmetikmarke Blank&. Wir erhalten dafür ein Honorar und werden zusätzlich an Verkäufen beteiligt, die über die Links in diesem…",
+        "title": "Blank& en portrait : cosmétiques naturelles à base de CBD du Finlande, des huiles pour le visage aux produits de glissement",
+        "excerpt": "Publicité. Cet article fait partie d'une coopération publicitaire avec la marque de cosmétiques finlandaise Blank& […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-20T09:16:57.423208+00:00"
+      }
+    },
+    {
+      "id": "c4c5233cf5db5a19845e",
+      "title": "Pennsylvania Should Legalize Marijuana Under New Democratic Control, Philadelphia City Council Resolution Says",
+      "url": "https://www.marijuanamoment.net/pennsylvania-should-legalize-marijuana-under-new-democratic-control-philadelphia-city-council-resolution-says/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T18:15:55+00:00",
+      "collectedAt": "2026-11-20T09:16:52.992370+00:00",
+      "excerpt": "Local officials in Pennsylvania’s most populous city are calling on state lawmakers to pass a bill to legalize marijuana now that Democrats have full control of the legislature. “Over the past decade, repeated efforts…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9677e072b4ea68ccfff5.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/cannabis-marijuana-hand-sky-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "12feb545b0c02b0344018f6e1221044fa129debbed727e8233ae362bbf02b00e",
+        "sourceTitle": "Pennsylvania Should Legalize Marijuana Under New Democratic Control, Philadelphia City Council Resolution Says",
+        "sourceExcerpt": "Local officials in Pennsylvania’s most populous city are calling on state lawmakers to pass a bill to legalize marijuana now that Democrats have full control of the legislature. “Over the past decade, repeated efforts…",
+        "title": "La Pennsylvanie devrait légaliser la marijuana sous un nouveau contrôle démocratique, selon une résolution du conseil municipal de Philadelphie",
+        "excerpt": "Les responsables locaux de la ville la plus peuplée de Pennsylvanie appellent les législateurs de l’État à adopter un projet de loi visant à légaliser la marijuana maintenant que les démocrates ont le contrôle total de la législature […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-20T09:16:57.423208+00:00"
+      }
+    },
+    {
+      "id": "76c0e00e6f591f56e879",
+      "title": "Texas Lawmakers Should Not Miss The Chance To Modernize The State’s Cannabis Laws In 2027 (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/texas-lawmakers-should-not-miss-the-chance-to-modernize-the-states-cannabis-laws-in-2027-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T17:23:59+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "“Texas has a unique opportunity to show the rest of the nation how to unite medical cannabis, adult-use legalization and consumable hemp under one safe and smart regulatory roof.” By Adam Smith, Marijuana Policy Project…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Chanvre"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-466d7cff9129f6bd2958.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/05/texas-marijuana.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "df99034721bc22abef2c68a9b216dbd2d16852dd40f36404ca5bd6421a2e6314",
+        "sourceTitle": "Texas Lawmakers Should Not Miss The Chance To Modernize The State’s Cannabis Laws In 2027 (Op-Ed)",
+        "sourceExcerpt": "“Texas has a unique opportunity to show the rest of the nation how to unite medical cannabis, adult-use legalization and consumable hemp under one safe and smart regulatory roof.” By Adam Smith, Marijuana Policy Project…",
+        "title": "Les législateurs du Texas ne devraient pas manquer l’occasion de moderniser les lois sur le cannabis de l’État en 2027",
+        "excerpt": "« Le Texas a une occasion unique de montrer au reste du pays comment unir le cannabis médical, la légalisation à usage adulte et le chanvre consommable sous un même toit réglementaire sûr et intelligent. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T18:00:22.256007+00:00"
+      }
+    },
+    {
+      "id": "29c855644410238d953e",
+      "title": "Bedrocan: What Went Wrong? – The Administrators’ Account",
+      "url": "https://businessofcannabis.com/bedrocan-what-went-wrong-the-administrators-account/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-19T16:54:13+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "This is the final part of our three-part series examining the various, conflicting accounts of Bedrocan’s bankruptcy declaration. Health Minister Sophie Hermans’ account and founder and former chairman Tjalling…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-3871771dd3bd10e2c12d.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-58.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "7a8624472f13f84eafe6e887dcf18c02f08466bc1c15447649d572494ef65e63",
+        "sourceTitle": "Bedrocan: What Went Wrong? – The Administrators’ Account",
+        "sourceExcerpt": "This is the final part of our three-part series examining the various, conflicting accounts of Bedrocan’s bankruptcy declaration. Health Minister Sophie Hermans’ account and founder and former chairman Tjalling…",
+        "title": "Bedrocan: Qu’est-ce qui ne va pas? – Le compte des administrateurs",
+        "excerpt": "Ceci est la dernière partie de notre série en trois parties examinant les différents comptes contradictoires de la déclaration de faillite de Bedrocan […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T18:00:22.256007+00:00"
+      }
+    },
+    {
+      "id": "c2e4161e0e4ab02b8165",
+      "title": "Bedrocan: What Went Wrong? – The Founder’s Account",
+      "url": "https://businessofcannabis.com/bedrocan-what-went-wrong-the-founders-account/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-19T16:52:15+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "This is the second in a three-part series examining the various, conflicting accounts of Bedrocan’s bankruptcy declaration. The Health Minister Sophie Hermans’s account, and the initial findings of its administrators…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-c7b486ae88a32bd411b3.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-57.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "6d8b37d71d63739c3f73112b8007bcfd3d15c8356e462208cff3877fa69579f7",
+        "sourceTitle": "Bedrocan: What Went Wrong? – The Founder’s Account",
+        "sourceExcerpt": "This is the second in a three-part series examining the various, conflicting accounts of Bedrocan’s bankruptcy declaration. The Health Minister Sophie Hermans’s account, and the initial findings of its administrators…",
+        "title": "Bedrocan: Qu'est-ce qui ne va pas? - Le compte du fondateur",
+        "excerpt": "Il s’agit du deuxième d’une série de trois qui examine les différents récits contradictoires de la déclaration de faillite de Bedrocan […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T18:00:22.256007+00:00"
+      }
+    },
+    {
+      "id": "180bedd43874902c7185",
+      "title": "Bedrocan: What Went Wrong? – The Health Minister’s Account",
+      "url": "https://businessofcannabis.com/bedrocan-what-went-wrong-the-health-ministers-account/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-19T16:50:58+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "This is the first in a three-part series examining the various, conflicting accounts of Bedrocan’s bankruptcy declaration. Founder and former chairman Tjalling Erkelens account, and the initial findings of its…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-e847ccf32490b735454e.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-56.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "46343bf917c1f00e52d6859e0770faf6137cb5df8494abe4f9c2cc4a93e8ff35",
+        "sourceTitle": "Bedrocan: What Went Wrong? – The Health Minister’s Account",
+        "sourceExcerpt": "This is the first in a three-part series examining the various, conflicting accounts of Bedrocan’s bankruptcy declaration. Founder and former chairman Tjalling Erkelens account, and the initial findings of its…",
+        "title": "Bedrocan: Qu’est-ce qui ne va pas? – Le compte du ministre de la Santé",
+        "excerpt": "Il s’agit du premier d’une série de trois qui examine les différents récits contradictoires de la déclaration de faillite de Bedrocan […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T18:00:22.256007+00:00"
+      }
+    },
+    {
+      "id": "f74a2446a44e416397a1",
+      "title": "Cannabis Stocks Today — Thursday 19 November 2026: IM Cannabis trades at $0.54",
+      "url": "https://businessofcannabis.com/cannabis-stocks-today-thursday-19-november-2026-im-cannabis-trades-at-0-54/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-19T16:04:23+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "Cannabis stocks sit lower on Thursday, 19 November, with the latest quotes from Finnhub largely reflecting Wednesday’s trading. The AdvisorShares Pure US Cannabis ETF (MSOS) trades at $3.58, down 1.9%, while the Amplify…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6cd6c58497e886559024.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/02/Cash-Companies-Cannabis-41.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "70fffbcdbaf7d9ffb7a52d5b49ec77a7a53b39c87b4df490d9745e03d5fc4696",
+        "sourceTitle": "Cannabis Stocks Today — Thursday 19 November 2026: IM Cannabis trades at $0.54",
+        "sourceExcerpt": "Cannabis stocks sit lower on Thursday, 19 November, with the latest quotes from Finnhub largely reflecting Wednesday’s trading. The AdvisorShares Pure US Cannabis ETF (MSOS) trades at $3.58, down 1.9%, while the Amplify…",
+        "title": "Les stocks de cannabis aujourd'hui Jeudi 19 Novembre 2026: IM Cannabis se négocie à 0,54 $",
+        "excerpt": "Les actions de cannabis restent en baisse le jeudi 19 novembre, les dernières cotations de Finnhub reflétant en grande partie les échanges de mercredi […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T18:00:22.256007+00:00"
+      }
+    },
+    {
+      "id": "048d188bb132b97fa3e7",
+      "title": "Medical Marijuana Companies Sue DEA In Federal Court Over Restrictions It Imposed For Rescheduling Protections",
+      "url": "https://www.marijuanamoment.net/medical-marijuana-companies-sue-dea-in-federal-court-over-restrictions-it-imposed-for-rescheduling-protections/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T15:34:29+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "Three marijuana companies are taking the Drug Enforcement Administration (DEA) to court over restrictions the agency is placing on cannabis businesses under the Trump administration’s federal rescheduling move. Last…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-27e2bed8d0ff9aa6533f.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "36fbab1886031f04038a6607b6cb3f7735c4127fa4de661ac89de83cae90134d",
+        "sourceTitle": "Medical Marijuana Companies Sue DEA In Federal Court Over Restrictions It Imposed For Rescheduling Protections",
+        "sourceExcerpt": "Three marijuana companies are taking the Drug Enforcement Administration (DEA) to court over restrictions the agency is placing on cannabis businesses under the Trump administration’s federal rescheduling move. Last…",
+        "title": "Les compagnies de marijuana médicale poursuivent la DEA devant la Cour fédérale pour les restrictions qu'elle a imposées pour le rééchelonnement des protections",
+        "excerpt": "Trois sociétés de marijuana intentent des poursuites contre la Drug Enforcement Administration (DEA) au sujet des restrictions imposées par l’agence aux entreprises de cannabis dans le cadre du changement de calendrier fédéral de l’administration Trump […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T18:00:22.256007+00:00"
+      }
+    },
+    {
+      "id": "12a7a117b8c7cb39f344",
+      "title": "Géorgie : premier État américain à livrer le cannabis médical par la poste",
+      "url": "https://lecannabiste.com/georgie-premier-etat-americain-a-livrer-le-cannabis-medical-par-la-poste/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-19T15:28:00+00:00",
+      "collectedAt": "2026-11-20T09:16:52.992370+00:00",
+      "excerpt": "La Géorgie devient le premier État américain à expédier du cannabis médical aux patients par la poste, sur fond de requalification fédérale et de flou juridique persistant.",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "CBD & molécules"
+      ],
+      "kind": "Article",
+      "image": "assets/live-a6244e67dbb6c4bb99bd.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/featured-9.webp"
+    },
+    {
+      "id": "23ff9e390a6e2af6641e",
+      "title": "Indiana Voters Should Be Able To Decide On Legalizing Marijuana, New Secretary Of State Says",
+      "url": "https://www.marijuanamoment.net/indiana-voters-should-be-able-to-decide-on-legalizing-marijuana-new-secretary-of-state-says/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T14:14:15+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "Indiana’s incoming secretary of state wants to change the state constitution to let voters place initiatives on the ballot to advance issues that lawmakers aren’t addressing—including marijuana legalization. Under…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-66c90e04d0ea822322a9.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cananbis-leaf-hand-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "69d0fd2edeacd947cb7cccd8365cdf392f4c0edde742f695467754e29f83c044",
+        "sourceTitle": "Indiana Voters Should Be Able To Decide On Legalizing Marijuana, New Secretary Of State Says",
+        "sourceExcerpt": "Indiana’s incoming secretary of state wants to change the state constitution to let voters place initiatives on the ballot to advance issues that lawmakers aren’t addressing—including marijuana legalization. Under…",
+        "title": "Les électeurs de l'Indiana devraient être en mesure de décider de la légalisation de la marijuana, selon le nouveau secrétaire d'État",
+        "excerpt": "Le nouveau secrétaire d’État de l’Indiana veut changer la constitution de l’État pour permettre aux électeurs de placer des initiatives sur le bulletin de vote pour faire avancer des questions que les législateurs ne traitent pas, y compris la légalisation de la marijuana […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T18:00:22.256007+00:00"
+      }
+    },
+    {
+      "id": "fe5659409224097320fb",
+      "title": "La Finlande veut légaliser le cannabis sur le modèle allemand",
+      "url": "https://www.newsweed.fr/finlande-legaliser-cannabis-modele-allemand/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-19T13:00:17+00:00",
+      "collectedAt": "2026-11-19T18:00:15.008014+00:00",
+      "excerpt": "Après le rejet par le Parlement finlandais, en février 2026, d’une initiative citoyenne visant à légaliser le cannabis, les partisans de la réforme reviennent à la charge avec une stratégie différente. Plutôt que de…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-be4e9adfc4c013d0adbd.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/projet-legalisation-cannabis-finlande.jpg"
+    },
+    {
+      "id": "2849688eb2c313607d9d",
+      "title": "Senate Panel Wants To Keep Blocking DC From Legal Marijuana Sales, While Pushing Feds To Continue Cannabis Drug Testing Under Rescheduling",
+      "url": "https://www.marijuanamoment.net/senate-panel-wants-to-keep-blocking-dc-from-legal-marijuana-sales-while-pushing-feds-to-continue-cannabis-drug-testing-under-rescheduling/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T12:37:30+00:00",
+      "collectedAt": "2026-11-19T13:27:37.313156+00:00",
+      "excerpt": "A key U.S. Senate committee has released spending bills and attached reports that would keep blocking local officials in Washington, D.C. from legalizing recreational marijuana sales and direct federal officials to…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-402c91116619d8ee6365.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/cannabis-marijuana-hand-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "66957493779baf59614fa6d3636b83e3ced59346d011065b2d8cffe473121e45",
+        "sourceTitle": "Senate Panel Wants To Keep Blocking DC From Legal Marijuana Sales, While Pushing Feds To Continue Cannabis Drug Testing Under Rescheduling",
+        "sourceExcerpt": "A key U.S. Senate committee has released spending bills and attached reports that would keep blocking local officials in Washington, D.C. from legalizing recreational marijuana sales and direct federal officials to…",
+        "title": "Le comité sénatorial veut empêcher DC de vendre légalement de la marijuana, tout en poussant les autorités fédérales à poursuivre les tests de dépistage de drogues du cannabis sous reprogrammation",
+        "excerpt": "Un comité clé du Sénat américain a publié des projets de loi de dépenses et des rapports ci-joints qui continueraient à bloquer les responsables locaux à Washington, DC […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T13:27:40.901799+00:00"
+      }
+    },
+    {
+      "id": "3e7ed21d4125ee916b93",
+      "title": "Cannabis Health Symposium London: Complete Session Guide — Who’s Speaking and Why it Matters",
+      "url": "https://cannabishealthnews.co.uk/2026/11/19/cannabis-health-symposium-london-complete-session-guide/",
+      "source": "Cannabis Health",
+      "sourceFeed": "https://cannabishealthnews.co.uk/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-19T12:21:31+00:00",
+      "collectedAt": "2026-11-19T13:27:37.313156+00:00",
+      "excerpt": "Everything you need to know about the Cannabis Health Symposium in London next week.",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9c0623b362296e076180.webp",
+      "credit": "Cannabis Health · image de l’article",
+      "imageSource": "https://cannabishealthnews.co.uk/wp-content/uploads/2026/11/london-hero-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "8ef934e8a7944ef69ca46d78bb969e031975f921ecefd0acc76a2cdc21c78d86",
+        "sourceTitle": "Cannabis Health Symposium London: Complete Session Guide — Who’s Speaking and Why it Matters",
+        "sourceExcerpt": "Everything you need to know about the Cannabis Health Symposium in London next week.",
+        "title": "Symposium sur la santé du cannabis à Londres : Guide complet de la séance Qui parle et pourquoi c’est important",
+        "excerpt": "Tout ce que vous devez savoir sur le symposium sur la santé du cannabis à Londres la semaine prochaine.",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T13:27:40.901799+00:00"
+      }
+    },
+    {
+      "id": "8f930eea681604221038",
+      "title": "Pakistan moves toward commercial hemp as regulators tackle delays in licensing",
+      "url": "https://hemptoday.net/pakistan-moves-toward-commercial-hemp-as-regulators-tackle-delays-in-licensing/",
+      "source": "HempToday",
+      "sourceFeed": "https://hemptoday.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T11:22:56+00:00",
+      "collectedAt": "2026-11-19T13:27:37.313156+00:00",
+      "excerpt": "Pakistan has taken another step toward commercial industrial hemp production by streamlining licensing procedures, but the move comes six years after the government first opened the door to the crop, […]",
+      "topics": [
+        "Lois & société",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-111137a057fe38a3fea0.jpg",
+      "credit": "HempToday · image de l’article",
+      "imageSource": "https://hemptoday.net/wp-content/uploads/2026/11/Saleem-Mandviwalla-tight-1000x635-1.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "b402e29f2a3d79cffc53bedfa44245f0c872b0f9176ef291a056a4f71276cafa",
+        "sourceTitle": "Pakistan moves toward commercial hemp as regulators tackle delays in licensing",
+        "sourceExcerpt": "Pakistan has taken another step toward commercial industrial hemp production by streamlining licensing procedures, but the move comes six years after the government first opened the door to the crop, […]",
+        "title": "Le Pakistan se tourne vers le chanvre commercial alors que les régulateurs s'attaquent aux retards dans l'octroi de licences",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T13:27:40.901799+00:00"
+      }
+    },
+    {
+      "id": "2c4043a3796621325c6e",
+      "title": "Hemp debate could upend federal funding legislation (Newsletter: November 19, 2026)",
+      "url": "https://www.marijuanamoment.net/hemp-debate-could-upend-federal-funding-legislation-newsletter-november-19-2026/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-19T11:12:01+00:00",
+      "collectedAt": "2026-11-19T13:27:37.313156+00:00",
+      "excerpt": "USPS: Medical marijuana “nonmailable”; New WI gov talks marijuana plans; OK medical cannabis & gun rights bill; Houston marijuana policy Subscribe to receive Marijuana Moment’s newsletter in your inbox every weekday…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-a813c13c95cd77a615a2.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/11/Grow_Max-Jackson_0119.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "a828dce501a96d851758b1e4e8ba4b3ed69541c1e0aa9d364d9204ea53f0b8ca",
+        "sourceTitle": "Hemp debate could upend federal funding legislation (Newsletter: November 19, 2026)",
+        "sourceExcerpt": "USPS: Medical marijuana “nonmailable”; New WI gov talks marijuana plans; OK medical cannabis & gun rights bill; Houston marijuana policy Subscribe to receive Marijuana Moment’s newsletter in your inbox every weekday…",
+        "title": "Le débat sur le chanvre pourrait bouleverser la législation fédérale sur le financement (Newsletter: 19 novembre 2026)",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-19T13:27:40.901799+00:00"
+      }
+    },
+    {
+      "id": "45bdb885e6d8076a5a45",
+      "title": "THC issu du chanvre : les sénateurs américains se déchirent sur l’interdiction",
+      "url": "https://www.newsweed.fr/thc-issu-chanvre-senateurs-americains-interdiction/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-19T10:12:46+00:00",
+      "collectedAt": "2026-11-19T13:27:37.313156+00:00",
+      "excerpt": "Une nouvelle proposition bipartisane cherche à assurer un avenir aux produits à base de THC issu du chanvre aux États-Unis , à quelques semaines seulement de l’entrée en vigueur des restrictions fédérales. Alors que…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6ceefd4f5344333a4f99.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/thc-chanvre-etats-unis.jpg"
+    }
+  ],
+  "windowHours": 24,
+  "schedule": "09h17, 13h17 et 18h17 · Paris",
+  "notice": "Revue de presse automatique. Titres et courts extraits dans la langue des sources ; articles à lire chez leurs éditeurs. Les rubriques sont un classement automatique, pas une validation des informations.",
+  "date": "2026-11-20",
+  "translationStatus": {
+    "engine": "Traduction neuronale locale",
+    "targetLanguage": "fr",
+    "available": 13,
+    "eligible": 13,
+    "status": "ok",
+    "updatedAt": "2026-11-20T09:16:57.423208+00:00"
+  }
+}
