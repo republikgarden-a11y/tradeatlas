@@ -1,75 +1,365 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-20T13:22:20.969482+00:00",
-  "lastSuccess": "2026-11-20T13:22:20.969482+00:00",
+  "attemptedAt": "2026-11-20T18:02:38.453857+00:00",
+  "lastSuccess": "2026-11-20T18:02:38.453857+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
+      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
+      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
+      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
+      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
+      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-20T13:22:20.969482+00:00"
+      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
     }
   ],
   "items": [
+    {
+      "id": "edc5f1ced28d22aced36",
+      "title": "Police Are Finally Turning Against Marijuana Prohibition, New Poll Shows (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/police-are-finally-turning-against-marijuana-prohibition-new-poll-shows-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-20T16:08:39+00:00",
+      "collectedAt": "2026-11-20T18:02:38.453857+00:00",
+      "excerpt": "“Returning cannabis sales to an unregulated market would create more enforcement challenges and compound existing problems.” By Lt. Diane Goldstein (Ret.), Law Enforcement Action Partnership With the votes now counted…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-ab701a68557a21a3303d.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2018/01/Stock-13.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "3690e340092ebf42adac08e46ed34ae9f23de6995fa908d149d6898ad8892cb5",
+        "sourceTitle": "Police Are Finally Turning Against Marijuana Prohibition, New Poll Shows (Op-Ed)",
+        "sourceExcerpt": "“Returning cannabis sales to an unregulated market would create more enforcement challenges and compound existing problems.” By Lt. Diane Goldstein (Ret.), Law Enforcement Action Partnership With the votes now counted…",
+        "title": "La police se retourne enfin contre la prohibition de la marijuana, un nouveau sondage montre (Tribune)",
+        "excerpt": "« Le retour des ventes de cannabis sur un marché non réglementé créerait plus de problèmes d’application de la loi et aggraverait les problèmes existants. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-20T18:02:41.722718+00:00"
+      }
+    },
+    {
+      "id": "1c240bbe49aef2f18153",
+      "title": "Five Years In, Fat Nugs Magazine and Partners Go Bigger Than Ever at MJBizCon 2026 with Party. Play. Purify. and the Indigenous Cannabis Village",
+      "url": "https://ganjapreneur.com/five-years-in-fat-nugs-magazine-and-partners-go-bigger-than-ever-at-mjbizcon-2026-with-party-play-purify-and-the-indigenous-cannabis-village/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-20T16:04:06+00:00",
+      "collectedAt": "2026-11-20T18:02:38.453857+00:00",
+      "excerpt": "ATLANTA, GA / LAS VEGAS, NV: The Fat Nugs Magazine team returns to MJBizCon for its fifth consecutive year, December 1- 4 at the Las Vegas Convention Center. Joining FNM are longtime partners and collaborators…",
+      "topics": [
+        "Autres actualités"
+      ],
+      "kind": "Article",
+      "image": "assets/live-a4587fa7be426d4eabaf.png",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2026/11/MJBIZ-Press-Release-Cover-Image.png",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "547254a1d35a047d18575c1fe410262808b106e8b36a55fc21517c66e3fea64b",
+        "sourceTitle": "Five Years In, Fat Nugs Magazine and Partners Go Bigger Than Ever at MJBizCon 2026 with Party. Play. Purify. and the Indigenous Cannabis Village",
+        "sourceExcerpt": "ATLANTA, GA / LAS VEGAS, NV: The Fat Nugs Magazine team returns to MJBizCon for its fifth consecutive year, December 1- 4 at the Las Vegas Convention Center. Joining FNM are longtime partners and collaborators…",
+        "title": "Cinq ans plus tard, le magazine Fat Nugs et ses partenaires deviennent plus grands que jamais à la MJBizCon 2026 avec Party. Play. Purify. and the Indigenous Cannabis Village",
+        "excerpt": "ATLANTA, GA / LAS VEGAS, NV: L'équipe de Fat Nugs Magazine revient à MJBizCon pour la cinquième année consécutive, du 1er au 4 décembre au Las Vegas Convention Center […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-20T18:02:41.722718+00:00"
+      }
+    },
+    {
+      "id": "c2e5e0069f52eaf964b7",
+      "title": "Cannabis Stocks Today — Friday 20 November 2026: Tilray trades at $2.07",
+      "url": "https://businessofcannabis.com/cannabis-stocks-today-friday-20-november-2026-tilray-trades-at-2-07/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-20T15:41:08+00:00",
+      "collectedAt": "2026-11-20T18:02:38.453857+00:00",
+      "excerpt": "Cannabis stocks sit lower on Friday 20 November. Tilray Brands trades at $2.07, down 8.0% against its previous close, and the four sector ETFs tracked by Business of Cannabis each sit between 5.6% and 6.0% lower. Our…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6cd6c58497e886559024.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/02/Cash-Companies-Cannabis-41.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "feebdbf97904b9e2a0f177129868309c2c88a7eafa24ed4517eda6ce6e8d8a25",
+        "sourceTitle": "Cannabis Stocks Today — Friday 20 November 2026: Tilray trades at $2.07",
+        "sourceExcerpt": "Cannabis stocks sit lower on Friday 20 November. Tilray Brands trades at $2.07, down 8.0% against its previous close, and the four sector ETFs tracked by Business of Cannabis each sit between 5.6% and 6.0% lower. Our…",
+        "title": "Les stocks de cannabis aujourd'hui vendredi 20 novembre 2026: Tilray se négocie à 2,07 $",
+        "excerpt": "Tilray Brands se négocie à 2,07 $, en baisse de 8,0 % par rapport à sa clôture précédente, et les quatre FNB sectoriels suivis par Business of Cannabis affichent chacun une baisse de 5,6 % à 6,0 % […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-20T18:02:41.722718+00:00"
+      }
+    },
+    {
+      "id": "35aad10783c6acdd8d34",
+      "title": "Illinois Judge Denies Hemp Industry’s Request to Pause Ban on Hemp THC Sales",
+      "url": "https://ganjapreneur.com/illinois-judge-denies-hemp-industrys-request-to-pause-ban-on-hemp-thc-sales/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-20T15:20:31+00:00",
+      "collectedAt": "2026-11-20T18:02:38.453857+00:00",
+      "excerpt": "A U.S. District Court judge in Illinois has declined a motion to pause the state’s new rules restricting the sale of hemp-derived THC products to licensed dispensaries, the Chicago Sun-Times reports. Officials agreed…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d7ea22f3650ba42fb06b.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/minnesota-consider-adjust.jpeg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "ff7f12c8fd7a2608fbf8df9e9aaf9e141f9c9b76457cb3684a8ce1de7b1e49b3",
+        "sourceTitle": "Illinois Judge Denies Hemp Industry’s Request to Pause Ban on Hemp THC Sales",
+        "sourceExcerpt": "A U.S. District Court judge in Illinois has declined a motion to pause the state’s new rules restricting the sale of hemp-derived THC products to licensed dispensaries, the Chicago Sun-Times reports. Officials agreed…",
+        "title": "Le juge de l'Illinois nie la demande de l'industrie du chanvre de suspendre les ventes de THC de chanvre",
+        "excerpt": "Un juge de la Cour de district des États-Unis dans l’Illinois a refusé une motion visant à suspendre les nouvelles règles de l’État limitant la vente de produits à base de THC dérivés du chanvre à des dispensaires agréés, rapporte le Chicago Sun-Times […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-20T18:02:41.722718+00:00"
+      }
+    },
+    {
+      "id": "d5e33e107686b8fb53f7",
+      "title": "Missouri Cannabis Tax Revenue Has Surpassed $1B",
+      "url": "https://ganjapreneur.com/missouri-cannabis-tax-revenue-has-surpassed-1b/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-20T15:15:52+00:00",
+      "collectedAt": "2026-11-20T18:02:38.453857+00:00",
+      "excerpt": "]Total cannabis-derived tax revenue in Missouri has surpassed $1 billion, according to data shared by MoCannTrade, a cannabis industry trade organization. The total includes regular local and state sales taxes, plus…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-16bb5071d7e499c52e10.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2026/11/cannabis-taxes-3.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "ce55626cfe7d5bcff29be58e3b3f4f29efb0f0cbc95d8f56b85c0ec4e52e273c",
+        "sourceTitle": "Missouri Cannabis Tax Revenue Has Surpassed $1B",
+        "sourceExcerpt": "]Total cannabis-derived tax revenue in Missouri has surpassed $1 billion, according to data shared by MoCannTrade, a cannabis industry trade organization. The total includes regular local and state sales taxes, plus…",
+        "title": "Les recettes fiscales du cannabis du Missouri ont dépassé 1 milliard de dollars",
+        "excerpt": "Le total des recettes fiscales dérivées du cannabis dans le Missouri a dépassé 1 milliard de dollars, selon les données partagées par MoCannTrade, une organisation commerciale de l’industrie du cannabis […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-20T18:02:41.722718+00:00"
+      }
+    },
+    {
+      "id": "6049573d6ec5c3ccbe84",
+      "title": "Au Michigan, la taxe sur le cannabis rapporte plus que tout l’alcool réuni",
+      "url": "https://lecannabiste.com/au-michigan-la-taxe-sur-le-cannabis-rapporte-plus-que-tout-lalcool-reuni/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-20T15:06:00+00:00",
+      "collectedAt": "2026-11-20T18:02:38.453857+00:00",
+      "excerpt": "Dans le Michigan, la taxe d'accise sur le cannabis récréatif a rapporté 53 % de plus que la bière, le vin et les spiritueux réunis, malgré des recettes en baisse.",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-8c6c68a25cfd1c9bff53.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/une-taxe-cannabis-michigan.webp"
+    },
+    {
+      "id": "085595402afa2c4f8d20",
+      "title": "Texans ‘Deserve’ A Chance To Vote On Marijuana Legalization At The Ballot, New Governor Says",
+      "url": "https://www.marijuanamoment.net/texans-deserve-a-chance-to-vote-on-marijuana-legalization-at-the-ballot-new-governor-says/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-20T14:50:18+00:00",
+      "collectedAt": "2026-11-20T18:02:38.453857+00:00",
+      "excerpt": "Texas’s incoming Democratic governor says voters in the state should have a chance to decide on marijuana legalization themselves at the ballot—and she is also pledging to rescind an executive order her predecessor…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9fef0599e1323cdf2178.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/09/weed-2517251_1920-e1543923890731.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "6dbef9496086265f873af1383c4bd5837f29c10265d46b47bffb591c0e78a494",
+        "sourceTitle": "Texans ‘Deserve’ A Chance To Vote On Marijuana Legalization At The Ballot, New Governor Says",
+        "sourceExcerpt": "Texas’s incoming Democratic governor says voters in the state should have a chance to decide on marijuana legalization themselves at the ballot—and she is also pledging to rescind an executive order her predecessor…",
+        "title": "Les Texans «méritent» une chance de voter sur la légalisation de la marijuana au scrutin, selon le nouveau gouverneur",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-20T18:02:41.722718+00:00"
+      }
+    },
+    {
+      "id": "60d421733cb003674d8e",
+      "title": "French Senate Demands Answers on Medical Cannabis Delays",
+      "url": "https://businessofcannabis.com/french-senate-demands-answers-on-medical-cannabis-delays/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-20T14:03:51+00:00",
+      "collectedAt": "2026-11-20T18:02:38.453857+00:00",
+      "excerpt": "France’s government may soon be held accountable for the continuous delays to the rollout of its permanent national medical cannabis framework, as pressure builds to finalise implementation. On November 16, the Senate…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-e8dc2fd1d328e0469d82.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-59.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "4b38e492e92fc1f448a80172c11e9d7ab69a32a80f010382e389d061b93a6ab9",
+        "sourceTitle": "French Senate Demands Answers on Medical Cannabis Delays",
+        "sourceExcerpt": "France’s government may soon be held accountable for the continuous delays to the rollout of its permanent national medical cannabis framework, as pressure builds to finalise implementation. On November 16, the Senate…",
+        "title": "Le Sénat français exige des réponses sur les retards dans le cannabis médical",
+        "excerpt": "Le gouvernement français pourrait bientôt être tenu responsable des retards continus dans le déploiement de son cadre national permanent de cannabis médical, alors que la pression monte pour finaliser la mise en œuvre […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-20T18:02:41.722718+00:00"
+      }
+    },
+    {
+      "id": "67794d7385affba5c4a5",
+      "title": "DEA Faces Second Lawsuit From More Medical Marijuana Businesses That Say Rescheduling Rules Could Upend State Markets",
+      "url": "https://www.marijuanamoment.net/dea-faces-second-lawsuit-from-additional-medical-marijuana-businesses-over-rescheduling-rules-that-could-upend-state-markets/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-20T14:02:21+00:00",
+      "collectedAt": "2026-11-20T18:02:38.453857+00:00",
+      "excerpt": "A second group of medical cannabis businesses are suing the Drug Enforcement Administration (DEA) over restrictions the agency is placing on marijuana businesses in conjunction with the Trump administration’s federal…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-a6f5e12bd8e18999a2b1.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2019/01/marijuana-legislation-bill-leaf-gavel.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "dd9875322ef29e44cf485d65326e3428a18b40a29a1859c1698ff53cc4f7a822",
+        "sourceTitle": "DEA Faces Second Lawsuit From More Medical Marijuana Businesses That Say Rescheduling Rules Could Upend State Markets",
+        "sourceExcerpt": "A second group of medical cannabis businesses are suing the Drug Enforcement Administration (DEA) over restrictions the agency is placing on marijuana businesses in conjunction with the Trump administration’s federal…",
+        "title": "La DEA fait face à un deuxième procès de la part de plus d’entreprises de marijuana médicale qui affirment que le report des règles pourrait bouleverser les marchés de l’État",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-20T18:02:41.722718+00:00"
+      }
+    },
     {
       "id": "bf37cd369603d76ed2fd",
       "title": "Texas Congressman Says GOP Was Punished In The Election By Voters Who Were ‘Pissed Off’ About Cannabis Ban",
@@ -755,9 +1045,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 17,
-    "eligible": 17,
+    "available": 25,
+    "eligible": 25,
     "status": "ok",
-    "updatedAt": "2026-11-20T13:22:25.317312+00:00"
+    "updatedAt": "2026-11-20T18:02:41.722718+00:00"
   }
 }
