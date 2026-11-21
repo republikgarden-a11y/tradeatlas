@@ -1,75 +1,198 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-21T13:04:41.678091+00:00",
-  "lastSuccess": "2026-11-21T13:04:41.678091+00:00",
+  "attemptedAt": "2026-11-21T17:50:07.737076+00:00",
+  "lastSuccess": "2026-11-21T17:50:07.737076+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 10,
-      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
+      "count": 9,
+      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
+      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
+      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
+      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
+      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
     }
   ],
   "items": [
+    {
+      "id": "cf5c8f0f964e146f3171",
+      "title": "New Mexico Officials Move To Ease Medical Psilocybin Rules Following Pushback",
+      "url": "https://www.marijuanamoment.net/new-mexico-officials-move-to-ease-medical-psilocybin-rules-following-pushback/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-21T16:53:46+00:00",
+      "collectedAt": "2026-11-21T17:50:07.737076+00:00",
+      "excerpt": "“New Mexico is modeling how government, health experts, and community stakeholders can build something together.” By Jack Gorsline, Psychedelic State(s) of America Following significant pushback from grassroots…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-12ef213d6825961ea619.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2021/09/MaxPixel.net-Psilocybin-Fungus-Toadstool-Mushrooms-Fungi-5198533-e1630672011710.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "d4b4ee6cd1e899055190d3be78a0720b257bbd79b0dd28932729329684a99496",
+        "sourceTitle": "New Mexico Officials Move To Ease Medical Psilocybin Rules Following Pushback",
+        "sourceExcerpt": "“New Mexico is modeling how government, health experts, and community stakeholders can build something together.” By Jack Gorsline, Psychedelic State(s) of America Following significant pushback from grassroots…",
+        "title": "Les fonctionnaires du Nouveau-Mexique déménagent pour faciliter les règles de psilocybine médicale après le retour en arrière",
+        "excerpt": "« Le Nouveau-Mexique modélise la façon dont le gouvernement, les experts en santé et les intervenants communautaires peuvent construire quelque chose ensemble. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-21T17:50:12.114442+00:00"
+      }
+    },
+    {
+      "id": "c604161f4814bdb81363",
+      "title": "11 Stunden gegen 7 Tage: Was Gefriertrocknung, Ofen und VPD mit den Terpenen machen",
+      "url": "https://www.hanf-magazin.com/wissenschaft/studien/cannabis-trocknung-gefriertrocknung-ofen-vpd-vergleich/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-21T15:00:00+00:00",
+      "collectedAt": "2026-11-21T17:50:07.737076+00:00",
+      "excerpt": "Die Trocknung gilt als Handwerk, über das jeder eine Meinung hat und zu dem es wenig belastbare Zahlen gibt. Eine neue Arbeit hat drei Verfahren an pharmazeutischem Cannabis nebeneinandergestellt und gemessen statt…",
+      "topics": [
+        "Santé & recherche",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-3ad923bf9889bfe348a2.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-cannabisblueten-auf-trocknungsgitter-featured-83409.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "4896fa3f93f754c7d583f0531c0f5ecb75fb0cf913599b82a409ad2203c36199",
+        "sourceTitle": "11 Stunden gegen 7 Tage: Was Gefriertrocknung, Ofen und VPD mit den Terpenen machen",
+        "sourceExcerpt": "Die Trocknung gilt als Handwerk, über das jeder eine Meinung hat und zu dem es wenig belastbare Zahlen gibt. Eine neue Arbeit hat drei Verfahren an pharmazeutischem Cannabis nebeneinandergestellt und gemessen statt…",
+        "title": "11 heures contre 7 jours : ce que la congélation séchante, le four et le VPD font aux terpènes",
+        "excerpt": "La séchage est considéré comme un art, sur lequel chacun a une opinion et pour lequel il existe peu de données fiables […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-21T17:50:12.114442+00:00"
+      }
+    },
+    {
+      "id": "52b0e7c43551942af26a",
+      "title": "Legalizing Marijuana In Wisconsin Can Save Hemp Business As Federal Policy Changes, Lawmakers Say",
+      "url": "https://www.marijuanamoment.net/legalizing-marijuana-in-wisconsin-can-save-hemp-business-as-federal-policy-changes-lawmakers-say/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-21T13:50:27+00:00",
+      "collectedAt": "2026-11-21T17:50:07.737076+00:00",
+      "excerpt": "“Nobody who invested their money, who’s trying to make a legal living, should be forced to shut down just because the government changed its mind.” By Isiah Holmes, Wisconsin Examiner The Badger State has a chance to…",
+      "topics": [
+        "Lois & société",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-615d47c962e025113ef0.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/11/Grow_Max-Jackson_0104.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "e51948d32f95bb2dc8deb2e089b2d28dfdf47d84199bee42f0386cec5e34b4d6",
+        "sourceTitle": "Legalizing Marijuana In Wisconsin Can Save Hemp Business As Federal Policy Changes, Lawmakers Say",
+        "sourceExcerpt": "“Nobody who invested their money, who’s trying to make a legal living, should be forced to shut down just because the government changed its mind.” By Isiah Holmes, Wisconsin Examiner The Badger State has a chance to…",
+        "title": "La légalisation de la marijuana dans le Wisconsin peut sauver les affaires du chanvre alors que la politique fédérale change, selon les législateurs",
+        "excerpt": "« Personne qui a investi son argent, qui essaie de gagner sa vie légalement, ne devrait être forcé de fermer juste parce que le gouvernement a changé d’avis. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-21T17:50:12.114442+00:00"
+      }
+    },
+    {
+      "id": "762572ff3f5487001143",
+      "title": "Sensi Seeds et High Times s’associent pour lancer cinq nouvelles variétés de cannabis",
+      "url": "https://www.newsweed.fr/sensi-seeds-high-times-cinq-varietes/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-21T13:00:15+00:00",
+      "collectedAt": "2026-11-21T17:50:07.737076+00:00",
+      "excerpt": "High Times s’est associé à Sensi Seeds pour lancer cinq variétés de cannabis féminisées. Lancée le 9 novembre 2026, cette collaboration marque la première fois que le magazine américain spécialisé dans le cannabis prête…",
+      "topics": [
+        "Autres actualités"
+      ],
+      "kind": "Article",
+      "image": "assets/live-29e9d634a64256810169.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/sensi-seeds-high-times.jpg"
+    },
     {
       "id": "286d74b60e560aa49555",
       "title": "Brains Bioceutical vise le Nasdaq avec une valorisation de 750 millions de dollars",
@@ -669,9 +792,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 14,
-    "eligible": 14,
+    "available": 17,
+    "eligible": 17,
     "status": "ok",
-    "updatedAt": "2026-11-21T13:04:44.790384+00:00"
+    "updatedAt": "2026-11-21T17:50:12.114442+00:00"
   }
 }
