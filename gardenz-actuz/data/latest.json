@@ -1,75 +1,95 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-21T08:59:40.572577+00:00",
-  "lastSuccess": "2026-11-21T08:59:40.572577+00:00",
+  "attemptedAt": "2026-11-21T13:04:41.678091+00:00",
+  "lastSuccess": "2026-11-21T13:04:41.678091+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
+      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
+      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
+      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
+      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 6,
-      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
+      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
+      "checkedAt": "2026-11-21T13:04:41.678091+00:00"
     }
   ],
   "items": [
+    {
+      "id": "286d74b60e560aa49555",
+      "title": "Brains Bioceutical vise le Nasdaq avec une valorisation de 750 millions de dollars",
+      "url": "https://www.newsweed.fr/brains-bioceutical-vise-le-nasdaq-avec-une-valorisation-de-750-millions-de-dollars/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-21T09:00:04+00:00",
+      "collectedAt": "2026-11-21T13:04:41.678091+00:00",
+      "excerpt": "Brains Bioceutical , entreprise canadienne spécialiste des cannabinoïdes pharmaceutiques, prépare son entrée au Nasdaq à travers une fusion avec une société d’acquisition cotée. Valorisé à 750 millions de dollars , le…",
+      "topics": [
+        "CBD & molécules",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-1aa4cf40a9919552a587.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/brains-bioceutical-nasdaq.jpg"
+    },
     {
       "id": "e464312912aecea84d14",
       "title": "107 Personen im Fahrversuch: Mehr Fehler nach Cannabis, doch der THC-Wert sagt sie nicht voraus",
@@ -6272,6 +6292,6 @@
     "available": 156,
     "eligible": 156,
     "status": "ok",
-    "updatedAt": "2026-11-21T08:59:45.987647+00:00"
+    "updatedAt": "2026-11-21T13:04:44.790384+00:00"
   }
 }
