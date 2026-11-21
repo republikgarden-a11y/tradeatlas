@@ -1,75 +1,163 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-20T18:02:38.453857+00:00",
-  "lastSuccess": "2026-11-20T18:02:38.453857+00:00",
+  "attemptedAt": "2026-11-21T08:59:40.572577+00:00",
+  "lastSuccess": "2026-11-21T08:59:40.572577+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
+      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
+      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 6,
-      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
+      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
+      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
+      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-20T18:02:38.453857+00:00"
+      "checkedAt": "2026-11-21T08:59:40.572577+00:00"
     }
   ],
   "items": [
+    {
+      "id": "e464312912aecea84d14",
+      "title": "107 Personen im Fahrversuch: Mehr Fehler nach Cannabis, doch der THC-Wert sagt sie nicht voraus",
+      "url": "https://www.hanf-magazin.com/wissenschaft/forschung/107-personen-im-fahrversuch-mehr-fehler-nach-cannabis-doch-der-thc-wert-sagt-sie-nicht/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-21T07:00:00+00:00",
+      "collectedAt": "2026-11-21T08:59:40.572577+00:00",
+      "excerpt": "Fahrversuche der BGHW mit 107 Personen zeigen mehr Fahrfehler nach Cannabiskonsum. Der THC-Wert sagt diese Fehler aber nicht voraus. Was das bedeutet und was offen bleibt. Der Beitrag 107 Personen im Fahrversuch: Mehr…",
+      "topics": [
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6af1616b8236492f852e.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-nahaufnahme-eines-gruenen-cannabisblattes-featured-83832.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "366e5d1c80c62682d5553e8b14f165e701d85584b72c909c97b2e36ba62d7b8c",
+        "sourceTitle": "107 Personen im Fahrversuch: Mehr Fehler nach Cannabis, doch der THC-Wert sagt sie nicht voraus",
+        "sourceExcerpt": "Fahrversuche der BGHW mit 107 Personen zeigen mehr Fahrfehler nach Cannabiskonsum. Der THC-Wert sagt diese Fehler aber nicht voraus. Was das bedeutet und was offen bleibt. Der Beitrag 107 Personen im Fahrversuch: Mehr…",
+        "title": "107 personnes dans le test de conduite : plus d'erreurs après consommation de cannabis, mais la valeur de THC ne permet pas de les prédire",
+        "excerpt": "Les essais de conduite menés par la BGHW avec 107 personnes révèlent plus d'erreurs après consommation de cannabis. La valeur de THC ne permet toutefois pas de prédire ces erreurs. Ce que cela signifie et ce qui reste encore indéterminé […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-21T08:59:45.987647+00:00"
+      }
+    },
+    {
+      "id": "005fc55eb85c789e403c",
+      "title": "South Carolina Officials Are ‘Violating’ The Law By Not Allowing Medical Marijuana In Line With Federal Rescheduling, GOP Senator Says",
+      "url": "https://www.marijuanamoment.net/south-carolina-officials-are-violating-the-law-by-not-allowing-medical-marijuana-in-line-with-federal-rescheduling-gop-senator-says/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-20T18:23:19+00:00",
+      "collectedAt": "2026-11-21T08:59:40.572577+00:00",
+      "excerpt": "A Republican South Carolina senator is waring health officials that they are out of compliance with state law by not taking steps to provide for legal access to medical marijuana, a move he says should have been…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-82220caf8f74ede42895.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2018/07/36996972330_84121f496d_k.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "964cacf78df1f6f7c3e21309014dde0ba85a56f319164ce32920f36d109fd104",
+        "sourceTitle": "South Carolina Officials Are ‘Violating’ The Law By Not Allowing Medical Marijuana In Line With Federal Rescheduling, GOP Senator Says",
+        "sourceExcerpt": "A Republican South Carolina senator is waring health officials that they are out of compliance with state law by not taking steps to provide for legal access to medical marijuana, a move he says should have been…",
+        "title": "Les responsables de la Caroline du Sud «violent» la loi en n'autorisant pas la marijuana médicale en ligne avec le rééchelonnement fédéral, déclare le sénateur républicain",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-21T08:59:45.987647+00:00"
+      }
+    },
+    {
+      "id": "6f18d4c5cdf28dc40399",
+      "title": "CBD en Polynésie française : les huiles sublinguales bientôt en vente libre",
+      "url": "https://www.newsweed.fr/cbd-polynesie-francaise-huiles-sublinguales-vente-libre/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-20T16:30:27+00:00",
+      "collectedAt": "2026-11-21T08:59:40.572577+00:00",
+      "excerpt": "La Polynésie française poursuit la structuration de son marché du CBD. Le gouvernement a présenté un projet d’arrêté autorisant la vente sans ordonnance des huiles sublinguales contenant jusqu’à 5% de cannabidiol. Des…",
+      "topics": [
+        "CBD & molécules",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9b5446b951d4082c14d7.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/cbd-polynesie-francaise.jpg"
+    },
     {
       "id": "edc5f1ced28d22aced36",
       "title": "Police Are Finally Turning Against Marijuana Prohibition, New Poll Shows (Op-Ed)",
@@ -359,6 +447,25 @@
         "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
         "translatedAt": "2026-11-20T18:02:41.722718+00:00"
       }
+    },
+    {
+      "id": "d9f3b4931eb145353c4b",
+      "title": "La légalisation du cannabis au Mexique revient au Sénat après cinq ans d’impasse politique",
+      "url": "https://www.newsweed.fr/legalisation-cannabis-mexique-cinq-ans-impasse/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-20T13:00:32+00:00",
+      "collectedAt": "2026-11-21T08:59:40.572577+00:00",
+      "excerpt": "Plus de cinq ans après que la Cour suprême du Mexique a invalidé l’interdiction de la consommation de cannabis, le pays ne dispose toujours pas d’un cadre juridique complet régissant sa production et sa vente…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-5047bc76706497ac136b.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/legalisation-cannabis-senat-mexique.jpg"
     },
     {
       "id": "bf37cd369603d76ed2fd",
@@ -6162,9 +6269,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 154,
-    "eligible": 154,
+    "available": 156,
+    "eligible": 156,
     "status": "ok",
-    "updatedAt": "2026-11-20T18:02:41.722718+00:00"
+    "updatedAt": "2026-11-21T08:59:45.987647+00:00"
   }
 }
