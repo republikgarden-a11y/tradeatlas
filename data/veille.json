@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-21T09:08:09Z",
-  "last_success": "2026-11-21T09:08:09Z",
+  "checked_at": "2026-11-22T09:07:53Z",
+  "last_success": "2026-11-22T09:07:53Z",
   "topics_checked": 4,
   "successful_topics": 4,
   "new_items": 3,
@@ -23,6 +23,22 @@
       "domain": "Bamboo Works",
       "published_at": "2026-11-20T05:16:06Z",
       "first_seen": "2026-11-21T09:08:09Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82STNOX3hUVC10OXB2M3MzdlFuQkVUM3BrU3RORDZNTmpHWFFyQy1JZElMa0FDTkpDbTNhUXVMdFFrUk8wUk9ZNkdiT0oySzVyaDRZdnpGLXRGYXc?oc=5",
+      "title": "The Best 420-Friendly Gifts For Your Stoner Friends - The Daily Beast",
+      "topic": "Vape & accessoires",
+      "domain": "The Daily Beast",
+      "published_at": "2026-11-19T18:57:46Z",
+      "first_seen": "2026-11-22T09:07:53Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHZm95dGU3SVpFSUo5YnBqeHZtNjVJVU1mVVIxcUd6SldZUldlYkUtVTNDdkxjYjk3UVZqbk5zdDZ2S1pyS05xOVBwdENUaDhPMHVDZzlNdWFYR2I0UEIwRWptcHNEY0pLd3c?oc=5",
+      "title": "Beyond Vocation: Labor Politicization as a Resource for Sustainable Professional Agency Among Beginning Teachers in Chile - Paula Villalobos Vergara, 2026 - Sage Journals",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Sage Journals",
+      "published_at": "2026-11-19T08:00:00Z",
+      "first_seen": "2026-11-22T09:07:53Z"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeDBzT0hZc1VOVWthZkhmMTR1Q2Y5M1h0S0JhUzBnclU1VjJheXBWdUlZeGlDOHJnVWZGVjZSUHc3VEFjY3VmTjNBSHpBbzk5ODl1UUtpSTRhWTIyUmhEeFFOX2JaeWo3VEhuWGFMa19PRF9adU9ha3ZmS2V2NXhsanFVUEFtNG9hQnE5Q1htbm9ETDdQbnFZbmFXYm9YUFZGSU14YlhjcFA1TkhzLTN3LWlBQWRWbjRKSDZoc2JzdGJDUTZBcGE4UWZfOGdSZWt4ZkRCUy1rd1hfVlVKQ212dW4yOVJUdUZWTGJRMUtZcw?oc=5",
@@ -63,6 +79,14 @@
       "domain": "MMJDaily",
       "published_at": "2026-11-17T16:16:56Z",
       "first_seen": "2026-11-18T09:26:05Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWZLTktWdUlnOWxBOWJwOWdhMHJmVHREMmxCcXR3SkxPYnU0blFSbHZMeW1RRFdERTh5ckU5UW1zTzlNbklSU0lJZEZuLXVoUGt2ajdOTVQwcHVlM2pKYllrUDNQeGkxc2EzdWNSSnNOOFpKWjNzTGptSzd4RGlvX29TOGxKeDROa0QzUVdhY0VaSG1ETWtIOGFmTlVXNV9SWWc?oc=5",
+      "title": "Boveda Introduces New 100-Count Humidor, Expanding Its Award-Winning Humidor Line - Yahoo Finance",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Yahoo Finance",
+      "published_at": "2026-11-17T14:00:00Z",
+      "first_seen": "2026-11-22T09:07:53Z"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOTV4NXVwWVphNEYtUEtYTEw3TGQ0dTVIRU1ZVnUtTDhEb2JYSjhDQ2lyTXA2TDBCbUh6QmhvX0lqSUZhUmVKSFdaTG9RajFhaElqdEV1bXVHQ09VWk83UElVLUJUX0RkSzBQR3JPM0NNaV9fZW5nSG12VHJMcFV0dFc2TWZ5MVpyNDZqVzkyQnJKcHlFNjBBY1ZqUkozOG1vNVJlTGRoOUhTa0lHQXRXRGthT0d3VWkwMWVNYUFGbFNZaURVeEh3V0lDTzBONXh0Y0dN?oc=5",
