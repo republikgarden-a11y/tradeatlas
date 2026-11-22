@@ -1,75 +1,162 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-22T08:59:56.430230+00:00",
-  "lastSuccess": "2026-11-22T08:59:56.430230+00:00",
+  "attemptedAt": "2026-11-22T13:02:42.549020+00:00",
+  "lastSuccess": "2026-11-22T13:02:42.549020+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 8,
-      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
+      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
+      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
+      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
+      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
     }
   ],
   "items": [
+    {
+      "id": "a3a6ee620cc76862ca8c",
+      "title": "91,8 Gramm statt 2 Kilo: Was an Streecks Cannabis-Interview stimmt und was nicht",
+      "url": "https://www.hanf-magazin.com/recht/rechtslage-deutschland/91-8-gramm-statt-2-kilo-was-an-streecks-cannabis-interview-stimmt-und-was-nicht/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-22T11:05:09+00:00",
+      "collectedAt": "2026-11-22T13:02:42.549020+00:00",
+      "excerpt": "Streeck begründet Nachbesserungen am Cannabisgesetz mit bis zu zwei Kilogramm Ernte aus drei Pflanzen. Der Evaluationsbericht, auf den er sich beruft, nennt 91,8 Gramm. Der Beitrag 91,8 Gramm statt 2 Kilo: Was an…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d6a00ed6c6f85fda2253.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-nahaufnahme-eines-einzelnen-cannabisblat-featured-84241.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "f1e4ebf5e150dfa192fbfb06d0e103c51df1beb0879b056ec50c5330d89a9a29",
+        "sourceTitle": "91,8 Gramm statt 2 Kilo: Was an Streecks Cannabis-Interview stimmt und was nicht",
+        "sourceExcerpt": "Streeck begründet Nachbesserungen am Cannabisgesetz mit bis zu zwei Kilogramm Ernte aus drei Pflanzen. Der Evaluationsbericht, auf den er sich beruft, nennt 91,8 Gramm. Der Beitrag 91,8 Gramm statt 2 Kilo: Was an…",
+        "title": "91,8 gramme au lieu de 2 kilos : ce qui est vrai et ce qui ne l'est pas dans l'interview de Streeck sur le cannabis",
+        "excerpt": "Streeck justifie les modifications apportées à la loi sur le cannabis par une récolte de jusqu'à deux kilos provenant de trois plantes. Le rapport d'évaluation qu'il cite indique 91,8 gramme […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-22T13:02:47.124048+00:00"
+      }
+    },
+    {
+      "id": "2d18a2ec8f63fb04dd46",
+      "title": "16,3 Prozent, aber nicht von allen Ärzten: Was die Zahl zur Cannabis-Verordnung wirklich misst",
+      "url": "https://www.hanf-magazin.com/wissenschaft/studien/163-prozent-aber-nicht-von-allen-aerzten-was-die-zahl-zur-cannabis-verordnung-wirklich-misst/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-22T10:58:20+00:00",
+      "collectedAt": "2026-11-22T13:02:42.549020+00:00",
+      "excerpt": "Die Zahl stammt aus einer Befragung von 153 Fortbildungsteilnehmenden, erhoben 2018, 2020 und 2024. Was sie belegt und was nicht. Der Beitrag 16,3 Prozent, aber nicht von allen Ärzten: Was die Zahl zur…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-adf676980b3cfdc13f17.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/09/hm-arzthand-mit-rezeptblock-und-fuellfederha-featured-83077.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "ed3922cdb51d6f4c4c934ed551475d6648afca8e29cf57bf3f283bc879816e3e",
+        "sourceTitle": "16,3 Prozent, aber nicht von allen Ärzten: Was die Zahl zur Cannabis-Verordnung wirklich misst",
+        "sourceExcerpt": "Die Zahl stammt aus einer Befragung von 153 Fortbildungsteilnehmenden, erhoben 2018, 2020 und 2024. Was sie belegt und was nicht. Der Beitrag 16,3 Prozent, aber nicht von allen Ärzten: Was die Zahl zur…",
+        "title": "16,3 pour cent, mais pas de tous les médecins : ce que cette donnée réellement mesure pour la réglementation du cannabis",
+        "excerpt": "Ce chiffre provient d'une enquête menée auprès de 153 participants à des formations, réalisée en 2018, 2020 et 2024. Ce que cela prouve et ce que cela ne prouve pas […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-22T13:02:47.124048+00:00"
+      }
+    },
+    {
+      "id": "61834935d11583e815f1",
+      "title": "MediPharm prépare l’arrivée de son inhalateur de cannabis en Europe",
+      "url": "https://www.newsweed.fr/medipharm-inhalateur-cbd-europe/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-22T09:00:58+00:00",
+      "collectedAt": "2026-11-22T13:02:42.549020+00:00",
+      "excerpt": "Le fabricant MediPharm Labs se rapproche de la commercialisation de son inhalateur de cannabis à dose mesurée en Europe. Après sa première livraison commerciale d’inhalateurs de CBD au Panama, l’entreprise a franchi une…",
+      "topics": [
+        "Santé & recherche",
+        "CBD & molécules",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-378e5aca696f07418b0f.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/medipharm-inhalateur-cannabis.jpg"
+    },
     {
       "id": "39f887dbcbf4e5127e75",
       "title": "CBD en Polynésie française : les huiles sublinguales à 5 % passent en vente libre",
@@ -6431,9 +6518,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 159,
-    "eligible": 159,
+    "available": 161,
+    "eligible": 161,
     "status": "ok",
-    "updatedAt": "2026-11-22T08:59:59.602106+00:00"
+    "updatedAt": "2026-11-22T13:02:47.124048+00:00"
   }
 }
