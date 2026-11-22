@@ -1,75 +1,131 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-22T13:02:42.549020+00:00",
-  "lastSuccess": "2026-11-22T13:02:42.549020+00:00",
+  "attemptedAt": "2026-11-22T17:49:50.019002+00:00",
+  "lastSuccess": "2026-11-22T17:49:50.019002+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
+      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
+      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
+      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
+      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-22T13:02:42.549020+00:00"
+      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
     }
   ],
   "items": [
+    {
+      "id": "a9af0fecc24e1c704766",
+      "title": "Un chanvre sans aucun THC ni cannabinoïde mis au point au Texas",
+      "url": "https://lecannabiste.com/un-chanvre-sans-aucun-thc-ni-cannabinoide-mis-au-point-au-texas/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-22T16:50:00+00:00",
+      "collectedAt": "2026-11-22T17:49:50.019002+00:00",
+      "excerpt": "Une équipe texane annonce une variété de chanvre dépourvue de tout cannabinoïde détectable, baptisée Type V, pour supprimer le risque de récoltes détruites au-delà du seuil de 0,3 % de THC.",
+      "topics": [
+        "CBD & molécules",
+        "Chanvre",
+        "Culture"
+      ],
+      "kind": "Article",
+      "image": "assets/live-66ca0bb8d658c940d1df.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/chanvre-champ.webp"
+    },
+    {
+      "id": "5e1d33a71ce880f8e8c9",
+      "title": "Next Month’s Federal Hemp Ban Is A ‘Self-Inflicted Wound’ On An Industry That Refused To Regulate Itself (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/next-months-federal-hemp-ban-is-a-self-inflicted-wound-on-an-industry-that-refused-to-regulate-itself-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-22T15:37:10+00:00",
+      "collectedAt": "2026-11-22T17:49:50.019002+00:00",
+      "excerpt": "“The industry that abused the Farm Bill’s silence are shedding crocodile tears about the crackdown. These companies should look in the mirror.” By Laura Freeman, Mt. Folly via Kentucky Lantern In the spring of 2025, my…",
+      "topics": [
+        "Lois & société",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-90e64dc5c0b873739ae6.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2022/08/pexels-kindel-media-7668053-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "43171d447414188be0f5d2d332448a4263b376795633c800350678cc169d32d5",
+        "sourceTitle": "Next Month’s Federal Hemp Ban Is A ‘Self-Inflicted Wound’ On An Industry That Refused To Regulate Itself (Op-Ed)",
+        "sourceExcerpt": "“The industry that abused the Farm Bill’s silence are shedding crocodile tears about the crackdown. These companies should look in the mirror.” By Laura Freeman, Mt. Folly via Kentucky Lantern In the spring of 2025, my…",
+        "title": "L’interdiction fédérale du chanvre le mois prochain est une «blessure auto-infligée» sur une industrie qui a refusé de se réglementer elle-même (Tribune)",
+        "excerpt": "« L’industrie qui a abusé du silence du Farm Bill verse des larmes de crocodile sur la répression. Ces entreprises devraient se regarder dans le miroir. » Par Laura Freeman, Mt […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-22T17:49:54.228545+00:00"
+      }
+    },
     {
       "id": "a3a6ee620cc76862ca8c",
       "title": "91,8 Gramm statt 2 Kilo: Was an Streecks Cannabis-Interview stimmt und was nicht",
@@ -327,9 +383,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 5,
-    "eligible": 5,
+    "available": 6,
+    "eligible": 6,
     "status": "ok",
-    "updatedAt": "2026-11-22T13:02:47.124048+00:00"
+    "updatedAt": "2026-11-22T17:49:54.228545+00:00"
   }
 }
