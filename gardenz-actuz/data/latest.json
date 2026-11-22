@@ -1,8 +1,8 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-21T17:50:07.737076+00:00",
-  "lastSuccess": "2026-11-21T17:50:07.737076+00:00",
+  "attemptedAt": "2026-11-22T08:59:56.430230+00:00",
+  "lastSuccess": "2026-11-22T08:59:56.430230+00:00",
   "status": "ok",
   "sources": [
     {
@@ -10,66 +10,85 @@
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
+      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 9,
-      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
+      "count": 8,
+      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
+      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
+      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
+      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
+      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-21T17:50:07.737076+00:00"
+      "checkedAt": "2026-11-22T08:59:56.430230+00:00"
     }
   ],
   "items": [
+    {
+      "id": "39f887dbcbf4e5127e75",
+      "title": "CBD en Polynésie française : les huiles sublinguales à 5 % passent en vente libre",
+      "url": "https://lecannabiste.com/cbd-en-polynesie-francaise-les-huiles-sublinguales-a-5-passent-en-vente-libre/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-21T19:33:00+00:00",
+      "collectedAt": "2026-11-22T08:59:56.430230+00:00",
+      "excerpt": "Le conseil des ministres de la Polynésie française autorise la vente libre des huiles sublinguales de CBD dosées à 5 % maximum, les concentrations supérieures restant réservées à la pharmacie sur ordonnance.",
+      "topics": [
+        "CBD & molécules"
+      ],
+      "kind": "Article",
+      "image": "assets/live-5cfa2a2042644b79a1ed.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/featured-11.webp"
+    },
     {
       "id": "cf5c8f0f964e146f3171",
       "title": "New Mexico Officials Move To Ease Medical Psilocybin Rules Following Pushback",
@@ -6415,6 +6434,6 @@
     "available": 159,
     "eligible": 159,
     "status": "ok",
-    "updatedAt": "2026-11-21T17:50:12.114442+00:00"
+    "updatedAt": "2026-11-22T08:59:59.602106+00:00"
   }
 }
