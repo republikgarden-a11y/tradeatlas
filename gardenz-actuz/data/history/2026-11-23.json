@@ -1,8 +1,8 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-23T09:38:38.222042+00:00",
-  "lastSuccess": "2026-11-23T09:38:38.222042+00:00",
+  "attemptedAt": "2026-11-23T13:29:46.053444+00:00",
+  "lastSuccess": "2026-11-23T13:29:46.053444+00:00",
   "status": "ok",
   "sources": [
     {
@@ -10,66 +10,276 @@
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
     }
   ],
   "items": [
+    {
+      "id": "51a92cdebcd79883cdf8",
+      "title": "Virginia Lawmakers Consider Using Marijuana Revenue To Fund Substance Misuse Services In Schools",
+      "url": "https://www.marijuanamoment.net/virginia-lawmakers-consider-using-marijuana-revenue-to-fund-substance-misuse-services-in-schools/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-23T13:26:12+00:00",
+      "collectedAt": "2026-11-23T13:29:46.053444+00:00",
+      "excerpt": "“I don’t want to wait until 2028 to find out that we should have done something this year.” By Markus Schmidt, Virginia Mercury Virginia lawmakers on Monday discussed using future marijuana tax revenue to expand…",
+      "topics": [
+        "Autres actualités"
+      ],
+      "kind": "Article",
+      "image": "assets/live-2cc28792e5ed959284fe.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/11/Money-3.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "74c0c23311a26607085a67035d212acbe499b84ec541b3e4cb683f51792955d9",
+        "sourceTitle": "Virginia Lawmakers Consider Using Marijuana Revenue To Fund Substance Misuse Services In Schools",
+        "sourceExcerpt": "“I don’t want to wait until 2028 to find out that we should have done something this year.” By Markus Schmidt, Virginia Mercury Virginia lawmakers on Monday discussed using future marijuana tax revenue to expand…",
+        "title": "Les législateurs de Virginie envisagent d'utiliser les revenus de la marijuana pour financer des services d'abus de substances dans les écoles",
+        "excerpt": "Je ne veux pas attendre 2028 pour découvrir que nous aurions dû faire quelque chose cette année […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-23T13:29:50.791193+00:00"
+      }
+    },
+    {
+      "id": "997d157caa505d9315c2",
+      "title": "Congress Must Act To Make Sure Cannabis Rescheduling Actually Improves Patients’ Access Instead Of Undermining It (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/congress-must-act-to-make-sure-cannabis-rescheduling-actually-improves-patients-access-instead-of-undermining-it-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-23T12:48:11+00:00",
+      "collectedAt": "2026-11-23T13:29:46.053444+00:00",
+      "excerpt": "“Federal registration is meaningful only if patients can obtain medicine through a functioning, authorized supply chain.” By Steph Sherer, Americans for Safe Access When Attorney General Todd Blanche issued a cannabis…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-7cfe9173b07bbcaad555.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/11/esteban-lopez-272105-e1544985017556-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "26df65c7982c155c606a59db195e5d527105de529dc10eb1eb9a495caad7fa0d",
+        "sourceTitle": "Congress Must Act To Make Sure Cannabis Rescheduling Actually Improves Patients’ Access Instead Of Undermining It (Op-Ed)",
+        "sourceExcerpt": "“Federal registration is meaningful only if patients can obtain medicine through a functioning, authorized supply chain.” By Steph Sherer, Americans for Safe Access When Attorney General Todd Blanche issued a cannabis…",
+        "title": "Le Congrès doit agir pour s’assurer que le rééchelonnement du cannabis améliore réellement l’accès des patients au lieu de le miner (Tribune)",
+        "excerpt": "« L’enregistrement fédéral n’a de sens que si les patients peuvent obtenir des médicaments grâce à une chaîne d’approvisionnement fonctionnelle et autorisée. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-23T13:29:50.791193+00:00"
+      }
+    },
+    {
+      "id": "bed07ba09d39a71664d9",
+      "title": "Körper mit und ohne Cannabis: was THC in den ersten Minuten, Stunden und Wochen macht",
+      "url": "https://www.hanf-magazin.com/medizin/cannabismedizin-allgemein/koerper-mit-und-ohne-cannabis-was-thc-im-koerper-macht/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-23T11:18:49+00:00",
+      "collectedAt": "2026-11-23T13:29:46.053444+00:00",
+      "excerpt": "Anzeige. Dieser Beitrag ist Teil einer bezahlten Medienkooperation mit der DEMECAN GmbH, einem deutschen Hersteller von medizinischem Cannabis. Anlass ist ein Video aus dem YouTube-Kanal des Unternehmens, das wir hier…",
+      "topics": [
+        "CBD & molécules"
+      ],
+      "kind": "Article",
+      "image": "assets/live-a0f16a943d944e5a14ad.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/demecan-bluete-handschuh-labor.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "f4767faafc316ff8faec92571c75bad37c120d56a78eaf3d6356e7389577a7f5",
+        "sourceTitle": "Körper mit und ohne Cannabis: was THC in den ersten Minuten, Stunden und Wochen macht",
+        "sourceExcerpt": "Anzeige. Dieser Beitrag ist Teil einer bezahlten Medienkooperation mit der DEMECAN GmbH, einem deutschen Hersteller von medizinischem Cannabis. Anlass ist ein Video aus dem YouTube-Kanal des Unternehmens, das wir hier…",
+        "title": "Corps avec et sans cannabis : ce que le THC fait dans les premières minutes, heures et semaines",
+        "excerpt": "Publicité. Cet article fait partie d'une coopération média payée avec la DEMECAN GmbH, un producteur allemand de cannabis médical […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-23T13:29:50.791193+00:00"
+      }
+    },
+    {
+      "id": "fc67c8093f22016e461d",
+      "title": "Texas governor wants to put cannabis on the ballot (Newsletter: November 23, 2026)",
+      "url": "https://www.marijuanamoment.net/texas-governor-wants-to-put-cannabis-on-the-ballot-newsletter-november-23-2026/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-23T11:12:10+00:00",
+      "collectedAt": "2026-11-23T13:29:46.053444+00:00",
+      "excerpt": "Another marijuana biz lawsuit vs DEA; TX congressman: Voters punished GOP over THC; SC lawmaker pushes medical cannabis access; Police & legalization Subscribe to receive Marijuana Moment’s newsletter in your inbox…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "CBD & molécules"
+      ],
+      "kind": "Article",
+      "image": "assets/live-34fa9591d77d14de4b5e.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2019/03/IMG_20190312_222705-e1553718985308-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "a0d143d7b786ce0ccc8f654bd108de8894ff4039c4fe6558bd1b211818d34d8c",
+        "sourceTitle": "Texas governor wants to put cannabis on the ballot (Newsletter: November 23, 2026)",
+        "sourceExcerpt": "Another marijuana biz lawsuit vs DEA; TX congressman: Voters punished GOP over THC; SC lawmaker pushes medical cannabis access; Police & legalization Subscribe to receive Marijuana Moment’s newsletter in your inbox…",
+        "title": "Le gouverneur du Texas veut mettre du cannabis sur le bulletin de vote (Newsletter: 23 novembre 2026)",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-23T13:29:50.791193+00:00"
+      }
+    },
+    {
+      "id": "962f505e09aeefdec105",
+      "title": "Gefälschte Fruchtgummis mit THC: OLAF zieht mehr als 3.560 Packungen aus dem Verkehr",
+      "url": "https://www.hanf-magazin.com/politik/international/gefaelschte-fruchtgummis-mit-thc-olaf-zieht-mehr-als-3-560-packungen-aus-dem-verkehr/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-23T11:00:00+00:00",
+      "collectedAt": "2026-11-23T13:29:46.053444+00:00",
+      "excerpt": "Das Europäische Amt für Betrugsbekämpfung OLAF hat eine Untersuchung zu THC-haltigen Fruchtgummis abgeschlossen. Die Ware steckte in gefälschten Verpackungen einer bekannten europäischen Süßwarenmarke, mehr als 3.560…",
+      "topics": [
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-a2dc817fc62804135862.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-nahaufnahme-eines-einzelnen-cannabis-bla-featured-83810.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "bb4a1e4b89a363afe9b3f2fc367c574d1c8f99d3484209be3e912bc545b14c73",
+        "sourceTitle": "Gefälschte Fruchtgummis mit THC: OLAF zieht mehr als 3.560 Packungen aus dem Verkehr",
+        "sourceExcerpt": "Das Europäische Amt für Betrugsbekämpfung OLAF hat eine Untersuchung zu THC-haltigen Fruchtgummis abgeschlossen. Die Ware steckte in gefälschten Verpackungen einer bekannten europäischen Süßwarenmarke, mehr als 3.560…",
+        "title": "Gommes de fruit falsifiées contenant du THC : OLAF retire plus de 3 560 boîtes du marché",
+        "excerpt": "L'Office européen de lutte contre le fraude OLAF a terminé une enquête sur des gommes de fruit contenant du THC […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-23T13:29:50.791193+00:00"
+      }
+    },
+    {
+      "id": "d466785cd7b57cfced01",
+      "title": "Un inhalateur de cannabis à dose mesurée validé pour l’Europe, lancement en 2027",
+      "url": "https://lecannabiste.com/un-inhalateur-de-cannabis-a-dose-mesuree-valide-pour-leurope-lancement-en-2027/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-23T10:57:00+00:00",
+      "collectedAt": "2026-11-23T13:29:46.053444+00:00",
+      "excerpt": "Un inhalateur de cannabis à dose mesurée franchit une étape réglementaire clé en Europe, en vue d'un lancement au Royaume-Uni et dans l'UE en 2027.",
+      "topics": [
+        "Santé & recherche",
+        "CBD & molécules",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-3e6285142ed2fab47b81.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/inhalateur-cannabis-dose.webp"
+    },
+    {
+      "id": "27a9c199af5a903700bd",
+      "title": "Des scientifiques créent du chanvre sans cannabinoïdes",
+      "url": "https://www.newsweed.fr/des-scientifiques-creent-du-chanvre-sans-cannabinoides/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-23T10:33:42+00:00",
+      "collectedAt": "2026-11-23T13:29:46.053444+00:00",
+      "excerpt": "Des chercheurs de l’ université Texas A&M ont mis au point une nouvelle variété de chanvre qui ne produit ni THC ni autres cannabinoïdes détectables. Classée dans la catégorie du Cannabis de type V, cette plante est…",
+      "topics": [
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-1f98b5809dfc49ceffa1.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2019/09/fb-share.jpg"
+    },
     {
       "id": "37be7e7c2c4bc0c4a1fb",
       "title": "3 Pflanzen, null Spielraum: Wer in Deutschland bei Cannabissamen zockt, ist selbst schuld",
@@ -234,9 +444,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 4,
-    "eligible": 4,
+    "available": 9,
+    "eligible": 9,
     "status": "ok",
-    "updatedAt": "2026-11-23T09:38:44.614453+00:00"
+    "updatedAt": "2026-11-23T13:29:50.791193+00:00"
   }
 }
