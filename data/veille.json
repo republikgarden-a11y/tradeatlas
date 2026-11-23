@@ -1,13 +1,29 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-22T09:07:53Z",
-  "last_success": "2026-11-22T09:07:53Z",
+  "checked_at": "2026-11-23T09:44:25Z",
+  "last_success": "2026-11-23T09:44:25Z",
   "topics_checked": 4,
   "successful_topics": 4,
-  "new_items": 3,
+  "new_items": 2,
   "errors": [],
   "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUZ6YnZjbUJ2RTNxWjJSWERfRnJVSVE5bTNlRG5MNW9HWlB4a3JJc3BSLXNBbGNCQTJOYmh1ZG05WTdLVVUxWFB1bVJzWnRDcEJQcWdJbWE4Tzc4aEpTUlFVcjhsZW5XeXpBdjZMX1BYMk1ydlh3TTdOSWZOeV9ZWGFjXzVCSHh6MHFsbXZCLUlCc2p2UFdpcWdLY2Q?oc=5",
+      "title": "Rolling Papers Market to Reach US$ 2.5 Billion at 4.9% CAGR as - openPR.com",
+      "topic": "Papier & cônes",
+      "domain": "openPR.com",
+      "published_at": "2026-11-23T07:01:44Z",
+      "first_seen": "2026-11-23T09:44:25Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVkdHNm1PYjYwSDNOUmdHLTBjNVdJUFNwa1ktb2tBVVRIb2QydlRaMXVzdVdxVEpEak8yYS1XQ3BOSUx1bnAyVHFMWDR4WkRkR2d0TUxQUVZheEx5ck4yOGl1V09QcW5tdkdWbWNNZ1BaWGNQQUdSOXl0LXQ2bXVHam9KQ01kQlZkTW0w?oc=5",
+      "title": "Former vape seller issues survival warning - TheStreet",
+      "topic": "Vape & accessoires",
+      "domain": "TheStreet",
+      "published_at": "2026-11-23T02:11:03Z",
+      "first_seen": "2026-11-23T09:44:25Z"
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU0ctSjFXVVE5bW5CRjJIUnF6aUtHUU95WVVwUUNOVjA1QnNoaTJHOVZOWGZ4S3NEUmlPSVRXcmNTajY0Q3VoWTZDODRHNTEwcnNmUGhKdllXZVpSNVo2VDB2RlFLdm5sU0l2WTQtOE1iejFMNGtMdUhOczRtUURMTHRPdXBJV3p5OEFRYWxmM3lPS0Z3WEtMdGdiT01XOGdHZVJvN2V0VTk3Q21LT2w1VnFxY1d6alZJcGRqQXFvRTRGQk1BdHNOUUk1UmNpc0ZRR3BmRjF3eTdRUjFpZ1BRU1BnUnRNVHNwQzg1Qw?oc=5",
       "title": "Special Report｜RLX Technology Consolidates European Distribution Business for First Time: Q3 2026 Revenue Rises Nearly 70%, Gross Margin Falls to 23.3% - 2Firsts",
@@ -53,7 +69,7 @@
       "title": "Five Questions With Sean Knutsen Of Boveda - Cigar Aficionado",
       "topic": "Fabricants & marques suivis",
       "domain": "Cigar Aficionado",
-      "published_at": "2026-11-18T19:41:27Z",
+      "published_at": "2026-11-18T19:14:43Z",
       "first_seen": "2026-11-19T09:29:22Z"
     },
     {
