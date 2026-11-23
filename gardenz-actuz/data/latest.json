@@ -1,75 +1,368 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-23T13:29:46.053444+00:00",
-  "lastSuccess": "2026-11-23T13:29:46.053444+00:00",
+  "attemptedAt": "2026-11-23T18:06:31.439073+00:00",
+  "lastSuccess": "2026-11-23T18:06:31.439073+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
+      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
+      "count": 7,
+      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 0,
-      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 0,
-      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
+      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
+      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-23T13:29:46.053444+00:00"
+      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
     }
   ],
   "items": [
+    {
+      "id": "58bb77241ee9b2fd9955",
+      "title": "Cannabis Has an Innovation Problem, and Consumers Deserve Better",
+      "url": "https://businessofcannabis.com/cannabis-has-an-innovation-problem-and-consumers-deserve-better/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-23T16:11:38+00:00",
+      "collectedAt": "2026-11-23T18:06:31.439073+00:00",
+      "excerpt": "Written by Sean McLean, CEO & Co-Founder, Peregrine Precision Systems. Seven years after the cannabis market bubble burst, the industry remains heavily dependent on the same products, the same consumers, and the same…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-253078ac01f54450c49d.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/brad-switzer-nkb2FESuORI-unsplash-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "eb7aaba343f1d3bc059af824872df6063ddb9f177624aa552e73b898b760fe8c",
+        "sourceTitle": "Cannabis Has an Innovation Problem, and Consumers Deserve Better",
+        "sourceExcerpt": "Written by Sean McLean, CEO & Co-Founder, Peregrine Precision Systems. Seven years after the cannabis market bubble burst, the industry remains heavily dependent on the same products, the same consumers, and the same…",
+        "title": "Le cannabis a un problème d’innovation et les consommateurs méritent mieux",
+        "excerpt": "Écrit par Sean McLean, PDG et cofondateur, Peregrine Precision Systems […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-23T18:06:38.728803+00:00"
+      }
+    },
+    {
+      "id": "81f0df7c7cd39a50f9ab",
+      "title": "Texas Gov.-Elect Says Texans Should Get to Vote on Cannabis Legalization",
+      "url": "https://ganjapreneur.com/texas-gov-elect-says-texans-should-get-to-vote-on-cannabis-legalization/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-23T16:03:18+00:00",
+      "collectedAt": "2026-11-23T18:06:31.439073+00:00",
+      "excerpt": "Gina Hinojosa, the incoming Democratic governor of Texas, said in a recent interview with the Texas Tribune that she would rescind an executive order restricting hemp-derived THC products and that she believes Texans…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-b9e33c64626fa51fe4b4.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/10/ballot-mark.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "6b7f2407a0a7ac33558098178b106ea85035b3cd6688f507a2eab9c7220d1e51",
+        "sourceTitle": "Texas Gov.-Elect Says Texans Should Get to Vote on Cannabis Legalization",
+        "sourceExcerpt": "Gina Hinojosa, the incoming Democratic governor of Texas, said in a recent interview with the Texas Tribune that she would rescind an executive order restricting hemp-derived THC products and that she believes Texans…",
+        "title": "Le gouverneur élu du Texas dit que les Texans devraient voter sur la légalisation du cannabis",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-23T18:06:38.728803+00:00"
+      }
+    },
+    {
+      "id": "a3652bf0effd95c66811",
+      "title": "California On Track to Exceed $1B in Cannabis Taxes in 2026",
+      "url": "https://ganjapreneur.com/california-on-track-to-exceed-1b-in-cannabis-taxes-in-2026/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-23T16:03:13+00:00",
+      "collectedAt": "2026-11-23T18:06:31.439073+00:00",
+      "excerpt": "California is on track to collect over $1 billion in cannabis industry tax revenue in 2026 after generating over $255 million in the fiscal year’s third quarter, including $148 million in excise taxes and $107 million…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d995dcd174c2e8de138b.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/mi-taxes.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "57a406b56a771ccf37471bed88070b53ab04e580f1e935d77e544bca3065d5a1",
+        "sourceTitle": "California On Track to Exceed $1B in Cannabis Taxes in 2026",
+        "sourceExcerpt": "California is on track to collect over $1 billion in cannabis industry tax revenue in 2026 after generating over $255 million in the fiscal year’s third quarter, including $148 million in excise taxes and $107 million…",
+        "title": "La Californie sur la bonne voie pour dépasser 1 milliard de dollars en taxes sur le cannabis en 2026",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-23T18:06:38.728803+00:00"
+      }
+    },
+    {
+      "id": "2a43857d22d1d298369b",
+      "title": "Wisconsin Democrats And Republicans Talk Bipartisan Cooperation On Marijuana Legalization",
+      "url": "https://www.marijuanamoment.net/wisconsin-democrats-and-republicans-talk-bipartisan-cooperation-on-marijuana-legalization/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-23T15:57:14+00:00",
+      "collectedAt": "2026-11-23T18:06:31.439073+00:00",
+      "excerpt": "While efforts to legalize marijuana for medical or recreational use in Wisconsin have stalled for years under longtime Republican control of the legislature, leaders of the incoming Democratic majorities in the Senate…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-3deab65b940210eed367.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/09/weed-2517248_1920-e1541068407515.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "ce8d81c5a8ff6ac31e2558c13594ff1425884f3a2cd13fb636508e449cec0127",
+        "sourceTitle": "Wisconsin Democrats And Republicans Talk Bipartisan Cooperation On Marijuana Legalization",
+        "sourceExcerpt": "While efforts to legalize marijuana for medical or recreational use in Wisconsin have stalled for years under longtime Republican control of the legislature, leaders of the incoming Democratic majorities in the Senate…",
+        "title": "Les démocrates et les républicains du Wisconsin discutent de la coopération bipartisane sur la légalisation de la marijuana",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-23T18:06:38.728803+00:00"
+      }
+    },
+    {
+      "id": "1a7d7c7a270b6606b21b",
+      "title": "Notes from a Scaling Healthcare Business: Clinical Responsibility",
+      "url": "https://businessofcannabis.com/notes-from-a-scaling-healthcare-business-clinical-responsibility/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-23T15:28:05+00:00",
+      "collectedAt": "2026-11-23T18:06:31.439073+00:00",
+      "excerpt": "In the second of our three-part ‘Notes from a Scaling Health Care Business’ series, Graham Woodward, Chief Medical Officer at Releaf, takes Business of Cannabis inside what scaling a UK medical cannabis clinic from…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-af7401df2e223617988c.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/BofC-Main-Images-43.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "1f4ce80d0a6ae3edf07b18876839f2d323bd6464427b542384a2fa24d871349d",
+        "sourceTitle": "Notes from a Scaling Healthcare Business: Clinical Responsibility",
+        "sourceExcerpt": "In the second of our three-part ‘Notes from a Scaling Health Care Business’ series, Graham Woodward, Chief Medical Officer at Releaf, takes Business of Cannabis inside what scaling a UK medical cannabis clinic from…",
+        "title": "Notes d'une entreprise de soins de santé à grande échelle: responsabilité clinique",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-23T18:06:38.728803+00:00"
+      }
+    },
+    {
+      "id": "2c646e8b8b1aa83ba902",
+      "title": "La France plus réticente à la légalisation du cannabis que la moyenne de l’UE, selon une nouvelle enquête de l’EUDA",
+      "url": "https://www.newsweed.fr/france-reticente-legalisation-cannabis-moyenne-ue/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-23T15:21:53+00:00",
+      "collectedAt": "2026-11-23T18:06:31.439073+00:00",
+      "excerpt": "La France reste plus favorable à l’interdiction du cannabis que la moyenne de l’Union européenne, selon les dernières données publiées par l’Agence des stupéfiants de l’Union européenne (EUDA). Alors que 48 % des…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-c4e65534349f10cca02b.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/france-europe-consommation-drogue.jpg"
+    },
+    {
+      "id": "227af4855f3f64cc6d4c",
+      "title": "DoorDash Lobbies Congress To Keep Hemp THC Products Legal So It Can Keep Delivering Them",
+      "url": "https://www.marijuanamoment.net/doordash-lobbies-congress-to-keep-hemp-thc-products-legal-so-it-can-keep-delivering-them/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-23T15:13:39+00:00",
+      "collectedAt": "2026-11-23T18:06:31.439073+00:00",
+      "excerpt": "The on-demand delivery platform DoorDash is pushing Congress to keep hemp THC products federally legal. Last year, the company announced it was expanding its offerings in select states to include delivery of…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-bee24bb551d0cb9b9730.png",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/doordash-cannabis-hemp-marijuana-1024x614.png",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "73d8ab7b3ac9a90558650e498eb075bbddb226f09623e483f2381479b149eb8f",
+        "sourceTitle": "DoorDash Lobbies Congress To Keep Hemp THC Products Legal So It Can Keep Delivering Them",
+        "sourceExcerpt": "The on-demand delivery platform DoorDash is pushing Congress to keep hemp THC products federally legal. Last year, the company announced it was expanding its offerings in select states to include delivery of…",
+        "title": "DoorDash Lobbies Congrès pour garder les produits de chanvre THC Légal afin qu'il puisse continuer à les livrer",
+        "excerpt": "La plate-forme de livraison à la demande DoorDash pousse le Congrès à garder les produits de chanvre THC légaux au niveau fédéral […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-23T18:06:38.728803+00:00"
+      }
+    },
+    {
+      "id": "bd854acfaaeed057ec7c",
+      "title": "Allowing Hemp THC Sales To Continue Would Effectively Legalize Marijuana Nationwide, Republican Senator Says",
+      "url": "https://www.marijuanamoment.net/allowing-hemp-thc-sales-to-continue-would-effectively-legalize-marijuana-nationwide-republican-senator-says/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-23T14:06:28+00:00",
+      "collectedAt": "2026-11-23T18:06:31.439073+00:00",
+      "excerpt": "A GOP senator is urging colleagues to let the scheduled federal recriminalization of hemp THC products take effect next month—saying that further extending the ban would amount to “nationwide legalization of marijuana.”…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-402c91116619d8ee6365.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/cannabis-marijuana-hand-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "425d201d4a1232c5a54c39c5274c66d5418d3bd64462f66119ab81dac98911e5",
+        "sourceTitle": "Allowing Hemp THC Sales To Continue Would Effectively Legalize Marijuana Nationwide, Republican Senator Says",
+        "sourceExcerpt": "A GOP senator is urging colleagues to let the scheduled federal recriminalization of hemp THC products take effect next month—saying that further extending the ban would amount to “nationwide legalization of marijuana.”…",
+        "title": "Permettre aux ventes de THC de chanvre de continuer légaliserait effectivement la marijuana dans tout le pays, selon le sénateur républicain",
+        "excerpt": "Un sénateur républicain exhorte ses collègues à laisser la repénalisation fédérale prévue des produits à base de chanvre THC entrer en vigueur le mois prochain, affirmant que l’extension de l’interdiction équivaudrait à une « légalisation de la marijuana à l’échelle nationale » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-23T18:06:38.728803+00:00"
+      }
+    },
+    {
+      "id": "c90eeeefa1acbd383d69",
+      "title": "Cannabis Stocks Today — Monday 23 November 2026: Tilray sits below $2",
+      "url": "https://businessofcannabis.com/cannabis-stocks-today-monday-23-november-2026-tilray-sits-below-2/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-23T14:01:09+00:00",
+      "collectedAt": "2026-11-23T18:06:31.439073+00:00",
+      "excerpt": "The US session is in pre-market, so the quotes tracked by Business of Cannabis reflect the last completed trade, and OTC names can lag by a further day. Cannabis stocks sit lower before Monday’s US open, with Tilray…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6cd6c58497e886559024.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/02/Cash-Companies-Cannabis-41.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "2e79506ef7295bb0d4927783cb50eceea8474db9b94a3436d3a16f9f523f48c9",
+        "sourceTitle": "Cannabis Stocks Today — Monday 23 November 2026: Tilray sits below $2",
+        "sourceExcerpt": "The US session is in pre-market, so the quotes tracked by Business of Cannabis reflect the last completed trade, and OTC names can lag by a further day. Cannabis stocks sit lower before Monday’s US open, with Tilray…",
+        "title": "Les stocks de cannabis aujourd'hui Lundi 23 Novembre 2026: Tilray se trouve en dessous de 2 $",
+        "excerpt": "La session américaine est en pré-commercialisation, de sorte que les cotations suivies par Business of Cannabis reflètent la dernière transaction terminée, et les noms de gré à gré peuvent être retardés d’un jour supplémentaire […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-23T18:06:38.728803+00:00"
+      }
+    },
     {
       "id": "51a92cdebcd79883cdf8",
       "title": "Virginia Lawmakers Consider Using Marijuana Revenue To Fund Substance Misuse Services In Schools",
@@ -6818,9 +7111,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 168,
-    "eligible": 168,
+    "available": 176,
+    "eligible": 176,
     "status": "ok",
-    "updatedAt": "2026-11-23T13:29:50.791193+00:00"
+    "updatedAt": "2026-11-23T18:06:38.728803+00:00"
   }
 }
