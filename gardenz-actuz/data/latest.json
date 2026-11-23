@@ -1,75 +1,109 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-22T17:49:50.019002+00:00",
-  "lastSuccess": "2026-11-22T17:49:50.019002+00:00",
+  "attemptedAt": "2026-11-23T09:38:38.222042+00:00",
+  "lastSuccess": "2026-11-23T09:38:38.222042+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-22T17:49:50.019002+00:00"
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
     }
   ],
   "items": [
+    {
+      "id": "37be7e7c2c4bc0c4a1fb",
+      "title": "3 Pflanzen, null Spielraum: Wer in Deutschland bei Cannabissamen zockt, ist selbst schuld",
+      "url": "https://www.hanf-magazin.com/produktvorstellungen/oaseeds-cannabissamen-kaufen-drei-pflanzen/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-23T07:00:00+00:00",
+      "collectedAt": "2026-11-23T09:38:38.222042+00:00",
+      "excerpt": "Das Konsumcannabisgesetz erlaubt drei Pflanzen zu Hause. Ángel von Oaseeds erklärt, warum bei so wenig Spielraum die Herkunft und die Lagerung der Samen über die Ernte entscheiden. Der Beitrag 3 Pflanzen, null…",
+      "topics": [
+        "Lois & société",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9f12726973d37897cef8.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/drei-cannabispflanzen-in-der-growbox.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "6fc9c853d4da8a6044cbf79741821b7209c0823e497717ce0c1245c8d6cb6921",
+        "sourceTitle": "3 Pflanzen, null Spielraum: Wer in Deutschland bei Cannabissamen zockt, ist selbst schuld",
+        "sourceExcerpt": "Das Konsumcannabisgesetz erlaubt drei Pflanzen zu Hause. Ángel von Oaseeds erklärt, warum bei so wenig Spielraum die Herkunft und die Lagerung der Samen über die Ernte entscheiden. Der Beitrag 3 Pflanzen, null…",
+        "title": "3 plantes, aucune marge : celui qui joue aux graines de cannabis en Allemagne est lui-même responsable",
+        "excerpt": "La loi sur le consommation de cannabis autorise trois plantes à la maison. Ángel von Oaseeds explique pourquoi, avec une telle marge de manœuvre, l'origine et le stockage des graines dépendent de la récolte […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-23T09:38:44.614453+00:00"
+      }
+    },
     {
       "id": "a9af0fecc24e1c704766",
       "title": "Un chanvre sans aucun THC ni cannabinoïde mis au point au Texas",
@@ -6574,9 +6608,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 162,
-    "eligible": 162,
+    "available": 163,
+    "eligible": 163,
     "status": "ok",
-    "updatedAt": "2026-11-22T17:49:54.228545+00:00"
+    "updatedAt": "2026-11-23T09:38:44.614453+00:00"
   }
 }

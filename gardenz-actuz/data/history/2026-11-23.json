@@ -1,0 +1,242 @@
+{
+  "version": 3,
+  "mode": "public-rss",
+  "attemptedAt": "2026-11-23T09:38:38.222042+00:00",
+  "lastSuccess": "2026-11-23T09:38:38.222042+00:00",
+  "status": "ok",
+  "sources": [
+    {
+      "name": "Newsweed",
+      "url": "https://www.newsweed.fr/feed/",
+      "ok": true,
+      "count": 2,
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+    },
+    {
+      "name": "Le Cannabiste",
+      "url": "https://lecannabiste.com/feed/",
+      "ok": true,
+      "count": 2,
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+    },
+    {
+      "name": "Marijuana Moment",
+      "url": "https://www.marijuanamoment.net/feed/",
+      "ok": true,
+      "count": 3,
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+    },
+    {
+      "name": "Ganjapreneur",
+      "url": "https://www.ganjapreneur.com/feed/",
+      "ok": true,
+      "count": 0,
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+    },
+    {
+      "name": "Hanf Magazin",
+      "url": "https://www.hanf-magazin.com/feed/",
+      "ok": true,
+      "count": 4,
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+    },
+    {
+      "name": "Business of Cannabis",
+      "url": "https://businessofcannabis.com/feed/",
+      "ok": true,
+      "count": 0,
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+    },
+    {
+      "name": "HempToday",
+      "url": "https://hemptoday.net/feed/",
+      "ok": true,
+      "count": 0,
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+    },
+    {
+      "name": "Cannabis Health",
+      "url": "https://cannabishealthnews.co.uk/feed/",
+      "ok": true,
+      "count": 0,
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+    },
+    {
+      "name": "NORML",
+      "url": "https://norml.org/feed/",
+      "ok": true,
+      "count": 0,
+      "checkedAt": "2026-11-23T09:38:38.222042+00:00"
+    }
+  ],
+  "items": [
+    {
+      "id": "37be7e7c2c4bc0c4a1fb",
+      "title": "3 Pflanzen, null Spielraum: Wer in Deutschland bei Cannabissamen zockt, ist selbst schuld",
+      "url": "https://www.hanf-magazin.com/produktvorstellungen/oaseeds-cannabissamen-kaufen-drei-pflanzen/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-23T07:00:00+00:00",
+      "collectedAt": "2026-11-23T09:38:38.222042+00:00",
+      "excerpt": "Das Konsumcannabisgesetz erlaubt drei Pflanzen zu Hause. Ángel von Oaseeds erklärt, warum bei so wenig Spielraum die Herkunft und die Lagerung der Samen über die Ernte entscheiden. Der Beitrag 3 Pflanzen, null…",
+      "topics": [
+        "Lois & société",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9f12726973d37897cef8.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/drei-cannabispflanzen-in-der-growbox.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "6fc9c853d4da8a6044cbf79741821b7209c0823e497717ce0c1245c8d6cb6921",
+        "sourceTitle": "3 Pflanzen, null Spielraum: Wer in Deutschland bei Cannabissamen zockt, ist selbst schuld",
+        "sourceExcerpt": "Das Konsumcannabisgesetz erlaubt drei Pflanzen zu Hause. Ángel von Oaseeds erklärt, warum bei so wenig Spielraum die Herkunft und die Lagerung der Samen über die Ernte entscheiden. Der Beitrag 3 Pflanzen, null…",
+        "title": "3 plantes, aucune marge : celui qui joue aux graines de cannabis en Allemagne est lui-même responsable",
+        "excerpt": "La loi sur le consommation de cannabis autorise trois plantes à la maison. Ángel von Oaseeds explique pourquoi, avec une telle marge de manœuvre, l'origine et le stockage des graines dépendent de la récolte […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-23T09:38:44.614453+00:00"
+      }
+    },
+    {
+      "id": "a9af0fecc24e1c704766",
+      "title": "Un chanvre sans aucun THC ni cannabinoïde mis au point au Texas",
+      "url": "https://lecannabiste.com/un-chanvre-sans-aucun-thc-ni-cannabinoide-mis-au-point-au-texas/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-22T16:50:00+00:00",
+      "collectedAt": "2026-11-22T17:49:50.019002+00:00",
+      "excerpt": "Une équipe texane annonce une variété de chanvre dépourvue de tout cannabinoïde détectable, baptisée Type V, pour supprimer le risque de récoltes détruites au-delà du seuil de 0,3 % de THC.",
+      "topics": [
+        "CBD & molécules",
+        "Chanvre",
+        "Culture"
+      ],
+      "kind": "Article",
+      "image": "assets/live-66ca0bb8d658c940d1df.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/chanvre-champ.webp"
+    },
+    {
+      "id": "5e1d33a71ce880f8e8c9",
+      "title": "Next Month’s Federal Hemp Ban Is A ‘Self-Inflicted Wound’ On An Industry That Refused To Regulate Itself (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/next-months-federal-hemp-ban-is-a-self-inflicted-wound-on-an-industry-that-refused-to-regulate-itself-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-22T15:37:10+00:00",
+      "collectedAt": "2026-11-22T17:49:50.019002+00:00",
+      "excerpt": "“The industry that abused the Farm Bill’s silence are shedding crocodile tears about the crackdown. These companies should look in the mirror.” By Laura Freeman, Mt. Folly via Kentucky Lantern In the spring of 2025, my…",
+      "topics": [
+        "Lois & société",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-90e64dc5c0b873739ae6.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2022/08/pexels-kindel-media-7668053-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "43171d447414188be0f5d2d332448a4263b376795633c800350678cc169d32d5",
+        "sourceTitle": "Next Month’s Federal Hemp Ban Is A ‘Self-Inflicted Wound’ On An Industry That Refused To Regulate Itself (Op-Ed)",
+        "sourceExcerpt": "“The industry that abused the Farm Bill’s silence are shedding crocodile tears about the crackdown. These companies should look in the mirror.” By Laura Freeman, Mt. Folly via Kentucky Lantern In the spring of 2025, my…",
+        "title": "L’interdiction fédérale du chanvre le mois prochain est une «blessure auto-infligée» sur une industrie qui a refusé de se réglementer elle-même (Tribune)",
+        "excerpt": "« L’industrie qui a abusé du silence du Farm Bill verse des larmes de crocodile sur la répression. Ces entreprises devraient se regarder dans le miroir. » Par Laura Freeman, Mt […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-22T17:49:54.228545+00:00"
+      }
+    },
+    {
+      "id": "a3a6ee620cc76862ca8c",
+      "title": "91,8 Gramm statt 2 Kilo: Was an Streecks Cannabis-Interview stimmt und was nicht",
+      "url": "https://www.hanf-magazin.com/recht/rechtslage-deutschland/91-8-gramm-statt-2-kilo-was-an-streecks-cannabis-interview-stimmt-und-was-nicht/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-22T11:05:09+00:00",
+      "collectedAt": "2026-11-22T13:02:42.549020+00:00",
+      "excerpt": "Streeck begründet Nachbesserungen am Cannabisgesetz mit bis zu zwei Kilogramm Ernte aus drei Pflanzen. Der Evaluationsbericht, auf den er sich beruft, nennt 91,8 Gramm. Der Beitrag 91,8 Gramm statt 2 Kilo: Was an…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d6a00ed6c6f85fda2253.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/hm-nahaufnahme-eines-einzelnen-cannabisblat-featured-84241.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "f1e4ebf5e150dfa192fbfb06d0e103c51df1beb0879b056ec50c5330d89a9a29",
+        "sourceTitle": "91,8 Gramm statt 2 Kilo: Was an Streecks Cannabis-Interview stimmt und was nicht",
+        "sourceExcerpt": "Streeck begründet Nachbesserungen am Cannabisgesetz mit bis zu zwei Kilogramm Ernte aus drei Pflanzen. Der Evaluationsbericht, auf den er sich beruft, nennt 91,8 Gramm. Der Beitrag 91,8 Gramm statt 2 Kilo: Was an…",
+        "title": "91,8 gramme au lieu de 2 kilos : ce qui est vrai et ce qui ne l'est pas dans l'interview de Streeck sur le cannabis",
+        "excerpt": "Streeck justifie les modifications apportées à la loi sur le cannabis par une récolte de jusqu'à deux kilos provenant de trois plantes. Le rapport d'évaluation qu'il cite indique 91,8 gramme […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-22T13:02:47.124048+00:00"
+      }
+    },
+    {
+      "id": "2d18a2ec8f63fb04dd46",
+      "title": "16,3 Prozent, aber nicht von allen Ärzten: Was die Zahl zur Cannabis-Verordnung wirklich misst",
+      "url": "https://www.hanf-magazin.com/wissenschaft/studien/163-prozent-aber-nicht-von-allen-aerzten-was-die-zahl-zur-cannabis-verordnung-wirklich-misst/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-22T10:58:20+00:00",
+      "collectedAt": "2026-11-22T13:02:42.549020+00:00",
+      "excerpt": "Die Zahl stammt aus einer Befragung von 153 Fortbildungsteilnehmenden, erhoben 2018, 2020 und 2024. Was sie belegt und was nicht. Der Beitrag 16,3 Prozent, aber nicht von allen Ärzten: Was die Zahl zur…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-adf676980b3cfdc13f17.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/09/hm-arzthand-mit-rezeptblock-und-fuellfederha-featured-83077.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "ed3922cdb51d6f4c4c934ed551475d6648afca8e29cf57bf3f283bc879816e3e",
+        "sourceTitle": "16,3 Prozent, aber nicht von allen Ärzten: Was die Zahl zur Cannabis-Verordnung wirklich misst",
+        "sourceExcerpt": "Die Zahl stammt aus einer Befragung von 153 Fortbildungsteilnehmenden, erhoben 2018, 2020 und 2024. Was sie belegt und was nicht. Der Beitrag 16,3 Prozent, aber nicht von allen Ärzten: Was die Zahl zur…",
+        "title": "16,3 pour cent, mais pas de tous les médecins : ce que cette donnée réellement mesure pour la réglementation du cannabis",
+        "excerpt": "Ce chiffre provient d'une enquête menée auprès de 153 participants à des formations, réalisée en 2018, 2020 et 2024. Ce que cela prouve et ce que cela ne prouve pas […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-22T13:02:47.124048+00:00"
+      }
+    }
+  ],
+  "windowHours": 24,
+  "schedule": "09h17, 13h17 et 18h17 · Paris",
+  "notice": "Revue de presse automatique. Titres et courts extraits dans la langue des sources ; articles à lire chez leurs éditeurs. Les rubriques sont un classement automatique, pas une validation des informations.",
+  "date": "2026-11-23",
+  "translationStatus": {
+    "engine": "Traduction neuronale locale",
+    "targetLanguage": "fr",
+    "available": 4,
+    "eligible": 4,
+    "status": "ok",
+    "updatedAt": "2026-11-23T09:38:44.614453+00:00"
+  }
+}
