@@ -1,13 +1,29 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-23T09:44:25Z",
-  "last_success": "2026-11-23T09:44:25Z",
+  "checked_at": "2026-11-24T09:34:32Z",
+  "last_success": "2026-11-24T09:34:32Z",
   "topics_checked": 4,
   "successful_topics": 4,
-  "new_items": 2,
+  "new_items": 5,
   "errors": [],
   "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalFqR2poLWtFb2RRdGZjNG1YS1lDWmM1YTVJbzd0Ni1acENoOW56QW5jQzdnNWQ1bVBpcm8yM2hvT1MwR216OV9OdWJlMHVHcjNkb0JObHZFV1h5WkYwMW8yUEladXZ5NHk3Z3ZaWnF6QU9MSUdBOWg5VllNNFRnSjNpeDV0SDdqY1NtLXRwdw?oc=5",
+      "title": "Boveda B84 (60 Gram) Seasoning Pack | Accessory Review - Cigar Coop",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Cigar Coop",
+      "published_at": "2026-11-23T14:38:35Z",
+      "first_seen": "2026-11-24T09:34:32Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZVcwai1OVDVEaXExdkx3QVJtY3ZMV1F4Ui1iLTdyQy1OQ04wZFlaS21qY2dYbGtrcjZZSkJqcTlFSWdmZTBFQXRhaU41blBHbC1wRWtKbF9XWG5CTHFzcGh6NzNZNkdlVHUxRlVnWXRTcmlKYU1CSW5UNFJnbDdPNHBmOVV3ZUFHSnVSME93RVhJLXAwS2hoUzRnN0g5ay1yQlgyMmx5X3lVTjN2RUNNU180NDVJUnJSUkNTVGpmZTAzU19Ra2Nr?oc=5",
+      "title": "Cold, snowy start to Thanksgiving week. What you can expect - Times Herald",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Times Herald",
+      "published_at": "2026-11-23T14:30:00Z",
+      "first_seen": "2026-11-24T09:34:32Z"
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUZ6YnZjbUJ2RTNxWjJSWERfRnJVSVE5bTNlRG5MNW9HWlB4a3JJc3BSLXNBbGNCQTJOYmh1ZG05WTdLVVUxWFB1bVJzWnRDcEJQcWdJbWE4Tzc4aEpTUlFVcjhsZW5XeXpBdjZMX1BYMk1ydlh3TTdOSWZOeV9ZWGFjXzVCSHh6MHFsbXZCLUlCc2p2UFdpcWdLY2Q?oc=5",
       "title": "Rolling Papers Market to Reach US$ 2.5 Billion at 4.9% CAGR as - openPR.com",
@@ -17,12 +33,36 @@
       "first_seen": "2026-11-23T09:44:25Z"
     },
     {
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1J2NFBnVlE4RmhFQ25UelRRbGxfejA2QzNqX1JEeWlxcVdsT2F0MHdKa2pfVDlpak1FVVl2aFFjNVRSSElrd3NwdGhybWpzQmxYNFhhcF9CM3k3dWpyd2kxek9JOHRMMVQyTmNReE12U1JLanRoZWRkMHcwMldCRUs0anJuLXlBbGtzOEdKOTdfZ1BsVkpSaXByNmowQTJDU1hYY3V1YjI2SnU5Q0xuekZJYXRVZW5XZ1hrbUJtc1A?oc=5",
+      "title": "Former vape seller issues survival warning - MSN",
+      "topic": "Vape & accessoires",
+      "domain": "MSN",
+      "published_at": "2026-11-23T04:23:31Z",
+      "first_seen": "2026-11-24T09:34:32Z"
+    },
+    {
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVkdHNm1PYjYwSDNOUmdHLTBjNVdJUFNwa1ktb2tBVVRIb2QydlRaMXVzdVdxVEpEak8yYS1XQ3BOSUx1bnAyVHFMWDR4WkRkR2d0TUxQUVZheEx5ck4yOGl1V09QcW5tdkdWbWNNZ1BaWGNQQUdSOXl0LXQ2bXVHam9KQ01kQlZkTW0w?oc=5",
       "title": "Former vape seller issues survival warning - TheStreet",
       "topic": "Vape & accessoires",
       "domain": "TheStreet",
       "published_at": "2026-11-23T02:11:03Z",
       "first_seen": "2026-11-23T09:44:25Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BMG5Oc1o5RXh4VDlWd0JLWVFBTzZTUnhQb2FQZmhUUHZoU25GeGk1aEpSNk9leU5TZS1Rb3Ita21oaEVuOU01SnRrRmtiWndiUmV4b2F1Tjh6T2cwM0psVU9WSHdNY1M4VFE?oc=5",
+      "title": "Republic Technologies Inc. (DOCKF) Analyst insights, Price targets and Recommendations - Yahoo Finance - Yahoo Finance Singapore",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Yahoo Finance Singapore",
+      "published_at": "2026-11-20T21:00:00Z",
+      "first_seen": "2026-11-24T09:34:32Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NYnhfZUhoeXFnZ3F4VDBocnlBWTExM2U4bDhLMms2aGlWUF92SGpCOHBNbi1CamN4enNyME54UjBTN0diZW0wWmNHN1pOVkJtM3JZb0t4dTU4TjBhUnFVdTAwNWlCdw?oc=5",
+      "title": "Republic Technologies Inc (7FM0.SG) Seasonal returns chart - Yahoo Finance Australia",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Yahoo Finance Australia",
+      "published_at": "2026-11-20T20:55:39Z",
+      "first_seen": "2026-11-24T09:34:32Z"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU0ctSjFXVVE5bW5CRjJIUnF6aUtHUU95WVVwUUNOVjA1QnNoaTJHOVZOWGZ4S3NEUmlPSVRXcmNTajY0Q3VoWTZDODRHNTEwcnNmUGhKdllXZVpSNVo2VDB2RlFLdm5sU0l2WTQtOE1iejFMNGtMdUhOczRtUURMTHRPdXBJV3p5OEFRYWxmM3lPS0Z3WEtMdGdiT01XOGdHZVJvN2V0VTk3Q21LT2w1VnFxY1d6alZJcGRqQXFvRTRGQk1BdHNOUUk1UmNpc0ZRR3BmRjF3eTdRUjFpZ1BRU1BnUnRNVHNwQzg1Qw?oc=5",
