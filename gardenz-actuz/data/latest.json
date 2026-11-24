@@ -1,75 +1,248 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-23T18:06:31.439073+00:00",
-  "lastSuccess": "2026-11-23T18:06:31.439073+00:00",
+  "attemptedAt": "2026-11-24T09:23:17.869117+00:00",
+  "lastSuccess": "2026-11-24T09:23:17.869117+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 7,
-      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
+      "count": 9,
+      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
+      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
+      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
+      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-23T18:06:31.439073+00:00"
+      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
     }
   ],
   "items": [
+    {
+      "id": "15d816c793667e47c2e7",
+      "title": "Au Canada, le cannabis quotidien dépasse l’alcool chez les moins de 50 ans",
+      "url": "https://lecannabiste.com/au-canada-le-cannabis-quotidien-depasse-lalcool-chez-les-moins-de-50-ans/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-24T08:13:00+00:00",
+      "collectedAt": "2026-11-24T09:23:17.869117+00:00",
+      "excerpt": "Une étude nationale montre qu'au Canada l'usage quotidien de cannabis dépasse celui de l'alcool chez les moins de 50 ans, signe d'un basculement générationnel installé depuis la légalisation de 2018.",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-b0e3c02a040e12db71c9.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/generation-cannabis-alcool.webp"
+    },
+    {
+      "id": "3532c70247e61335bdec",
+      "title": "Los Angeles Dispensary Workers Reach Tentative Agreement After Authorizing Strike",
+      "url": "https://ganjapreneur.com/los-angeles-dispensary-workers-reach-tentative-agreement-after-authorizing-strike/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-24T08:02:20+00:00",
+      "collectedAt": "2026-11-24T09:23:17.869117+00:00",
+      "excerpt": "Workers at Sweet Flower cannabis dispensaries in Los Angeles, California, represented by United Food and Commercial Workers (UFCW) Local 770, have come to a tentative agreement with the company on a new contract…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-2b2eee81d4408a3f8927.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/LosAng.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "d21132c897e36a5872a42d784fa79d0e6e67b7131504bf51fde36a88650fb514",
+        "sourceTitle": "Los Angeles Dispensary Workers Reach Tentative Agreement After Authorizing Strike",
+        "sourceExcerpt": "Workers at Sweet Flower cannabis dispensaries in Los Angeles, California, represented by United Food and Commercial Workers (UFCW) Local 770, have come to a tentative agreement with the company on a new contract…",
+        "title": "Les travailleurs des dispensaires de Los Angeles concluent un accord provisoire après avoir autorisé la grève",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T09:23:20.777631+00:00"
+      }
+    },
+    {
+      "id": "c3ade0aa7df75d209c1f",
+      "title": "Medizinalcannabis Strain Review: ZOIKS 31/1 MN – Moonlight Nectar",
+      "url": "https://www.hanf-magazin.com/medizin/cannabismedizin-allgemein/medizinalcannabis-strain-review-zoiks-31-1-mn-moonlight-nectar/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-24T07:00:00+00:00",
+      "collectedAt": "2026-11-24T09:23:17.869117+00:00",
+      "excerpt": "Genetik, Terpenprofil und Bestrahlungsstatus von Moonlight Nectar, und warum ein Sortenprospekt Angaben enthaelt, die nicht in einen oeffentlichen Beitrag gehoeren. Der Beitrag Medizinalcannabis Strain Review: ZOIKS…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6464c86b31146c48cf02.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/zoiks-31-1-mn-moonlight-nectar-bluete.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "1eff66ca91eee1ff2da75923f59106ac6cf5f484413961e61cdea23c10bef9c7",
+        "sourceTitle": "Medizinalcannabis Strain Review: ZOIKS 31/1 MN – Moonlight Nectar",
+        "sourceExcerpt": "Genetik, Terpenprofil und Bestrahlungsstatus von Moonlight Nectar, und warum ein Sortenprospekt Angaben enthaelt, die nicht in einen oeffentlichen Beitrag gehoeren. Der Beitrag Medizinalcannabis Strain Review: ZOIKS…",
+        "title": "Revue du strain médical de cannabis : ZOIKS 31/1 MN – Moonlight Nectar",
+        "excerpt": "Génétique, profil de terpènes et état de radiation de Moonlight Nectar, et pourquoi un prospectus de variété contient des indications qui ne relèvent pas d'un contenu public […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-24T09:23:20.777631+00:00"
+      }
+    },
+    {
+      "id": "5a5b3274ddcd2c4df0eb",
+      "title": "DEA Pushes Back Against Marijuana Businesses’ Legal Challenges To New Rescheduling Rules",
+      "url": "https://www.marijuanamoment.net/dea-pushes-back-against-marijuana-businesses-legal-challenges-to-new-rescheduling-rules/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-23T20:50:51+00:00",
+      "collectedAt": "2026-11-24T09:23:17.869117+00:00",
+      "excerpt": "The Drug Enforcement Administration (DEA) has filed a reply in federal court pushing back against litigation from marijuana businesses that are challenging restrictions the agency is placing on cannabis businesses in…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-96c03ff90d4097e4f183.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/07/roberto-valdivia-HrRm_V-V0sM-unsplash-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "ee82f050c1444c1df50750d7a890d9fc68a80fbd702e911a5c4c45b9af107482",
+        "sourceTitle": "DEA Pushes Back Against Marijuana Businesses’ Legal Challenges To New Rescheduling Rules",
+        "sourceExcerpt": "The Drug Enforcement Administration (DEA) has filed a reply in federal court pushing back against litigation from marijuana businesses that are challenging restrictions the agency is placing on cannabis businesses in…",
+        "title": "La DEA repousse les défis juridiques des entreprises de marijuana aux nouvelles règles de rééchelonnement",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T09:23:20.777631+00:00"
+      }
+    },
+    {
+      "id": "90264f999048d9183d3d",
+      "title": "Missouri Officials Seek Feedback On Marijuana Research Obstacles As New License Program Launches",
+      "url": "https://www.marijuanamoment.net/missouri-officials-seek-feedback-on-marijuana-research-obstacles-as-new-license-program-launches/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-23T18:47:18+00:00",
+      "collectedAt": "2026-11-24T09:23:17.869117+00:00",
+      "excerpt": "“We’re all very interested in any research on cannabis and safety or its impact on the human body.” By Rebecca Rivas, Missouri Independent Missouri cannabis regulators are asking prospective marijuana research license…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-04cd48d25db83eb7bfe4.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2018/07/marijuana-magnifying-glass-2.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "42e39fa45fb729f675c0252c4d80497e335c1ad837625bfca95341708397f589",
+        "sourceTitle": "Missouri Officials Seek Feedback On Marijuana Research Obstacles As New License Program Launches",
+        "sourceExcerpt": "“We’re all very interested in any research on cannabis and safety or its impact on the human body.” By Rebecca Rivas, Missouri Independent Missouri cannabis regulators are asking prospective marijuana research license…",
+        "title": "Les responsables du Missouri cherchent à obtenir des commentaires sur les obstacles à la recherche sur la marijuana alors que le nouveau programme de licences est lancé",
+        "excerpt": "« Nous sommes tous très intéressés par toute recherche sur le cannabis et la sécurité ou son impact sur le corps humain. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T09:23:20.777631+00:00"
+      }
+    },
+    {
+      "id": "bd615ebf888070ea06e9",
+      "title": "Cannabis médical : l’armée italienne doit doubler ses serres pour viser 700 kilos par an",
+      "url": "https://lecannabiste.com/cannabis-medical-larmee-italienne-doit-doubler-ses-serres-pour-viser-700-kilos-par-an/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-23T18:24:00+00:00",
+      "collectedAt": "2026-11-24T09:23:17.869117+00:00",
+      "excerpt": "Le gouvernement italien veut doubler les serres de son usine militaire de Florence pour atteindre au moins 700 kilos de cannabis médical par an d'ici 2028.",
+      "topics": [
+        "Santé & recherche",
+        "CBD & molécules"
+      ],
+      "kind": "Article",
+      "image": "assets/live-64ba8f8ba16a4aa7ba38.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/serres-militaires-florence.webp"
+    },
     {
       "id": "58bb77241ee9b2fd9955",
       "title": "Cannabis Has an Innovation Problem, and Consumers Deserve Better",
@@ -7111,9 +7284,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 176,
-    "eligible": 176,
+    "available": 180,
+    "eligible": 180,
     "status": "ok",
-    "updatedAt": "2026-11-23T18:06:38.728803+00:00"
+    "updatedAt": "2026-11-24T09:23:20.777631+00:00"
   }
 }
