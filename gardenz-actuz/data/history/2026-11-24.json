@@ -1,8 +1,8 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-24T09:23:17.869117+00:00",
-  "lastSuccess": "2026-11-24T09:23:17.869117+00:00",
+  "attemptedAt": "2026-11-24T13:26:46.592138+00:00",
+  "lastSuccess": "2026-11-24T13:26:46.592138+00:00",
   "status": "ok",
   "sources": [
     {
@@ -10,66 +10,239 @@
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
+      "checkedAt": "2026-11-24T13:26:46.592138+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
+      "checkedAt": "2026-11-24T13:26:46.592138+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 9,
-      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
+      "count": 10,
+      "checkedAt": "2026-11-24T13:26:46.592138+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-24T13:26:46.592138+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-24T13:26:46.592138+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-24T13:26:46.592138+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
-      "count": 0,
-      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-24T13:26:46.592138+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
+      "checkedAt": "2026-11-24T13:26:46.592138+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-24T09:23:17.869117+00:00"
+      "checkedAt": "2026-11-24T13:26:46.592138+00:00"
     }
   ],
   "items": [
+    {
+      "id": "9241e434d411e18e8bde",
+      "title": "White House Asks Congress To Keep Hemp Products Legal As GOP Senators Tell Trump To Close ‘Loophole’",
+      "url": "https://www.marijuanamoment.net/white-house-asks-congress-to-keep-hemp-products-legal-as-gop-senators-tell-trump-to-close-loophole/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-24T12:53:54+00:00",
+      "collectedAt": "2026-11-24T13:26:46.592138+00:00",
+      "excerpt": "The White House is pressing Congress to include provisions to keep certain hemp products federally legal in an end-of-year funding bill. Meanwhile a coalition of 14 Republican senators is urging President Donald Trump…",
+      "topics": [
+        "Lois & société",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d890e1cdbe056bcdba92.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2024/03/white-house-marijuana-1.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "82cb88ea3951a75cc6c8f2b0e837f51f9a615ef60bce9156ca387ede7c30e4b6",
+        "sourceTitle": "White House Asks Congress To Keep Hemp Products Legal As GOP Senators Tell Trump To Close ‘Loophole’",
+        "sourceExcerpt": "The White House is pressing Congress to include provisions to keep certain hemp products federally legal in an end-of-year funding bill. Meanwhile a coalition of 14 Republican senators is urging President Donald Trump…",
+        "title": "La Maison Blanche demande au Congrès de garder les produits de chanvre légaux alors que les sénateurs républicains demandent à Trump de fermer «Loophole»",
+        "excerpt": "La Maison Blanche presse le Congrès d’inclure des dispositions pour garder certains produits de chanvre légaux au niveau fédéral dans un projet de loi de financement de fin d’année […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T13:27:06.822133+00:00"
+      }
+    },
+    {
+      "id": "6df2c2b7ed862f89238f",
+      "title": "Development of hemp with no detectable THC could give growers a way to cut crop losses",
+      "url": "https://hemptoday.net/development-of-hemp-with-no-detectable-thc-could-give-growers-a-way-to-cut-crop-losses/",
+      "source": "HempToday",
+      "sourceFeed": "https://hemptoday.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-24T12:10:38+00:00",
+      "collectedAt": "2026-11-24T13:26:46.592138+00:00",
+      "excerpt": "A Texas agricultural research agency said it has developed a hemp plant with no detectable THC, a trait that could reduce the risk of crop destruction for growers and make […]",
+      "topics": [
+        "Santé & recherche",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d829e9d80083c90a1342.jpg",
+      "credit": "HempToday · image de l’article",
+      "imageSource": "https://hemptoday.net/wp-content/uploads/2026/11/Jessup-Texas-AM-1000x635-1.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "f4d9d7c2d7d77c016ccf36072e150529158432c50e09b65ddcb5e44cdf19652d",
+        "sourceTitle": "Development of hemp with no detectable THC could give growers a way to cut crop losses",
+        "sourceExcerpt": "A Texas agricultural research agency said it has developed a hemp plant with no detectable THC, a trait that could reduce the risk of crop destruction for growers and make […]",
+        "title": "Le développement du chanvre sans THC détectable pourrait donner aux producteurs un moyen de réduire les pertes de récolte",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T13:27:06.822133+00:00"
+      }
+    },
+    {
+      "id": "70c0d2b612c93c660509",
+      "title": "Is Cannabis Legal in Thailand? Boom, Backlash and the Medical-Only Bill",
+      "url": "https://businessofcannabis.com/is-cannabis-legal-in-thailand-boom-backlash-and-the-medical-only-bill/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-24T11:25:19+00:00",
+      "collectedAt": "2026-11-24T13:26:46.592138+00:00",
+      "excerpt": "Is cannabis legal in Thailand in 2026? Cannabis is decriminalised in Thailand but no longer freely sold. On June 26, 2025, a ministerial notification significantly restricted access to cannabis flower, in theory…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-113c044b88b0ef2145ae.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/09/laurin-steffens-IVGZ6NsmyBI-unsplash-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "a05e09b0c1ce0cdcea16ad021b90a9c7dd2426f3e8e1aab2f2f175d9609ad5ab",
+        "sourceTitle": "Is Cannabis Legal in Thailand? Boom, Backlash and the Medical-Only Bill",
+        "sourceExcerpt": "Is cannabis legal in Thailand in 2026? Cannabis is decriminalised in Thailand but no longer freely sold. On June 26, 2025, a ministerial notification significantly restricted access to cannabis flower, in theory…",
+        "title": "Le cannabis est-il légal en Thaïlande? Boom, Backlash et la loi médicale seulement",
+        "excerpt": "Le cannabis est-il légal en Thaïlande en 2026 ? Le cannabis est décriminalisé en Thaïlande mais n’est plus vendu librement […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T13:27:06.822133+00:00"
+      }
+    },
+    {
+      "id": "b5e1b49a7db619f8d0a4",
+      "title": "DEA pushes back on cannabis biz lawsuits over rescheduling rules (Newsletter: November 24, 2026)",
+      "url": "https://www.marijuanamoment.net/dea-pushes-back-on-cannabis-biz-lawsuits-over-rescheduling-rules-newsletter-november-24-2026/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-24T11:12:27+00:00",
+      "collectedAt": "2026-11-24T13:26:46.592138+00:00",
+      "excerpt": "GOP senator pushes hemp THC ban; Bipartisan WI lawmakers talk marijuana cooperation; DoorDash’s hemp lobbying; Medical cannabis op-ed Subscribe to receive Marijuana Moment’s newsletter in your inbox every weekday…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-da211490070f94c7bded.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2022/09/Screen-Shot-2022-09-26-at-10.40.21-AM-e1664215643829.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "20e104c866b295fecb752d6d288381a516fc4567d85f740747efb8945fec7bbd",
+        "sourceTitle": "DEA pushes back on cannabis biz lawsuits over rescheduling rules (Newsletter: November 24, 2026)",
+        "sourceExcerpt": "GOP senator pushes hemp THC ban; Bipartisan WI lawmakers talk marijuana cooperation; DoorDash’s hemp lobbying; Medical cannabis op-ed Subscribe to receive Marijuana Moment’s newsletter in your inbox every weekday…",
+        "title": "La DEA repousse les poursuites contre le secteur du cannabis à propos des règles de rééchelonnement (Newsletter: 24 novembre 2026)",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T13:27:06.822133+00:00"
+      }
+    },
+    {
+      "id": "7b150cd3032d930fc04e",
+      "title": "Survey: 87% of U.S. Veterans Support Federal Medical Cannabis Legalization",
+      "url": "https://ganjapreneur.com/survey-87-of-u-s-veterans-support-federal-medical-cannabis-legalization/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-24T08:14:10+00:00",
+      "collectedAt": "2026-11-24T13:26:46.592138+00:00",
+      "excerpt": "Eighty-seven percent of U.S. military veterans support federal legalization of medical cannabis, according to an Iraq and Afghanistan Veterans of America (IAVA) survey published October 15. The survey also found 91% of…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d7d2f887e14ce83aa4c9.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/07/cannabis-veterans.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "d34cb6c2ceb8557362290fa44c4a1ff2a52bc058d6217e4a0532fddf2ccb094f",
+        "sourceTitle": "Survey: 87% of U.S. Veterans Support Federal Medical Cannabis Legalization",
+        "sourceExcerpt": "Eighty-seven percent of U.S. military veterans support federal legalization of medical cannabis, according to an Iraq and Afghanistan Veterans of America (IAVA) survey published October 15. The survey also found 91% of…",
+        "title": "87% des vétérans américains soutiennent la légalisation du cannabis médical fédéral",
+        "excerpt": "Quatre-vingt-sept pour cent des anciens combattants de l’armée américaine soutiennent la légalisation fédérale du cannabis médical, selon un sondage de l’Irak et de l’Afghanistan Veterans of America (IAVA) publié le 15 octobre […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T13:27:06.822133+00:00"
+      }
+    },
     {
       "id": "15d816c793667e47c2e7",
       "title": "Au Canada, le cannabis quotidien dépasse l’alcool chez les moins de 50 ans",
@@ -88,6 +261,40 @@
       "image": "assets/live-b0e3c02a040e12db71c9.webp",
       "credit": "Le Cannabiste · image de l’article",
       "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/generation-cannabis-alcool.webp"
+    },
+    {
+      "id": "9a18ab4394ea7da25ad6",
+      "title": "Study: More Canadians Consuming Cannabis Daily than Using Alcohol Daily",
+      "url": "https://ganjapreneur.com/study-more-canadians-consuming-cannabis-daily-than-using-alcohol-daily/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-24T08:05:46+00:00",
+      "collectedAt": "2026-11-24T13:26:46.592138+00:00",
+      "excerpt": "More Canadians are consuming cannabis daily or nearly every day compared to those using alcohol daily or near-daily, according to a study published Monday in the Canadian Medical Association Journal. The study analyzed…",
+      "topics": [
+        "Santé & recherche",
+        "Culture"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d18dab5893f3e2b74778.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2025/06/nugwithflag.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "bb82252fefdb465d64fd7aedd231b24d594fd66f515253a69d7a3ae06c088075",
+        "sourceTitle": "Study: More Canadians Consuming Cannabis Daily than Using Alcohol Daily",
+        "sourceExcerpt": "More Canadians are consuming cannabis daily or nearly every day compared to those using alcohol daily or near-daily, according to a study published Monday in the Canadian Medical Association Journal. The study analyzed…",
+        "title": "Étude : Plus de Canadiens consomment du cannabis quotidiennement que de l’alcool quotidiennement",
+        "excerpt": "Plus de Canadiens consomment du cannabis tous les jours ou presque tous les jours par rapport à ceux qui consomment de l’alcool tous les jours ou presque, selon une étude publiée lundi dans le Journal de l’Association médicale canadienne […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T13:27:06.822133+00:00"
+      }
     },
     {
       "id": "3532c70247e61335bdec",
@@ -754,9 +961,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 17,
-    "eligible": 17,
+    "available": 23,
+    "eligible": 23,
     "status": "ok",
-    "updatedAt": "2026-11-24T09:23:20.777631+00:00"
+    "updatedAt": "2026-11-24T13:27:06.822133+00:00"
   }
 }
