@@ -1,75 +1,198 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-25T13:31:54.533853+00:00",
-  "lastSuccess": "2026-11-25T13:31:54.533853+00:00",
+  "attemptedAt": "2026-11-25T17:56:01.723064+00:00",
+  "lastSuccess": "2026-11-25T17:56:01.723064+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-25T13:31:54.533853+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-25T13:31:54.533853+00:00"
+      "count": 4,
+      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-25T13:31:54.533853+00:00"
+      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-25T13:31:54.533853+00:00"
+      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-25T13:31:54.533853+00:00"
+      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 6,
-      "checkedAt": "2026-11-25T13:31:54.533853+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-25T13:31:54.533853+00:00"
+      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-25T13:31:54.533853+00:00"
+      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-25T13:31:54.533853+00:00"
+      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
     }
   ],
   "items": [
+    {
+      "id": "8c14dc3bb344a0a25eae",
+      "title": "Marijuana Companies File New Briefs In Challenges To DEA’s Rescheduling Restrictions",
+      "url": "https://www.marijuanamoment.net/marijuana-companies-file-new-briefs-in-challenges-to-deas-rescheduling-restrictions/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T16:14:36+00:00",
+      "collectedAt": "2026-11-25T17:56:01.723064+00:00",
+      "excerpt": "Marijuana companies that are challenging restrictions the Drug Enforcement Administration (DEA) is placing on medical cannabis operators in conjunction with the Trump administration’s federal rescheduling move have…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-c148b11cb6db0cdfdc17.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/07/hemp-plant-3661210_1920.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "26eff828409872e9a0aa5e0c178cea780d8174a531a8b21a354b32791f0fb009",
+        "sourceTitle": "Marijuana Companies File New Briefs In Challenges To DEA’s Rescheduling Restrictions",
+        "sourceExcerpt": "Marijuana companies that are challenging restrictions the Drug Enforcement Administration (DEA) is placing on medical cannabis operators in conjunction with the Trump administration’s federal rescheduling move have…",
+        "title": "Les entreprises de marijuana déposent de nouveaux mémoires dans les défis aux restrictions de report de la DEA",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-25T17:56:04.663271+00:00"
+      }
+    },
+    {
+      "id": "4dbc34f990d6bf1ca30d",
+      "title": "Oregon Cannabis Extracts Recalled for Pesticides Despite Passing Initial Compliance Testing",
+      "url": "https://ganjapreneur.com/oregon-cannabis-extracts-recalled-for-pesticides-despite-passing-initial-compliance-testing/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T15:22:59+00:00",
+      "collectedAt": "2026-11-25T17:56:01.723064+00:00",
+      "excerpt": "Oregon cannabis regulators issued a mandatory product recall for several batches of a cannabis extract product that tested positive for the pesticide Bifenthrin. The Oregon Liquor and Cannabis Commission (OLCC) said in…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-f7c14d7d7cc7aabc97b1.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/texas-concentrate2.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "6bc80a46655c84224392ab7827814e3da260a9d62b8e1fda84a9d4cc9f3059df",
+        "sourceTitle": "Oregon Cannabis Extracts Recalled for Pesticides Despite Passing Initial Compliance Testing",
+        "sourceExcerpt": "Oregon cannabis regulators issued a mandatory product recall for several batches of a cannabis extract product that tested positive for the pesticide Bifenthrin. The Oregon Liquor and Cannabis Commission (OLCC) said in…",
+        "title": "Extraits de cannabis de l'Oregon rappelés pour des pesticides malgré les tests de conformité initiaux",
+        "excerpt": "Les organismes de réglementation du cannabis de l’Oregon ont émis un rappel obligatoire de plusieurs lots d’un extrait de cannabis testé positif au pesticide Bifenthrin […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-25T17:56:04.663271+00:00"
+      }
+    },
+    {
+      "id": "dd6ae6a6def56deb4bc1",
+      "title": "Illinois Has Added 148 New Medical Cannabis Dispensary Licenses Since September",
+      "url": "https://ganjapreneur.com/illinois-has-added-148-new-medical-cannabis-dispensary-licenses-since-september/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T15:22:56+00:00",
+      "collectedAt": "2026-11-25T17:56:01.723064+00:00",
+      "excerpt": "The Illinois Department of Financial and Professional Regulation (DFPR) announced Monday that regulators have issued 148 new medical cannabis dispensary licenses since September 10. The new licenses represent the…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-04af617434dd5a9ddae0.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/dispensarylabel.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "1d26d8aed13abdc315283b42fa59a205aef9ff1aff5ec3387619ee9d8495e4d7",
+        "sourceTitle": "Illinois Has Added 148 New Medical Cannabis Dispensary Licenses Since September",
+        "sourceExcerpt": "The Illinois Department of Financial and Professional Regulation (DFPR) announced Monday that regulators have issued 148 new medical cannabis dispensary licenses since September 10. The new licenses represent the…",
+        "title": "L’Illinois a ajouté 148 nouvelles licences de dispensaire de cannabis médical depuis septembre",
+        "excerpt": "Le Département de la réglementation financière et professionnelle de l'Illinois (DFPR) a annoncé lundi que les régulateurs avaient délivré 148 nouvelles licences de dispensaire de cannabis médical depuis le 10 septembre […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-25T17:56:04.663271+00:00"
+      }
+    },
+    {
+      "id": "1208272ff77a881368fc",
+      "title": "CBD à spectre complet : la Maison Blanche demande au Congrès de l’épargner",
+      "url": "https://lecannabiste.com/cbd-a-spectre-complet-la-maison-blanche-demande-au-congres-de-lepargner/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-25T13:51:00+00:00",
+      "collectedAt": "2026-11-25T17:56:01.723064+00:00",
+      "excerpt": "Dans un document budgétaire transmis au Congrès, l'exécutif américain demande de modifier la loi pour préserver l'accès aux produits CBD à spectre complet, menacés de disparaître des rayons le 11 décembre.",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-303ae5a0ffc26ae20d81.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/featured-13.webp"
+    },
     {
       "id": "6d0374d5c41af3332e23",
       "title": "Thanksgiving : le « Cousin Walk », cette tradition cannabique américaine qui sort de la clandestinité",
@@ -7979,9 +8102,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 198,
-    "eligible": 198,
+    "available": 201,
+    "eligible": 201,
     "status": "ok",
-    "updatedAt": "2026-11-25T13:31:58.599120+00:00"
+    "updatedAt": "2026-11-25T17:56:04.663271+00:00"
   }
 }
