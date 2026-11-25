@@ -1,13 +1,29 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-24T09:34:32Z",
-  "last_success": "2026-11-24T09:34:32Z",
+  "checked_at": "2026-11-25T09:39:54Z",
+  "last_success": "2026-11-25T09:39:54Z",
   "topics_checked": 4,
   "successful_topics": 4,
-  "new_items": 5,
+  "new_items": 2,
   "errors": [],
   "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVRPOXdfdmhTc3VxcmRGbkpVc3E0UEhhdWlSS1ltbW12M0pSWlFLUVBDVVJyQXNjZXZwUHNvNVphUm1USjF6UTV6UEZkbXNFbFl3dGdBR1NCZlpzVGtfakFwVGZpTTBXbW5VMjVBY1NFQllMblM2LUpWTm1qbWl2R0VVdXFTTHM0MDBVY011cFc1ZTQ?oc=5",
+      "title": "Dominique London’s New Lineup Of Cigar Accessories - Cigar Aficionado",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Cigar Aficionado",
+      "published_at": "2026-11-24T16:41:59Z",
+      "first_seen": "2026-11-25T09:39:54Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmhxdU45emFzcnFEWl9yeExuV2t2YmlyUDFHUUNRMUp5UGVkQi1ZZVRxVHkyd0ZxeDZiaXpPcE1uMGYzcHdZR0ZLSFZmT1hwT1FVQVdNTmxRcHR4elNpRk5nZzYzTVJuR1kwVXlxN3c0N3g4Ujk1Slpsa2dtS1ZQbkkyZUdZekpITmRzWUREQWh1S2VIM2d3UWFCQ1Q4VE9Ba0hvODdsV3otbmM?oc=5",
+      "title": "Smoore Announces Share Repurchase Under General Mandate - TipRanks",
+      "topic": "Fabricants & marques suivis",
+      "domain": "TipRanks",
+      "published_at": "2026-11-24T12:37:31Z",
+      "first_seen": "2026-11-25T09:39:54Z"
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalFqR2poLWtFb2RRdGZjNG1YS1lDWmM1YTVJbzd0Ni1acENoOW56QW5jQzdnNWQ1bVBpcm8yM2hvT1MwR216OV9OdWJlMHVHcjNkb0JObHZFV1h5WkYwMW8yUEladXZ5NHk3Z3ZaWnF6QU9MSUdBOWg5VllNNFRnSjNpeDV0SDdqY1NtLXRwdw?oc=5",
       "title": "Boveda B84 (60 Gram) Seasoning Pack | Accessory Review - Cigar Coop",
