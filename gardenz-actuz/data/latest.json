@@ -1,8 +1,8 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-24T17:59:39.642729+00:00",
-  "lastSuccess": "2026-11-24T17:59:39.642729+00:00",
+  "attemptedAt": "2026-11-25T09:28:41.690254+00:00",
+  "lastSuccess": "2026-11-25T09:28:41.690254+00:00",
   "status": "ok",
   "sources": [
     {
@@ -10,66 +10,134 @@
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-24T17:59:39.642729+00:00"
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-24T17:59:39.642729+00:00"
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-24T17:59:39.642729+00:00"
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-24T17:59:39.642729+00:00"
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-24T17:59:39.642729+00:00"
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 4,
-      "checkedAt": "2026-11-24T17:59:39.642729+00:00"
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-24T17:59:39.642729+00:00"
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-24T17:59:39.642729+00:00"
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-24T17:59:39.642729+00:00"
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
     }
   ],
   "items": [
+    {
+      "id": "f4669adcf0593eb4605a",
+      "title": "Can Ansay im Interview: Telemedizin, Cannabis-Rezepte und der Streit um den Zugang",
+      "url": "https://www.hanf-magazin.com/medizin/cannabismedizin-allgemein/can-ansay-interview-telemedizin-cannabis-verordnung/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-25T07:00:00+00:00",
+      "collectedAt": "2026-11-25T09:28:41.690254+00:00",
+      "excerpt": "Can Ansay betreibt eine der größten Telemedizin-Plattformen Deutschlands und verordnet darüber auch Medizinalcannabis. Im Interview spricht er über die geplante Präsenzpflicht, den Vorwurf zu niedrigschwelliger…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-75e547f0acf407b6bc36.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/08/hm-telemedizinische-cannabisbehandlung-mit-featured-82283.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "74502f1d03cef6b12f6c04052bda59b8508353ab81f6463f9ef90d3e7b36e6fe",
+        "sourceTitle": "Can Ansay im Interview: Telemedizin, Cannabis-Rezepte und der Streit um den Zugang",
+        "sourceExcerpt": "Can Ansay betreibt eine der größten Telemedizin-Plattformen Deutschlands und verordnet darüber auch Medizinalcannabis. Im Interview spricht er über die geplante Präsenzpflicht, den Vorwurf zu niedrigschwelliger…",
+        "title": "Can Ansay en interview : télémédecine, prescriptions de cannabis et le débat sur l'accès",
+        "excerpt": "Can Ansay exploite l'une des plus grandes plateformes de télémédecine en Allemagne et émet des prescriptions de cannabis par le biais de cette plateforme […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-25T09:28:46.128876+00:00"
+      }
+    },
+    {
+      "id": "e3e447163dde3d0e190b",
+      "title": "GOP-Led States Take Marijuana Businesses’ Side In Legal Challenge To Restrictive DEA Rules Under Rescheduling",
+      "url": "https://www.marijuanamoment.net/gop-led-states-take-marijuana-businesses-side-in-legal-challenge-to-restrictive-dea-rules-under-rescheduling/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T00:29:21+00:00",
+      "collectedAt": "2026-11-25T09:28:41.690254+00:00",
+      "excerpt": "Three Republican-led states have filed a brief in federal court arguing that restrictions the Drug Enforcement Administration (DEA) is placing on medical marijuana operators in conjunction with the Trump…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9fef0599e1323cdf2178.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/09/weed-2517251_1920-e1543923890731.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "9b62630f12f1310b2106744dd6810e9e6893e3a5cada9d8d21dbd6313f5556a3",
+        "sourceTitle": "GOP-Led States Take Marijuana Businesses’ Side In Legal Challenge To Restrictive DEA Rules Under Rescheduling",
+        "sourceExcerpt": "Three Republican-led states have filed a brief in federal court arguing that restrictions the Drug Enforcement Administration (DEA) is placing on medical marijuana operators in conjunction with the Trump…",
+        "title": "Les États dirigés par le GOP prennent le parti des entreprises de marijuana dans le défi juridique aux règles restrictives de la DEA sous le remaniement",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-25T09:28:46.128876+00:00"
+      }
+    },
     {
       "id": "9a1098ec9cadee9491cf",
       "title": "It’s Not A ‘Loophole’: The 2018 Farm Bill Was For Always Meant For Hemp Cannabinoids (Op-Ed)",
@@ -7647,9 +7715,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 190,
-    "eligible": 190,
+    "available": 192,
+    "eligible": 192,
     "status": "ok",
-    "updatedAt": "2026-11-24T17:59:42.032913+00:00"
+    "updatedAt": "2026-11-25T09:28:46.128876+00:00"
   }
 }

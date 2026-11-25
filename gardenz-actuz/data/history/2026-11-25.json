@@ -1,0 +1,449 @@
+{
+  "version": 3,
+  "mode": "public-rss",
+  "attemptedAt": "2026-11-25T09:28:41.690254+00:00",
+  "lastSuccess": "2026-11-25T09:28:41.690254+00:00",
+  "status": "ok",
+  "sources": [
+    {
+      "name": "Newsweed",
+      "url": "https://www.newsweed.fr/feed/",
+      "ok": true,
+      "count": 3,
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
+    },
+    {
+      "name": "Le Cannabiste",
+      "url": "https://lecannabiste.com/feed/",
+      "ok": true,
+      "count": 3,
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
+    },
+    {
+      "name": "Marijuana Moment",
+      "url": "https://www.marijuanamoment.net/feed/",
+      "ok": true,
+      "count": 10,
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
+    },
+    {
+      "name": "Ganjapreneur",
+      "url": "https://www.ganjapreneur.com/feed/",
+      "ok": true,
+      "count": 5,
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
+    },
+    {
+      "name": "Hanf Magazin",
+      "url": "https://www.hanf-magazin.com/feed/",
+      "ok": true,
+      "count": 4,
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
+    },
+    {
+      "name": "Business of Cannabis",
+      "url": "https://businessofcannabis.com/feed/",
+      "ok": true,
+      "count": 4,
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
+    },
+    {
+      "name": "HempToday",
+      "url": "https://hemptoday.net/feed/",
+      "ok": true,
+      "count": 1,
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
+    },
+    {
+      "name": "Cannabis Health",
+      "url": "https://cannabishealthnews.co.uk/feed/",
+      "ok": true,
+      "count": 0,
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
+    },
+    {
+      "name": "NORML",
+      "url": "https://norml.org/feed/",
+      "ok": true,
+      "count": 0,
+      "checkedAt": "2026-11-25T09:28:41.690254+00:00"
+    }
+  ],
+  "items": [
+    {
+      "id": "f4669adcf0593eb4605a",
+      "title": "Can Ansay im Interview: Telemedizin, Cannabis-Rezepte und der Streit um den Zugang",
+      "url": "https://www.hanf-magazin.com/medizin/cannabismedizin-allgemein/can-ansay-interview-telemedizin-cannabis-verordnung/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-25T07:00:00+00:00",
+      "collectedAt": "2026-11-25T09:28:41.690254+00:00",
+      "excerpt": "Can Ansay betreibt eine der größten Telemedizin-Plattformen Deutschlands und verordnet darüber auch Medizinalcannabis. Im Interview spricht er über die geplante Präsenzpflicht, den Vorwurf zu niedrigschwelliger…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-75e547f0acf407b6bc36.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/08/hm-telemedizinische-cannabisbehandlung-mit-featured-82283.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "74502f1d03cef6b12f6c04052bda59b8508353ab81f6463f9ef90d3e7b36e6fe",
+        "sourceTitle": "Can Ansay im Interview: Telemedizin, Cannabis-Rezepte und der Streit um den Zugang",
+        "sourceExcerpt": "Can Ansay betreibt eine der größten Telemedizin-Plattformen Deutschlands und verordnet darüber auch Medizinalcannabis. Im Interview spricht er über die geplante Präsenzpflicht, den Vorwurf zu niedrigschwelliger…",
+        "title": "Can Ansay en interview : télémédecine, prescriptions de cannabis et le débat sur l'accès",
+        "excerpt": "Can Ansay exploite l'une des plus grandes plateformes de télémédecine en Allemagne et émet des prescriptions de cannabis par le biais de cette plateforme […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-25T09:28:46.128876+00:00"
+      }
+    },
+    {
+      "id": "e3e447163dde3d0e190b",
+      "title": "GOP-Led States Take Marijuana Businesses’ Side In Legal Challenge To Restrictive DEA Rules Under Rescheduling",
+      "url": "https://www.marijuanamoment.net/gop-led-states-take-marijuana-businesses-side-in-legal-challenge-to-restrictive-dea-rules-under-rescheduling/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T00:29:21+00:00",
+      "collectedAt": "2026-11-25T09:28:41.690254+00:00",
+      "excerpt": "Three Republican-led states have filed a brief in federal court arguing that restrictions the Drug Enforcement Administration (DEA) is placing on medical marijuana operators in conjunction with the Trump…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9fef0599e1323cdf2178.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/09/weed-2517251_1920-e1543923890731.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "9b62630f12f1310b2106744dd6810e9e6893e3a5cada9d8d21dbd6313f5556a3",
+        "sourceTitle": "GOP-Led States Take Marijuana Businesses’ Side In Legal Challenge To Restrictive DEA Rules Under Rescheduling",
+        "sourceExcerpt": "Three Republican-led states have filed a brief in federal court arguing that restrictions the Drug Enforcement Administration (DEA) is placing on medical marijuana operators in conjunction with the Trump…",
+        "title": "Les États dirigés par le GOP prennent le parti des entreprises de marijuana dans le défi juridique aux règles restrictives de la DEA sous le remaniement",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-25T09:28:46.128876+00:00"
+      }
+    },
+    {
+      "id": "9a1098ec9cadee9491cf",
+      "title": "It’s Not A ‘Loophole’: The 2018 Farm Bill Was For Always Meant For Hemp Cannabinoids (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/its-not-a-loophole-the-2018-farm-bill-was-for-always-meant-for-hemp-cannabinoids-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-24T16:46:51+00:00",
+      "collectedAt": "2026-11-24T17:59:39.642729+00:00",
+      "excerpt": "“Those who say hemp was never meant for cannabinoids are trying to re-write history in their favor.” By Eric Zipperle, Cornbread Hemp There’s been talk recently from the hemp industry’s adversaries that the crop’s…",
+      "topics": [
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-d94ba026f848afc8ed93.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/11/Grow_Max-Jackson_0109.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "1f49c2328a6c6a15ce539044a28ec4930c26b423facd86bf1592258b68d65fdb",
+        "sourceTitle": "It’s Not A ‘Loophole’: The 2018 Farm Bill Was For Always Meant For Hemp Cannabinoids (Op-Ed)",
+        "sourceExcerpt": "“Those who say hemp was never meant for cannabinoids are trying to re-write history in their favor.” By Eric Zipperle, Cornbread Hemp There’s been talk recently from the hemp industry’s adversaries that the crop’s…",
+        "title": "Ce n'est pas un «loophole»: le projet de loi agricole 2018 était toujours destiné aux cannabinoïdes de chanvre (Tribune)",
+        "excerpt": "\"Ceux qui disent que le chanvre n'a jamais été destiné aux cannabinoïdes essaient de réécrire l'histoire en leur faveur.\" […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T17:59:42.032913+00:00"
+      }
+    },
+    {
+      "id": "fc0f7779747fa49accad",
+      "title": "DEA Adjusts Cannabis-Related And Psychedelic Drug Production Quotas For 2026 While Reviewing Medical Marijuana Levels",
+      "url": "https://www.marijuanamoment.net/dea-adjusts-cannabis-related-and-psychedelic-drug-production-quotas-for-2026-while-reviewing-medical-marijuana-levels/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-24T15:37:05+00:00",
+      "collectedAt": "2026-11-24T17:59:39.642729+00:00",
+      "excerpt": "The Drug Enforcement Administration (DEA) is making adjustments to its quotas for legal manufacturing of certain cannabis-related and psychedelic compounds in 2026 for medical, scientific, research and industrial…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-42095fcae4b380b97e27.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2021/09/psilocybin-mushroom-marijuana-leaf.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "e3853d5755675edd09fd96d037740bf6e7d8a556c7227eea59d398e80773c47b",
+        "sourceTitle": "DEA Adjusts Cannabis-Related And Psychedelic Drug Production Quotas For 2026 While Reviewing Medical Marijuana Levels",
+        "sourceExcerpt": "The Drug Enforcement Administration (DEA) is making adjustments to its quotas for legal manufacturing of certain cannabis-related and psychedelic compounds in 2026 for medical, scientific, research and industrial…",
+        "title": "La DEA ajuste les quotas de production de médicaments liés au cannabis et psychédéliques pour 2026 tout en examinant les niveaux de marijuana médicale",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T17:59:42.032913+00:00"
+      }
+    },
+    {
+      "id": "6b657b38b1580a5d3e64",
+      "title": "DEA’s Medical Marijuana Business Restrictions Under Rescheduling Are Now Facing A Third Lawsuit",
+      "url": "https://www.marijuanamoment.net/deas-medical-marijuana-business-restrictions-under-rescheduling-are-now-facing-a-third-lawsuit/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-24T14:03:31+00:00",
+      "collectedAt": "2026-11-24T17:59:39.642729+00:00",
+      "excerpt": "The Drug Enforcement Administration (DEA) is now facing a third legal challenge to restrictions the agency is placing on cannabis businesses in conjunction with the Trump administration’s federal rescheduling move. On…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-66c90e04d0ea822322a9.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cananbis-leaf-hand-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "b04e085d13a794fcacc60fd6f073f4535c9cff5c40205a743e2ed42b768373ca",
+        "sourceTitle": "DEA’s Medical Marijuana Business Restrictions Under Rescheduling Are Now Facing A Third Lawsuit",
+        "sourceExcerpt": "The Drug Enforcement Administration (DEA) is now facing a third legal challenge to restrictions the agency is placing on cannabis businesses in conjunction with the Trump administration’s federal rescheduling move. On…",
+        "title": "Les restrictions commerciales de la marijuana médicale de la DEA sous rééchelonnement font maintenant face à une troisième poursuite",
+        "excerpt": "La Drug Enforcement Administration (DEA) fait maintenant face à une troisième contestation juridique des restrictions imposées par l’agence aux entreprises de cannabis en conjonction avec le changement de calendrier fédéral de l’administration Trump […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T17:59:42.032913+00:00"
+      }
+    },
+    {
+      "id": "9076092c989abed007d9",
+      "title": "North Carolina Officials Reveal Plan For State-Controlled Marijuana Dispensaries",
+      "url": "https://www.marijuanamoment.net/north-carolina-officials-reveal-plan-for-state-controlled-marijuana-dispensaries/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-24T13:46:48+00:00",
+      "collectedAt": "2026-11-24T17:59:39.642729+00:00",
+      "excerpt": "The North Carolina governor’s cannabis council is revealing more details about its draft proposal to legalize marijuana sales through a system of state-controlled dispensaries. Members of the North Carolina Advisory…",
+      "topics": [
+        "Lois & société",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-260059c95603a75ac833.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2019/01/16043513285_47926157fa_k.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "3c9e17ce1bffd9bdf54fac5823b68e31a7baecef59516dfe3cacc39eb83da91d",
+        "sourceTitle": "North Carolina Officials Reveal Plan For State-Controlled Marijuana Dispensaries",
+        "sourceExcerpt": "The North Carolina governor’s cannabis council is revealing more details about its draft proposal to legalize marijuana sales through a system of state-controlled dispensaries. Members of the North Carolina Advisory…",
+        "title": "Les autorités de Caroline du Nord révèlent un plan pour les dispensaires de marijuana contrôlés par l'État",
+        "excerpt": "Le conseil du cannabis du gouverneur de Caroline du Nord révèle plus de détails sur son projet de proposition visant à légaliser les ventes de marijuana par le biais d’un système de dispensaires contrôlés par l’État […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T17:59:42.032913+00:00"
+      }
+    },
+    {
+      "id": "2afbfae25140c6b56383",
+      "title": "Allemagne : des pharmaciens proposent d’expérimenter la vente de cannabis récréatif en pharmacie",
+      "url": "https://www.newsweed.fr/allemagne-pharmaciens-experimentation-vente-cannabis-pharmacie/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-24T13:44:48+00:00",
+      "collectedAt": "2026-11-24T17:59:39.642729+00:00",
+      "excerpt": "Plus de deux ans après la légalisation partielle du cannabis en Allemagne, la question de son approvisionnement à grande échelle n’est pas résolue. Alors que le gouvernement envisage de durcir les conditions d’accès au…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-e690e2d9238c398f7a85.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/pharmacie-allemagne-vente-cannabis.jpg"
+    },
+    {
+      "id": "9241e434d411e18e8bde",
+      "title": "White House Asks Congress To Keep Hemp Products Legal As GOP Senators Tell Trump To Close ‘Loophole’",
+      "url": "https://www.marijuanamoment.net/white-house-asks-congress-to-keep-hemp-products-legal-as-gop-senators-tell-trump-to-close-loophole/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-24T12:53:54+00:00",
+      "collectedAt": "2026-11-24T13:26:46.592138+00:00",
+      "excerpt": "The White House is pressing Congress to include provisions to keep certain hemp products federally legal in an end-of-year funding bill. Meanwhile a coalition of 14 Republican senators is urging President Donald Trump…",
+      "topics": [
+        "Lois & société",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d890e1cdbe056bcdba92.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2024/03/white-house-marijuana-1.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "82cb88ea3951a75cc6c8f2b0e837f51f9a615ef60bce9156ca387ede7c30e4b6",
+        "sourceTitle": "White House Asks Congress To Keep Hemp Products Legal As GOP Senators Tell Trump To Close ‘Loophole’",
+        "sourceExcerpt": "The White House is pressing Congress to include provisions to keep certain hemp products federally legal in an end-of-year funding bill. Meanwhile a coalition of 14 Republican senators is urging President Donald Trump…",
+        "title": "La Maison Blanche demande au Congrès de garder les produits de chanvre légaux alors que les sénateurs républicains demandent à Trump de fermer «Loophole»",
+        "excerpt": "La Maison Blanche presse le Congrès d’inclure des dispositions pour garder certains produits de chanvre légaux au niveau fédéral dans un projet de loi de financement de fin d’année […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T13:27:06.822133+00:00"
+      }
+    },
+    {
+      "id": "6df2c2b7ed862f89238f",
+      "title": "Development of hemp with no detectable THC could give growers a way to cut crop losses",
+      "url": "https://hemptoday.net/development-of-hemp-with-no-detectable-thc-could-give-growers-a-way-to-cut-crop-losses/",
+      "source": "HempToday",
+      "sourceFeed": "https://hemptoday.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-24T12:10:38+00:00",
+      "collectedAt": "2026-11-24T13:26:46.592138+00:00",
+      "excerpt": "A Texas agricultural research agency said it has developed a hemp plant with no detectable THC, a trait that could reduce the risk of crop destruction for growers and make […]",
+      "topics": [
+        "Santé & recherche",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-d829e9d80083c90a1342.jpg",
+      "credit": "HempToday · image de l’article",
+      "imageSource": "https://hemptoday.net/wp-content/uploads/2026/11/Jessup-Texas-AM-1000x635-1.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "f4d9d7c2d7d77c016ccf36072e150529158432c50e09b65ddcb5e44cdf19652d",
+        "sourceTitle": "Development of hemp with no detectable THC could give growers a way to cut crop losses",
+        "sourceExcerpt": "A Texas agricultural research agency said it has developed a hemp plant with no detectable THC, a trait that could reduce the risk of crop destruction for growers and make […]",
+        "title": "Le développement du chanvre sans THC détectable pourrait donner aux producteurs un moyen de réduire les pertes de récolte",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T13:27:06.822133+00:00"
+      }
+    },
+    {
+      "id": "70c0d2b612c93c660509",
+      "title": "Is Cannabis Legal in Thailand? Boom, Backlash and the Medical-Only Bill",
+      "url": "https://businessofcannabis.com/is-cannabis-legal-in-thailand-boom-backlash-and-the-medical-only-bill/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-24T11:25:19+00:00",
+      "collectedAt": "2026-11-24T13:26:46.592138+00:00",
+      "excerpt": "Is cannabis legal in Thailand in 2026? Cannabis is decriminalised in Thailand but no longer freely sold. On June 26, 2025, a ministerial notification significantly restricted access to cannabis flower, in theory…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-113c044b88b0ef2145ae.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/09/laurin-steffens-IVGZ6NsmyBI-unsplash-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "a05e09b0c1ce0cdcea16ad021b90a9c7dd2426f3e8e1aab2f2f175d9609ad5ab",
+        "sourceTitle": "Is Cannabis Legal in Thailand? Boom, Backlash and the Medical-Only Bill",
+        "sourceExcerpt": "Is cannabis legal in Thailand in 2026? Cannabis is decriminalised in Thailand but no longer freely sold. On June 26, 2025, a ministerial notification significantly restricted access to cannabis flower, in theory…",
+        "title": "Le cannabis est-il légal en Thaïlande? Boom, Backlash et la loi médicale seulement",
+        "excerpt": "Le cannabis est-il légal en Thaïlande en 2026 ? Le cannabis est décriminalisé en Thaïlande mais n’est plus vendu librement […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T13:27:06.822133+00:00"
+      }
+    },
+    {
+      "id": "b5e1b49a7db619f8d0a4",
+      "title": "DEA pushes back on cannabis biz lawsuits over rescheduling rules (Newsletter: November 24, 2026)",
+      "url": "https://www.marijuanamoment.net/dea-pushes-back-on-cannabis-biz-lawsuits-over-rescheduling-rules-newsletter-november-24-2026/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-24T11:12:27+00:00",
+      "collectedAt": "2026-11-24T13:26:46.592138+00:00",
+      "excerpt": "GOP senator pushes hemp THC ban; Bipartisan WI lawmakers talk marijuana cooperation; DoorDash’s hemp lobbying; Medical cannabis op-ed Subscribe to receive Marijuana Moment’s newsletter in your inbox every weekday…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-da211490070f94c7bded.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2022/09/Screen-Shot-2022-09-26-at-10.40.21-AM-e1664215643829.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "20e104c866b295fecb752d6d288381a516fc4567d85f740747efb8945fec7bbd",
+        "sourceTitle": "DEA pushes back on cannabis biz lawsuits over rescheduling rules (Newsletter: November 24, 2026)",
+        "sourceExcerpt": "GOP senator pushes hemp THC ban; Bipartisan WI lawmakers talk marijuana cooperation; DoorDash’s hemp lobbying; Medical cannabis op-ed Subscribe to receive Marijuana Moment’s newsletter in your inbox every weekday…",
+        "title": "La DEA repousse les poursuites contre le secteur du cannabis à propos des règles de rééchelonnement (Newsletter: 24 novembre 2026)",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-24T13:27:06.822133+00:00"
+      }
+    }
+  ],
+  "windowHours": 24,
+  "schedule": "09h17, 13h17 et 18h17 · Paris",
+  "notice": "Revue de presse automatique. Titres et courts extraits dans la langue des sources ; articles à lire chez leurs éditeurs. Les rubriques sont un classement automatique, pas une validation des informations.",
+  "date": "2026-11-25",
+  "translationStatus": {
+    "engine": "Traduction neuronale locale",
+    "targetLanguage": "fr",
+    "available": 10,
+    "eligible": 10,
+    "status": "ok",
+    "updatedAt": "2026-11-25T09:28:46.128876+00:00"
+  }
+}
