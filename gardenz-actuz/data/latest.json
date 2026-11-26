@@ -1,75 +1,308 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-26T13:31:44.432930+00:00",
-  "lastSuccess": "2026-11-26T13:31:44.432930+00:00",
-  "status": "ok",
+  "attemptedAt": "2026-11-26T18:00:07.198103+00:00",
+  "lastSuccess": "2026-11-26T18:00:07.198103+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-26T13:31:44.432930+00:00"
+      "count": 7,
+      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-26T13:31:44.432930+00:00"
+      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 10,
-      "checkedAt": "2026-11-26T13:31:44.432930+00:00"
+      "count": 8,
+      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-26T13:31:44.432930+00:00"
+      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-26T13:31:44.432930+00:00"
+      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-26T13:31:44.432930+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-26T13:31:44.432930+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
-      "count": 0,
-      "checkedAt": "2026-11-26T13:31:44.432930+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
-      "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-26T13:31:44.432930+00:00"
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-26T18:00:07.198103+00:00",
+      "error": "HTTP 429"
     }
   ],
   "items": [
+    {
+      "id": "da06bff3e7b4a670d434",
+      "title": "La Suisse inaugure un nouveau laboratoire de recherche sur le cannabis pour percer le génome de la plante",
+      "url": "https://www.newsweed.fr/la-suisse-inaugure-un-nouveau-laboratoire-de-recherche-sur-le-cannabis-pour-percer-le-genome-de-la-plante/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-26T17:00:21+00:00",
+      "collectedAt": "2026-11-26T18:00:07.198103+00:00",
+      "excerpt": "Une ancienne imprimerie de journaux située près de Zurich a trouvé une seconde vie inattendue. La société suisse de biotechnologie Puregene a inauguré le 24 novembre à Schlieren un nouveau centre de recherche dédié au…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-a0ad21e9b21b3524f19c.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/puregene-suisse.jpg"
+    },
+    {
+      "id": "7a559da918c52f092066",
+      "title": "‘Evidence and Expertise, Rather Than Hype’: Key Takeaways from Cannabis Health Symposium London",
+      "url": "https://cannabishealthnews.co.uk/2026/11/26/evidence-and-expertise-rather-than-hype-key-takeaways-from-cannabis-health-symposium-london/",
+      "source": "Cannabis Health",
+      "sourceFeed": "https://cannabishealthnews.co.uk/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-26T15:25:42+00:00",
+      "collectedAt": "2026-11-26T18:00:07.198103+00:00",
+      "excerpt": "From Boots’ entry into the medical cannabis market and calls for better clinical education to patient discrimination and police guidance, we round up the key discussions from the morning sessions at the 2026 Cannabis…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-271684d546e0925cd9e9.webp",
+      "credit": "Cannabis Health · image de l’article",
+      "imageSource": "https://cannabishealthnews.co.uk/wp-content/uploads/2026/11/london-hero-scaled-1.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "05d739c6f6518b7cf463d8124ac1db46c76cadc5955552d51107f2432d2aae64",
+        "sourceTitle": "‘Evidence and Expertise, Rather Than Hype’: Key Takeaways from Cannabis Health Symposium London",
+        "sourceExcerpt": "From Boots’ entry into the medical cannabis market and calls for better clinical education to patient discrimination and police guidance, we round up the key discussions from the morning sessions at the 2026 Cannabis…",
+        "title": "«Preuves et expertise, plutôt que battage médiatique»: principaux enseignements du symposium sur la santé du cannabis à Londres",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-26T18:00:11.293074+00:00"
+      }
+    },
+    {
+      "id": "f829fc300460e24006b8",
+      "title": "Cannabis Health Symposium: London 2026 – Key Takeaways Part 1",
+      "url": "https://businessofcannabis.com/cannabis-health-symposium-london-2026-key-takeaways-part-1/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-26T15:11:50+00:00",
+      "collectedAt": "2026-11-26T18:00:07.198103+00:00",
+      "excerpt": "Almost a year to the day after the launch of the Cannabis Health Symposium, the event returned to London’s Conway Hall on Thursday (November 26, 2026) for a sold-out congregation of the UK’s leading cannabis scientists…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-608c67e56363a2a20c6b.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/photo_5785176761824907642_y-1.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "cf1e76697df178bc278754b2d19e0f698a901f6935f324e54fc74b6153d04f35",
+        "sourceTitle": "Cannabis Health Symposium: London 2026 – Key Takeaways Part 1",
+        "sourceExcerpt": "Almost a year to the day after the launch of the Cannabis Health Symposium, the event returned to London’s Conway Hall on Thursday (November 26, 2026) for a sold-out congregation of the UK’s leading cannabis scientists…",
+        "title": "Symposium sur la santé du cannabis : Londres 2026 – Principaux plats à emporter, partie 1",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-26T18:00:11.293074+00:00"
+      }
+    },
+    {
+      "id": "edfd74345dfcde368756",
+      "title": "Malte : 273 kilos de cannabis légal distribués en 2024",
+      "url": "https://www.newsweed.fr/malte-273-kilos-cannabis-2024/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-26T15:00:26+00:00",
+      "collectedAt": "2026-11-26T18:00:07.198103+00:00",
+      "excerpt": "Près de trois ans après la fin de la prohibition du cannabis à Malte, les Cannabis Clubs maltais ont commencé à distribuer du cannabis en leur sein. Les rapports annuels de l’Autorité pour l’usage responsable du…",
+      "topics": [
+        "Lois & société",
+        "Économie",
+        "Culture"
+      ],
+      "kind": "Article",
+      "image": "assets/live-a0b7e8101bcdf6da0a22.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2024/01/cannabis-club-malte-ouverture.jpg"
+    },
+    {
+      "id": "14e54ac31d91bed8a98b",
+      "title": "Sweden backs $15 million in hemp projects to turn stalks into textiles and walls",
+      "url": "https://hemptoday.net/sweden-backs-15-million-in-hemp-projects-to-turn-stalks-into-textiles-and-walls/",
+      "source": "HempToday",
+      "sourceFeed": "https://hemptoday.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-26T13:49:00+00:00",
+      "collectedAt": "2026-11-26T18:00:07.198103+00:00",
+      "excerpt": "The Swedish government has awarded $8.6 million in grants to help two companies turn locally grown hemp into textile fiber and prefabricated walls, creating new outlets for both the fiber […]",
+      "topics": [
+        "Lois & société",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-e7bd32dd1cd38cd4a61d.png",
+      "credit": "HempToday · image de l’article",
+      "imageSource": "https://hemptoday.net/wp-content/uploads/2026/11/Anna-Karin-Nystrom1000px01.png",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "86d05ce7a17a93808b541095aec3415e0f4d42c9cfe2e1034a893c9c5ff38706",
+        "sourceTitle": "Sweden backs $15 million in hemp projects to turn stalks into textiles and walls",
+        "sourceExcerpt": "The Swedish government has awarded $8.6 million in grants to help two companies turn locally grown hemp into textile fiber and prefabricated walls, creating new outlets for both the fiber […]",
+        "title": "La Suède soutient 15 millions de dollars de projets de chanvre pour transformer les tiges en textiles et en murs",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-26T18:00:11.293074+00:00"
+      }
+    },
+    {
+      "id": "12a997219073933fb12e",
+      "title": "Firefighter Suing City For Medical Marijuana Rights Wins Key Court Victory (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/firefighter-suing-city-for-medical-marijuana-rights-wins-key-court-victory-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-26T13:36:07+00:00",
+      "collectedAt": "2026-11-26T18:00:07.198103+00:00",
+      "excerpt": "“No patient should have to choose between lawful medical treatment and the career they have spent years building.” By Ryan Quinn I recently won a significant court victory against the City of Utica, New York after…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-9677e072b4ea68ccfff5.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/cannabis-marijuana-hand-sky-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "c369cd1c769d0d8a3f9b084038d2a714a4da6c3a316e7633b0d805e239047dd0",
+        "sourceTitle": "Firefighter Suing City For Medical Marijuana Rights Wins Key Court Victory (Op-Ed)",
+        "sourceExcerpt": "“No patient should have to choose between lawful medical treatment and the career they have spent years building.” By Ryan Quinn I recently won a significant court victory against the City of Utica, New York after…",
+        "title": "Un pompier poursuit une ville pour des droits médicaux sur la marijuana remporte la victoire d'un tribunal clé (Tribune)",
+        "excerpt": "« Aucun patient ne devrait avoir à choisir entre un traitement médical légal et la carrière qu’il a passé des années à construire. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-26T18:00:11.293074+00:00"
+      }
+    },
+    {
+      "id": "bff5e22e71b1c4bc3e41",
+      "title": "Le rachat d’Aurora Cannabis par Organigram se jouera en décembre",
+      "url": "https://www.newsweed.fr/aurora-cannabis-organigram-decembre/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-26T13:00:35+00:00",
+      "collectedAt": "2026-11-26T18:00:07.198103+00:00",
+      "excerpt": "Organigram Global et Aurora Cannabis ont fixé au 23 décembre 2026 leurs assemblées extraordinaires d’actionnaires, appelés à se prononcer sur la possible acquisition. Annoncé le 2 novembre, l’accord prévoit le rachat de…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-7f866e7d2425bc538110.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/organigram-aurora.jpg"
+    },
+    {
+      "id": "39353c311e7dc2e532ef",
+      "title": "Caroline du Nord : vers une légalisation du cannabis sous contrôle de l’État",
+      "url": "https://www.newsweed.fr/caroline-nord-legalisation-cannabis-controle-etat/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-26T11:00:39+00:00",
+      "collectedAt": "2026-11-26T18:00:07.198103+00:00",
+      "excerpt": "La Caroline du Nord pourrait devenir le prochain État américain à légaliser le cannabis récréatif, bien que dans un cadre réglementaire nettement plus restrictif que ceux adoptés ailleurs aux États-Unis. Un conseil…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-f3ecc4239812ba8e7cf5.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/caroline-nord-legalisation-cannabis.jpg"
+    },
+    {
+      "id": "de27b29738d83647c29a",
+      "title": "Grinder : comment choisir le bon modèle pour vos herbes, votre tabac ou vos fleurs de CBD",
+      "url": "https://www.newsweed.fr/grinder-comment-choisir-le-bon-modele/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-26T09:00:31+00:00",
+      "collectedAt": "2026-11-26T18:00:07.198103+00:00",
+      "excerpt": "Un grinder, ça se choisit souvent au hasard, sur un stand ou en caisse, et on s’en contente jusqu’au jour où le couvercle force, où les dents ne mordent plus et où il faut finir aux doigts. Pourtant, trois ou quatre…",
+      "topics": [
+        "CBD & molécules"
+      ],
+      "kind": "Article",
+      "image": "assets/live-dfc06886e717a429cfc0.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/grinder-choisir-bon-modele.jpg"
+    },
     {
       "id": "f60076055182b1519b50",
       "title": "Bong reinigen nach Material: Acryl, Silikon, Percolator und fünf Tipps, die schaden",
@@ -8235,9 +8468,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 205,
-    "eligible": 205,
+    "available": 209,
+    "eligible": 209,
     "status": "ok",
-    "updatedAt": "2026-11-26T13:31:45.712367+00:00"
+    "updatedAt": "2026-11-26T18:00:11.293074+00:00"
   }
 }
