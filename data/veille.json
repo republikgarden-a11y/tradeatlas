@@ -1,13 +1,37 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-25T09:39:54Z",
-  "last_success": "2026-11-25T09:39:54Z",
+  "checked_at": "2026-11-26T09:35:59Z",
+  "last_success": "2026-11-26T09:35:59Z",
   "topics_checked": 4,
   "successful_topics": 4,
-  "new_items": 2,
+  "new_items": 3,
   "errors": [],
   "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2owaEhOMDhCZUZwcVNud0RrZnd5NzRUcUlYY1hScmJoWmExUTZ4R01aMVdld2J5WXU4RHRxS2ZDOGoyS1o3U3c0SV8zeGphWFZOc3QtcTNpcE9ZUGw2emVGb2xSSWZrQUZmOW5tdmd4elNFN09Haldsb0RvbXFQc3REVjNPTkNINm5venVmN3o5bnl6NGMw?oc=5",
+      "title": "Signs go up for new Mexican restaurant and bar in city centre - Norwich Evening News",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Norwich Evening News",
+      "published_at": "2026-11-26T09:26:00Z",
+      "first_seen": "2026-11-26T09:35:59Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNXpWaUpvdVUzb21pRWhIdm14WjB5cHFxdXVSbHA3M1RvdHRwcXpTdTBJS1hlUXpSTHJhZURoLWc0RGNJeTVUdUVtM25aSDdja3p5UjExZy1YVndJZ1haaEMxUi1hWkJTeXdUTmJUQTV6THFJaW1SUklvb2twTU9nVW81ZEYxTF92WXd0bHRkbzZic0tCOXQ0OXRocC1pdk0zRUQwX1VETkxQNm1kNmJJS2lDbFVHYTg?oc=5",
+      "title": "Smoore Repurchases 2.86 Million Shares Under Shareholder Mandate - TipRanks",
+      "topic": "Fabricants & marques suivis",
+      "domain": "TipRanks",
+      "published_at": "2026-11-25T12:09:09Z",
+      "first_seen": "2026-11-26T09:35:59Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXYUhVWm4ySnR4MFR4c2pFTml4Rmx1QndhU0FZYkN3ZXpBRzA2TjVrek5rM21YNXpsRWJydVdQYVZxdFdkaUkybjlvRUlxS3c2RHhlLVBQel9Cb3JjQXpzdTgtWDJjQQ?oc=5",
+      "title": "Republic Technologies Inc (7FM0.SG) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Yahoo! Finance Canada",
+      "published_at": "2026-11-25T06:49:14Z",
+      "first_seen": "2026-11-26T09:35:59Z"
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVRPOXdfdmhTc3VxcmRGbkpVc3E0UEhhdWlSS1ltbW12M0pSWlFLUVBDVVJyQXNjZXZwUHNvNVphUm1USjF6UTV6UEZkbXNFbFl3dGdBR1NCZlpzVGtfakFwVGZpTTBXbW5VMjVBY1NFQllMblM2LUpWTm1qbWl2R0VVdXFTTHM0MDBVY011cFc1ZTQ?oc=5",
       "title": "Dominique London’s New Lineup Of Cigar Accessories - Cigar Aficionado",
