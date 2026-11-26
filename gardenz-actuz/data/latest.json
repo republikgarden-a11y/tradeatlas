@@ -1,75 +1,208 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-25T17:56:01.723064+00:00",
-  "lastSuccess": "2026-11-25T17:56:01.723064+00:00",
+  "attemptedAt": "2026-11-26T09:25:03.955436+00:00",
+  "lastSuccess": "2026-11-26T09:25:03.955436+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 10,
-      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
-      "count": 0,
-      "checkedAt": "2026-11-25T17:56:01.723064+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
     }
   ],
   "items": [
+    {
+      "id": "f60076055182b1519b50",
+      "title": "Bong reinigen nach Material: Acryl, Silikon, Percolator und fünf Tipps, die schaden",
+      "url": "https://www.hanf-magazin.com/genusskonsum-von-cannabis/cannabis-rauchen/bong-reinigen-nach-material/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-26T07:00:00+00:00",
+      "collectedAt": "2026-11-26T09:25:03.955436+00:00",
+      "excerpt": "Salz und Isopropanol sind für Glas richtig und für Acryl ruinös. Was bei welchem Material gilt, was im Bongwasser wächst, und welche gängigen Tipps du besser ignorierst. Der Beitrag Bong reinigen nach Material: Acryl…",
+      "topics": [
+        "Autres actualités"
+      ],
+      "kind": "Article",
+      "image": "assets/live-c9426ec854a56b138b31.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-klares-wasser-in-einer-glaskammer-bei-ta-featured-83475.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "f9eb5729a523e9f6f7a71641f09b34d949e26ad04ea54c7d47c587532b7e64b5",
+        "sourceTitle": "Bong reinigen nach Material: Acryl, Silikon, Percolator und fünf Tipps, die schaden",
+        "sourceExcerpt": "Salz und Isopropanol sind für Glas richtig und für Acryl ruinös. Was bei welchem Material gilt, was im Bongwasser wächst, und welche gängigen Tipps du besser ignorierst. Der Beitrag Bong reinigen nach Material: Acryl…",
+        "title": "Nettoyer le bong selon le matériau : acrylique, silicone, percolateur et cinq conseils qui nuisent",
+        "excerpt": "Le sel et l'isopropanol sont adaptés pour le verre et nuisibles pour l'acrylique. Quel matériau est adapté, quel matériau est nuisible, et quels conseils courants est-il préférable d'ignorer dans l'eau du bong […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-26T09:25:09.281274+00:00"
+      }
+    },
+    {
+      "id": "57d55a288f86c5a56fa9",
+      "title": "We’re Thankful for Everyone Who Keeps Marijuana Legalization Moving Forward",
+      "url": "https://norml.org/blog/2026/11/26/were-thankful-for-everyone-who-keeps-marijuana-legalization-moving-forward/",
+      "source": "NORML",
+      "sourceFeed": "https://norml.org/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-26T05:00:00+00:00",
+      "collectedAt": "2026-11-26T09:25:03.955436+00:00",
+      "excerpt": "Thanksgiving is a time to reflect on what, and who, matters most. At NORML, we're especially grateful for people like you who continue to stand up for cannabis freedom.",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-23aa6c08fbdcc628a4f6.png",
+      "credit": "NORML · image de l’article",
+      "imageSource": "https://i0.wp.com/norml.org/wp-content/uploads/2026/11/cannabis-pumpkin-pie.png?fit=730%2C411&ssl=1",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "c15f2f84a1238485d829ef471c393c1f8e738a284935a61f3b2abf398f966459",
+        "sourceTitle": "We’re Thankful for Everyone Who Keeps Marijuana Legalization Moving Forward",
+        "sourceExcerpt": "Thanksgiving is a time to reflect on what, and who, matters most. At NORML, we're especially grateful for people like you who continue to stand up for cannabis freedom.",
+        "title": "Nous remercions tous ceux qui font avancer la légalisation de la marijuana",
+        "excerpt": "Chez NORML, nous sommes particulièrement reconnaissants envers les personnes comme vous qui continuent de défendre la liberté du cannabis.",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-26T09:25:09.281274+00:00"
+      }
+    },
+    {
+      "id": "214b96fa57401e84c43b",
+      "title": "Federal Court Pauses DEA Medical Marijuana Rules That Companies And States Say Will Upend Markets And Patient Access",
+      "url": "https://www.marijuanamoment.net/federal-court-pauses-dea-medical-marijuana-rules-that-companies-and-states-say-will-upend-markets-and-patient-access/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T23:47:50+00:00",
+      "collectedAt": "2026-11-26T09:25:03.955436+00:00",
+      "excerpt": "A federal court is blocking the Drug Enforcement Administration (DEA) from enforcing new restrictions it is seeking to place on medical marijuana companies seeking federal registration and protections under the Trump…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-3deab65b940210eed367.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/09/weed-2517248_1920-e1541068407515.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "0015c948324ba6faed8f611bc3302b5ddf44cd1596aa71a5b69b0ca32853e38f",
+        "sourceTitle": "Federal Court Pauses DEA Medical Marijuana Rules That Companies And States Say Will Upend Markets And Patient Access",
+        "sourceExcerpt": "A federal court is blocking the Drug Enforcement Administration (DEA) from enforcing new restrictions it is seeking to place on medical marijuana companies seeking federal registration and protections under the Trump…",
+        "title": "La Cour fédérale suspend les règles de la DEA sur la marijuana médicale selon lesquelles les entreprises et les États vont bouleverser les marchés et l'accès des patients",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-26T09:25:09.281274+00:00"
+      }
+    },
+    {
+      "id": "52c45d1b0fd645dff9ea",
+      "title": "If DEA Wants Medical Marijuana Operators To Get Serious Under Rescheduling, It Should Go First (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/if-dea-wants-medical-marijuana-operators-to-get-serious-under-rescheduling-it-should-go-first-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T18:10:22+00:00",
+      "collectedAt": "2026-11-26T09:25:03.955436+00:00",
+      "excerpt": "“An uncertain, inconsistent, ad hoc enforcement posture isn’t meaningfully better than the world operators lived in before rescheduling; it’s just a different flavor of unpredictable.” By Whitt Steineker, Bradley Arant…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-e6d2c2447fdec54f84e4.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.25.41-AM-e1614367594554.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "bfa855201e259dad791ccde29acca8cf01ae7cc219bcc366ffd8ce6a0bc085d4",
+        "sourceTitle": "If DEA Wants Medical Marijuana Operators To Get Serious Under Rescheduling, It Should Go First (Op-Ed)",
+        "sourceExcerpt": "“An uncertain, inconsistent, ad hoc enforcement posture isn’t meaningfully better than the world operators lived in before rescheduling; it’s just a different flavor of unpredictable.” By Whitt Steineker, Bradley Arant…",
+        "title": "Si la DEA veut que les opérateurs de marijuana médicale deviennent sérieux sous reprogrammation, il devrait aller d'abord (Tribune)",
+        "excerpt": "« Une posture de mise en application incertaine, incohérente et ad hoc n’est pas significativement meilleure que celle dans laquelle vivaient les opérateurs mondiaux avant le rééchelonnement; c’est juste une saveur différente d’imprévisible. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-26T09:25:09.281274+00:00"
+      }
+    },
     {
       "id": "8c14dc3bb344a0a25eae",
       "title": "Marijuana Companies File New Briefs In Challenges To DEA’s Rescheduling Restrictions",
@@ -8102,9 +8235,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 201,
-    "eligible": 201,
+    "available": 205,
+    "eligible": 205,
     "status": "ok",
-    "updatedAt": "2026-11-25T17:56:04.663271+00:00"
+    "updatedAt": "2026-11-26T09:25:09.281274+00:00"
   }
 }

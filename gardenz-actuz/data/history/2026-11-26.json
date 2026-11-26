@@ -1,0 +1,606 @@
+{
+  "version": 3,
+  "mode": "public-rss",
+  "attemptedAt": "2026-11-26T09:25:03.955436+00:00",
+  "lastSuccess": "2026-11-26T09:25:03.955436+00:00",
+  "status": "ok",
+  "sources": [
+    {
+      "name": "Newsweed",
+      "url": "https://www.newsweed.fr/feed/",
+      "ok": true,
+      "count": 3,
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
+    },
+    {
+      "name": "Le Cannabiste",
+      "url": "https://lecannabiste.com/feed/",
+      "ok": true,
+      "count": 2,
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
+    },
+    {
+      "name": "Marijuana Moment",
+      "url": "https://www.marijuanamoment.net/feed/",
+      "ok": true,
+      "count": 10,
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
+    },
+    {
+      "name": "Ganjapreneur",
+      "url": "https://www.ganjapreneur.com/feed/",
+      "ok": true,
+      "count": 2,
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
+    },
+    {
+      "name": "Hanf Magazin",
+      "url": "https://www.hanf-magazin.com/feed/",
+      "ok": true,
+      "count": 1,
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
+    },
+    {
+      "name": "Business of Cannabis",
+      "url": "https://businessofcannabis.com/feed/",
+      "ok": true,
+      "count": 3,
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
+    },
+    {
+      "name": "HempToday",
+      "url": "https://hemptoday.net/feed/",
+      "ok": true,
+      "count": 2,
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
+    },
+    {
+      "name": "Cannabis Health",
+      "url": "https://cannabishealthnews.co.uk/feed/",
+      "ok": true,
+      "count": 0,
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
+    },
+    {
+      "name": "NORML",
+      "url": "https://norml.org/feed/",
+      "ok": true,
+      "count": 1,
+      "checkedAt": "2026-11-26T09:25:03.955436+00:00"
+    }
+  ],
+  "items": [
+    {
+      "id": "f60076055182b1519b50",
+      "title": "Bong reinigen nach Material: Acryl, Silikon, Percolator und fünf Tipps, die schaden",
+      "url": "https://www.hanf-magazin.com/genusskonsum-von-cannabis/cannabis-rauchen/bong-reinigen-nach-material/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-26T07:00:00+00:00",
+      "collectedAt": "2026-11-26T09:25:03.955436+00:00",
+      "excerpt": "Salz und Isopropanol sind für Glas richtig und für Acryl ruinös. Was bei welchem Material gilt, was im Bongwasser wächst, und welche gängigen Tipps du besser ignorierst. Der Beitrag Bong reinigen nach Material: Acryl…",
+      "topics": [
+        "Autres actualités"
+      ],
+      "kind": "Article",
+      "image": "assets/live-c9426ec854a56b138b31.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-klares-wasser-in-einer-glaskammer-bei-ta-featured-83475.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "f9eb5729a523e9f6f7a71641f09b34d949e26ad04ea54c7d47c587532b7e64b5",
+        "sourceTitle": "Bong reinigen nach Material: Acryl, Silikon, Percolator und fünf Tipps, die schaden",
+        "sourceExcerpt": "Salz und Isopropanol sind für Glas richtig und für Acryl ruinös. Was bei welchem Material gilt, was im Bongwasser wächst, und welche gängigen Tipps du besser ignorierst. Der Beitrag Bong reinigen nach Material: Acryl…",
+        "title": "Nettoyer le bong selon le matériau : acrylique, silicone, percolateur et cinq conseils qui nuisent",
+        "excerpt": "Le sel et l'isopropanol sont adaptés pour le verre et nuisibles pour l'acrylique. Quel matériau est adapté, quel matériau est nuisible, et quels conseils courants est-il préférable d'ignorer dans l'eau du bong […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-26T09:25:09.281274+00:00"
+      }
+    },
+    {
+      "id": "57d55a288f86c5a56fa9",
+      "title": "We’re Thankful for Everyone Who Keeps Marijuana Legalization Moving Forward",
+      "url": "https://norml.org/blog/2026/11/26/were-thankful-for-everyone-who-keeps-marijuana-legalization-moving-forward/",
+      "source": "NORML",
+      "sourceFeed": "https://norml.org/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-26T05:00:00+00:00",
+      "collectedAt": "2026-11-26T09:25:03.955436+00:00",
+      "excerpt": "Thanksgiving is a time to reflect on what, and who, matters most. At NORML, we're especially grateful for people like you who continue to stand up for cannabis freedom.",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-23aa6c08fbdcc628a4f6.png",
+      "credit": "NORML · image de l’article",
+      "imageSource": "https://i0.wp.com/norml.org/wp-content/uploads/2026/11/cannabis-pumpkin-pie.png?fit=730%2C411&ssl=1",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "c15f2f84a1238485d829ef471c393c1f8e738a284935a61f3b2abf398f966459",
+        "sourceTitle": "We’re Thankful for Everyone Who Keeps Marijuana Legalization Moving Forward",
+        "sourceExcerpt": "Thanksgiving is a time to reflect on what, and who, matters most. At NORML, we're especially grateful for people like you who continue to stand up for cannabis freedom.",
+        "title": "Nous remercions tous ceux qui font avancer la légalisation de la marijuana",
+        "excerpt": "Chez NORML, nous sommes particulièrement reconnaissants envers les personnes comme vous qui continuent de défendre la liberté du cannabis.",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-26T09:25:09.281274+00:00"
+      }
+    },
+    {
+      "id": "214b96fa57401e84c43b",
+      "title": "Federal Court Pauses DEA Medical Marijuana Rules That Companies And States Say Will Upend Markets And Patient Access",
+      "url": "https://www.marijuanamoment.net/federal-court-pauses-dea-medical-marijuana-rules-that-companies-and-states-say-will-upend-markets-and-patient-access/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T23:47:50+00:00",
+      "collectedAt": "2026-11-26T09:25:03.955436+00:00",
+      "excerpt": "A federal court is blocking the Drug Enforcement Administration (DEA) from enforcing new restrictions it is seeking to place on medical marijuana companies seeking federal registration and protections under the Trump…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-3deab65b940210eed367.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2017/09/weed-2517248_1920-e1541068407515.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "0015c948324ba6faed8f611bc3302b5ddf44cd1596aa71a5b69b0ca32853e38f",
+        "sourceTitle": "Federal Court Pauses DEA Medical Marijuana Rules That Companies And States Say Will Upend Markets And Patient Access",
+        "sourceExcerpt": "A federal court is blocking the Drug Enforcement Administration (DEA) from enforcing new restrictions it is seeking to place on medical marijuana companies seeking federal registration and protections under the Trump…",
+        "title": "La Cour fédérale suspend les règles de la DEA sur la marijuana médicale selon lesquelles les entreprises et les États vont bouleverser les marchés et l'accès des patients",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-26T09:25:09.281274+00:00"
+      }
+    },
+    {
+      "id": "52c45d1b0fd645dff9ea",
+      "title": "If DEA Wants Medical Marijuana Operators To Get Serious Under Rescheduling, It Should Go First (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/if-dea-wants-medical-marijuana-operators-to-get-serious-under-rescheduling-it-should-go-first-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T18:10:22+00:00",
+      "collectedAt": "2026-11-26T09:25:03.955436+00:00",
+      "excerpt": "“An uncertain, inconsistent, ad hoc enforcement posture isn’t meaningfully better than the world operators lived in before rescheduling; it’s just a different flavor of unpredictable.” By Whitt Steineker, Bradley Arant…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-e6d2c2447fdec54f84e4.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-11.25.41-AM-e1614367594554.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "bfa855201e259dad791ccde29acca8cf01ae7cc219bcc366ffd8ce6a0bc085d4",
+        "sourceTitle": "If DEA Wants Medical Marijuana Operators To Get Serious Under Rescheduling, It Should Go First (Op-Ed)",
+        "sourceExcerpt": "“An uncertain, inconsistent, ad hoc enforcement posture isn’t meaningfully better than the world operators lived in before rescheduling; it’s just a different flavor of unpredictable.” By Whitt Steineker, Bradley Arant…",
+        "title": "Si la DEA veut que les opérateurs de marijuana médicale deviennent sérieux sous reprogrammation, il devrait aller d'abord (Tribune)",
+        "excerpt": "« Une posture de mise en application incertaine, incohérente et ad hoc n’est pas significativement meilleure que celle dans laquelle vivaient les opérateurs mondiaux avant le rééchelonnement; c’est juste une saveur différente d’imprévisible. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-26T09:25:09.281274+00:00"
+      }
+    },
+    {
+      "id": "8c14dc3bb344a0a25eae",
+      "title": "Marijuana Companies File New Briefs In Challenges To DEA’s Rescheduling Restrictions",
+      "url": "https://www.marijuanamoment.net/marijuana-companies-file-new-briefs-in-challenges-to-deas-rescheduling-restrictions/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T16:14:36+00:00",
+      "collectedAt": "2026-11-25T17:56:01.723064+00:00",
+      "excerpt": "Marijuana companies that are challenging restrictions the Drug Enforcement Administration (DEA) is placing on medical cannabis operators in conjunction with the Trump administration’s federal rescheduling move have…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-c148b11cb6db0cdfdc17.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2025/07/hemp-plant-3661210_1920.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "26eff828409872e9a0aa5e0c178cea780d8174a531a8b21a354b32791f0fb009",
+        "sourceTitle": "Marijuana Companies File New Briefs In Challenges To DEA’s Rescheduling Restrictions",
+        "sourceExcerpt": "Marijuana companies that are challenging restrictions the Drug Enforcement Administration (DEA) is placing on medical cannabis operators in conjunction with the Trump administration’s federal rescheduling move have…",
+        "title": "Les entreprises de marijuana déposent de nouveaux mémoires dans les défis aux restrictions de report de la DEA",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-25T17:56:04.663271+00:00"
+      }
+    },
+    {
+      "id": "4dbc34f990d6bf1ca30d",
+      "title": "Oregon Cannabis Extracts Recalled for Pesticides Despite Passing Initial Compliance Testing",
+      "url": "https://ganjapreneur.com/oregon-cannabis-extracts-recalled-for-pesticides-despite-passing-initial-compliance-testing/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T15:22:59+00:00",
+      "collectedAt": "2026-11-25T17:56:01.723064+00:00",
+      "excerpt": "Oregon cannabis regulators issued a mandatory product recall for several batches of a cannabis extract product that tested positive for the pesticide Bifenthrin. The Oregon Liquor and Cannabis Commission (OLCC) said in…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-f7c14d7d7cc7aabc97b1.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/texas-concentrate2.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "6bc80a46655c84224392ab7827814e3da260a9d62b8e1fda84a9d4cc9f3059df",
+        "sourceTitle": "Oregon Cannabis Extracts Recalled for Pesticides Despite Passing Initial Compliance Testing",
+        "sourceExcerpt": "Oregon cannabis regulators issued a mandatory product recall for several batches of a cannabis extract product that tested positive for the pesticide Bifenthrin. The Oregon Liquor and Cannabis Commission (OLCC) said in…",
+        "title": "Extraits de cannabis de l'Oregon rappelés pour des pesticides malgré les tests de conformité initiaux",
+        "excerpt": "Les organismes de réglementation du cannabis de l’Oregon ont émis un rappel obligatoire de plusieurs lots d’un extrait de cannabis testé positif au pesticide Bifenthrin […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-25T17:56:04.663271+00:00"
+      }
+    },
+    {
+      "id": "dd6ae6a6def56deb4bc1",
+      "title": "Illinois Has Added 148 New Medical Cannabis Dispensary Licenses Since September",
+      "url": "https://ganjapreneur.com/illinois-has-added-148-new-medical-cannabis-dispensary-licenses-since-september/",
+      "source": "Ganjapreneur",
+      "sourceFeed": "https://www.ganjapreneur.com/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T15:22:56+00:00",
+      "collectedAt": "2026-11-25T17:56:01.723064+00:00",
+      "excerpt": "The Illinois Department of Financial and Professional Regulation (DFPR) announced Monday that regulators have issued 148 new medical cannabis dispensary licenses since September 10. The new licenses represent the…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-04af617434dd5a9ddae0.jpg",
+      "credit": "Ganjapreneur · image de l’article",
+      "imageSource": "https://ganjapreneur.com/wp-content/uploads/2024/10/dispensarylabel.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "1d26d8aed13abdc315283b42fa59a205aef9ff1aff5ec3387619ee9d8495e4d7",
+        "sourceTitle": "Illinois Has Added 148 New Medical Cannabis Dispensary Licenses Since September",
+        "sourceExcerpt": "The Illinois Department of Financial and Professional Regulation (DFPR) announced Monday that regulators have issued 148 new medical cannabis dispensary licenses since September 10. The new licenses represent the…",
+        "title": "L’Illinois a ajouté 148 nouvelles licences de dispensaire de cannabis médical depuis septembre",
+        "excerpt": "Le Département de la réglementation financière et professionnelle de l'Illinois (DFPR) a annoncé lundi que les régulateurs avaient délivré 148 nouvelles licences de dispensaire de cannabis médical depuis le 10 septembre […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-25T17:56:04.663271+00:00"
+      }
+    },
+    {
+      "id": "1208272ff77a881368fc",
+      "title": "CBD à spectre complet : la Maison Blanche demande au Congrès de l’épargner",
+      "url": "https://lecannabiste.com/cbd-a-spectre-complet-la-maison-blanche-demande-au-congres-de-lepargner/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-25T13:51:00+00:00",
+      "collectedAt": "2026-11-25T17:56:01.723064+00:00",
+      "excerpt": "Dans un document budgétaire transmis au Congrès, l'exécutif américain demande de modifier la loi pour préserver l'accès aux produits CBD à spectre complet, menacés de disparaître des rayons le 11 décembre.",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-303ae5a0ffc26ae20d81.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/featured-13.webp"
+    },
+    {
+      "id": "6d0374d5c41af3332e23",
+      "title": "Thanksgiving : le « Cousin Walk », cette tradition cannabique américaine qui sort de la clandestinité",
+      "url": "https://www.newsweed.fr/thanksgiving-cousin-walk/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-25T13:30:08+00:00",
+      "collectedAt": "2026-11-25T13:31:54.533853+00:00",
+      "excerpt": "Une dinde au four, des conversations familiales interminables et quelques cousins qui s’éclipsent mystérieusement pour prendre l’air. Aux États-Unis, le Cousin Walk , une tradition officieuse de Thanksgiving consistant…",
+      "topics": [
+        "Culture"
+      ],
+      "kind": "Article",
+      "image": "assets/live-b5b32b0c184a421302b8.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/cousin-walk-thanksgiving.jpg"
+    },
+    {
+      "id": "c9f0a9494343f3c02062",
+      "title": "Marijuana Opponents Say Trump’s ‘Audacious’ Rescheduling Move Is Illegal And Must Be Overturned In New Lawsuit Brief",
+      "url": "https://www.marijuanamoment.net/marijuana-opponents-say-trumps-audacious-rescheduling-move-is-illegal-and-must-be-overturned-in-new-lawsuit-brief/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T13:12:04+00:00",
+      "collectedAt": "2026-11-25T13:31:54.533853+00:00",
+      "excerpt": "Groups that are suing the Trump administration in an attempt to block marijuana rescheduling filed a brief in federal court on Tuesday arguing that the move amounts to an “audacious agency overreach” in which federal…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-cf8fcffb34f18e7448fa.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-hand-leaf-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "71812d33eac9d73c0f023a51119732ebd67847a8946f480466818c75c47e49ed",
+        "sourceTitle": "Marijuana Opponents Say Trump’s ‘Audacious’ Rescheduling Move Is Illegal And Must Be Overturned In New Lawsuit Brief",
+        "sourceExcerpt": "Groups that are suing the Trump administration in an attempt to block marijuana rescheduling filed a brief in federal court on Tuesday arguing that the move amounts to an “audacious agency overreach” in which federal…",
+        "title": "Les opposants à la marijuana disent que le mouvement de rééchelonnement «audacieux» de Trump est illégal et doit être renversé dans un nouveau procès",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-25T13:31:58.599120+00:00"
+      }
+    },
+    {
+      "id": "9dfda05ae623993f4957",
+      "title": "South Carolina Health Officials Promise To Address Senator’s Medical Marijuana Access Concerns Within 30 Days",
+      "url": "https://www.marijuanamoment.net/south-carolina-health-officials-promise-to-address-senators-medical-marijuana-access-concerns-within-30-days/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T12:24:21+00:00",
+      "collectedAt": "2026-11-25T13:31:54.533853+00:00",
+      "excerpt": "South Carolina officials are pledging to respond to a GOP senator’s letter that claimed they are out of compliance with state law by not taking steps to provide for legal access to medical marijuana in line with the…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-9cd057629423b66cd1a6.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-28-at-10.58.02-AM-e1611860353683.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "feac39dd23de317a153c6407cbb2c095a392c146bcde643aadb9adb8f08e9d69",
+        "sourceTitle": "South Carolina Health Officials Promise To Address Senator’s Medical Marijuana Access Concerns Within 30 Days",
+        "sourceExcerpt": "South Carolina officials are pledging to respond to a GOP senator’s letter that claimed they are out of compliance with state law by not taking steps to provide for legal access to medical marijuana in line with the…",
+        "title": "Les responsables de la santé de la Caroline du Sud promettent de répondre aux préoccupations du sénateur en matière d'accès à la marijuana médicale dans les 30 jours",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-25T13:31:58.599120+00:00"
+      }
+    },
+    {
+      "id": "13452e32a4b275e7cf7c",
+      "title": "CIC Calls for Expanded Nursing Roles in UK Medical Cannabis Ahead of London Symposium",
+      "url": "https://businessofcannabis.com/cic-calls-for-expanded-nursing-roles-in-uk-medical-cannabis-ahead-of-london-symposium/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-25T11:46:04+00:00",
+      "collectedAt": "2026-11-25T13:31:54.533853+00:00",
+      "excerpt": "Ahead of the Cannabis Health Symposium: London conference tomorrow, the UK Cannabis Industry Council (CIC) has published a policy paper arguing that trained nurses are the UK medical cannabis sector’s most underused…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Communiqué",
+      "image": "assets/live-dc7c159efbb25253b6a2.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/getty-images-W9FC8ubD8q0-unsplash-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "2b07fa53c419ec952581f30ecffb1920856a5d9abe979345f606e72c9d2a1e49",
+        "sourceTitle": "CIC Calls for Expanded Nursing Roles in UK Medical Cannabis Ahead of London Symposium",
+        "sourceExcerpt": "Ahead of the Cannabis Health Symposium: London conference tomorrow, the UK Cannabis Industry Council (CIC) has published a policy paper arguing that trained nurses are the UK medical cannabis sector’s most underused…",
+        "title": "Le CIC appelle à élargir les rôles des infirmières dans le cannabis médical au Royaume-Uni avant le symposium de Londres",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-25T13:31:58.599120+00:00"
+      }
+    },
+    {
+      "id": "d6a68aaa93d01ae116be",
+      "title": "White House pushes hemp regulations, without specifics (Newsletter: November 25, 2026)",
+      "url": "https://www.marijuanamoment.net/white-house-pushes-hemp-regulations-without-specifics-newsletter-november-25-2026/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T11:12:05+00:00",
+      "collectedAt": "2026-11-25T13:31:54.533853+00:00",
+      "excerpt": "States take marijuana biz side in DEA challenge; NC state-run marijuana stores plan; Federal cannabinoid & psychedelics drug quotas Subscribe to receive Marijuana Moment’s newsletter in your inbox every weekday morning.…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-ed579fd43e9c9873e972.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2018/07/37208596306_152e60fb9b_k.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "bb02bb77ee78b2e86a5aefdb5fc5fba4ad433840709639a3b604aaffc715ac21",
+        "sourceTitle": "White House pushes hemp regulations, without specifics (Newsletter: November 25, 2026)",
+        "sourceExcerpt": "States take marijuana biz side in DEA challenge; NC state-run marijuana stores plan; Federal cannabinoid & psychedelics drug quotas Subscribe to receive Marijuana Moment’s newsletter in your inbox every weekday morning.…",
+        "title": "La Maison Blanche pousse la réglementation sur le chanvre, sans détails (Newsletter: 25 novembre 2026)",
+        "excerpt": "Les États prennent le côté commercial de la marijuana dans le défi DEA; Les magasins de marijuana gérés par l'État NC; Quotas fédéraux de cannabinoïdes et de drogues psychédéliques Inscrivez-vous pour recevoir la newsletter de Marijuana Moment dans votre boîte de réception tous les matins de la semaine […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-25T13:31:58.599120+00:00"
+      }
+    },
+    {
+      "id": "6190ee69bc805b1dad68",
+      "title": "Cannabis médical en France : Stéphanie Rist repousse les avancées réglementaires à janvier 2027",
+      "url": "https://www.newsweed.fr/cannabis-medical-france-stephanie-rist-avancees-reglementaires-janvier-2027/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-25T10:58:57+00:00",
+      "collectedAt": "2026-11-25T13:31:54.533853+00:00",
+      "excerpt": "Près de trois ans après l’inscription du cannabis médical dans la loi de financement de la Sécurité sociale, les nouveaux patients français restent privés d’accès à ces traitements. Interpellée le 24 novembre à…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-bc372144c8dbcf971b18.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/decret-cannabis-medical-janiver-2027.jpg"
+    },
+    {
+      "id": "f31c80861e5b7b2fc64a",
+      "title": "Where Does the UK Medical Cannabis Journey Actually Break Down?",
+      "url": "https://businessofcannabis.com/where-does-the-uk-medical-cannabis-journey-actually-break-down/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-25T10:35:27+00:00",
+      "collectedAt": "2026-11-25T13:31:54.533853+00:00",
+      "excerpt": "“Patients rarely stop because of the medicine. They stop because of the experience,” Cyrus Sadaghiani, Chief Revenue Officer of Retail North, told Business of Cannabis. A poor patient experience, he argues, is the key…",
+      "topics": [
+        "Santé & recherche",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-a099f49a66fb22138de1.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/doodleroy-smoke-2636848-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "8024f886b63d419c176a8ea77f515d1257b06651558e72b19ceb4eca821c438d",
+        "sourceTitle": "Where Does the UK Medical Cannabis Journey Actually Break Down?",
+        "sourceExcerpt": "“Patients rarely stop because of the medicine. They stop because of the experience,” Cyrus Sadaghiani, Chief Revenue Officer of Retail North, told Business of Cannabis. A poor patient experience, he argues, is the key…",
+        "title": "Où le voyage du cannabis médical au Royaume-Uni tombe-t-il réellement en panne?",
+        "excerpt": "\"Les patients s'arrêtent rarement à cause du médicament, ils s'arrêtent à cause de l'expérience\", a déclaré Cyrus Sadaghiani, directeur des revenus de Retail North, à Business of Cannabis […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-25T13:31:58.599120+00:00"
+      }
+    },
+    {
+      "id": "afcdb7c40814554a001b",
+      "title": "Cannabis : la France plus réticente à la légalisation que la moyenne européenne",
+      "url": "https://lecannabiste.com/cannabis-la-france-plus-reticente-a-la-legalisation-que-la-moyenne-europeenne/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-25T10:28:00+00:00",
+      "collectedAt": "2026-11-25T13:31:54.533853+00:00",
+      "excerpt": "La première grande enquête d'opinion de l'agence européenne sur les drogues montre que les Français sont un peu plus attachés à l'interdiction du cannabis que la moyenne de l'Union européenne, alors même qu'ils jugent…",
+      "topics": [
+        "Lois & société"
+      ],
+      "kind": "Article",
+      "image": "assets/live-60191ec989bb150885d9.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/featured-12.webp"
+    },
+    {
+      "id": "03e966562aa0a6bb3ed0",
+      "title": "Czech hemp group backs crackdown on intoxicants, but fears loss of legal flower sales",
+      "url": "https://hemptoday.net/czech-hemp-group-backs-crackdown-on-intoxicants-but-fears-loss-of-legal-flower-sales/",
+      "source": "HempToday",
+      "sourceFeed": "https://hemptoday.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-25T10:02:59+00:00",
+      "collectedAt": "2026-11-25T13:31:54.533853+00:00",
+      "excerpt": "A Czech hemp industry group says a proposed amendment to the country’s Act on Addictive Substances, now on the parliamentary agenda, could unduly restrict trade in legal hemp flowers and […]",
+      "topics": [
+        "Lois & société",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-ad1641a0512dd555ae4e.jpg",
+      "credit": "HempToday · image de l’article",
+      "imageSource": "https://hemptoday.net/wp-content/uploads/2021/06/czech-chamber-deputies.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "5dd5fe6ed4fd6aa4b534ba46c051557077e460ea72a0a0caced0c9109ff720b5",
+        "sourceTitle": "Czech hemp group backs crackdown on intoxicants, but fears loss of legal flower sales",
+        "sourceExcerpt": "A Czech hemp industry group says a proposed amendment to the country’s Act on Addictive Substances, now on the parliamentary agenda, could unduly restrict trade in legal hemp flowers and […]",
+        "title": "Le groupe tchèque de chanvre soutient la répression contre les substances intoxicantes, mais craint la perte des ventes légales de fleurs",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-25T13:31:58.599120+00:00"
+      }
+    }
+  ],
+  "windowHours": 24,
+  "schedule": "09h17, 13h17 et 18h17 · Paris",
+  "notice": "Revue de presse automatique. Titres et courts extraits dans la langue des sources ; articles à lire chez leurs éditeurs. Les rubriques sont un classement automatique, pas une validation des informations.",
+  "date": "2026-11-26",
+  "translationStatus": {
+    "engine": "Traduction neuronale locale",
+    "targetLanguage": "fr",
+    "available": 13,
+    "eligible": 13,
+    "status": "ok",
+    "updatedAt": "2026-11-26T09:25:09.281274+00:00"
+  }
+}
