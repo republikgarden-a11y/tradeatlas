@@ -1,76 +1,129 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-26T18:00:07.198103+00:00",
-  "lastSuccess": "2026-11-26T18:00:07.198103+00:00",
-  "status": "partial",
+  "attemptedAt": "2026-11-27T09:25:09.060924+00:00",
+  "lastSuccess": "2026-11-27T09:25:09.060924+00:00",
+  "status": "ok",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 7,
-      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
+      "checkedAt": "2026-11-27T09:25:09.060924+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-27T09:25:09.060924+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 8,
-      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
+      "count": 7,
+      "checkedAt": "2026-11-27T09:25:09.060924+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
+      "checkedAt": "2026-11-27T09:25:09.060924+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-27T09:25:09.060924+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 3,
-      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
+      "checkedAt": "2026-11-27T09:25:09.060924+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
+      "checkedAt": "2026-11-27T09:25:09.060924+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-26T18:00:07.198103+00:00"
+      "checkedAt": "2026-11-27T09:25:09.060924+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
-      "ok": false,
-      "count": 0,
-      "checkedAt": "2026-11-26T18:00:07.198103+00:00",
-      "error": "HTTP 429"
+      "ok": true,
+      "count": 1,
+      "checkedAt": "2026-11-27T09:25:09.060924+00:00"
     }
   ],
   "items": [
+    {
+      "id": "e9ebedf27356cdc65b07",
+      "title": "Die besten Geschenkideen für Genießer: Welcher Vaporizer passt zu wem?",
+      "url": "https://www.hanf-magazin.com/produktvorstellungen/geschenkideen-vaporizer-veazy-venty-volcano-hybrid/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-27T07:00:00+00:00",
+      "collectedAt": "2026-11-27T09:25:09.060924+00:00",
+      "excerpt": "VEAZY, VENTY oder VOLCANO HYBRID: eine Zuordnung nach Mensch statt nach Bestenliste, mit vier Punkten, die man vor dem Verschenken bedenken sollte. Der Beitrag Die besten Geschenkideen für Genießer: Welcher Vaporizer…",
+      "topics": [
+        "Autres actualités"
+      ],
+      "kind": "Article",
+      "image": "assets/live-7fd357a9ed09052ae56f.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/sb-volcano-hybrid-vaporizer.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "c478c5e6b6d0b2bba542ab8c66006e6b3a0fb8e4896522b7b40a145070bac51a",
+        "sourceTitle": "Die besten Geschenkideen für Genießer: Welcher Vaporizer passt zu wem?",
+        "sourceExcerpt": "VEAZY, VENTY oder VOLCANO HYBRID: eine Zuordnung nach Mensch statt nach Bestenliste, mit vier Punkten, die man vor dem Verschenken bedenken sollte. Der Beitrag Die besten Geschenkideen für Genießer: Welcher Vaporizer…",
+        "title": "Les meilleures idées de cadeaux pour les amateurs : quel vaporisateur convient à qui ?",
+        "excerpt": "VEAZY, VENTY ou VOLCANO HYBRID : une correspondance selon la personne plutôt que selon une liste des meilleurs, avec quatre critères à prendre en compte avant de faire un cadeau […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-27T09:25:15.110556+00:00"
+      }
+    },
+    {
+      "id": "0ad0717ee2b187bd75ba",
+      "title": "Prix du CBD en France : 6,90 € le gramme en médiane, mais tout se joue ailleurs",
+      "url": "https://lecannabiste.com/prix-du-cbd-en-france-690-e-le-gramme-en-mediane-mais-tout-se-joue-ailleurs/",
+      "source": "Le Cannabiste",
+      "sourceFeed": "https://lecannabiste.com/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-26T18:56:00+00:00",
+      "collectedAt": "2026-11-27T09:25:09.060924+00:00",
+      "excerpt": "La fleur de CBD ressort à 6,90 € le gramme en médiane en France, mais le prix au gramme va de 0,50 à 30 € selon la culture et le format acheté.",
+      "topics": [
+        "CBD & molécules",
+        "Chanvre",
+        "Culture"
+      ],
+      "kind": "Article",
+      "image": "assets/live-dc5a9ada468aaeaa7a33.webp",
+      "credit": "Le Cannabiste · image de l’article",
+      "imageSource": "https://lecannabiste.com/wp-content/uploads/2026/11/featured-14.webp"
+    },
     {
       "id": "da06bff3e7b4a670d434",
       "title": "La Suisse inaugure un nouveau laboratoire de recherche sur le cannabis pour percer le génome de la plante",
@@ -8468,9 +8521,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 209,
-    "eligible": 209,
+    "available": 210,
+    "eligible": 210,
     "status": "ok",
-    "updatedAt": "2026-11-26T18:00:11.293074+00:00"
+    "updatedAt": "2026-11-27T09:25:15.110556+00:00"
   }
 }
