@@ -1,8 +1,8 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-27T13:26:38.004508+00:00",
-  "lastSuccess": "2026-11-27T13:26:38.004508+00:00",
+  "attemptedAt": "2026-11-27T17:59:54.200351+00:00",
+  "lastSuccess": "2026-11-27T17:59:54.200351+00:00",
   "status": "ok",
   "sources": [
     {
@@ -10,66 +10,202 @@
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T13:26:38.004508+00:00"
+      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-27T13:26:38.004508+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 5,
-      "checkedAt": "2026-11-27T13:26:38.004508+00:00"
+      "count": 7,
+      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-27T13:26:38.004508+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-27T13:26:38.004508+00:00"
+      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-27T13:26:38.004508+00:00"
+      "count": 2,
+      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-27T13:26:38.004508+00:00"
+      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-27T13:26:38.004508+00:00"
+      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-27T13:26:38.004508+00:00"
+      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
     }
   ],
   "items": [
+    {
+      "id": "774f148d8771980de021",
+      "title": "Cannabis Health Symposium: London 2026 – Key Takeaways Part 2",
+      "url": "https://businessofcannabis.com/cannabis-health-symposium-london-2026-key-takeaways-part-2/",
+      "source": "Business of Cannabis",
+      "sourceFeed": "https://businessofcannabis.com/feed/",
+      "language": "en",
+      "region": "Europe",
+      "publishedAt": "2026-11-27T16:12:51+00:00",
+      "collectedAt": "2026-11-27T17:59:54.200351+00:00",
+      "excerpt": "The afternoon sessions at Thursday’s Cannabis Health Symposium London moved from the morning’s focus on policy, regulation and access to the science and clinical reality of prescribing cannabis-based medicines in the…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-1f426d5f699508b901bc.webp",
+      "credit": "Business of Cannabis · image de l’article",
+      "imageSource": "https://wp.businessofcannabis.com/wp-content/uploads/2026/11/20261126_144249-scaled-e1795795762259.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "04e0dc57655e62de5254cfdb04e6c2163ce4c316147dbf8aeef063c0921d1dce",
+        "sourceTitle": "Cannabis Health Symposium: London 2026 – Key Takeaways Part 2",
+        "sourceExcerpt": "The afternoon sessions at Thursday’s Cannabis Health Symposium London moved from the morning’s focus on policy, regulation and access to the science and clinical reality of prescribing cannabis-based medicines in the…",
+        "title": "Symposium sur la santé du cannabis : Londres 2026 – Principaux plats à emporter",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-27T17:59:56.544036+00:00"
+      }
+    },
+    {
+      "id": "81c189d7672fc2c75577",
+      "title": "What Terps USA’s Trademark Dispute With The University Of Maryland Means For Cannabis Branding (Op-Ed)",
+      "url": "https://www.marijuanamoment.net/what-terps-usas-trademark-dispute-with-the-university-of-maryland-means-for-cannabis-branding-op-ed/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-27T15:15:09+00:00",
+      "collectedAt": "2026-11-27T17:59:54.200351+00:00",
+      "excerpt": "“The situation provides a practical lesson for any business in the cannabis industry seeking to establish its brand identity.” By Sharon Urias, Greenspoon Marder The time and effort involved in choosing a brand name…",
+      "topics": [
+        "Économie"
+      ],
+      "kind": "Opinion",
+      "image": "assets/live-ec7556839c833ba2ed43.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-26-at-9.34.39-AM-e1611682554361.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "3a69ff072620fda9ece7ca1da6e82dde4c654d8bae29e6b6478643fb3961c42d",
+        "sourceTitle": "What Terps USA’s Trademark Dispute With The University Of Maryland Means For Cannabis Branding (Op-Ed)",
+        "sourceExcerpt": "“The situation provides a practical lesson for any business in the cannabis industry seeking to establish its brand identity.” By Sharon Urias, Greenspoon Marder The time and effort involved in choosing a brand name…",
+        "title": "Qu'est-ce que le litige de marque déposée de Terps USA avec l'Université du Maryland signifie pour la marque de cannabis (Tribune)",
+        "excerpt": "« La situation fournit une leçon pratique à toute entreprise de l’industrie du cannabis qui cherche à établir son identité de marque. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-27T17:59:56.544036+00:00"
+      }
+    },
+    {
+      "id": "6bd9bf94c525ed9d3574",
+      "title": "Anti-Hemp GOP Senators Float ‘Carveouts’ For Veterans And Seniors To Keep Legal Access As Compromise To Outright Ban",
+      "url": "https://www.marijuanamoment.net/anti-hemp-gop-senators-float-carveouts-for-veterans-and-seniors-to-keep-legal-access-as-compromise-to-outright-ban/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-27T14:22:05+00:00",
+      "collectedAt": "2026-11-27T17:59:54.200351+00:00",
+      "excerpt": "Republican senators who have been leading a push to ban hemp THC products appear to be offering a compromise that would keep some products legal for certain populations as the White House is calling on Congress to…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-e2206f49130af6f5c068.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2023/08/capitol-congress-cannabis.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "653f3ec21fe4012d2ebc8086fa14bfe39a4298c2f256b0d84cede845951f11a2",
+        "sourceTitle": "Anti-Hemp GOP Senators Float ‘Carveouts’ For Veterans And Seniors To Keep Legal Access As Compromise To Outright Ban",
+        "sourceExcerpt": "Republican senators who have been leading a push to ban hemp THC products appear to be offering a compromise that would keep some products legal for certain populations as the White House is calling on Congress to…",
+        "title": "Les sénateurs anti-Hemp GOP flottent sur des «découpages» pour les anciens combattants et les aînés afin de garder l'accès légal comme compromis pour interdire carrément",
+        "excerpt": "Extrait source coupé en cours de phrase. Lis la suite avec « Lire en français ».",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-27T17:59:56.544036+00:00"
+      }
+    },
+    {
+      "id": "ca05e90095856b1daa80",
+      "title": "Bipartisan New Hampshire Lawmakers File Marijuana Legalization And Psychedelics Bill Requests For 2027",
+      "url": "https://www.marijuanamoment.net/bipartisan-new-hampshire-lawmakers-file-marijuana-legalization-and-psychedelics-bill-requests-for-2027/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-27T13:35:51+00:00",
+      "collectedAt": "2026-11-27T17:59:54.200351+00:00",
+      "excerpt": "New Hampshire lawmakers are taking steps toward legalizing recreational marijuana, expanding the state’s existing medical cannabis program and enacting new psychedelics-focused reforms in the 2027 legislative session.…",
+      "topics": [
+        "Lois & société",
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-6886981bc7f770244f70.webp",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2018/03/marijuana-plants-26-e1629840350417-scaled.webp",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "4e928a19eb2dfc2ce302c9773c2b00ab8cf530c8dd397f7a7e1eb39431f22281",
+        "sourceTitle": "Bipartisan New Hampshire Lawmakers File Marijuana Legalization And Psychedelics Bill Requests For 2027",
+        "sourceExcerpt": "New Hampshire lawmakers are taking steps toward legalizing recreational marijuana, expanding the state’s existing medical cannabis program and enacting new psychedelics-focused reforms in the 2027 legislative session.…",
+        "title": "Les législateurs bipartisans du New Hampshire déposent des demandes de légalisation de la marijuana et de projet de loi sur les psychédéliques pour 2027",
+        "excerpt": "Les législateurs du New Hampshire prennent des mesures pour légaliser la marijuana récréative, élargir le programme de cannabis médical existant de l’État et adopter de nouvelles réformes axées sur les psychédéliques lors de la session législative de 2027 […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-27T17:59:56.544036+00:00"
+      }
+    },
     {
       "id": "78fb76f36a7a6175fff6",
       "title": "Cannabis : les grandes consommatrices passent moins de mammographies",
@@ -419,9 +555,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 6,
-    "eligible": 6,
+    "available": 10,
+    "eligible": 10,
     "status": "ok",
-    "updatedAt": "2026-11-27T13:26:40.997785+00:00"
+    "updatedAt": "2026-11-27T17:59:56.544036+00:00"
   }
 }
