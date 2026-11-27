@@ -1,13 +1,37 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-26T09:35:59Z",
-  "last_success": "2026-11-26T09:35:59Z",
+  "checked_at": "2026-11-27T09:34:54Z",
+  "last_success": "2026-11-27T09:34:54Z",
   "topics_checked": 4,
   "successful_topics": 4,
-  "new_items": 3,
+  "new_items": 5,
   "errors": [],
   "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY09lcHk0WjZTQnhkcVRZMi1LY3F0YWJBV3J6aGV1NDJScVF2Mkh5RnhyYm5tX3RfbWR5Qk8wSUNZUzFwZlF2aFozMUc5WmVCeUVRd1RzRk0xenRMdnY1MmZCZTNFYWFDUjdMU2pjRTJVM1BEN0FPdkVzQlJhejdodkFSbXJPT295bkZtTHpLLTIwdU9odTl1Ujl0Mm1LZHBuRVYwN3JBbw?oc=5",
+      "title": "Marlboro and West: merger under consideration to create the world’s leading cigarette manufacturer - Il Sole 24 ORE",
+      "topic": "Papier & cônes",
+      "domain": "Il Sole 24 ORE",
+      "published_at": "2026-11-27T08:47:51Z",
+      "first_seen": "2026-11-27T09:34:54Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSTlIUVNSTi1QcnY1UUhZbF9tNEhaQ2FldTZ3V1RlcFlVTEVWSUVUX2E4SjBtbmd5Q25xdkdaQjAyUmhSQ1JRZ0p0U2VxbEdXbmtBM0owWVFPaVBPb0tzRTkyRk9IWFRGcUdyeU1pV2EtODFOVFoxMkxmcktxRVJqVGgtV3Uydw?oc=5",
+      "title": "Altria Considers Takeover Offer for Imperial Brands - Demokratis.co.id",
+      "topic": "Papier & cônes",
+      "domain": "Demokratis.co.id",
+      "published_at": "2026-11-26T17:43:00Z",
+      "first_seen": "2026-11-27T09:34:54Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWlgyN210X3AzS2lQc3paTEZlTVFEMEdLVUtObjR4enJiYmN1THYyVnpmMVZkNllCbmNfMEN2VDdDTGhnMEM1anFGQ2VFaVZwVEhtTHlzTDhmb0hXc01zcnlLVl84LW02ZGVvUFZmMUhDZGoybEFuem90Vk52SHBhYlY1WE1iRU9BS2hoSnZ6dXNwRERyN0lsbHdDaEZvczBOS2tBV0hqcENRSmM?oc=5",
+      "title": "Smoore Repurchases 1,318,000 Shares Under General Mandate - TipRanks",
+      "topic": "Fabricants & marques suivis",
+      "domain": "TipRanks",
+      "published_at": "2026-11-26T12:07:33Z",
+      "first_seen": "2026-11-27T09:34:54Z"
+    },
     {
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2owaEhOMDhCZUZwcVNud0RrZnd5NzRUcUlYY1hScmJoWmExUTZ4R01aMVdld2J5WXU4RHRxS2ZDOGoyS1o3U3c0SV8zeGphWFZOc3QtcTNpcE9ZUGw2emVGb2xSSWZrQUZmOW5tdmd4elNFN09Haldsb0RvbXFQc3REVjNPTkNINm5venVmN3o5bnl6NGMw?oc=5",
       "title": "Signs go up for new Mexican restaurant and bar in city centre - Norwich Evening News",
@@ -15,6 +39,14 @@
       "domain": "Norwich Evening News",
       "published_at": "2026-11-26T09:26:00Z",
       "first_seen": "2026-11-26T09:35:59Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSlNmUnRyVEpXZkdBOGVRV3I5VFZtNjBJYTFyWjJzS1QxU21PbUFQOGNieDlDcGROa2oxU21xbE44ZFVpTk5uQkZsQWJJVzVEZkhxaGtiTHJ4cnY1cEVPQVozNkhPZ3AxcHBoUVROMjFrRHFPVzgybTM2WmhvbXBCMkgtYzBxcHdwRjBfUWRLcTFhNG9UYk4tUllhU3lsVGpwc1Fqb2ZINktxQkwxTzJjZmJ0LWVTZkU1OEpjY01mQUhvMURqdVhSX2xnRkNYaDl0QUpoaGd6Ukt2Q3ppcHVNc3AyZUdTQy0xMHhCVWpQR1ZvXzYt?oc=5",
+      "title": "Smoore Repurchases 2.86 Million Shares Under Shareholder Mandate - TipRanks",
+      "topic": "Fabricants & marques suivis",
+      "domain": "TipRanks",
+      "published_at": "2026-11-25T12:09:09Z",
+      "first_seen": "2026-11-27T09:34:54Z"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNXpWaUpvdVUzb21pRWhIdm14WjB5cHFxdXVSbHA3M1RvdHRwcXpTdTBJS1hlUXpSTHJhZURoLWc0RGNJeTVUdUVtM25aSDdja3p5UjExZy1YVndJZ1haaEMxUi1hWkJTeXdUTmJUQTV6THFJaW1SUklvb2twTU9nVW81ZEYxTF92WXd0bHRkbzZic0tCOXQ0OXRocC1pdk0zRUQwX1VETkxQNm1kNmJJS2lDbFVHYTg?oc=5",
@@ -31,6 +63,14 @@
       "domain": "Yahoo! Finance Canada",
       "published_at": "2026-11-25T06:49:14Z",
       "first_seen": "2026-11-26T09:35:59Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qZW1YSG5sMnFUNGgwOWdVbFpjMkhNbXVJNmFvSjBfS3lqMVhjZFpMSDcxaFpHLUQ0b0Y1MFBja1lwRV9JNnRNZnRCUjlFZjhEU1M0U25zUEJ6aERNTS1IdHlUY2VUVzJSczhKN1liVQ?oc=5",
+      "title": "Cannabis gift guide 2026: 14 weed-friendly presents - GreenState",
+      "topic": "Vape & accessoires",
+      "domain": "GreenState",
+      "published_at": "2026-11-24T18:45:25Z",
+      "first_seen": "2026-11-27T09:34:54Z"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOVRPOXdfdmhTc3VxcmRGbkpVc3E0UEhhdWlSS1ltbW12M0pSWlFLUVBDVVJyQXNjZXZwUHNvNVphUm1USjF6UTV6UEZkbXNFbFl3dGdBR1NCZlpzVGtfakFwVGZpTTBXbW5VMjVBY1NFQllMblM2LUpWTm1qbWl2R0VVdXFTTHM0MDBVY011cFc1ZTQ?oc=5",
