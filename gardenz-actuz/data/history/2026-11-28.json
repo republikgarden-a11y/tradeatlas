@@ -1,75 +1,146 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-28T13:09:21.438775+00:00",
-  "lastSuccess": "2026-11-28T13:09:21.438775+00:00",
-  "status": "ok",
+  "attemptedAt": "2026-11-28T17:53:03.038876+00:00",
+  "lastSuccess": "2026-11-28T17:53:03.038876+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-28T13:09:21.438775+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-28T17:53:03.038876+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
-      "ok": true,
-      "count": 4,
-      "checkedAt": "2026-11-28T13:09:21.438775+00:00"
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-28T17:53:03.038876+00:00",
+      "error": "HTTP 415"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
       "count": 5,
-      "checkedAt": "2026-11-28T13:09:21.438775+00:00"
+      "checkedAt": "2026-11-28T17:53:03.038876+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-28T13:09:21.438775+00:00"
+      "checkedAt": "2026-11-28T17:53:03.038876+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-28T13:09:21.438775+00:00"
+      "count": 3,
+      "checkedAt": "2026-11-28T17:53:03.038876+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
-      "count": 2,
-      "checkedAt": "2026-11-28T13:09:21.438775+00:00"
+      "count": 1,
+      "checkedAt": "2026-11-28T17:53:03.038876+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-28T13:09:21.438775+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-28T17:53:03.038876+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-28T13:09:21.438775+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-28T17:53:03.038876+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-28T13:09:21.438775+00:00"
+      "checkedAt": "2026-11-28T17:53:03.038876+00:00"
     }
   ],
   "items": [
+    {
+      "id": "98f42b5d071a543c4b11",
+      "title": "Cannabis-Genlabor in Schlieren: Was Puregene erforscht und wo das Moratorium die Grenze zieht",
+      "url": "https://www.hanf-magazin.com/politik/schweiz/puregene-genlabor-schlieren-crispr-moratorium/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-28T15:00:00+00:00",
+      "collectedAt": "2026-11-28T17:53:03.038876+00:00",
+      "excerpt": "Ein Labor bei Zürich sucht, welches Gen welche Eigenschaft macht, auch mit CRISPR. Das Schweizer Moratorium stoppt aber erst den Verkauf. Der Beitrag Cannabis-Genlabor in Schlieren: Was Puregene erforscht und wo das…",
+      "topics": [
+        "Lois & société",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-272e6cef3cbb7d12d417.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/11/puregene-labor-schlieren-jungpflanzen-featured.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "f8a0b1494bce3516736876d475b166f116ce4c0fb2b6d27bb3189cb4c41add93",
+        "sourceTitle": "Cannabis-Genlabor in Schlieren: Was Puregene erforscht und wo das Moratorium die Grenze zieht",
+        "sourceExcerpt": "Ein Labor bei Zürich sucht, welches Gen welche Eigenschaft macht, auch mit CRISPR. Das Schweizer Moratorium stoppt aber erst den Verkauf. Der Beitrag Cannabis-Genlabor in Schlieren: Was Puregene erforscht und wo das…",
+        "title": "Laboratoire de chanvre à Schlieren : ce que Puregene étudie et où le moratoire dessine la limite",
+        "excerpt": "Un laboratoire à Zurich cherche à identifier quel gène confère quelle propriété, même avec CRISPR. Mais le moratoire suisse interdit seulement la vente […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-28T17:53:05.364220+00:00"
+      }
+    },
+    {
+      "id": "64004b971357a4cecd92",
+      "title": "Minnesota Will Allow Continued Hemp THC Product Sales Even If Federal Ban Takes Effect, Top Cannabis Official Says",
+      "url": "https://www.marijuanamoment.net/minnesota-will-allow-continued-hemp-thc-product-sales-even-if-federal-ban-takes-effect-top-cannabis-official-says/",
+      "source": "Marijuana Moment",
+      "sourceFeed": "https://www.marijuanamoment.net/feed/",
+      "language": "en",
+      "region": "Monde",
+      "publishedAt": "2026-11-28T14:02:21+00:00",
+      "collectedAt": "2026-11-28T17:53:03.038876+00:00",
+      "excerpt": "“Every business is going to make a series of calculations about what risk they’re willing to tolerate.” By Matt DeLong, Minnesota Reformer With just three weeks until a strict new federal definition of hemp takes…",
+      "topics": [
+        "Lois & société",
+        "CBD & molécules",
+        "Chanvre",
+        "Économie"
+      ],
+      "kind": "Article",
+      "image": "assets/live-09ad368a3a89d8e17a27.jpg",
+      "credit": "Marijuana Moment · image de l’article",
+      "imageSource": "https://www.marijuanamoment.net/wp-content/uploads/2026/11/marijuana-cannabis-hand-leaf-1-scaled.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "en",
+        "sourceHash": "38317abc23b5170af6e96e16db1eaf7610b8de6b2f0bf20a900ecaef41e9c827",
+        "sourceTitle": "Minnesota Will Allow Continued Hemp THC Product Sales Even If Federal Ban Takes Effect, Top Cannabis Official Says",
+        "sourceExcerpt": "“Every business is going to make a series of calculations about what risk they’re willing to tolerate.” By Matt DeLong, Minnesota Reformer With just three weeks until a strict new federal definition of hemp takes…",
+        "title": "Le Minnesota autorisera la vente continue de produits à base de chanvre THC, même si l’interdiction fédérale prend effet, selon un haut responsable du cannabis",
+        "excerpt": "« Chaque entreprise va faire une série de calculs sur le risque qu’elle est prête à tolérer. » […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "OPUS-MT · Helsinki-NLP",
+        "model": "Helsinki-NLP/opus-mt-tc-big-en-fr",
+        "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
+        "translatedAt": "2026-11-28T17:53:05.364220+00:00"
+      }
+    },
     {
       "id": "dadc88c1d5bec49f2b6a",
       "title": "Cannabis und Migräne: Der vermutete Zusammenhang hält der Korrektur nicht stand",
@@ -379,9 +450,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 6,
-    "eligible": 6,
+    "available": 8,
+    "eligible": 8,
     "status": "ok",
-    "updatedAt": "2026-11-28T13:09:25.577913+00:00"
+    "updatedAt": "2026-11-28T17:53:05.364220+00:00"
   }
 }
