@@ -1,75 +1,129 @@
 {
   "version": 3,
   "mode": "public-rss",
-  "attemptedAt": "2026-11-27T17:59:54.200351+00:00",
-  "lastSuccess": "2026-11-27T17:59:54.200351+00:00",
-  "status": "ok",
+  "attemptedAt": "2026-11-28T09:04:43.751337+00:00",
+  "lastSuccess": "2026-11-28T09:04:43.751337+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "Newsweed",
       "url": "https://www.newsweed.fr/feed/",
       "ok": true,
-      "count": 0,
-      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
+      "count": 6,
+      "checkedAt": "2026-11-28T09:04:43.751337+00:00"
     },
     {
       "name": "Le Cannabiste",
       "url": "https://lecannabiste.com/feed/",
-      "ok": true,
-      "count": 3,
-      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
+      "ok": false,
+      "count": 0,
+      "checkedAt": "2026-11-28T09:04:43.751337+00:00",
+      "error": "HTTP 415"
     },
     {
       "name": "Marijuana Moment",
       "url": "https://www.marijuanamoment.net/feed/",
       "ok": true,
-      "count": 7,
-      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
+      "count": 5,
+      "checkedAt": "2026-11-28T09:04:43.751337+00:00"
     },
     {
       "name": "Ganjapreneur",
       "url": "https://www.ganjapreneur.com/feed/",
       "ok": true,
       "count": 0,
-      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
+      "checkedAt": "2026-11-28T09:04:43.751337+00:00"
     },
     {
       "name": "Hanf Magazin",
       "url": "https://www.hanf-magazin.com/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
+      "checkedAt": "2026-11-28T09:04:43.751337+00:00"
     },
     {
       "name": "Business of Cannabis",
       "url": "https://businessofcannabis.com/feed/",
       "ok": true,
       "count": 2,
-      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
+      "checkedAt": "2026-11-28T09:04:43.751337+00:00"
     },
     {
       "name": "HempToday",
       "url": "https://hemptoday.net/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
+      "checkedAt": "2026-11-28T09:04:43.751337+00:00"
     },
     {
       "name": "Cannabis Health",
       "url": "https://cannabishealthnews.co.uk/feed/",
       "ok": true,
       "count": 1,
-      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
+      "checkedAt": "2026-11-28T09:04:43.751337+00:00"
     },
     {
       "name": "NORML",
       "url": "https://norml.org/feed/",
       "ok": true,
-      "count": 1,
-      "checkedAt": "2026-11-27T17:59:54.200351+00:00"
+      "count": 0,
+      "checkedAt": "2026-11-28T09:04:43.751337+00:00"
     }
   ],
   "items": [
+    {
+      "id": "dadc88c1d5bec49f2b6a",
+      "title": "Cannabis und Migräne: Der vermutete Zusammenhang hält der Korrektur nicht stand",
+      "url": "https://www.hanf-magazin.com/wissenschaft/studien/cannabis-migraene-mendelsche-randomisierung/",
+      "source": "Hanf Magazin",
+      "sourceFeed": "https://www.hanf-magazin.com/feed/",
+      "language": "de",
+      "region": "Europe",
+      "publishedAt": "2026-11-28T07:00:00+00:00",
+      "collectedAt": "2026-11-28T09:04:43.751337+00:00",
+      "excerpt": "Cannabisbasierte Medikamente werden bei Migräne diskutiert. Eine genetische Analyse hat nun die umgekehrte Frage gestellt: Erhöht eine Veranlagung zur Cannabiskonsumstörung das Migränerisiko? Die Antwort ist lehrreich…",
+      "topics": [
+        "Santé & recherche",
+        "Chanvre"
+      ],
+      "kind": "Article",
+      "image": "assets/live-1ec03d68da66e4ce9f26.jpg",
+      "credit": "Hanf Magazin · image de l’article",
+      "imageSource": "https://www.hanf-magazin.com/wp-content/uploads/2026/10/hm-nahaufnahme-eines-cannabisblattes-mit-si-featured-83406.jpg",
+      "translation": {
+        "targetLanguage": "fr",
+        "sourceLanguage": "de",
+        "sourceHash": "e47d5f248e7d291ae148722aa59c9e26ab96b7b804278a133082548c29405905",
+        "sourceTitle": "Cannabis und Migräne: Der vermutete Zusammenhang hält der Korrektur nicht stand",
+        "sourceExcerpt": "Cannabisbasierte Medikamente werden bei Migräne diskutiert. Eine genetische Analyse hat nun die umgekehrte Frage gestellt: Erhöht eine Veranlagung zur Cannabiskonsumstörung das Migränerisiko? Die Antwort ist lehrreich…",
+        "title": "Cannabis et migraine : le lien supposé ne tient pas debout après la correction",
+        "excerpt": "Des médicaments basés sur le cannabis sont discutés pour le traitement de la migraine. Une analyse génétique a désormais posé la question inverse : une prédisposition à la dépendance au cannabis augmente-t-elle le risque de migraine ? […]",
+        "excerptPolicy": "complete-sentences-v1",
+        "engine": "Qwen3 · traduction contextuelle locale",
+        "model": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+        "modelRevision": "a06e946bb6b655725eafa393f4a9745d460374c9",
+        "translatedAt": "2026-11-28T09:04:48.207216+00:00"
+      }
+    },
+    {
+      "id": "c2d0ab5102fbabcebfec",
+      "title": "Zalympix Winners Flight 2026 : les résultats officiels de la Cup",
+      "url": "https://www.newsweed.fr/zalympix-winners-flight-2026-resultats/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-27T16:30:34+00:00",
+      "collectedAt": "2026-11-28T09:04:43.751337+00:00",
+      "excerpt": "Decibel Gardens repart du Winner’s Flight 2026 de Zalympix avec cinq titres sur sept en fleur, dont Best Overall, Best Terps et Best Tasting pour sa Miyazaki Mango. Côté hash, c’est Surreal Yields qui domine : la maison…",
+      "topics": [
+        "Autres actualités"
+      ],
+      "kind": "Article",
+      "image": "assets/live-eca9d4c1a5e893dc38ad.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/zalympix-26-winners-flight.jpg"
+    },
     {
       "id": "774f148d8771980de021",
       "title": "Cannabis Health Symposium: London 2026 – Key Takeaways Part 2",
@@ -171,6 +225,25 @@
         "modelRevision": "6e062862ced6f5622a589ab2aadc2a1d4978db78",
         "translatedAt": "2026-11-27T17:59:56.544036+00:00"
       }
+    },
+    {
+      "id": "af0b847eb734432338bd",
+      "title": "États-Unis : la justice freine la DEA pour éviter une rupture de l’approvisionnement en cannabis médical",
+      "url": "https://www.newsweed.fr/etats-unis-justice-dea-rupture-cannabis-medical/",
+      "source": "Newsweed",
+      "sourceFeed": "https://www.newsweed.fr/feed/",
+      "language": "fr",
+      "region": "France",
+      "publishedAt": "2026-11-27T13:55:00+00:00",
+      "collectedAt": "2026-11-28T09:04:43.751337+00:00",
+      "excerpt": "La transition du cannabis médical vers un nouveau cadre réglementaire fédéral aux États-Unis se heurte à un premier obstacle judiciaire. Le 25 novembre, une cour d’appel fédérale a temporairement suspendu certaines…",
+      "topics": [
+        "Santé & recherche"
+      ],
+      "kind": "Article",
+      "image": "assets/live-ef1cf8b21113b0a07900.jpg",
+      "credit": "Newsweed · image de l’article",
+      "imageSource": "https://www.newsweed.fr/wp-content/uploads/2026/11/dea-justice-cannabis-medical.jpg"
     },
     {
       "id": "ca05e90095856b1daa80",
@@ -8731,9 +8804,9 @@
   "translationStatus": {
     "engine": "Traduction neuronale locale",
     "targetLanguage": "fr",
-    "available": 215,
-    "eligible": 215,
+    "available": 216,
+    "eligible": 216,
     "status": "ok",
-    "updatedAt": "2026-11-27T17:59:56.544036+00:00"
+    "updatedAt": "2026-11-28T09:04:48.207216+00:00"
   }
 }
