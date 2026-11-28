@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "status": "ok",
-  "checked_at": "2026-11-27T09:34:54Z",
-  "last_success": "2026-11-27T09:34:54Z",
+  "checked_at": "2026-11-28T09:12:28Z",
+  "last_success": "2026-11-28T09:12:28Z",
   "topics_checked": 4,
   "successful_topics": 4,
-  "new_items": 5,
+  "new_items": 1,
   "errors": [],
   "articles": [
     {
@@ -15,6 +15,14 @@
       "domain": "Il Sole 24 ORE",
       "published_at": "2026-11-27T08:47:51Z",
       "first_seen": "2026-11-27T09:34:54Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOTlXRDRSWDBOaWxoU0NiQ0Z4ZndIR3Y0UjRuWUREM2R1dGVZVHU5SEF3TnU4Y2ZFQXlJRy1JR1RaM2VQOTNHTGExTEdqQXpDUTN6N3Zfai16ZmlrMHpDbG9UWG1oeWZrcmNLNlp2aTFmZWtIc1JwOUZ3eDRaM3dMQjBPM19CV2FDX1RXZkVKTmZoZEgtemgwRzZ1Y0VRSlE4ZnFtXzk5N2dtcGxfNzlaN2dR?oc=5",
+      "title": "Vaporesso History: Growth, Challenges and How the Brand Evolved - Igeekphone.com",
+      "topic": "Fabricants & marques suivis",
+      "domain": "Igeekphone.com",
+      "published_at": "2026-11-27T03:05:51Z",
+      "first_seen": "2026-11-28T09:12:28Z"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSTlIUVNSTi1QcnY1UUhZbF9tNEhaQ2FldTZ3V1RlcFlVTEVWSUVUX2E4SjBtbmd5Q25xdkdaQjAyUmhSQ1JRZ0p0U2VxbEdXbmtBM0owWVFPaVBPb0tzRTkyRk9IWFRGcUdyeU1pV2EtODFOVFoxMkxmcktxRVJqVGgtV3Uydw?oc=5",
